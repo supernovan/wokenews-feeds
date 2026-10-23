@@ -1,5 +1,109 @@
 [
   {
+    "id": "nyt-7-wandowski-trump.html",
+    "title": "Corey Lewandowski Always Found His Way Back to Trump. Until Now.",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/corey-lewandowski-trump.html",
+    "pubDate": "2026-10-23T22:26:55.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "United States Politics an"
+  },
+  {
+    "id": "guardian-35-r-south-west-england",
+    "title": "Thousands of homes without power as Storm Austen hits south-west England",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
+    "pubDate": "2026-10-23T22:21:28.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Extreme weather"
+  },
+  {
+    "id": "expressen-0-06-8a70-557672340dba",
+    "title": "Klart med vapenvila",
+    "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=21a205a2-d033-4106-8a70-557672340dba",
+    "pubDate": "2026-10-23T22:12:37.000Z",
+    "sourceId": "expressen",
+    "sourceName": "Expressen",
+    "sourceShort": "EXPRESSEN",
+    "badgeColor": "#e30613",
+    "textColor": "#ffffff",
+    "country": "SE",
+    "category": "Nyheter"
+  },
+  {
+    "id": "guardian-40-swamy-latest-updates",
+    "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+    "pubDate": "2026-10-23T22:10:19.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "US midterm elections 2026"
+  },
+  {
+    "id": "guardian-22--us-grand-prix-texas",
+    "title": "F1 crown in reach for Kimi Antonelli at bumpy Austin circuit drivers insist is ‘unacceptable’",
+    "link": "https://www.theguardian.com/sport/2026/oct/23/formula-one-kimi-antonelli-mercedes-title-austin-us-grand-prix-texas",
+    "pubDate": "2026-10-23T22:07:59.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Formula One"
+  },
+  {
+    "id": "guardian-41-er-conviction-police",
+    "title": "Ohio man convicted of murder for running over officer after police killed his son",
+    "link": "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
+    "pubDate": "2026-10-23T22:07:38.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Ohio"
+  },
+  {
+    "id": "guardian-42-trump-tariffs-canada",
+    "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+    "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+    "pubDate": "2026-10-23T22:03:07.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "US politics"
+  },
+  {
+    "id": "dw-0-en-all-1573-xml-mrss",
+    "title": "France to deploy 70,000 police officers ahead of protests",
+    "link": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-xml-mrss",
+    "pubDate": "2026-10-23T22:01:00.000Z",
+    "sourceId": "dw",
+    "sourceName": "Deutsche Welle",
+    "sourceShort": "DW",
+    "badgeColor": "#002f6c",
+    "textColor": "#ffffff",
+    "country": "DE",
+    "category": "News"
+  },
+  {
     "id": "aftonbladet-0-r%3Futm_medium%3Drss",
     "title": "Skräckmamman hyllas av Trump – bråket växer",
     "link": "https://www.aftonbladet.se/nyheter/a/mKlLb4/skrackmamman-donna-arthur-hyllas-av-trump-braket-vaxer?utm_medium=rss",
@@ -12,7 +116,20 @@
     "country": "SE"
   },
   {
-    "id": "vox-0-rsecurity-what-to-do",
+    "id": "vox-0-ans-sullivan-peltola",
+    "title": "Can Trump block the Alaska Senate election?",
+    "link": "https://www.vox.com/the-logoff-newsletter-trump/507722/trump-alaska-senate-lawsuit-dans-sullivan-peltola",
+    "pubDate": "2026-10-23T21:53:20.000Z",
+    "sourceId": "vox",
+    "sourceName": "Vox",
+    "sourceShort": "VOX",
+    "badgeColor": "#fff200",
+    "textColor": "#121212",
+    "country": "INT",
+    "category": "Congress"
+  },
+  {
+    "id": "vox-1-rsecurity-what-to-do",
     "title": "How worried should I be about the AI hacking panic and “Black October”?",
     "link": "https://www.vox.com/today-explained-newsletter/507486/ai-hacking-php-cybersecurity-what-to-do",
     "pubDate": "2026-10-23T21:51:23.000Z",
@@ -23,6 +140,19 @@
     "textColor": "#121212",
     "country": "INT",
     "category": "Artificial Intelligence"
+  },
+  {
+    "id": "guardian-3-nancy-clayton-echard",
+    "title": "Woman who faked pregnancies, including with Bachelor star, sentenced to 30 days",
+    "link": "https://www.theguardian.com/us-news/2026/oct/23/laura-owens-sentenced-fake-pregnancy-clayton-echard",
+    "pubDate": "2026-10-23T21:47:34.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Arizona"
   },
   {
     "id": "guardian-20--shooting-near-paris",
@@ -62,6 +192,19 @@
     "country": "SE"
   },
   {
+    "id": "nyt-12-kaylub-giamanco.html",
+    "title": "‘I Have to Go In’: Kaylub Giamanco Describes Killing Gunman in Oregon School Shooting",
+    "link": "https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html",
+    "pubDate": "2026-10-23T21:33:59.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Silver Rail Elementary, B"
+  },
+  {
     "id": "dn-1--den-23-oktober-4%2F",
     "title": "Insändare. Noterat av DN:s läsare den 23 oktober",
     "link": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-23-oktober-4/",
@@ -74,7 +217,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-0--bunker-ornnastet%2F",
+    "id": "expressen-1--bunker-ornnastet%2F",
     "title": "Storbrand i Hitlers Örnnäste",
     "link": "https://www.expressen.se/nyheter/varlden/storbrand-i-hitlers--bunker-ornnastet/",
     "pubDate": "2026-10-23T21:29:57.000Z",
@@ -100,7 +243,7 @@
     "category": "Gangs"
   },
   {
-    "id": "guardian-22-heerleaders-unionize",
+    "id": "guardian-23-heerleaders-unionize",
     "title": "Dallas Cowboys cheerleaders unionize after years of fighting for fair pay",
     "link": "https://www.theguardian.com/sport/2026/oct/23/dallas-cowboys-cheerleaders-unionize",
     "pubDate": "2026-10-23T21:29:15.000Z",
@@ -125,7 +268,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-1-bb-9bb8-cf7dfcaadaea",
+    "id": "expressen-2-bb-9bb8-cf7dfcaadaea",
     "title": "Örnnästet i lågor",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0c6cff13-434f-44bb-9bb8-cf7dfcaadaea",
     "pubDate": "2026-10-23T21:15:32.000Z",
@@ -138,7 +281,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "nyt-16--sarah-longwell.html",
+    "id": "nyt-19--sarah-longwell.html",
     "title": "What Hundreds of Focus Groups With Trump Voters Revealed",
     "link": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
     "pubDate": "2026-10-23T21:13:11.000Z",
@@ -151,7 +294,7 @@
     "category": "Presidential Election of "
   },
   {
-    "id": "dw-0-en-all-1573-xml-mrss",
+    "id": "dw-1-en-all-1573-xml-mrss",
     "title": "Ebola: Kenya announces second death",
     "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T21:09:00.000Z",
@@ -177,7 +320,7 @@
     "category": "Midterm Elections (2026)"
   },
   {
-    "id": "nyt-7-ficials-charged.html",
+    "id": "nyt-8-ficials-charged.html",
     "title": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
     "pubDate": "2026-10-23T20:54:25.000Z",
@@ -190,7 +333,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "dw-1-en-all-1573-xml-mrss",
+    "id": "dw-2-en-all-1573-xml-mrss",
     "title": "Trump eases Canada tariffs ahead of US midterms",
     "link": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T20:49:00.000Z",
@@ -201,32 +344,6 @@
     "textColor": "#ffffff",
     "country": "DE",
     "category": "News"
-  },
-  {
-    "id": "guardian-40-swamy-latest-updates",
-    "title": "Trump repeats false claim that other Dan Sullivan on Alaska ballot is ‘cheating’ during Florida rally - live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-    "pubDate": "2026-10-23T20:46:02.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "US midterm elections 2026"
-  },
-  {
-    "id": "guardian-41-trump-tariffs-canada",
-    "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-    "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-    "pubDate": "2026-10-23T20:36:12.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "US politics"
   },
   {
     "id": "nyt-2--canada-tariffs.html",
@@ -255,8 +372,8 @@
     "category": "France"
   },
   {
-    "id": "guardian-42-ce-arrest-flock-wife",
-    "title": "Indiana police officer arrested for using Flock cameras to search wife",
+    "id": "guardian-43-ce-arrest-flock-wife",
+    "title": "Indiana police officer arrested for using Flock cameras to search wife’s details",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
     "pubDate": "2026-10-23T20:19:56.000Z",
     "sourceId": "guardian",
@@ -268,7 +385,7 @@
     "category": "Indiana"
   },
   {
-    "id": "guardian-23-ics-all-around-title",
+    "id": "guardian-24-ics-all-around-title",
     "title": "Skye Blakely caps remarkable injury comeback with world gymnastics all-around title",
     "link": "https://www.theguardian.com/sport/2026/oct/23/skye-blakely-caps-remarkable-injury-comeback-with-world-gymnastics-all-around-title",
     "pubDate": "2026-10-23T20:14:29.000Z",
@@ -281,7 +398,7 @@
     "category": "Gymnastics"
   },
   {
-    "id": "expressen-2-mordet-pa-saba-24%2F",
+    "id": "expressen-3-mordet-pa-saba-24%2F",
     "title": "Flicka anhållen efter mordet på Saba, 24",
     "link": "https://www.expressen.se/nyheter/sverige/flicka-anhallen-efter-mordet-pa-saba-24/",
     "pubDate": "2026-10-23T20:12:05.000Z",
@@ -294,7 +411,7 @@
     "category": "Sverige"
   },
   {
-    "id": "expressen-3--ettaring-av-misstag",
+    "id": "expressen-4--ettaring-av-misstag",
     "title": "Polisens reaktion – dödade ettåring",
     "link": "https://www.expressen.se/tv/nyheter/varlden/polisens-reaktion-dodade-ettaring-av-misstag",
     "pubDate": "2026-10-23T20:09:32.000Z",
@@ -332,7 +449,7 @@
     "category": "Oil (Petroleum) and Gasol"
   },
   {
-    "id": "expressen-4-04-8f25-68209fdc8aad",
+    "id": "expressen-5-04-8f25-68209fdc8aad",
     "title": "Bilkrock utanför Oxelösund – två drabbade",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=27f6de9d-dcfc-4604-8f25-68209fdc8aad",
     "pubDate": "2026-10-23T20:01:23.000Z",
@@ -357,7 +474,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-24-ests-steelers-saints",
+    "id": "guardian-25-ests-steelers-saints",
     "title": "Aaron Rodgers says NFL’s Paris game is safe despite PSG cancellation amid unrest",
     "link": "https://www.theguardian.com/sport/2026/oct/23/aaron-rodgers-nfl-paris-game-protests-steelers-saints",
     "pubDate": "2026-10-23T19:55:09.000Z",
@@ -383,7 +500,7 @@
     "category": "World news"
   },
   {
-    "id": "expressen-5-nas-nya-guldgruva%2F",
+    "id": "expressen-6-nas-nya-guldgruva%2F",
     "title": "”Ozempic face” – skönhetsjättarnas nya guldgruva",
     "link": "https://www.expressen.se/nyheter/varlden/ozempic-face-skonhetsjattarnas-nya-guldgruva/",
     "pubDate": "2026-10-23T19:49:43.000Z",
@@ -471,7 +588,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-8-ken-traffad-i-attack",
+    "id": "expressen-9-ken-traffad-i-attack",
     "title": "Viktig rysk fabrik träffad",
     "link": "https://www.expressen.se/tv/nyheter/varlden/viktiga-ryska-fabriken-traffad-i-attack",
     "pubDate": "2026-10-23T19:30:42.000Z",
@@ -547,7 +664,20 @@
     "category": "Royal Families"
   },
   {
-    "id": "dw-2-en-all-1573-xml-mrss",
+    "id": "nyt-9-nations-library.html",
+    "title": "Trump Advisers Give Fees Earned for Aiding Srpska to His Library",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html",
+    "pubDate": "2026-10-23T19:10:04.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "United States Politics an"
+  },
+  {
+    "id": "dw-3-en-all-1573-xml-mrss",
     "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
     "link": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T19:08:00.000Z",
@@ -596,7 +726,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-43-ng-php-vulnerability",
+    "id": "guardian-44-ng-php-vulnerability",
     "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
     "link": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
     "pubDate": "2026-10-23T18:48:48.000Z",
@@ -609,7 +739,7 @@
     "category": "Technology"
   },
   {
-    "id": "expressen-6-28-9892-e0246bdb8265",
+    "id": "expressen-7-28-9892-e0246bdb8265",
     "title": "Vaxholmsbåt i krock med tankerfartyg",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=50661a4f-9e94-4928-9892-e0246bdb8265",
     "pubDate": "2026-10-23T18:47:29.000Z",
@@ -635,7 +765,7 @@
     "category": "Artificial Intelligence"
   },
   {
-    "id": "guardian-44-2Fufo-pentagon-files",
+    "id": "guardian-10-2Fufo-pentagon-files",
     "title": "Mysterious ‘black triangles’ spotted over sensitive US site, new Pentagon UFO files reveal",
     "link": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
     "pubDate": "2026-10-23T18:45:43.000Z",
@@ -648,7 +778,7 @@
     "category": "UFOs"
   },
   {
-    "id": "expressen-7-ade-i-garagebrand%2F",
+    "id": "expressen-8-ade-i-garagebrand%2F",
     "title": "Flera ungdomar skadade i garagebrand",
     "link": "https://www.expressen.se/nyheter/sverige/flera-ungdomar-skadade-i-garagebrand/",
     "pubDate": "2026-10-23T18:44:02.000Z",
@@ -661,8 +791,8 @@
     "category": "Sverige"
   },
   {
-    "id": "guardian-3--board-epstein-links",
-    "title": "Epstein-linked billionaire Glenn Dubin stepped down from Mount Sinai board earlier this year",
+    "id": "guardian-5--board-epstein-links",
+    "title": "Why did an Epstein-linked billionaire step down from one of America’s most famous hospitals?",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/billionaire-glenn-dubin-mount-sinai-board-epstein-links",
     "pubDate": "2026-10-23T18:42:41.000Z",
     "sourceId": "guardian",
@@ -674,7 +804,7 @@
     "category": "Jeffrey Epstein"
   },
   {
-    "id": "dw-3-en-all-1573-xml-mrss",
+    "id": "dw-4-en-all-1573-xml-mrss",
     "title": "Jordan: Karak church shooting leaves 7 dead, dozens injured",
     "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T18:33:00.000Z",
@@ -751,7 +881,7 @@
     "category": "Technology"
   },
   {
-    "id": "vox-1-sonal-finance-advice",
+    "id": "vox-2-sonal-finance-advice",
     "title": "Should you let a chatbot manage your money?",
     "link": "https://www.vox.com/advice/507505/chatgpt-ai-personal-finance-advice",
     "pubDate": "2026-10-23T18:25:11.000Z",
@@ -788,7 +918,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-35-ster-hmos-police-say",
+    "id": "guardian-36-ster-hmos-police-say",
     "title": "Criminals recruiting children to damage Greater Manchester HMOs, police believe",
     "link": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
     "pubDate": "2026-10-23T18:19:43.000Z",
@@ -814,7 +944,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "dw-4-en-all-1573-xml-mrss",
+    "id": "dw-5-en-all-1573-xml-mrss",
     "title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
     "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T18:17:00.000Z",
@@ -851,7 +981,7 @@
     "country": "SE"
   },
   {
-    "id": "vox-5-g-ban-for-the-people",
+    "id": "vox-6-g-ban-for-the-people",
     "title": "How to ban gerrymandering when the Supreme Court is stacked against you",
     "link": "https://www.vox.com/politics/507376/supreme-court-gerrymandering-ban-for-the-people",
     "pubDate": "2026-10-23T18:05:53.000Z",
@@ -864,7 +994,7 @@
     "category": "Explainers"
   },
   {
-    "id": "expressen-9-9e-9dfb-565f7a205c2f",
+    "id": "expressen-10-9e-9dfb-565f7a205c2f",
     "title": "Garagebrand – flera till sjukhus",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=e714624e-715c-489e-9dfb-565f7a205c2f",
     "pubDate": "2026-10-23T18:05:52.000Z",
@@ -877,7 +1007,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "vox-2-dlife-ballot-measure",
+    "id": "vox-3-dlife-ballot-measure",
     "title": "Wild animals can’t vote. Here’s where they’re on the ballot anyway.",
     "link": "https://www.vox.com/climate/507355/midterms-2026-wildlife-ballot-measure",
     "pubDate": "2026-10-23T18:05:33.000Z",
@@ -938,7 +1068,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-11-18-807c-41c57109bde9",
+    "id": "expressen-12-18-807c-41c57109bde9",
     "title": "Älg och hästtransport i trafikolycka på E4",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2d9c8a00-fa89-4218-807c-41c57109bde9",
     "pubDate": "2026-10-23T17:39:32.000Z",
@@ -951,7 +1081,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "expressen-13--kushner-anklagelser",
+    "id": "expressen-14--kushner-anklagelser",
     "title": "Trump försvarar Kushner efter anklagelserna",
     "link": "https://www.expressen.se/tv/nyheter/varlden/trump-nekar-till-kushner-anklagelser",
     "pubDate": "2026-10-23T17:39:18.000Z",
@@ -987,7 +1117,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-10-e-hemma-i-sverige%2F",
+    "id": "expressen-11-e-hemma-i-sverige%2F",
     "title": "SD-utspel om Mohamed Ali",
     "link": "https://www.expressen.se/nyheter/politik/sd-om-v-ledamoten-ali-hor-inte-hemma-i-sverige/",
     "pubDate": "2026-10-23T17:36:11.000Z",
@@ -1037,7 +1167,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-15-y-ad-trump-ohio.html",
+    "id": "nyt-18-y-ad-trump-ohio.html",
     "title": "The Meaning of the Republican War Over Ramaswamy’s Vile Ad",
     "link": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
     "pubDate": "2026-10-23T17:24:53.000Z",
@@ -1127,7 +1257,7 @@
     "category": "United States Internation"
   },
   {
-    "id": "guardian-36-ment-vigilante-world",
+    "id": "guardian-37-ment-vigilante-world",
     "title": "Tommy Robinson ‘threatened people and acted like a bully’, jury told",
     "link": "https://www.theguardian.com/uk-news/2026/oct/23/tommy-robinson-trial-harassment-vigilante-world",
     "pubDate": "2026-10-23T17:14:59.000Z",
@@ -1179,7 +1309,7 @@
     "category": "Netanyahu, Benjamin"
   },
   {
-    "id": "nyt-17--identification.html",
+    "id": "nyt-20--identification.html",
     "title": "Are Fewer Teens Identifying as Gay or Bisexual? It’s Complicated.",
     "link": "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html",
     "pubDate": "2026-10-23T17:09:05.000Z",
@@ -1205,7 +1335,7 @@
     "category": "Paris"
   },
   {
-    "id": "guardian-37-om-online-safety-act",
+    "id": "guardian-38-om-online-safety-act",
     "title": "UK children just as likely to have suffered harm on social media despite crackdown",
     "link": "https://www.theguardian.com/society/2026/oct/23/uk-children-just-as-likely-to-have-suffered-harm-on-social-media-despite-crackdown-ofcom-online-safety-act",
     "pubDate": "2026-10-23T17:06:04.000Z",
@@ -1242,7 +1372,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-4-rump-changes-subject",
+    "id": "guardian-6-rump-changes-subject",
     "title": "As midterms loom, Trump and his allies try to change the subject",
     "link": "https://www.theguardian.com/us-news/2026/oct/22/midterm-elections-trump-changes-subject",
     "pubDate": "2026-10-23T17:00:09.000Z",
@@ -1368,7 +1498,7 @@
     "category": "Midterm Elections (2026)"
   },
   {
-    "id": "guardian-38-t-undeclared-5m-gift",
+    "id": "guardian-39-t-undeclared-5m-gift",
     "title": "Reform UK braces for Farage standards verdict over undeclared £5m gift",
     "link": "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
     "pubDate": "2026-10-23T16:45:14.000Z",
@@ -1393,7 +1523,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-13--chimps-friends.html",
+    "id": "nyt-16--chimps-friends.html",
     "title": "Chimps Steal Less Often From Their Friends, Even When Offered Pineapple",
     "link": "https://www.nytimes.com/2026/10/23/science/stealing-chimps-friends.html",
     "pubDate": "2026-10-23T16:44:21.000Z",
@@ -1431,7 +1561,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-5--kohen-wiley-resigns",
+    "id": "guardian-7--kohen-wiley-resigns",
     "title": "Officer who shot and killed Black toddler in Mississippi resigns from police force",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns",
     "pubDate": "2026-10-23T16:39:34.000Z",
@@ -1495,20 +1625,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-39-r-south-west-england",
-    "title": "Thousands of homes without power as Storm Austen hits south-west England",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
-    "pubDate": "2026-10-23T16:30:39.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Extreme weather"
-  },
-  {
-    "id": "expressen-12--sakrat-vapenvila%2F",
+    "id": "expressen-13--sakrat-vapenvila%2F",
     "title": "Vita huset: Melania har säkrat vapenvila",
     "link": "https://www.expressen.se/nyheter/sverige/vita-huset-melania-har-sakrat-vapenvila/",
     "pubDate": "2026-10-23T16:30:00.000Z",
@@ -1533,7 +1650,7 @@
     "country": "SE"
   },
   {
-    "id": "vox-3-ell-frats-greek-life",
+    "id": "vox-4-ell-frats-greek-life",
     "title": "We’ve spent decades fighting campus sexual assault. Why haven’t colleges figured it out?",
     "link": "https://www.vox.com/life/507369/colleges-sexual-assault-jane-doe-cornell-frats-greek-life",
     "pubDate": "2026-10-23T16:26:44.000Z",
@@ -1572,7 +1689,7 @@
     "category": "Heritage"
   },
   {
-    "id": "expressen-14-presidentkandidat%2F",
+    "id": "expressen-15-presidentkandidat%2F",
     "title": "Hollywoodstjärnan lyfts fram som presidentkandidat",
     "link": "https://www.expressen.se/nyheter/varlden/hollywoodstjarnan-lyfts-fram-som-presidentkandidat/",
     "pubDate": "2026-10-23T16:16:32.000Z",
@@ -1585,7 +1702,7 @@
     "category": "Världen"
   },
   {
-    "id": "nyt-8-blet-smartphone.html",
+    "id": "nyt-10-blet-smartphone.html",
     "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
     "link": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
     "pubDate": "2026-10-23T16:14:56.000Z",
@@ -1598,7 +1715,7 @@
     "category": "iPhone"
   },
   {
-    "id": "nyt-11-n-moth-research.html",
+    "id": "nyt-14-n-moth-research.html",
     "title": "Why Has This Teenager Tracked Down 11,377 Moths Since April?",
     "link": "https://www.nytimes.com/2026/10/23/style/violet-clinton-teen-moth-research.html",
     "pubDate": "2026-10-23T16:13:07.000Z",
@@ -1649,7 +1766,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-6--hunter-biden-laptop",
+    "id": "guardian-8--hunter-biden-laptop",
     "title": "Two ex-FBI officials charged with lying about investigation into Hunter Biden’s laptop",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop",
     "pubDate": "2026-10-23T16:00:21.000Z",
@@ -1799,7 +1916,7 @@
     "category": "France"
   },
   {
-    "id": "expressen-15-ten-i-bagarmossen%2F",
+    "id": "expressen-16-ten-i-bagarmossen%2F",
     "title": "Man död efter skjutning i Bagarmossen",
     "link": "https://www.expressen.se/nyheter/sverige/en-skjuten-i-bagarmossen/",
     "pubDate": "2026-10-23T15:32:56.000Z",
@@ -1923,7 +2040,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-16-dd-8f8d-576673374f21",
+    "id": "expressen-17-dd-8f8d-576673374f21",
     "title": "Skjutning i södra Stockholm",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ef65e113-06c9-40dd-8f8d-576673374f21",
     "pubDate": "2026-10-23T15:02:58.000Z",
@@ -1948,7 +2065,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-17--hardare-kontroll%2F",
+    "id": "expressen-18--hardare-kontroll%2F",
     "title": "Kritiken i V: Krävs en hårdare kontroll",
     "link": "https://www.expressen.se/nyheter/sverige/kritiken-i-v-kravs--en-hardare-kontroll/",
     "pubDate": "2026-10-23T14:59:38.000Z",
@@ -1986,7 +2103,7 @@
     "category": "News"
   },
   {
-    "id": "dw-5-en-all-1573-xml-mrss",
+    "id": "dw-6-en-all-1573-xml-mrss",
     "title": "Afghan women could lose one of their last paths to a higher education",
     "link": "https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T14:54:00.000Z",
@@ -2024,7 +2141,7 @@
     "category": "Prince William"
   },
   {
-    "id": "expressen-18-er-daniel-suhonen%2F",
+    "id": "expressen-19-er-daniel-suhonen%2F",
     "title": "Gustav Gellerbrants sambo stämmer Daniel Suhonen",
     "link": "https://www.expressen.se/nyheter/varlden/gustav-gellerbrants-sambo-stammer-daniel-suhonen/",
     "pubDate": "2026-10-23T14:51:51.000Z",
@@ -2173,7 +2290,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-6-en-all-1573-xml-mrss",
+    "id": "dw-7-en-all-1573-xml-mrss",
     "title": "Romania blames Russia for ship attack in the Black Sea",
     "link": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T14:25:00.000Z",
@@ -2224,7 +2341,7 @@
     "category": "Artificial Intelligence"
   },
   {
-    "id": "dw-7-en-all-1573-xml-mrss",
+    "id": "dw-8-en-all-1573-xml-mrss",
     "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
     "link": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T14:23:00.000Z",
@@ -2237,7 +2354,7 @@
     "category": "World"
   },
   {
-    "id": "expressen-9-8a-9d35-0c31c37f5089",
+    "id": "expressen-10-8a-9d35-0c31c37f5089",
     "title": "Melania Trump har säkrat lokal vapenvila",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=39315e3d-9cfc-488a-9d35-0c31c37f5089",
     "pubDate": "2026-10-23T14:22:11.000Z",
@@ -2311,7 +2428,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-8-mliga-miljarderna%2F",
+    "id": "expressen-9-mliga-miljarderna%2F",
     "title": "Kushner hackad – spioner avslöjade hemliga miljarderna",
     "link": "https://www.expressen.se/nyheter/varlden/kushner-hackad-spioner-avslojade-hemliga-miljarderna/",
     "pubDate": "2026-10-23T14:13:34.000Z",
@@ -2324,7 +2441,7 @@
     "category": "Världen"
   },
   {
-    "id": "dw-8-en-all-1573-xml-mrss",
+    "id": "dw-9-en-all-1573-xml-mrss",
     "title": "Many feared trapped under collapsed building in Nairobi",
     "link": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T14:09:00.000Z",
@@ -2723,7 +2840,7 @@
     "category": "Photography"
   },
   {
-    "id": "nyt-10-inging-governor.html",
+    "id": "nyt-13-inging-governor.html",
     "title": "How the Decline of Western NY Defined Kathy Hochul’s Politics",
     "link": "https://www.nytimes.com/2026/10/23/nyregion/kathy-hochul-western-new-york-upbringing-governor.html",
     "pubDate": "2026-10-23T12:57:42.000Z",
@@ -2762,7 +2879,7 @@
     "category": "Defense Department"
   },
   {
-    "id": "expressen-10-under-kravallerna%2F",
+    "id": "expressen-11-under-kravallerna%2F",
     "title": "Märkliga detaljen under kravallerna",
     "link": "https://www.expressen.se/tv/nyheter/varlden/markliga-detaljen-mitt-under-kravallerna/",
     "pubDate": "2026-10-23T12:55:13.000Z",
@@ -2824,7 +2941,7 @@
     "country": "INT"
   },
   {
-    "id": "expressen-11-for-alla-under-15%2F",
+    "id": "expressen-12-for-alla-under-15%2F",
     "title": "Grekland förbjuder sociala medier för alla under 15",
     "link": "https://www.expressen.se/nyheter/varlden/landet-forbjuder-sociala-medier-for-alla-under-15/",
     "pubDate": "2026-10-23T12:43:47.000Z",
@@ -2861,7 +2978,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-9-en-all-1573-xml-mrss",
+    "id": "dw-10-en-all-1573-xml-mrss",
     "title": "Japan-Russia ties erode as journalist sits in Moscow jail",
     "link": "https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T12:42:00.000Z",
@@ -3008,7 +3125,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-14-ankt-terrorattack%2F",
+    "id": "expressen-15-ankt-terrorattack%2F",
     "title": "Skjutning utanför Paris – misstänkt terrorattack",
     "link": "https://www.expressen.se/nyheter/varlden/skjutning-utanfor-paris-misstankt-terrorattack/",
     "pubDate": "2026-10-23T12:21:55.000Z",
@@ -3144,7 +3261,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-10-en-all-1573-xml-mrss",
+    "id": "dw-11-en-all-1573-xml-mrss",
     "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
     "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T12:11:00.000Z",
@@ -3269,7 +3386,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-11-en-all-1573-xml-mrss",
+    "id": "dw-12-en-all-1573-xml-mrss",
     "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
     "link": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T11:43:00.000Z",
@@ -3369,7 +3486,7 @@
     "category": "internal-storyline-no"
   },
   {
-    "id": "expressen-12-ar-hojer-hotnivan%2F",
+    "id": "expressen-13-ar-hojer-hotnivan%2F",
     "title": "Efter drönarlarmen – tysk militär höjer hotnivån",
     "link": "https://www.expressen.se/nyheter/varlden/efter-dronarlarmen-tysk-militar-hojer-hotnivan/",
     "pubDate": "2026-10-23T11:30:31.000Z",
@@ -3408,7 +3525,7 @@
     "category": "Ekonomi"
   },
   {
-    "id": "expressen-13-ilmen-fortsatt-sa%2F",
+    "id": "expressen-14-ilmen-fortsatt-sa%2F",
     "title": "Trump om kritiserade reklamfilmen: ”Fortsätt så”",
     "link": "https://www.expressen.se/nyheter/varlden/trump-om-kritiserade-reklamfilmen-fortsatt-sa/",
     "pubDate": "2026-10-23T11:28:16.000Z",
@@ -3470,7 +3587,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-12-en-all-1573-xml-mrss",
+    "id": "dw-13-en-all-1573-xml-mrss",
     "title": "France: 1 killed, 4 wounded after shooting near Paris",
     "link": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T11:22:00.000Z",
@@ -3582,7 +3699,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-15-ad-9337-298035fd70cb",
+    "id": "expressen-16-ad-9337-298035fd70cb",
     "title": "Misstänkt terrorattack utanför Paris",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a58daf07-80f9-43ad-9337-298035fd70cb",
     "pubDate": "2026-10-23T11:07:42.000Z",
@@ -3846,19 +3963,6 @@
     "category": "Retail industry"
   },
   {
-    "id": "guardian-24--us-grand-prix-texas",
-    "title": "F1 crown in reach for Kimi Antonelli at bumpy Austin circuit drivers insist is ‘unacceptable’",
-    "link": "https://www.theguardian.com/sport/2026/oct/23/formula-one-kimi-antonelli-mercedes-title-austin-us-grand-prix-texas",
-    "pubDate": "2026-10-23T10:34:55.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Formula One"
-  },
-  {
     "id": "guardian-24--british-pubs-wegovy",
     "title": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs",
     "link": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
@@ -3872,7 +3976,7 @@
     "category": "Hospitality industry"
   },
   {
-    "id": "expressen-18-har-missat-flyget%2F",
+    "id": "expressen-19-har-missat-flyget%2F",
     "title": "Kaos på Kastrup flygplats – hundratals har missat flyget",
     "link": "https://www.expressen.se/nyheter/varlden/kaos-pa-kastrup-flygplats-hundratals-har-missat-flyget/",
     "pubDate": "2026-10-23T10:32:31.000Z",
@@ -3936,7 +4040,7 @@
     "category": "Midterm Elections (2026)"
   },
   {
-    "id": "vox-4-mens-health-outcomes",
+    "id": "vox-5-mens-health-outcomes",
     "title": "Why are doctors paid less for procedures on women?",
     "link": "https://www.vox.com/the-highlight/504071/medical-billing-womens-health-outcomes",
     "pubDate": "2026-10-23T10:22:28.000Z",
@@ -4045,7 +4149,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-16-ar-om-plastkorkar%2F",
+    "id": "expressen-17-ar-om-plastkorkar%2F",
     "title": "Ebba Buschs platskorksattack: Byråkrati",
     "link": "https://www.expressen.se/tv/politik/buschs-eu-kanga-brakar-om-plastkorkar/",
     "pubDate": "2026-10-23T10:02:40.000Z",
@@ -4270,7 +4374,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-13-en-all-1573-xml-mrss",
+    "id": "dw-14-en-all-1573-xml-mrss",
     "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
     "link": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T09:29:00.000Z",
@@ -4403,7 +4507,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-14-en-all-1573-xml-mrss",
+    "id": "dw-15-en-all-1573-xml-mrss",
     "title": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
     "link": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T09:04:00.000Z",
@@ -4565,7 +4669,7 @@
     "country": "INT"
   },
   {
-    "id": "expressen-17-yr-fran-rovdjuren%2F",
+    "id": "expressen-18-yr-fran-rovdjuren%2F",
     "title": "Mystiska beteendet – flyr från rovdjuren",
     "link": "https://www.expressen.se/tv/nyheter/varlden/mystiska-beteendet-flyr-fran-rovdjuren/",
     "pubDate": "2026-10-23T08:59:57.000Z",
@@ -4589,7 +4693,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-15-en-all-1573-xml-mrss",
+    "id": "dw-16-en-all-1573-xml-mrss",
     "title": "Germany news: Wadephul says 'threat of famine' due to ongoing wars",
     "link": "https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T08:48:00.000Z",
@@ -4699,7 +4803,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-16-en-all-1573-xml-mrss",
+    "id": "dw-17-en-all-1573-xml-mrss",
     "title": "Israel orders home demolitions after soldiers killed in West Bank",
     "link": "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T08:25:00.000Z",
@@ -4861,7 +4965,7 @@
     "category": "Tibet"
   },
   {
-    "id": "dw-17-en-all-1573-xml-mrss",
+    "id": "dw-18-en-all-1573-xml-mrss",
     "title": "South Korea proposes military talks with North again",
     "link": "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T07:50:00.000Z",
@@ -4985,7 +5089,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-18-en-all-1573-xml-mrss",
+    "id": "dw-19-en-all-1573-xml-mrss",
     "title": "Germany sit out FIFA Under-15 World Cup as Russia return",
     "link": "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T07:17:00.000Z",
@@ -6571,7 +6675,7 @@
     "category": "Climate crisis"
   },
   {
-    "id": "vox-6-2026-midterms-israel",
+    "id": "vox-7-2026-midterms-israel",
     "title": "Would a Democratic Congress change course on Israel?",
     "link": "https://www.vox.com/today-explained-newsletter/507393/2026-midterms-israel",
     "pubDate": "2026-10-22T21:33:47.000Z",
@@ -6687,7 +6791,7 @@
     "category": "Världen"
   },
   {
-    "id": "vox-7--denaturalize-deport",
+    "id": "vox-8--denaturalize-deport",
     "title": "Can Trump deport Ilhan Omar?",
     "link": "https://www.vox.com/podcasts/507328/ilhan-omar-trump-immigration-investigation-denaturalize-deport",
     "pubDate": "2026-10-22T20:59:08.000Z",
@@ -6865,7 +6969,7 @@
     "category": "Sverige"
   },
   {
-    "id": "vox-8-se-senate-healthcare",
+    "id": "vox-9-se-senate-healthcare",
     "title": "The 2026 election could reshape healthcare",
     "link": "https://www.vox.com/good-medicine-newsletter/507342/2026-midterm-elections-house-senate-healthcare",
     "pubDate": "2026-10-22T19:52:34.000Z",
@@ -12381,104 +12485,6 @@
     "title": "A Wealth Tax on Billionaires? California Voters to Decide Prop 40",
     "link": "http://www.democracynow.org/2026/10/20/california_billionaire_tax",
     "pubDate": "2026-10-20T12:47:29.000Z",
-    "sourceId": "democracynow",
-    "sourceName": "Democracy Now!",
-    "sourceShort": "DEMOCRACY NOW",
-    "badgeColor": "#005f73",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
-    "id": "svt-90-or-drap-i-skelleftea",
-    "title": "Man i 40-årsåldern häktas misstänkt för dråp i Skellefteå",
-    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-i-40-arsaldern-haktas-misstankt-for-drap-i-skelleftea",
-    "pubDate": "2026-10-20T12:39:26.000Z",
-    "sourceId": "svt",
-    "sourceName": "SVT Nyheter",
-    "sourceShort": "SVT",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "dw-38-en-all-1573-xml-mrss",
-    "title": "Wagner brothers begin new NBA chapter on different paths",
-    "link": "https://www.dw.com/en/wagner-brothers-begin-new-nba-chapter-on-different-paths/a-79712668?maca=en-rss-en-all-1573-xml-mrss",
-    "pubDate": "2026-10-20T12:31:00.000Z",
-    "sourceId": "dw",
-    "sourceName": "Deutsche Welle",
-    "sourceShort": "DW",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "DE",
-    "category": "Sports"
-  },
-  {
-    "id": "svt-91-laget-inget-positivt",
-    "title": "Länsidrottschefen kritiserar akademilaget: ”Inget positivt”",
-    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/lansidrottschefen-kritiserar-akademilaget-inget-positivt",
-    "pubDate": "2026-10-20T12:24:45.000Z",
-    "sourceId": "svt",
-    "sourceName": "SVT Nyheter",
-    "sourceShort": "SVT",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "svt-92-ar-for-barn-och-unga",
-    "title": "Chatt: Elitsatsningar för barn och unga – vad tycker du?",
-    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/chatt-vad-tycker-du-om-elitsatsningar-for-barn-och-unga",
-    "pubDate": "2026-10-20T12:24:41.000Z",
-    "sourceId": "svt",
-    "sourceName": "SVT Nyheter",
-    "sourceShort": "SVT",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "democracynow-12-0%2F20%2Fnavi_pillay",
-    "title": "Nobel Peace Laureate Navi Pillay on ICC, Gaza, Rape as War Crime, Her South African Roots & Mandela",
-    "link": "http://www.democracynow.org/2026/10/20/navi_pillay",
-    "pubDate": "2026-10-20T12:17:38.000Z",
-    "sourceId": "democracynow",
-    "sourceName": "Democracy Now!",
-    "sourceShort": "DEMOCRACY NOW",
-    "badgeColor": "#005f73",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
-    "id": "svt-93-ilkrasch-i-jonkoping",
-    "title": "Ung man döms efter våldsam bilkrasch i Jönköping",
-    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ung-man-doms-efter-valdsam-bilkrasch-i-jonkoping",
-    "pubDate": "2026-10-20T12:12:44.000Z",
-    "sourceId": "svt",
-    "sourceName": "SVT Nyheter",
-    "sourceShort": "SVT",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "guardian-9-ainforest-peru-study",
-    "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
-    "link": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
-    "pubDate": "2026-10-20T12:00:36.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Amazon rainforest"
-  },
-  {
-    "id": "democracynow-13-F10%2F20%2Fheadlines",
-    "title": "Headlines for October 20, 2026",
-    "link": "http://www.democracynow.org/2026/10/20/headlines",
-    "pubDate": "2026-10-20T12:00:00.000Z",
     "sourceId": "democracynow",
     "sourceName": "Democracy Now!",
     "sourceShort": "DEMOCRACY NOW",

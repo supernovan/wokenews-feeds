@@ -1,6 +1,82 @@
 [
   {
-    "id": "aftonbladet-0-d%3Futm_medium%3Drss",
+    "id": "atlantic-0-%3Futm_source%3Dfeed",
+    "title": "How Should Democrats Talk About Identity in Hiring?",
+    "link": "https://www.theatlantic.com/newsletters/2026/10/democrats-race-dei-hiring-edward-markey/689131/?utm_source=feed",
+    "pubDate": "2026-10-23T17:12:00.000Z",
+    "sourceId": "atlantic",
+    "sourceName": "The Atlantic",
+    "sourceShort": "ATLANTIC",
+    "badgeColor": "#2b2d42",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Newsletters"
+  },
+  {
+    "id": "nyt-2-police-protests.html",
+    "title": "France Plans to Bolster Police Presence, Expecting New Protests",
+    "link": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
+    "pubDate": "2026-10-23T17:09:51.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Demonstrations, Protests "
+  },
+  {
+    "id": "guardian-35-om-online-safety-act",
+    "title": "UK children just as likely to have suffered harm on social media despite crackdown",
+    "link": "https://www.theguardian.com/society/2026/oct/23/uk-children-just-as-likely-to-have-suffered-harm-on-social-media-despite-crackdown-ofcom-online-safety-act",
+    "pubDate": "2026-10-23T17:06:04.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Children"
+  },
+  {
+    "id": "aftonbladet-0-r%3Futm_medium%3Drss",
+    "title": "Ukraina: Över 19 000 civila dödsoffer",
+    "link": "https://www.aftonbladet.se/nyheter/a/77z66B/ukraina-over-19000-civila-dodsoffer?utm_medium=rss",
+    "pubDate": "2026-10-23T17:04:21.000Z",
+    "sourceId": "aftonbladet",
+    "sourceName": "Aftonbladet",
+    "sourceShort": "AFTONBLADET",
+    "badgeColor": "#ffe500",
+    "textColor": "#121212",
+    "country": "SE"
+  },
+  {
+    "id": "dn-0-ch-miljardbluffen%2F",
+    "title": "Elizabeth Holmes – drömmen, idén och miljardbluffen",
+    "link": "https://www.dn.se/varlden/elizabeth-holmes-drommen-iden-och-miljardbluffen/",
+    "pubDate": "2026-10-23T17:02:30.000Z",
+    "sourceId": "dn",
+    "sourceName": "Dagens Nyheter",
+    "sourceShort": "DN",
+    "badgeColor": "#0a3875",
+    "textColor": "#ffffff",
+    "country": "SE"
+  },
+  {
+    "id": "guardian-40-rump-changes-subject",
+    "title": "As midterms loom, Trump and his allies try to change the subject",
+    "link": "https://www.theguardian.com/us-news/2026/oct/22/midterm-elections-trump-changes-subject",
+    "pubDate": "2026-10-23T17:00:09.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "US midterm elections 2026"
+  },
+  {
+    "id": "aftonbladet-1-d%3Futm_medium%3Drss",
     "title": "Ny operationsmetod kortar vårdköer – kvinnor slipper sövas",
     "link": "https://www.aftonbladet.se/nyheter/a/X91Lj7/skane-gynekologiska-vardkoer-kapas-med-ny-operationsmetod?utm_medium=rss",
     "pubDate": "2026-10-23T17:00:00.000Z",
@@ -12,7 +88,7 @@
     "country": "SE"
   },
   {
-    "id": "atlantic-0-%3Futm_source%3Dfeed",
+    "id": "atlantic-1-%3Futm_source%3Dfeed",
     "title": "The Armageddon Economy",
     "link": "https://www.theatlantic.com/podcasts/2026/10/zealousness-new-tech-right/689124/?utm_source=feed",
     "pubDate": "2026-10-23T17:00:00.000Z",
@@ -41,7 +117,7 @@
     "id": "guardian-20--latest-news-updates",
     "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-    "pubDate": "2026-10-23T16:54:58.000Z",
+    "pubDate": "2026-10-23T16:56:16.000Z",
     "sourceId": "guardian",
     "sourceName": "The Guardian",
     "sourceShort": "GUARDIAN",
@@ -51,7 +127,7 @@
     "category": "World news"
   },
   {
-    "id": "guardian-40-swamy-latest-updates",
+    "id": "guardian-41-swamy-latest-updates",
     "title": "Trump’s justice department sues to block Senate race certification in Alaska if Republican loses – live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
     "pubDate": "2026-10-23T16:54:07.000Z",
@@ -64,7 +140,7 @@
     "category": "US midterm elections 2026"
   },
   {
-    "id": "guardian-35-ment-vigilante-world",
+    "id": "guardian-36-ment-vigilante-world",
     "title": "Tommy Robinson guilty of harassment because this is not a vigilante world, jury told",
     "link": "https://www.theguardian.com/uk-news/2026/oct/23/tommy-robinson-trial-harassment-vigilante-world",
     "pubDate": "2026-10-23T16:51:55.000Z",
@@ -90,7 +166,7 @@
     "category": "Oil"
   },
   {
-    "id": "aftonbladet-1-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-2-r%3Futm_medium%3Drss",
     "title": "Knäckesjukan slår mot tallar i norr",
     "link": "https://www.aftonbladet.se/nyheter/a/b8PG83/knackesjukan-slar-mot-tallar-i-norr?utm_medium=rss",
     "pubDate": "2026-10-23T16:48:18.000Z",
@@ -102,7 +178,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-2-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-3-a%3Futm_medium%3Drss",
     "title": "Vera, 13, hittade kryphål – beställer Nocco från Apotea",
     "link": "https://www.aftonbladet.se/nyheter/a/Kr20RX/vera-13-hittade-kryphal-bestaller-nocco-fran-apotea?utm_medium=rss",
     "pubDate": "2026-10-23T16:47:31.000Z",
@@ -112,6 +188,19 @@
     "badgeColor": "#ffe500",
     "textColor": "#121212",
     "country": "SE"
+  },
+  {
+    "id": "guardian-22-nipeg-jets-trade-nhl",
+    "title": "New Jersey Devils land Olympic hero Connor Hellebuyck in blockbuster trade with Winnipeg",
+    "link": "https://www.theguardian.com/sport/2026/oct/23/connor-hellebuyck-new-jersey-devils-winnipeg-jets-trade-nhl",
+    "pubDate": "2026-10-23T16:47:15.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "New Jersey Devils"
   },
   {
     "id": "nyt-14-tinians-harvest.html",
@@ -140,7 +229,7 @@
     "category": "Midterm Elections (2026)"
   },
   {
-    "id": "guardian-36-t-undeclared-5m-gift",
+    "id": "guardian-37-t-undeclared-5m-gift",
     "title": "Reform braces for Farage standards verdict over undeclared £5m gift",
     "link": "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
     "pubDate": "2026-10-23T16:45:14.000Z",
@@ -153,7 +242,7 @@
     "category": "Reform UK"
   },
   {
-    "id": "dn-0-med-nytt-ljudkrig%2F",
+    "id": "dn-1-med-nytt-ljudkrig%2F",
     "title": "Spänt läge vid gränsen – Nordkorea hotar med nytt ljudkrig",
     "link": "https://www.dn.se/varlden/spant-lage-vid-gransen-nordkorea-hotar-med-nytt-ljudkrig/",
     "pubDate": "2026-10-23T16:44:46.000Z",
@@ -165,7 +254,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-15--chimps-friends.html",
+    "id": "nyt-16--chimps-friends.html",
     "title": "Chimps Steal Less Often From Their Friends, Even When Offered Pineapple",
     "link": "https://www.nytimes.com/2026/10/23/science/stealing-chimps-friends.html",
     "pubDate": "2026-10-23T16:44:20.000Z",
@@ -178,7 +267,20 @@
     "category": "your-feed-science"
   },
   {
-    "id": "aftonbladet-3-g%3Futm_medium%3Drss",
+    "id": "nyt-0-mocratic-agenda.html",
+    "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/democratic-agenda.html",
+    "pubDate": "2026-10-23T16:43:54.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Midterm Elections (2026)"
+  },
+  {
+    "id": "aftonbladet-4-g%3Futm_medium%3Drss",
     "title": "Tina, 59, mitt i kaoset efter skjutningen: ”Känner mig skakig”",
     "link": "https://www.aftonbladet.se/nyheter/a/64JzJ3/tina-59-mitt-i-kaoset-efter-skjutningen-kanner-mig-skakig?utm_medium=rss",
     "pubDate": "2026-10-23T16:41:28.000Z",
@@ -203,7 +305,7 @@
     "category": "Netanyahu, Benjamin"
   },
   {
-    "id": "guardian-41--kohen-wiley-resigns",
+    "id": "guardian-42--kohen-wiley-resigns",
     "title": "Officer who shot and killed Black toddler in Mississippi resigns from police force",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns",
     "pubDate": "2026-10-23T16:39:34.000Z",
@@ -229,7 +331,7 @@
     "category": "Winter (Season)"
   },
   {
-    "id": "nyt-11-e-melania-trump.html",
+    "id": "nyt-12-e-melania-trump.html",
     "title": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
     "pubDate": "2026-10-23T16:37:40.000Z",
@@ -268,7 +370,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "dn-1-i-sodra-stockholm%2F",
+    "id": "dn-2-i-sodra-stockholm%2F",
     "title": "En skjuten vid bil i södra Stockholm",
     "link": "https://www.dn.se/sverige/en-skjuten-vid-bil-i-sodra-stockholm/",
     "pubDate": "2026-10-23T16:31:20.000Z",
@@ -280,7 +382,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-37-r-south-west-england",
+    "id": "guardian-38-r-south-west-england",
     "title": "Thousands of homes without power as Storm Austen hits south-west England",
     "link": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
     "pubDate": "2026-10-23T16:30:39.000Z",
@@ -306,7 +408,7 @@
     "category": "Sverige"
   },
   {
-    "id": "aftonbladet-4-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-5-a%3Futm_medium%3Drss",
     "title": "Melania Trump: Har fått till stånd lokal vapenvila",
     "link": "https://www.aftonbladet.se/nyheter/a/rM7W8R/melania-trump-har-fatt-till-stand-lokal-vapenvila?utm_medium=rss",
     "pubDate": "2026-10-23T16:28:13.000Z",
@@ -356,7 +458,7 @@
     "category": "Donald Trump"
   },
   {
-    "id": "guardian-38-ngland-archaeologist",
+    "id": "guardian-39-ngland-archaeologist",
     "title": "Which is really England’s oldest pub? Tree-ring dating helps settle debate",
     "link": "https://www.theguardian.com/culture/2026/oct/23/oldest-pubs-inns-historic-england-archaeologist",
     "pubDate": "2026-10-23T16:17:00.000Z",
@@ -382,7 +484,7 @@
     "category": "Världen"
   },
   {
-    "id": "nyt-9-blet-smartphone.html",
+    "id": "nyt-10-blet-smartphone.html",
     "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
     "link": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
     "pubDate": "2026-10-23T16:14:55.000Z",
@@ -395,7 +497,7 @@
     "category": "iPhone"
   },
   {
-    "id": "nyt-8-prices-iran-war.html",
+    "id": "nyt-9-prices-iran-war.html",
     "title": "Global Oil Price Hits $117 a Barrel, Highest Since April",
     "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
     "pubDate": "2026-10-23T16:14:44.000Z",
@@ -408,7 +510,7 @@
     "category": "Oil (Petroleum) and Gasol"
   },
   {
-    "id": "nyt-13-n-moth-research.html",
+    "id": "nyt-14-n-moth-research.html",
     "title": "Why Has This Teenager Tracked Down 11,377 Moths Since April?",
     "link": "https://www.nytimes.com/2026/10/23/style/violet-clinton-teen-moth-research.html",
     "pubDate": "2026-10-23T16:13:07.000Z",
@@ -434,7 +536,7 @@
     "category": "Ukraine"
   },
   {
-    "id": "nyt-0-icans-midterms-.html",
+    "id": "nyt-1-icans-midterms-.html",
     "title": "Big Names Flock to Ruby-Red Florida to Sway Voters in Unexpectedly Close Contests",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/florida-republicans-midterms-.html",
     "pubDate": "2026-10-23T16:09:51.000Z",
@@ -459,7 +561,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-42--hunter-biden-laptop",
+    "id": "guardian-43--hunter-biden-laptop",
     "title": "Two ex-FBI officials charged with lying about investigation into Hunter Biden’s laptop",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop",
     "pubDate": "2026-10-23T16:00:21.000Z",
@@ -484,7 +586,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-7-japan-chip-deal.html",
+    "id": "nyt-8-japan-chip-deal.html",
     "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
     "link": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
     "pubDate": "2026-10-23T15:59:45.000Z",
@@ -548,7 +650,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-5-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-6-t%3Futm_medium%3Drss",
     "title": "Skriv en spöknovell – och tävla med Aftonbladet",
     "link": "https://www.aftonbladet.se/nyheter/a/R50w2A/skriv-en-spoknovell-och-tavla-med-aftonbladet?utm_medium=rss",
     "pubDate": "2026-10-23T15:52:53.000Z",
@@ -572,7 +674,7 @@
     "country": "INT"
   },
   {
-    "id": "aftonbladet-6-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-7-a%3Futm_medium%3Drss",
     "title": "Trumps regering till domstol om valet i Alaska",
     "link": "https://www.aftonbladet.se/nyheter/a/zlKL1K/trumps-regering-till-domstol-om-valet-i-alaska?utm_medium=rss",
     "pubDate": "2026-10-23T15:42:11.000Z",
@@ -597,7 +699,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "dn-2-gar-i-uppfyllelse%2F",
+    "id": "dn-3-gar-i-uppfyllelse%2F",
     "title": "Fines dunkla jazzdrömmar går i uppfyllelse",
     "link": "https://www.dn.se/kultur/fines-dunkla-jazzdrommar-gar-i-uppfyllelse/",
     "pubDate": "2026-10-23T15:39:18.000Z",
@@ -687,7 +789,7 @@
     "category": "Freedom of Speech and Exp"
   },
   {
-    "id": "dn-3--se-over-planerna%2F",
+    "id": "dn-4--se-over-planerna%2F",
     "title": "Försvarsmakten sparar: ”Måste se över planerna”",
     "link": "https://www.dn.se/sverige/forsvarsmakten-sparar-maste-se-over-planerna/",
     "pubDate": "2026-10-23T15:17:43.000Z",
@@ -712,7 +814,7 @@
     "category": "Meghan, the Duchess of Su"
   },
   {
-    "id": "dn-4-s-gynna-bolsonaro%2F",
+    "id": "dn-5-s-gynna-bolsonaro%2F",
     "title": "Brasiliens valdomstol ingriper mot techjättar – misstänks gynna Bolsonaro",
     "link": "https://www.dn.se/varlden/brasiliens-valdomstol-ingriper-mot-techjattar-misstanks-gynna-bolsonaro/",
     "pubDate": "2026-10-23T15:11:06.000Z",
@@ -724,7 +826,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-5-d-publiken-gillar%2F",
+    "id": "dn-6-d-publiken-gillar%2F",
     "title": "Insändare. Svar: Inloggning behövs för att förstå vad publiken gillar",
     "link": "https://www.dn.se/insandare/svar-inloggning-behovs-for-att-forsta-vad-publiken-gillar/",
     "pubDate": "2026-10-23T15:10:49.000Z",
@@ -736,7 +838,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-20-laims-questions.html",
+    "id": "nyt-21-laims-questions.html",
     "title": "Share Your Experiences With Medicaid Claims for Repayment",
     "link": "https://www.nytimes.com/2026/10/23/us/medicaid-repayment-claims-questions.html",
     "pubDate": "2026-10-23T15:08:21.000Z",
@@ -749,7 +851,7 @@
     "category": "internal-open-access"
   },
   {
-    "id": "dn-6-xtra-styrelsemote%2F",
+    "id": "dn-7-xtra-styrelsemote%2F",
     "title": "Efter avhoppen och kritiken – Svenska kraftnät kallar till extra styrelsemöte",
     "link": "https://www.dn.se/sverige/efter-avhoppen-och-kritiken-svenska-kraftnat-kallar-till-extra-styrelsemote/",
     "pubDate": "2026-10-23T15:08:06.000Z",
@@ -761,7 +863,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-7-m%3Futm_medium%3Drss",
+    "id": "aftonbladet-8-m%3Futm_medium%3Drss",
     "title": "En person skjuten i södra Stockholm",
     "link": "https://www.aftonbladet.se/nyheter/a/zl2RBv/en-skjuten-i-sodra-stockholm?utm_medium=rss",
     "pubDate": "2026-10-23T15:04:26.000Z",
@@ -823,7 +925,7 @@
     "category": "Sverige"
   },
   {
-    "id": "nyt-5-inancial-crisis.html",
+    "id": "nyt-6-inancial-crisis.html",
     "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
     "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
     "pubDate": "2026-10-23T14:58:35.000Z",
@@ -836,7 +938,7 @@
     "category": "Subprime Mortgage Crisis"
   },
   {
-    "id": "aftonbladet-8-g%3Futm_medium%3Drss",
+    "id": "aftonbladet-9-g%3Futm_medium%3Drss",
     "title": "En person skjuten i södra Stockholm",
     "link": "https://www.aftonbladet.se/nyheter/a/yl2emA/uppgifter-larm-om-skjutning?utm_medium=rss",
     "pubDate": "2026-10-23T14:55:10.000Z",
@@ -874,7 +976,7 @@
     "category": "World"
   },
   {
-    "id": "dn-7-n-inte-instrueras%2F",
+    "id": "dn-8-n-inte-instrueras%2F",
     "title": "Sara Hector: ”Vissa grejer kan inte instrueras”",
     "link": "https://www.dn.se/sport/sara-hector-vissa-grejer-kan-inte-instrueras/",
     "pubDate": "2026-10-23T14:53:13.000Z",
@@ -912,7 +1014,7 @@
     "category": "Världen"
   },
   {
-    "id": "guardian-43-w-hampshire-midterms",
+    "id": "guardian-44-w-hampshire-midterms",
     "title": "US supreme court sides with Republicans on rejecting student IDs in New Hampshire midterms",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms",
     "pubDate": "2026-10-23T14:51:46.000Z",
@@ -964,7 +1066,7 @@
     "category": "Royal Families"
   },
   {
-    "id": "aftonbladet-9-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-10-t%3Futm_medium%3Drss",
     "title": "Kushner pekas ut i miljardhärva – slår tillbaka: ”Helt vansinnigt”",
     "link": "https://www.aftonbladet.se/nyheter/a/R50XWr/kushner-pekas-ut-i-miljardharva-slar-tillbaka-helt-vansinnigt?utm_medium=rss",
     "pubDate": "2026-10-23T14:40:13.000Z",
@@ -976,7 +1078,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-8-ningslost-begrepp%2F",
+    "id": "dn-9-ningslost-begrepp%2F",
     "title": "Roland Paulsen: Nej, jag tycker inte att intelligens är ett meningslöst begrepp",
     "link": "https://www.dn.se/kultur/roland-paulsen-nej-jag-tycker-inte-att-intelligens-ar-ett-meningslost-begrepp/",
     "pubDate": "2026-10-23T14:37:03.000Z",
@@ -988,7 +1090,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-10-s%3Futm_medium%3Drss",
+    "id": "aftonbladet-11-s%3Futm_medium%3Drss",
     "title": "Arla återkallar pudding – kan innehålla glas",
     "link": "https://www.aftonbladet.se/nyheter/a/OgdLz3/arla-aterkallar-pudding-kan-innehalla-glas?utm_medium=rss",
     "pubDate": "2026-10-23T14:34:47.000Z",
@@ -1088,7 +1190,7 @@
     "category": "News"
   },
   {
-    "id": "nyt-6-dterm-elections.html",
+    "id": "nyt-7-dterm-elections.html",
     "title": "Republicans Cut Taxes to Win the Midterms. It May Not Work Out.",
     "link": "https://www.nytimes.com/2026/10/23/business/salt-cap-midterm-elections.html",
     "pubDate": "2026-10-23T14:24:54.000Z",
@@ -1101,7 +1203,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "aftonbladet-11-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-12-n%3Futm_medium%3Drss",
     "title": "Meghan Markle: ”Skakad” över anklagelser mot pappan",
     "link": "https://www.aftonbladet.se/nyheter/a/aO95R2/meghan-markle-skakad-over-anklagelser-mot-pappan?utm_medium=rss",
     "pubDate": "2026-10-23T14:24:28.000Z",
@@ -1152,7 +1254,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "dn-9-polisutbildningen%2F",
+    "id": "dn-10-polisutbildningen%2F",
     "title": "Professor: Gängen blir smartare – ställer nya krav på polisutbildningen",
     "link": "https://www.dn.se/sverige/professor-gangen-blir-smartare-staller-nya-krav-pa-polisutbildningen/",
     "pubDate": "2026-10-23T14:20:57.000Z",
@@ -1190,20 +1292,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "nyt-2-police-protests.html",
-    "title": "France Plans to Bolster Police Presence, Expecting New Protests",
-    "link": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
-    "pubDate": "2026-10-23T14:18:29.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Demonstrations, Protests "
-  },
-  {
-    "id": "dn-10-t-verk-till-qatar%2F",
+    "id": "dn-11-t-verk-till-qatar%2F",
     "title": "Moderna museet lånar ut verk till Qatar",
     "link": "https://www.dn.se/kultur/moderna-museet-lanar-ut-verk-till-qatar/",
     "pubDate": "2026-10-23T14:16:26.000Z",
@@ -1216,7 +1305,7 @@
   },
   {
     "id": "npr-1-germs-virus-outbreak",
-    "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+    "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
     "pubDate": "2026-10-23T14:16:10.000Z",
     "sourceId": "npr",
@@ -1265,7 +1354,7 @@
     "category": "News"
   },
   {
-    "id": "dn-11--latar-vecka-43-4%2F",
+    "id": "dn-12--latar-vecka-43-4%2F",
     "title": "DN väljer: Veckans bästa låtar, vecka 43",
     "link": "https://www.dn.se/kultur/dn-valjer-veckans-basta-latar-vecka-43-4/",
     "pubDate": "2026-10-23T14:08:19.000Z",
@@ -1277,7 +1366,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-4-ervative-radio-trump",
+    "id": "guardian-5-ervative-radio-trump",
     "title": "Being pro-Trump has been ‘easy radio’ for conservative hosts like Jesse Kelly. Those days are ending.",
     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/23/jesse-kelly-conservative-radio-trump",
     "pubDate": "2026-10-23T14:00:29.000Z",
@@ -1303,7 +1392,7 @@
     "category": "Debatt"
   },
   {
-    "id": "atlantic-1-%3Futm_source%3Dfeed",
+    "id": "atlantic-2-%3Futm_source%3Dfeed",
     "title": "An Anti-Marriage Marriage Movie",
     "link": "https://www.theatlantic.com/culture/2026/10/wicker-movie-marriage-olivia-colman/689122/?utm_source=feed",
     "pubDate": "2026-10-23T13:59:48.000Z",
@@ -1316,7 +1405,7 @@
     "category": "Culture"
   },
   {
-    "id": "nyt-21-rs-city-council.html",
+    "id": "nyt-22-rs-city-council.html",
     "title": "Drivers Are Livid After Vote to Ban NYC’s Horse Carriages",
     "link": "https://www.nytimes.com/2026/10/23/nyregion/horse-carriage-vote-drivers-city-council.html",
     "pubDate": "2026-10-23T13:57:30.000Z",
@@ -1342,7 +1431,7 @@
     "category": "Ebola"
   },
   {
-    "id": "dn-12--pa-partybat-doms%2F",
+    "id": "dn-13--pa-partybat-doms%2F",
     "title": "Rasande pappa kastade färg på partybåt – döms",
     "link": "https://www.dn.se/sverige/rasande-pappa-kastade-farg-pa-partybat-doms/",
     "pubDate": "2026-10-23T13:51:15.000Z",
@@ -1367,7 +1456,7 @@
     "category": "Water industry"
   },
   {
-    "id": "dn-13-nte-haft-tidigare%2F",
+    "id": "dn-14-nte-haft-tidigare%2F",
     "title": "Vargar på tre platser i Stockholms län: ”Inte haft tidigare”",
     "link": "https://www.dn.se/sverige/vargar-pa-tre-platser-i-stockholms-lan-inte-haft-tidigare/",
     "pubDate": "2026-10-23T13:50:32.000Z",
@@ -1379,7 +1468,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-12-o%3Futm_medium%3Drss",
+    "id": "aftonbladet-13-o%3Futm_medium%3Drss",
     "title": "Åklagaren bekräftar: Flicka anhållen efter mordet i Älvsjö",
     "link": "https://www.aftonbladet.se/nyheter/a/yl2ajK/aklagaren-bekraftar-flicka-anhallen-efter-mordet-i-alvsjo?utm_medium=rss",
     "pubDate": "2026-10-23T13:46:38.000Z",
@@ -1416,7 +1505,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-13-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-14-n%3Futm_medium%3Drss",
     "title": "Källor: Kushner fick miljarder till hemliga konton",
     "link": "https://www.aftonbladet.se/nyheter/a/jv2Rze/kallor-kushner-fick-miljarder-till-hemliga-konton?utm_medium=rss",
     "pubDate": "2026-10-23T13:34:51.000Z",
@@ -1441,7 +1530,7 @@
     "category": "Gangs"
   },
   {
-    "id": "aftonbladet-14-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-15-r%3Futm_medium%3Drss",
     "title": "Melania Trump har säkrat eldupphör",
     "link": "https://www.aftonbladet.se/nyheter/a/310yLM/melania-trump-har-sakrat-eldupphor?utm_medium=rss",
     "pubDate": "2026-10-23T13:31:20.000Z",
@@ -1489,7 +1578,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-18-igence-midterms.html",
+    "id": "nyt-19-igence-midterms.html",
     "title": "There Are Solutions to This Crazy Economy. Voters Will Hate Them.",
     "link": "https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html",
     "pubDate": "2026-10-23T13:17:49.000Z",
@@ -1502,7 +1591,7 @@
     "category": "audio-neutral-informative"
   },
   {
-    "id": "dn-14-extremt-daligt-nu%2F",
+    "id": "dn-15-extremt-daligt-nu%2F",
     "title": "Tennisklubben larmade om anläggningsproblem – sedan brann en bana upp: ”Extremt dåligt nu”",
     "link": "https://www.dn.se/sport/tennisklubben-larmade-om-anlaggningsproblem-sedan-brann-en-bana-upp-extremt-daligt-nu/",
     "pubDate": "2026-10-23T13:12:32.000Z",
@@ -1565,7 +1654,7 @@
     "category": "Russian Invasion of Ukrai"
   },
   {
-    "id": "dn-15-tt-svenska-vatten%2F",
+    "id": "dn-16-tt-svenska-vatten%2F",
     "title": "Varning för ny invasiv sjöpung – har nått svenska vatten",
     "link": "https://www.dn.se/sverige/varning-for-ny-invasiv-sjopung-har-natt-svenska-vatten/",
     "pubDate": "2026-10-23T13:05:46.000Z",
@@ -1577,7 +1666,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-16-iter-pa-sodermalm%2F",
+    "id": "dn-17-iter-pa-sodermalm%2F",
     "title": "Tre favoriter på Södermalm",
     "link": "https://www.dn.se/mat-dryck/tre-favoriter-pa-sodermalm/",
     "pubDate": "2026-10-23T13:05:28.000Z",
@@ -1615,7 +1704,7 @@
     "category": "United States Internation"
   },
   {
-    "id": "aftonbladet-15-e%3Futm_medium%3Drss",
+    "id": "aftonbladet-16-e%3Futm_medium%3Drss",
     "title": "Efterlyst överlämnad från arabemiraten till Sverige",
     "link": "https://www.aftonbladet.se/nyheter/a/9k12b5/efterlyst-overlamnad-fran-arabemiraten-till-sverige?utm_medium=rss",
     "pubDate": "2026-10-23T13:00:12.000Z",
@@ -1652,7 +1741,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-17-rluster-och-norge%2F",
+    "id": "dn-18-rluster-och-norge%2F",
     "title": "Boklistan vecka 43: Kommissarier, konspirationer i bokbranschen, förluster och Norge",
     "link": "https://www.dn.se/kultur/boklistan-vecka-43-kommissarier-konspirationer-i-bokbranschen-forluster-och-norge/",
     "pubDate": "2026-10-23T13:00:00.000Z",
@@ -1664,7 +1753,7 @@
     "country": "SE"
   },
   {
-    "id": "atlantic-2-%3Futm_source%3Dfeed",
+    "id": "atlantic-3-%3Futm_source%3Dfeed",
     "title": "Photos of the Week: Foam Fight, Santa Dance, Orangutan Escape",
     "link": "https://www.theatlantic.com/photography/2026/10/photos-of-the-week-foam-fight-santa-dance-orangutan-escape/689117/?utm_source=feed",
     "pubDate": "2026-10-23T13:00:00.000Z",
@@ -1677,7 +1766,7 @@
     "category": "Photography"
   },
   {
-    "id": "nyt-12-inging-governor.html",
+    "id": "nyt-13-inging-governor.html",
     "title": "How the Decline of Western NY Defined Kathy Hochul’s Politics",
     "link": "https://www.nytimes.com/2026/10/23/nyregion/kathy-hochul-western-new-york-upbringing-governor.html",
     "pubDate": "2026-10-23T12:57:42.000Z",
@@ -1703,7 +1792,7 @@
     "category": "Andy Burnham"
   },
   {
-    "id": "nyt-4-y-boards-retain.html",
+    "id": "nyt-5-y-boards-retain.html",
     "title": "Hegseth Barred Trans Troops. Military Boards Are Rejecting Those Orders.",
     "link": "https://www.nytimes.com/2026/10/23/us/trans-troops-military-boards-retain.html",
     "pubDate": "2026-10-23T12:55:22.000Z",
@@ -1791,7 +1880,7 @@
     "category": "Världen"
   },
   {
-    "id": "dn-18-or-ingen-besviken%2F",
+    "id": "dn-19-or-ingen-besviken%2F",
     "title": "Farang: Det sydostasiatiska succékonceptet gör ingen besviken",
     "link": "https://www.dn.se/kultur/farang-det-sydostasiatiska-succekonceptet-gor-ingen-besviken/",
     "pubDate": "2026-10-23T12:43:16.000Z",
@@ -1803,7 +1892,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-16-2%3Futm_medium%3Drss",
+    "id": "aftonbladet-17-2%3Futm_medium%3Drss",
     "title": "Förrädarna vs Spelet",
     "link": "https://www.aftonbladet.se/podcasts/episode/409272?utm_medium=rss",
     "pubDate": "2026-10-23T12:42:05.000Z",
@@ -1877,7 +1966,7 @@
     "category": "Private and Sectarian Sch"
   },
   {
-    "id": "dn-19-artiets-basta-van%2F",
+    "id": "dn-20-artiets-basta-van%2F",
     "title": "Är Mohamed Ali Centerpartiets bästa vän?",
     "link": "https://www.dn.se/podd/alskade-politik/ar-mohamed-ali-centerpartiets-basta-van/",
     "pubDate": "2026-10-23T12:30:31.000Z",
@@ -1889,7 +1978,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-20-m-londonfavoriter%2F",
+    "id": "dn-21-m-londonfavoriter%2F",
     "title": "”Här är stämningen tolerant, urban och obekymrad” – DN-korren listar fem Londonfavoriter",
     "link": "https://www.dn.se/varlden/har-ar-stamningen-tolerant-urban-och-obekymrad-dn-korren-listar-fem-londonfavoriter/",
     "pubDate": "2026-10-23T12:30:29.000Z",
@@ -1914,7 +2003,7 @@
     "category": "Labour"
   },
   {
-    "id": "aftonbladet-17-k%3Futm_medium%3Drss",
+    "id": "aftonbladet-18-k%3Futm_medium%3Drss",
     "title": "Ställ dina frågor om Aftonbladets journalistik",
     "link": "https://www.aftonbladet.se/nyheter/a/PgJwGz/stall-dina-fragor-om-aftonbladets-journalistik?utm_medium=rss",
     "pubDate": "2026-10-23T12:24:56.000Z",
@@ -1926,7 +2015,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-18-s%3Futm_medium%3Drss",
+    "id": "aftonbladet-19-s%3Futm_medium%3Drss",
     "title": "Skånetrafiken backar – cykelförbudet stoppas efter proteststorm",
     "link": "https://www.aftonbladet.se/nyheter/a/ElePwP/skanetrafiken-backar-cykelforbudet-pa-tagen-stoppas?utm_medium=rss",
     "pubDate": "2026-10-23T12:22:54.000Z",
@@ -1938,7 +2027,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-19-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-20-a%3Futm_medium%3Drss",
     "title": "Sju döda och många skadade i skjutning i kyrka",
     "link": "https://www.aftonbladet.se/nyheter/a/MAGynJ/minst-sju-doda-i-skjutning-i-kyrka?utm_medium=rss",
     "pubDate": "2026-10-23T12:22:37.000Z",
@@ -1950,7 +2039,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-21-som-leds-av-busch%2F",
+    "id": "dn-22-som-leds-av-busch%2F",
     "title": "Insändare. Ge oss en smal mittenregering som leds av Busch",
     "link": "https://www.dn.se/insandare/ge-oss-en-smal-mittenregering-som-leds-av-busch/",
     "pubDate": "2026-10-23T12:22:17.000Z",
@@ -1988,7 +2077,7 @@
     "category": "Politik"
   },
   {
-    "id": "aftonbladet-20-z%3Futm_medium%3Drss",
+    "id": "aftonbladet-21-z%3Futm_medium%3Drss",
     "title": "Ebolasmittad i Nigeria kommer från Schweiz",
     "link": "https://www.aftonbladet.se/nyheter/a/77v859/ebolasmittad-i-nigeria-kommer-fran-schweiz?utm_medium=rss",
     "pubDate": "2026-10-23T12:20:11.000Z",
@@ -2025,7 +2114,7 @@
     "category": "Houthis"
   },
   {
-    "id": "guardian-5-big-bend-border-wall",
+    "id": "guardian-6-big-bend-border-wall",
     "title": "Trump’s top border official defends Big Bend border wall plan despite mounting opposition",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/trump-border-official-big-bend-border-wall",
     "pubDate": "2026-10-23T12:18:25.000Z",
@@ -2074,7 +2163,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-22-r-tyvarr-en-plaga%2F",
+    "id": "dn-23-r-tyvarr-en-plaga%2F",
     "title": "Insändare. Ljudet från Stevie Wonder var tyvärr en plåga",
     "link": "https://www.dn.se/insandare/ljudet-fran-stevie-wonder-var-tyvarr-en-plaga/",
     "pubDate": "2026-10-23T12:13:51.000Z",
@@ -2086,7 +2175,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-23--traffat-guds-son%2F",
+    "id": "dn-24--traffat-guds-son%2F",
     "title": "En underlig judisk sekt bland många som drev runt i öknen och påstod sig ha träffat Guds son",
     "link": "https://www.dn.se/kultur/en-underlig-judisk-sekt-bland-manga-som-drev-runt-i-oknen-och-pastod-sig-ha-traffat-guds-son/",
     "pubDate": "2026-10-23T12:12:13.000Z",
@@ -2124,7 +2213,7 @@
     "category": "bostadsbrist"
   },
   {
-    "id": "dn-24--utnyttjas-for-ai%2F",
+    "id": "dn-25--utnyttjas-for-ai%2F",
     "title": "Tidningsutgivare rasar mot Metas nya avtal – oro för att utnyttjas för AI",
     "link": "https://www.dn.se/kultur/tidningsutgivare-rasar-mot-metas-nya-avtal-oro-for-att-utnyttjas-for-ai/",
     "pubDate": "2026-10-23T12:07:40.000Z",
@@ -2199,7 +2288,7 @@
     "category": "Finland"
   },
   {
-    "id": "aftonbladet-21-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-22-t%3Futm_medium%3Drss",
     "title": "Vänsterprofilens nätkrig kan avgöra USA-valet",
     "link": "https://www.aftonbladet.se/nyheter/a/Og2P0E/hasan-piker-kan-avgora-mellanarsvalet?utm_medium=rss",
     "pubDate": "2026-10-23T11:50:58.000Z",
@@ -2211,7 +2300,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-22-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-23-a%3Futm_medium%3Drss",
     "title": "En enda faktor förklarar USA:s svek",
     "link": "https://www.aftonbladet.se/nyheter/a/w3p0dd/niclas-vent-en-enda-faktor-forklarar-usa-s-svek-mot-ukraina?utm_medium=rss",
     "pubDate": "2026-10-23T11:43:30.000Z",
@@ -2236,7 +2325,7 @@
     "category": "World"
   },
   {
-    "id": "aftonbladet-23-d%3Futm_medium%3Drss",
+    "id": "aftonbladet-24-d%3Futm_medium%3Drss",
     "title": "Polisinsats mot misstänkt miljöbrott i Vaggeryd",
     "link": "https://www.aftonbladet.se/nyheter/a/Aby1Lz/polisinsats-mot-misstankt-miljobrott-i-vaggeryd?utm_medium=rss",
     "pubDate": "2026-10-23T11:41:25.000Z",
@@ -2248,7 +2337,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-24-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-25-r%3Futm_medium%3Drss",
     "title": "Frankrike sätter in 70 000 inför nya protester",
     "link": "https://www.aftonbladet.se/nyheter/a/MAGe1B/frankrike-satter-in-70000-infor-nya-protester?utm_medium=rss",
     "pubDate": "2026-10-23T11:40:37.000Z",
@@ -2260,7 +2349,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-25-ks-vara-terrordad%2F",
+    "id": "dn-26-ks-vara-terrordad%2F",
     "title": "Skjutning utanför Paris misstänks vara terrordåd",
     "link": "https://www.dn.se/varlden/skjutning-utanfor-paris-misstanks-vara-terrordad/",
     "pubDate": "2026-10-23T11:39:39.000Z",
@@ -2285,7 +2374,7 @@
     "category": "Politics and Government"
   },
   {
-    "id": "dn-26-tra-problematiskt%2F",
+    "id": "dn-27-tra-problematiskt%2F",
     "title": "SMHI stormvarnar: ”Extra problematiskt”",
     "link": "https://www.dn.se/sverige/smhi-stormvarnar-extra-problematiskt/",
     "pubDate": "2026-10-23T11:35:37.000Z",
@@ -2310,7 +2399,7 @@
     "category": "Vader"
   },
   {
-    "id": "nyt-19-e-being-watched.html",
+    "id": "nyt-20-e-being-watched.html",
     "title": "You Are Being Watched",
     "link": "https://www.nytimes.com/2026/10/23/briefing/you-are-being-watched.html",
     "pubDate": "2026-10-23T11:33:38.000Z",
@@ -2336,7 +2425,7 @@
     "category": "Världen"
   },
   {
-    "id": "guardian-6-Fy2k-used-cars-gen-z",
+    "id": "guardian-7-Fy2k-used-cars-gen-z",
     "title": "The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
     "pubDate": "2026-10-23T11:30:24.000Z",
@@ -2375,7 +2464,7 @@
     "category": "Världen"
   },
   {
-    "id": "aftonbladet-25-s%3Futm_medium%3Drss",
+    "id": "aftonbladet-26-s%3Futm_medium%3Drss",
     "title": "Receptbelagd nässprej återkallas",
     "link": "https://www.aftonbladet.se/nyheter/a/w32z55/receptbelagd-nassprej-aterkallas?utm_medium=rss",
     "pubDate": "2026-10-23T11:27:35.000Z",
@@ -2387,7 +2476,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-7-onalds-florida-trump",
+    "id": "guardian-8-onalds-florida-trump",
     "title": "The Maga governor candidate in the Maga state who is not talking about Trump",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/byron-donalds-florida-trump",
     "pubDate": "2026-10-23T11:22:38.000Z",
@@ -2412,7 +2501,7 @@
     "country": "INT"
   },
   {
-    "id": "dn-27-tionell-flygplats%2F",
+    "id": "dn-28-tionell-flygplats%2F",
     "title": "Ebolapatienten i Nigeria kan ha smittats på internationell flygplats",
     "link": "https://www.dn.se/varlden/ebolapatienten-i-nigeria-kan-ha-smittats-pa-internationell-flygplats/",
     "pubDate": "2026-10-23T11:22:13.000Z",
@@ -2524,7 +2613,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-28-rade-stridshundar%2F",
+    "id": "dn-29-rade-stridshundar%2F",
     "title": "Företag ska avla fram genmodifierade stridshundar",
     "link": "https://www.dn.se/varlden/foretag-ska-avla-fram-genmodifierade-stridshundar/",
     "pubDate": "2026-10-23T11:07:52.000Z",
@@ -2562,7 +2651,7 @@
     "category": "US politics"
   },
   {
-    "id": "aftonbladet-26-g%3Futm_medium%3Drss",
+    "id": "aftonbladet-27-g%3Futm_medium%3Drss",
     "title": "Ali (V) kontrollerades genom ”en enkel googling”",
     "link": "https://www.aftonbladet.se/nyheter/a/58KKob/ali-v-kontrollerades-genom-en-enkel-googling?utm_medium=rss",
     "pubDate": "2026-10-23T11:06:35.000Z",
@@ -2587,7 +2676,7 @@
     "category": "Krim"
   },
   {
-    "id": "dn-29--fram-kristersson%2F",
+    "id": "dn-30--fram-kristersson%2F",
     "title": "Ebba Busch: S bör överväga att släppa fram Kristersson",
     "link": "https://www.dn.se/sverige/ebba-busch-s-bor-overvaga-att-slappa-fram-kristersson/",
     "pubDate": "2026-10-23T11:02:03.000Z",
@@ -2649,7 +2738,7 @@
     "country": "INT"
   },
   {
-    "id": "atlantic-3-%3Futm_source%3Dfeed",
+    "id": "atlantic-4-%3Futm_source%3Dfeed",
     "title": "Why Trump Can’t Sell Putin a Deal",
     "link": "https://www.theatlantic.com/international/2026/10/trump-putin-ukraine-nato/689118/?utm_source=feed",
     "pubDate": "2026-10-23T11:00:00.000Z",
@@ -2662,7 +2751,7 @@
     "category": "International"
   },
   {
-    "id": "atlantic-4-%3Futm_source%3Dfeed",
+    "id": "atlantic-5-%3Futm_source%3Dfeed",
     "title": "The Party That Must Not Be Named",
     "link": "https://www.theatlantic.com/politics/2026/10/sherrod-brown-ohio-senate-midterms/689094/?utm_source=feed",
     "pubDate": "2026-10-23T11:00:00.000Z",
@@ -2675,7 +2764,7 @@
     "category": "Politics"
   },
   {
-    "id": "atlantic-5-%3Futm_source%3Dfeed",
+    "id": "atlantic-6-%3Futm_source%3Dfeed",
     "title": "The Man in the Middle of Trump’s Deeply Conflicted Ukraine Policy",
     "link": "https://www.theatlantic.com/national-security/2026/10/ukraine-russia-trump-john-ratcliffe/689090/?utm_source=feed",
     "pubDate": "2026-10-23T11:00:00.000Z",
@@ -2763,7 +2852,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-27-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-28-r%3Futm_medium%3Drss",
     "title": "Regeringskansliet uppges spärra AI-tjänster",
     "link": "https://www.aftonbladet.se/nyheter/a/Kr4m86/regeringskansliet-uppges-sparra-ai-tjanster?utm_medium=rss",
     "pubDate": "2026-10-23T10:44:05.000Z",
@@ -2800,7 +2889,7 @@
     "category": "Retail industry"
   },
   {
-    "id": "guardian-22--us-grand-prix-texas",
+    "id": "guardian-23--us-grand-prix-texas",
     "title": "F1 crown in reach for Kimi Antonelli at bumpy Austin circuit drivers insist is ‘unacceptable’",
     "link": "https://www.theguardian.com/sport/2026/oct/23/formula-one-kimi-antonelli-mercedes-title-austin-us-grand-prix-texas",
     "pubDate": "2026-10-23T10:34:55.000Z",
@@ -2903,7 +2992,7 @@
     "category": "Explainers"
   },
   {
-    "id": "aftonbladet-28-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-29-t%3Futm_medium%3Drss",
     "title": "AI-toppar slår larm – svenskarna chattar med ”Chattis”",
     "link": "https://www.aftonbladet.se/nyheter/a/1o5XAq/ai-topparna-slar-larm-svenskarna-slapper-in-chat-gpt?utm_medium=rss",
     "pubDate": "2026-10-23T10:22:22.000Z",
@@ -2915,7 +3004,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-29-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-30-t%3Futm_medium%3Drss",
     "title": "Pojke häktad efter skolincident",
     "link": "https://www.aftonbladet.se/nyheter/a/8GMA6w/pojke-begars-haktad-efter-skolincident?utm_medium=rss",
     "pubDate": "2026-10-23T10:22:03.000Z",
@@ -2939,7 +3028,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-30-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-31-r%3Futm_medium%3Drss",
     "title": "Ryssland: Trepartssamtal i november",
     "link": "https://www.aftonbladet.se/nyheter/a/eGgoVa/ryssland-trepartssamtal-i-november?utm_medium=rss",
     "pubDate": "2026-10-23T10:18:56.000Z",
@@ -2951,7 +3040,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-30-juvlig-upplevelse%2F",
+    "id": "dn-31-juvlig-upplevelse%2F",
     "title": "Förnedringsteatern på Dramaten blir en ljuvlig upplevelse",
     "link": "https://www.dn.se/kultur/fornedringsteatern-pa-dramaten-blir-en-ljuvlig-upplevelse/",
     "pubDate": "2026-10-23T10:16:53.000Z",
@@ -2963,7 +3052,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-31-r-miljoner-tallar%2F",
+    "id": "dn-32-r-miljoner-tallar%2F",
     "title": "Stort utbrott av knäckesjuka – drabbar miljoner tallar",
     "link": "https://www.dn.se/sverige/stort-utbrott-av-knackesjuka-drabbar-miljoner-tallar/",
     "pubDate": "2026-10-23T10:14:15.000Z",
@@ -2975,7 +3064,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-32-fns-miljotoppmote%2F",
+    "id": "dn-33-fns-miljotoppmote%2F",
     "title": "Ordbråk och geopolitiska markeringar bromsar FN:s miljötoppmöte",
     "link": "https://www.dn.se/varlden/ordbrak-och-geopolitiska-markeringar-bromsar-fns-miljotoppmote/",
     "pubDate": "2026-10-23T10:12:18.000Z",
@@ -2987,7 +3076,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-17-y-ad-trump-ohio.html",
+    "id": "nyt-18-y-ad-trump-ohio.html",
     "title": "The Meaning of the Republican War Over Ramaswamy’s Vile Ad",
     "link": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
     "pubDate": "2026-10-23T10:11:50.000Z",
@@ -3000,7 +3089,7 @@
     "category": "Ohio"
   },
   {
-    "id": "aftonbladet-31-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-32-r%3Futm_medium%3Drss",
     "title": "Storm på väg – SMHI varnar för hårda vindar",
     "link": "https://www.aftonbladet.se/nyheter/a/1oJboQ/storm-pa-vag-smhi-varnar-for-harda-vindar?utm_medium=rss",
     "pubDate": "2026-10-23T10:08:58.000Z",
@@ -3024,7 +3113,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-32-s%3Futm_medium%3Drss",
+    "id": "aftonbladet-33-s%3Futm_medium%3Drss",
     "title": "Rekordmånga gripanden utomlands – polischefen avslöjar metoden",
     "link": "https://www.aftonbladet.se/nyheter/a/8G1jbr/polisen-har-gripit-rekordmanga-kriminella-fran-natverk-utomlands?utm_medium=rss",
     "pubDate": "2026-10-23T10:01:57.000Z",
@@ -3036,7 +3125,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-33-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-34-a%3Futm_medium%3Drss",
     "title": "Efter Trumps avtal: Rysk diesel på väg mot USA",
     "link": "https://www.aftonbladet.se/nyheter/a/0Bd72A/rysk-diesel-uppges-vara-pa-vag-mot-usa?utm_medium=rss",
     "pubDate": "2026-10-23T10:01:45.000Z",
@@ -3048,7 +3137,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-34-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-35-r%3Futm_medium%3Drss",
     "title": "Ukraina: Tonåring misstänks för giftmord på soldater",
     "link": "https://www.aftonbladet.se/nyheter/a/kvVzkL/ukraina-tonaring-misstanks-for-giftmord-pa-soldater?utm_medium=rss",
     "pubDate": "2026-10-23T10:01:41.000Z",
@@ -3250,7 +3339,7 @@
     "category": "World"
   },
   {
-    "id": "aftonbladet-35-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-36-t%3Futm_medium%3Drss",
     "title": "Nytt fartygshaveri i Svarta havet: ”Eskalering”",
     "link": "https://www.aftonbladet.se/nyheter/a/64QgVe/nytt-fartyg-i-sjonod-i-svarta-havet?utm_medium=rss",
     "pubDate": "2026-10-23T09:26:02.000Z",
@@ -3262,7 +3351,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-36-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-37-r%3Futm_medium%3Drss",
     "title": "Misstänkt brott efter dödsfall på kritiserat äldreboende",
     "link": "https://www.aftonbladet.se/nyheter/a/Kr4kgE/polis-misstanker-dog-av-vanvard-pa-aldreboendet-s-t-knut-och-aspen-i-skanor?utm_medium=rss",
     "pubDate": "2026-10-23T09:25:49.000Z",
@@ -3274,7 +3363,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-37-e%3Futm_medium%3Drss",
+    "id": "aftonbladet-38-e%3Futm_medium%3Drss",
     "title": "16 års fängelse för knivmord i Säffle",
     "link": "https://www.aftonbladet.se/nyheter/a/OgdBj1/16-ars-fangelse-for-knivmord-i-saffle?utm_medium=rss",
     "pubDate": "2026-10-23T09:25:03.000Z",
@@ -3334,7 +3423,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-33-et-en-san-har-dag%2F",
+    "id": "dn-34-et-en-san-har-dag%2F",
     "title": "”Det finns en framtid för Volvo också, vi får inte glömma det en sån här dag”",
     "link": "https://www.dn.se/ekonomi/det-finns-en-framtid-for-volvo-ocksa-vi-far-inte-glomma-det-en-san-har-dag/",
     "pubDate": "2026-10-23T09:12:33.000Z",
@@ -3346,7 +3435,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-34-behandlingshemmet%2F",
+    "id": "dn-35-behandlingshemmet%2F",
     "title": "Jonas Lundqvist: ”Jag kom bara ut med en ny skiva från behandlingshemmet”",
     "link": "https://www.dn.se/kultur/jonas-lundqvist-jag-kom-bara-ut-med-en-ny-skiva-fran-behandlingshemmet/",
     "pubDate": "2026-10-23T09:09:57.000Z",
@@ -3460,6 +3549,42 @@
     "category": "Donald Trump"
   },
   {
+    "id": "npr-7-ating-black-students",
+    "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
+    "pubDate": "2026-10-23T09:00:00.000Z",
+    "sourceId": "npr",
+    "sourceName": "NPR",
+    "sourceShort": "NPR",
+    "badgeColor": "#d62027",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "npr-8-ousing-affordability",
+    "title": "Gen Z is 'in the thick' of high housing costs. These candidates aim to solve it",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
+    "pubDate": "2026-10-23T09:00:00.000Z",
+    "sourceId": "npr",
+    "sourceName": "NPR",
+    "sourceShort": "NPR",
+    "badgeColor": "#d62027",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "npr-9-n-phone-call-myanmar",
+    "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+    "pubDate": "2026-10-23T09:00:00.000Z",
+    "sourceId": "npr",
+    "sourceName": "NPR",
+    "sourceShort": "NPR",
+    "badgeColor": "#d62027",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
     "id": "npr-7-lan-a-say-no-retreat",
     "title": "Why going on a 'say no' retreat is a gift to your future self",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
@@ -3484,45 +3609,9 @@
     "country": "INT"
   },
   {
-    "id": "npr-9-ating-black-students",
-    "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
-    "pubDate": "2026-10-23T09:00:00.000Z",
-    "sourceId": "npr",
-    "sourceName": "NPR",
-    "sourceShort": "NPR",
-    "badgeColor": "#d62027",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
-    "id": "npr-8-n-phone-call-myanmar",
-    "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
-    "pubDate": "2026-10-23T09:00:00.000Z",
-    "sourceId": "npr",
-    "sourceName": "NPR",
-    "sourceShort": "NPR",
-    "badgeColor": "#d62027",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
     "id": "npr-9-unoff-lula-bolsonaro",
     "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
-    "pubDate": "2026-10-23T09:00:00.000Z",
-    "sourceId": "npr",
-    "sourceName": "NPR",
-    "sourceShort": "NPR",
-    "badgeColor": "#d62027",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
-    "id": "npr-8-ousing-affordability",
-    "title": "Gen Z is 'in the thick' of high housing costs. These candidates aim to solve it",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
     "pubDate": "2026-10-23T09:00:00.000Z",
     "sourceId": "npr",
     "sourceName": "NPR",
@@ -3606,7 +3695,7 @@
     "country": "INT"
   },
   {
-    "id": "dn-35-skey-on-the-rocks%2F",
+    "id": "dn-36-skey-on-the-rocks%2F",
     "title": "Helgens drink: Whiskey on the rocks",
     "link": "https://www.dn.se/mat-dryck/helgens-drink-whiskey-on-the-rocks/",
     "pubDate": "2026-10-23T08:32:03.000Z",
@@ -3642,7 +3731,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-36-lvo-kan-fortsatta%2F",
+    "id": "dn-37-lvo-kan-fortsatta%2F",
     "title": "Jonas Fröberg: Blodbadet hos Volvo kan fortsätta",
     "link": "https://www.dn.se/ekonomi/jonas-froberg-blodbadet-hos-volvo-kan-fortsatta/",
     "pubDate": "2026-10-23T08:28:12.000Z",
@@ -3654,7 +3743,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-37--forbjuda-vinster%2F",
+    "id": "dn-38--forbjuda-vinster%2F",
     "title": "Insändare. C-ledaren bör lyssna på väljarna och förbjuda vinster",
     "link": "https://www.dn.se/insandare/c-ledaren-bor-lyssna-pa-valjarna-och-forbjuda-vinster/",
     "pubDate": "2026-10-23T08:27:30.000Z",
@@ -3754,7 +3843,7 @@
     "category": "Europe weather"
   },
   {
-    "id": "dn-38-oller-pa-dramaten%2F",
+    "id": "dn-39-oller-pa-dramaten%2F",
     "title": "Livia Millhagen spelar 24 roller på Dramaten",
     "link": "https://www.dn.se/kultur/livia-millhagen-spelar-24-roller-pa-dramaten/",
     "pubDate": "2026-10-23T08:11:44.000Z",
@@ -3790,7 +3879,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-23-im-their-first-title",
+    "id": "guardian-24-im-their-first-title",
     "title": "World Series 2026 predictions: will the Rays or Brewers claim their first title?",
     "link": "https://www.theguardian.com/sport/2026/oct/23/world-series-2026-predictions-will-the-rays-or-brewers-claim-their-first-title",
     "pubDate": "2026-10-23T08:00:04.000Z",
@@ -3892,7 +3981,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "dn-39-nstruosa-clayface%2F",
+    "id": "dn-40-nstruosa-clayface%2F",
     "title": "Filmlistan vecka 43: Lerig kroppsskräck laddar monstruösa ”Clayface”",
     "link": "https://www.dn.se/kultur/filmlistan-vecka-43-lerig-kroppsskrack-laddar-monstruosa-clayface/",
     "pubDate": "2026-10-23T07:24:14.000Z",
@@ -4091,7 +4180,7 @@
     "category": "News"
   },
   {
-    "id": "dn-40-t-att-anvanda-den%2F",
+    "id": "dn-41-t-att-anvanda-den%2F",
     "title": "Trump om skandalfilmen: Fortsätt att använda den",
     "link": "https://www.dn.se/varlden/trump-om-skandalfilmen-fortsatt-att-anvanda-den/",
     "pubDate": "2026-10-23T06:39:33.000Z",
@@ -4103,7 +4192,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-41-allningsbranschen%2F",
+    "id": "dn-42-allningsbranschen%2F",
     "title": "”Drama kings” skämtar kungligt med svenska underhållningsbranschen",
     "link": "https://www.dn.se/kultur/drama-kings-skamtar-kungligt-med-svenska-underhallningsbranschen/",
     "pubDate": "2026-10-23T06:37:58.000Z",
@@ -4115,7 +4204,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-42-arnen-kommer-anda%2F",
+    "id": "dn-43-arnen-kommer-anda%2F",
     "title": "Dinosaurievärld på Skeppsholmen ska locka vuxna: ”Barnen kommer ändå”",
     "link": "https://www.dn.se/kultur/dinosaurievarld-pa-skeppsholmen-ska-locka-vuxna-barnen-kommer-anda/",
     "pubDate": "2026-10-23T06:31:22.000Z",
@@ -4177,7 +4266,7 @@
     "category": "Australian Greens"
   },
   {
-    "id": "dn-43-ya-bilderbokspris%2F",
+    "id": "dn-44-ya-bilderbokspris%2F",
     "title": "Aron Landahl får Kulturhuset Stadsteaterns nya bilderbokspris",
     "link": "https://www.dn.se/kultur/aron-landahl-far-kulturhuset-stadsteaterns-nya-bilderbokspris/",
     "pubDate": "2026-10-23T06:19:18.000Z",
@@ -4189,7 +4278,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-44-tycker-det-ar-fel%2F",
+    "id": "dn-45-tycker-det-ar-fel%2F",
     "title": "Swenn-Larsson om landslagets petning av Alphand: ”Jag tycker det är fel”",
     "link": "https://www.dn.se/sport/swenn-larsson-om-landslagets-petning-av-alphand-jag-tycker-det-ar-fel/",
     "pubDate": "2026-10-23T06:14:43.000Z",
@@ -4339,7 +4428,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-45-ropas-varmeboljor%2F",
+    "id": "dn-46-ropas-varmeboljor%2F",
     "title": "Millenniets dödligaste sommar: 50 000 döda i Europas värmeböljor",
     "link": "https://www.dn.se/varlden/millenniets-dodligaste-sommar-50-000-doda-i-europas-varmeboljor/",
     "pubDate": "2026-10-23T05:33:00.000Z",
@@ -4351,7 +4440,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-46-r-flest-i-sverige%2F",
+    "id": "dn-47-r-flest-i-sverige%2F",
     "title": "Volvo Cars skär ned med 2 500 tjänster – flest i Sverige",
     "link": "https://www.dn.se/ekonomi/volvo-cars-skar-ned-med-2-500-tjanster-flest-i-sverige/",
     "pubDate": "2026-10-23T05:31:37.000Z",
@@ -4363,7 +4452,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-47-fall-tva-melodier%2F",
+    "id": "dn-48-fall-tva-melodier%2F",
     "title": "EKG: Tack, farfar, för att du i alla fall försökte",
     "link": "https://www.dn.se/kultur/ekg-jag-larde-mig-i-alla-fall-tva-melodier/",
     "pubDate": "2026-10-23T05:30:00.000Z",
@@ -4579,7 +4668,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-48-mval-av-infantino%2F",
+    "id": "dn-49-mval-av-infantino%2F",
     "title": "Beskedet: Asien stöttar omval av Infantino",
     "link": "https://www.dn.se/sport/beskedet-asien-stottar-omval-av-infantino/",
     "pubDate": "2026-10-23T04:47:35.000Z",
@@ -4617,7 +4706,7 @@
     "category": "News"
   },
   {
-    "id": "dn-49-ets-stora-vinnare%2F",
+    "id": "dn-50-ets-stora-vinnare%2F",
     "title": "Johannes Klenell: Så blev jag och Annie Lööf valets stora vinnare",
     "link": "https://www.dn.se/kultur/johannes-klenell-sa-blev-jag-och-annie-loof-valets-stora-vinnare/",
     "pubDate": "2026-10-23T04:31:12.000Z",
@@ -4629,7 +4718,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-24-ational-anthem-76ers",
+    "id": "guardian-25-ational-anthem-76ers",
     "title": "‘Slow news day at the office’: LeBron James shrugs off Trump’s national anthem attack",
     "link": "https://www.theguardian.com/sport/2026/oct/23/lebron-james-donald-trump-national-anthem-76ers",
     "pubDate": "2026-10-23T04:29:50.000Z",
@@ -4691,7 +4780,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-50-manga-mohamed-ali%2F",
+    "id": "dn-51-manga-mohamed-ali%2F",
     "title": "”Det var en enkel googling, men det finns många Mohamed Ali”",
     "link": "https://www.dn.se/sverige/det-var-en-enkel-googling-men-det-finns-manga-mohamed-ali/",
     "pubDate": "2026-10-23T04:15:08.000Z",
@@ -5001,7 +5090,7 @@
     "category": "News"
   },
   {
-    "id": "dn-51-storst-att-du-dor%2F",
+    "id": "dn-52-storst-att-du-dor%2F",
     "title": "Typåldern visar: Då är sannolikheten störst att du dör",
     "link": "https://www.dn.se/sverige/typaldern-visar-da-ar-sannolikheten-storst-att-du-dor/",
     "pubDate": "2026-10-23T03:07:29.000Z",
@@ -5256,7 +5345,7 @@
     "category": "Space"
   },
   {
-    "id": "atlantic-6-%3Futm_source%3Dfeed",
+    "id": "atlantic-7-%3Futm_source%3Dfeed",
     "title": "‘If Anything Happens to This Guy … Everyone Is Screwed’",
     "link": "https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123/?utm_source=feed",
     "pubDate": "2026-10-22T23:47:00.000Z",
@@ -5487,7 +5576,7 @@
     "country": "INT"
   },
   {
-    "id": "atlantic-7-%3Futm_source%3Dfeed",
+    "id": "atlantic-8-%3Futm_source%3Dfeed",
     "title": "Trump’s Gamble to End the Iran War",
     "link": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/?utm_source=feed",
     "pubDate": "2026-10-22T21:41:50.000Z",
@@ -5500,7 +5589,7 @@
     "category": "National Security"
   },
   {
-    "id": "dn-52-rdigare-inramning%2F",
+    "id": "dn-53-rdigare-inramning%2F",
     "title": "Ljuvlig Stevie Wonder hade förtjänat en värdigare inramning",
     "link": "https://www.dn.se/kultur/ljuvlig-stevie-wonder-hade-fortjanat-en-vardigare-inramning/",
     "pubDate": "2026-10-22T21:37:02.000Z",
@@ -5884,7 +5973,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "atlantic-8-%3Futm_source%3Dfeed",
+    "id": "atlantic-9-%3Futm_source%3Dfeed",
     "title": "When Rivers Run Low in the American West",
     "link": "https://www.theatlantic.com/newsletters/2026/10/the-one-resource-the-american-west-will-never-stop-fighting-over/689120/?utm_source=feed",
     "pubDate": "2026-10-22T19:32:00.000Z",
@@ -5910,7 +5999,7 @@
     "category": "Utah"
   },
   {
-    "id": "dn-53-ad-blev-lite-rord%2F",
+    "id": "dn-54-ad-blev-lite-rord%2F",
     "title": "Ny Loob slog till för Färjestad: ”Blev lite rörd”",
     "link": "https://www.dn.se/sport/ny-loob-slog-till-for-farjestad-blev-lite-rord/",
     "pubDate": "2026-10-22T19:23:20.000Z",
@@ -5999,7 +6088,7 @@
     "category": "Criminal Justice"
   },
   {
-    "id": "atlantic-9-%3Futm_source%3Dfeed",
+    "id": "atlantic-10-%3Futm_source%3Dfeed",
     "title": "The Myth of Safe AI",
     "link": "https://www.theatlantic.com/technology/2026/10/false-promise-of-safe-ai/689114/?utm_source=feed",
     "pubDate": "2026-10-22T19:12:03.000Z",
@@ -6024,7 +6113,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-54-enhowers-jordglob%2F",
+    "id": "dn-55-enhowers-jordglob%2F",
     "title": "Hegseths tjänstemän förstörde Eisenhowers jordglob",
     "link": "https://www.dn.se/varlden/hegseths-tjansteman-forstorde-eisenhowers-jordglob/",
     "pubDate": "2026-10-22T19:04:02.000Z",
@@ -6036,7 +6125,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-55-te-dagens-nyheter%2F",
+    "id": "dn-56-te-dagens-nyheter%2F",
     "title": "22 oktober: Missa inte dagens nyheter",
     "link": "https://www.dn.se/sverige/22-oktober-missa-inte-dagens-nyheter/",
     "pubDate": "2026-10-22T19:03:50.000Z",
@@ -6061,7 +6150,7 @@
     "category": "Demonstrations, Protests "
   },
   {
-    "id": "atlantic-10-%3Futm_source%3Dfeed",
+    "id": "atlantic-11-%3Futm_source%3Dfeed",
     "title": "America Needs Its Indian Immigrants",
     "link": "https://www.theatlantic.com/ideas/2026/10/america-anti-indian-bigotry/689107/?utm_source=feed",
     "pubDate": "2026-10-22T19:00:27.000Z",
@@ -6087,7 +6176,7 @@
     "category": "Sverige"
   },
   {
-    "id": "dn-56--poang-i-georgien%2F",
+    "id": "dn-57--poang-i-georgien%2F",
     "title": "Veteranen räddade en Mjällby-poäng i Georgien",
     "link": "https://www.dn.se/sport/veteranen-raddade-en-mjallby-poang-i-georgien/",
     "pubDate": "2026-10-22T18:49:42.000Z",
@@ -6125,7 +6214,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "dn-57-terna-i-frankrike%2F",
+    "id": "dn-58-terna-i-frankrike%2F",
     "title": "Sofia Norlin: Därför är jag en del av protesterna i Frankrike",
     "link": "https://www.dn.se/kultur/sofia-norlin-darfor-ar-jag-en-del-av-protesterna-i-frankrike/",
     "pubDate": "2026-10-22T18:44:06.000Z",
@@ -6175,7 +6264,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-58-n-alaskas-odemark%2F",
+    "id": "dn-59-n-alaskas-odemark%2F",
     "title": "Oväntade hotet mot Trump: Vapenvän från Alaskas ödemark",
     "link": "https://www.dn.se/varlden/ovantade-hotet-mot-trump-vapenvan-fran-alaskas-odemark/",
     "pubDate": "2026-10-22T18:35:06.000Z",
@@ -6200,7 +6289,7 @@
     "category": "Trump administration"
   },
   {
-    "id": "dn-59-bli-lamnad-i-fred%2F",
+    "id": "dn-60-bli-lamnad-i-fred%2F",
     "title": "Bengt Ohlsson: Finns det någon plats där jag kan få bli lämnad i fred?",
     "link": "https://www.dn.se/kultur/bengt-ohlsson-finns-det-nagon-plats-dar-jag-kan-fa-bli-lamnad-i-fred/",
     "pubDate": "2026-10-22T18:29:43.000Z",
@@ -6237,7 +6326,7 @@
     "category": "Mississippi"
   },
   {
-    "id": "atlantic-11-%3Futm_source%3Dfeed",
+    "id": "atlantic-12-%3Futm_source%3Dfeed",
     "title": "A Congressional District Where the Iran War Is Personal",
     "link": "https://www.theatlantic.com/politics/2026/10/iran-war-virginia-midterms/688948/?utm_source=feed",
     "pubDate": "2026-10-22T18:18:03.000Z",
@@ -6289,7 +6378,7 @@
     "category": "Sverige"
   },
   {
-    "id": "dn-60-e-loneokningstakt%2F",
+    "id": "dn-61-e-loneokningstakt%2F",
     "title": "LO avvisar arbetsgivarnas krav på lägre löneökningstakt",
     "link": "https://www.dn.se/ekonomi/lo-avvisar-arbetsgivarnas-krav-pa-lagre-loneokningstakt/",
     "pubDate": "2026-10-22T18:11:20.000Z",
@@ -6314,7 +6403,7 @@
     "category": "Airports"
   },
   {
-    "id": "dn-61-jarnan-total-skam%2F",
+    "id": "dn-62-jarnan-total-skam%2F",
     "title": "Trump sågar superstjärnan: ”Total skam”",
     "link": "https://www.dn.se/sport/trump-sagar-superstjarnan-total-skam/",
     "pubDate": "2026-10-22T18:02:23.000Z",
@@ -6326,7 +6415,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-62-rkradd-pa-riktigt%2F",
+    "id": "dn-63-rkradd-pa-riktigt%2F",
     "title": "DN Debatt. ”När ett boklån blir en orosanmälan blir jag mörkrädd på riktigt”",
     "link": "https://www.dn.se/debatt/nar-ett-boklan-blir-en-orosanmalan-blir-jag-morkradd-pa-riktigt/",
     "pubDate": "2026-10-22T18:00:00.000Z",
@@ -6402,7 +6491,7 @@
     "category": "Trump administration"
   },
   {
-    "id": "atlantic-12-%3Futm_source%3Dfeed",
+    "id": "atlantic-13-%3Futm_source%3Dfeed",
     "title": "The Limits of the Cinematic Universe",
     "link": "https://www.theatlantic.com/newsletters/2026/10/clayface-dc-universe-james-gunn-video-village/689115/?utm_source=feed",
     "pubDate": "2026-10-22T17:37:18.000Z",
@@ -6415,7 +6504,7 @@
     "category": "Newsletters"
   },
   {
-    "id": "dn-63-lderna-som-sprids%2F",
+    "id": "dn-64-lderna-som-sprids%2F",
     "title": "Franska protesterna utnyttjas politiskt – här är falska bilderna som sprids",
     "link": "https://www.dn.se/varlden/franska-protesterna-utnyttjas-politiskt-har-ar-falska-bilderna-som-sprids/",
     "pubDate": "2026-10-22T17:36:35.000Z",
@@ -6427,7 +6516,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-64-stvagens-i-europa%2F",
+    "id": "dn-65-stvagens-i-europa%2F",
     "title": "Här är länderna i protestvågens i Europa",
     "link": "https://www.dn.se/varlden/har-ar-landerna-i-protestvagens-i-europa/",
     "pubDate": "2026-10-22T17:36:27.000Z",
@@ -6439,7 +6528,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-65-inte-till-sverige%2F",
+    "id": "dn-66-inte-till-sverige%2F",
     "title": "Expert: Protestvågen kommer inte till Sverige",
     "link": "https://www.dn.se/varlden/expert-protestvagen-kommer-inte-till-sverige/",
     "pubDate": "2026-10-22T17:36:19.000Z",
@@ -6703,7 +6792,7 @@
     "category": "Reform UK"
   },
   {
-    "id": "dn-66-hostrusk-i-helgen%2F",
+    "id": "dn-67-hostrusk-i-helgen%2F",
     "title": "Stormen Boelo bjuder på höstrusk i helgen",
     "link": "https://www.dn.se/sverige/stormen-boelo-bjuder-pa-hostrusk-i-helgen/",
     "pubDate": "2026-10-22T16:36:45.000Z",
@@ -6715,7 +6804,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-67-ggar-upp-debatten%2F",
+    "id": "dn-68-ggar-upp-debatten%2F",
     "title": "Johanna Frändén: Sharialagar eller fransk revolution – fotbollsfruarnas utspel piggar upp debatten",
     "link": "https://www.dn.se/sport/johanna-franden-sharialagar-eller-fransk-revolution-fotbollsfruarnas-utspel-piggar-upp-debatten/",
     "pubDate": "2026-10-22T16:31:28.000Z",
@@ -6790,7 +6879,7 @@
     "category": "Sverige"
   },
   {
-    "id": "dn-68-arda-verkligheten%2F",
+    "id": "dn-69-arda-verkligheten%2F",
     "title": "C drömmer om mitten – här är den hårda verkligheten",
     "link": "https://www.dn.se/sverige/c-drommer-om-mitten-har-ar-den-harda-verkligheten/",
     "pubDate": "2026-10-22T16:19:50.000Z",
@@ -6867,7 +6956,7 @@
     "category": "France"
   },
   {
-    "id": "dn-69-tora-angrepp-annu%2F",
+    "id": "dn-70-tora-angrepp-annu%2F",
     "title": "FRA: Inga tecken på stora angrepp ännu",
     "link": "https://www.dn.se/sverige/fra-inga-tecken-pa-stora-angrepp-annu/",
     "pubDate": "2026-10-22T15:53:29.000Z",
@@ -6879,7 +6968,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-70-ig-for-stora-skor%2F",
+    "id": "dn-71-ig-for-stora-skor%2F",
     "title": "Ekonomisk kris i innebandyn: ”Tar på sig för stora skor”",
     "link": "https://www.dn.se/sport/ekonomisk-kris-i-innebandyn-tar-pa-sig-for-stora-skor/",
     "pubDate": "2026-10-22T15:49:09.000Z",
@@ -6929,7 +7018,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "dn-71-sien-under-attack%2F",
+    "id": "dn-72-sien-under-attack%2F",
     "title": "Expert: Säker flygkorridor till Asien under attack",
     "link": "https://www.dn.se/varlden/expert-saker-flygkorridor-till-asien-under-attack/",
     "pubDate": "2026-10-22T15:39:52.000Z",
@@ -7040,7 +7129,7 @@
     "category": "Russian Invasion of Ukrai"
   },
   {
-    "id": "dn-72-gstips-2026-10-22%2F",
+    "id": "dn-73-gstips-2026-10-22%2F",
     "title": "Nicholas Wennö: Här är veckans bästa strömningstips",
     "link": "https://www.dn.se/kultur/nicholas-wenno-har-ar-veckans-basta-stromningstips-2026-10-22/",
     "pubDate": "2026-10-22T15:16:40.000Z",
@@ -7065,7 +7154,7 @@
     "category": "Trump administration"
   },
   {
-    "id": "dn-73-straffskarpningar%2F",
+    "id": "dn-74-straffskarpningar%2F",
     "title": "Rödgröna röstar ned snabbare straffskärpningar",
     "link": "https://www.dn.se/sverige/rodgrona-rostar-ned-snabbare-straffskarpningar/",
     "pubDate": "2026-10-22T15:14:11.000Z",
@@ -7140,7 +7229,7 @@
     "category": "France"
   },
   {
-    "id": "dn-74-mel-kan-vara-lost%2F",
+    "id": "dn-75-mel-kan-vara-lost%2F",
     "title": "Mysteriet bakom van Goghs stjärnhimmel kan vara löst",
     "link": "https://www.dn.se/kultur/mysteriet-bakom-van-goghs-stjarnhimmel-kan-vara-lost/",
     "pubDate": "2026-10-22T15:00:38.000Z",
@@ -7264,7 +7353,7 @@
     "category": "Vox Press Room"
   },
   {
-    "id": "dn-75--den-21-oktober-4%2F",
+    "id": "dn-76--den-21-oktober-4%2F",
     "title": "Insändare. Noterat av DN:s läsare den 22 oktober",
     "link": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-21-oktober-4/",
     "pubDate": "2026-10-22T14:36:11.000Z",
@@ -7301,7 +7390,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-76-tt-radda-klimatet%2F",
+    "id": "dn-77-tt-radda-klimatet%2F",
     "title": "Insändare. Använd Norges oljefond för att rädda klimatet",
     "link": "https://www.dn.se/insandare/anvand-norges-oljefond-for-att-radda-klimatet/",
     "pubDate": "2026-10-22T14:22:58.000Z",
@@ -7313,7 +7402,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-77-ens-ljusa-krafter%2F",
+    "id": "dn-78-ens-ljusa-krafter%2F",
     "title": "Kulturdebatt. Oskar Månsson: Nu slår gängkriminaliteten även mot fotbollens ljusa krafter",
     "link": "https://www.dn.se/kultur/oskar-mansson-nu-slar-gangkriminaliteten-aven-mot-fotbollens-ljusa-krafter/",
     "pubDate": "2026-10-22T14:16:26.000Z",
@@ -7437,7 +7526,7 @@
     "country": "INT"
   },
   {
-    "id": "atlantic-13-%3Futm_source%3Dfeed",
+    "id": "atlantic-14-%3Futm_source%3Dfeed",
     "title": "Why So Many Men Aren’t Working",
     "link": "https://www.theatlantic.com/ideas/2026/10/job-market-unemployment-men-screentime/689109/?utm_source=feed",
     "pubDate": "2026-10-22T13:49:15.000Z",
@@ -7450,7 +7539,7 @@
     "category": "Ideas"
   },
   {
-    "id": "dn-78-l-smetig-barnsaga%2F",
+    "id": "dn-79-l-smetig-barnsaga%2F",
     "title": "Sötade ”Klara och solen” förvandlar Nobelprislitteratur till smetig barnsaga",
     "link": "https://www.dn.se/kultur/sotade-klara-och-solen-forvandlar-nobelprislitteratur-till-smetig-barnsaga/",
     "pubDate": "2026-10-22T13:47:45.000Z",
@@ -7536,7 +7625,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-79--en-stokig-vinter%2F",
+    "id": "dn-80--en-stokig-vinter%2F",
     "title": "Busch om elpriserna: ”Kan bli en stökig vinter”",
     "link": "https://www.dn.se/sverige/busch-om-elpriserna-kan-bli-en-stokig-vinter/",
     "pubDate": "2026-10-22T13:30:17.000Z",
@@ -7560,7 +7649,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-80-ps-i-sigtunamalet%2F",
+    "id": "dn-81-ps-i-sigtunamalet%2F",
     "title": "Advokat kräver att 17-åring släpps i Sigtunamålet",
     "link": "https://www.dn.se/sverige/advokat-kraver-att-17-aring-slapps-i-sigtunamalet/",
     "pubDate": "2026-10-22T13:15:36.000Z",
@@ -7584,7 +7673,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-81-en-otroligt-tungt%2F",
+    "id": "dn-82-en-otroligt-tungt%2F",
     "title": "Man död efter fall på stålverksbygget i Boden: ”Otroligt tungt”",
     "link": "https://www.dn.se/sverige/man-dod-efter-fall-pa-stalverksbygget-i-boden-otroligt-tungt/",
     "pubDate": "2026-10-22T13:07:35.000Z",
@@ -7609,7 +7698,7 @@
     "category": "Saudi Arabia"
   },
   {
-    "id": "dn-82-randras-motsatser%2F",
+    "id": "dn-83-randras-motsatser%2F",
     "title": "Insändare. Globen och Strawberry arena är varandras motsatser",
     "link": "https://www.dn.se/insandare/globen-och-strawberry-arena-ar-varandras-motsatser/",
     "pubDate": "2026-10-22T13:02:03.000Z",
@@ -7670,7 +7759,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-83-arit-en-dalig-ton%2F",
+    "id": "dn-84-arit-en-dalig-ton%2F",
     "title": "Svenska kraftnäts generaldirektör om kritiken: ”Har aldrig varit en dålig ton”",
     "link": "https://www.dn.se/sverige/svenska-kraftnats-generaldirektor-om-kritiken-har-aldrig-varit-en-dalig-ton/",
     "pubDate": "2026-10-22T12:56:07.000Z",
@@ -7744,7 +7833,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-84-diska-grannlander%2F",
+    "id": "dn-85-diska-grannlander%2F",
     "title": "Insändare. Bryt blockgränsen som i våra nordiska grannländer",
     "link": "https://www.dn.se/insandare/bryt-blockgransen-som-i-vara-nordiska-grannlander/",
     "pubDate": "2026-10-22T12:49:16.000Z",
@@ -7805,7 +7894,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-85-r-en-halv-miljard%2F",
+    "id": "dn-86-r-en-halv-miljard%2F",
     "title": "Mina Asp Romefors: Därför bär Kylie Jenner en bh för en halv miljard",
     "link": "https://www.dn.se/kultur/mina-asp-romefors-darfor-bar-kylie-jenner-en-bh-for-en-halv-miljard/",
     "pubDate": "2026-10-22T12:30:48.000Z",
@@ -7841,7 +7930,7 @@
     "country": "INT"
   },
   {
-    "id": "dn-86-t-far-demonstrera%2F",
+    "id": "dn-87-t-far-demonstrera%2F",
     "title": "Beskedet efter upploppen – bara facket får demonstrera",
     "link": "https://www.dn.se/varlden/beskedet-efter-upploppen-bara-facket-far-demonstrera/",
     "pubDate": "2026-10-22T12:20:05.000Z",
@@ -7865,7 +7954,7 @@
     "country": "INT"
   },
   {
-    "id": "atlantic-14-%3Futm_source%3Dfeed",
+    "id": "atlantic-15-%3Futm_source%3Dfeed",
     "title": "China’s Economy Has a Huge Weakness",
     "link": "https://www.theatlantic.com/international/2026/10/chinese-companies-profit-problem/689088/?utm_source=feed",
     "pubDate": "2026-10-22T12:13:00.000Z",
@@ -7891,7 +7980,7 @@
     "category": "Världen"
   },
   {
-    "id": "dn-87-a-attackerat-iran%2F",
+    "id": "dn-88-a-attackerat-iran%2F",
     "title": "Palantirgrundaren: Trump borde inte ha attackerat Iran",
     "link": "https://www.dn.se/varlden/palantirgrundaren-trump-borde-inte-ha-attackerat-iran/",
     "pubDate": "2026-10-22T12:11:46.000Z",
@@ -7916,7 +8005,7 @@
     "category": "Australian politics"
   },
   {
-    "id": "dn-88-funktionshindrade%2F",
+    "id": "dn-89-funktionshindrade%2F",
     "title": "Insändare. Svar: Närvarokrav för betyg skulle drabba funktionshindrade",
     "link": "https://www.dn.se/insandare/svar-narvarokrav-for-betyg-skulle-drabba-funktionshindrade/",
     "pubDate": "2026-10-22T12:03:43.000Z",
@@ -7928,7 +8017,7 @@
     "country": "SE"
   },
   {
-    "id": "atlantic-15-%3Futm_source%3Dfeed",
+    "id": "atlantic-16-%3Futm_source%3Dfeed",
     "title": "A Forgotten Fix for American Racial Strife",
     "link": "https://www.theatlantic.com/books/2026/10/harold-cruse-biography-racism-integration/689110/?utm_source=feed",
     "pubDate": "2026-10-22T12:00:00.000Z",
@@ -7941,7 +8030,7 @@
     "category": "Books"
   },
   {
-    "id": "atlantic-16-%3Futm_source%3Dfeed",
+    "id": "atlantic-17-%3Futm_source%3Dfeed",
     "title": "Sending a Silly Meme Is an Act of Love",
     "link": "https://www.theatlantic.com/family/2026/10/send-silly-memes/689077/?utm_source=feed",
     "pubDate": "2026-10-22T12:00:00.000Z",
@@ -8041,7 +8130,7 @@
     "country": "SE"
   },
   {
-    "id": "atlantic-17-%3Futm_source%3Dfeed",
+    "id": "atlantic-18-%3Futm_source%3Dfeed",
     "title": "America Is About to See What Happens When Voters Turn to AI",
     "link": "https://www.theatlantic.com/technology/2026/10/ai-midterm-election-voters-chatbots/689103/?utm_source=feed",
     "pubDate": "2026-10-22T11:30:00.000Z",
@@ -8054,7 +8143,7 @@
     "category": "Technology"
   },
   {
-    "id": "dn-89-harvan-i-borlange%2F",
+    "id": "dn-90-harvan-i-borlange%2F",
     "title": "Tre misstänks i valfuskhärvan i Borlänge",
     "link": "https://www.dn.se/sverige/tre-misstanks-i-valfuskharvan-i-borlange/",
     "pubDate": "2026-10-22T11:28:41.000Z",
@@ -8091,7 +8180,7 @@
     "category": "Oil"
   },
   {
-    "id": "dn-90-g-nattklubbsopera%2F",
+    "id": "dn-91-g-nattklubbsopera%2F",
     "title": "Matilda Tjäder tonsätter shoppingbegär och väcker suget efter en rökig nattklubbsopera",
     "link": "https://www.dn.se/kultur/matilda-tjader-tonsatter-shoppingbegar-och-vacker-suget-efter-en-rokig-nattklubbsopera/",
     "pubDate": "2026-10-22T11:11:51.000Z",
@@ -8129,7 +8218,7 @@
     "category": "Donald Trump"
   },
   {
-    "id": "atlantic-18-%3Futm_source%3Dfeed",
+    "id": "atlantic-19-%3Futm_source%3Dfeed",
     "title": "The New Subterranean Front",
     "link": "https://www.theatlantic.com/national-security/2026/10/ukraine-war-gas-pipelines-russia/689105/?utm_source=feed",
     "pubDate": "2026-10-22T11:00:00.000Z",
@@ -8142,7 +8231,7 @@
     "category": "National Security"
   },
   {
-    "id": "atlantic-19-%3Futm_source%3Dfeed",
+    "id": "atlantic-20-%3Futm_source%3Dfeed",
     "title": "Maria Bamford on OCD, Pugs, and Getting Paid",
     "link": "https://www.theatlantic.com/podcasts/2026/10/maria-bamford-is-tough-as-nails/689076/?utm_source=feed",
     "pubDate": "2026-10-22T11:00:00.000Z",
@@ -8155,7 +8244,7 @@
     "category": "Podcasts"
   },
   {
-    "id": "atlantic-20-%3Futm_source%3Dfeed",
+    "id": "atlantic-21-%3Futm_source%3Dfeed",
     "title": "What the U.S. Is Really Doing in Venezuela",
     "link": "https://www.theatlantic.com/magazine/2026/12/trump-oil-venezuela-exploitation/689033/?utm_source=feed",
     "pubDate": "2026-10-22T11:00:00.000Z",
@@ -8266,7 +8355,7 @@
     "category": "Good Medicine"
   },
   {
-    "id": "dn-91-ta-folcker-lamnar%2F",
+    "id": "dn-92-ta-folcker-lamnar%2F",
     "title": "Aftonbladets chefredaktör Lotta Folcker lämnar",
     "link": "https://www.dn.se/kultur/aftonbladets-chefredaktor-lotta-folcker-lamnar/",
     "pubDate": "2026-10-22T10:05:40.000Z",
@@ -8329,7 +8418,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-92-m-jong-un-sa-ofta%2F",
+    "id": "dn-93-m-jong-un-sa-ofta%2F",
     "title": "Marianne Björklund: Därför ”dör” Nordkoreas ledare Kim Jong-Un så ofta",
     "link": "https://www.dn.se/varlden/marianne-bjorklund-darfor-dor-nordkoreas-ledare-kim-jong-un-sa-ofta/",
     "pubDate": "2026-10-22T09:51:24.000Z",
@@ -8341,7 +8430,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-93-om-stor-knarksajt%2F",
+    "id": "dn-94-om-stor-knarksajt%2F",
     "title": "Fängelse för svenskar bakom stor knarksajt",
     "link": "https://www.dn.se/sverige/fangelse-for-svenskar-bakom-stor-knarksajt/",
     "pubDate": "2026-10-22T09:48:59.000Z",
@@ -8365,7 +8454,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-94-tshalet-ska-lagas%2F",
+    "id": "dn-95-tshalet-ska-lagas%2F",
     "title": "Kamp mot klockan när säkerhetshålet ska lagas",
     "link": "https://www.dn.se/sverige/kamp-mot-klockan-nar-sakerhetshalet-ska-lagas/",
     "pubDate": "2026-10-22T09:37:09.000Z",
@@ -8377,7 +8466,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-95-anaren-smekningar%2F",
+    "id": "dn-96-anaren-smekningar%2F",
     "title": "Norska stjärnan anklagar tränaren: ”Smekningar”",
     "link": "https://www.dn.se/sport/norska-stjarnan-anklagar-tranaren-smekningar/",
     "pubDate": "2026-10-22T09:36:16.000Z",
@@ -8649,7 +8738,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-96-nare-mot-ryssland%2F",
+    "id": "dn-97-nare-mot-ryssland%2F",
     "title": "Nya anfall: Över 800 drönare mot Ryssland",
     "link": "https://www.dn.se/varlden/nya-anfall-over-800-dronare-mot-ryssland/",
     "pubDate": "2026-10-22T08:20:24.000Z",
@@ -8700,7 +8789,7 @@
     "category": "Israeli election (2026)"
   },
   {
-    "id": "dn-97-t-stoppa-hackarna%2F",
+    "id": "dn-98-t-stoppa-hackarna%2F",
     "title": "Simon Campanello: Nu rusar halva internet för att stoppa hackarna",
     "link": "https://www.dn.se/varlden/simon-campanello-nu-rusar-halva-internet-for-att-stoppa-hackarna/",
     "pubDate": "2026-10-22T07:53:16.000Z",
@@ -8773,7 +8862,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-98-ciala-skyddsnatet%2F",
+    "id": "dn-99-ciala-skyddsnatet%2F",
     "title": "Forskare varnar för hål i det sociala skyddsnätet",
     "link": "https://www.dn.se/ekonomi/forskare-varnar-for-hal-i-det-sociala-skyddsnatet/",
     "pubDate": "2026-10-22T07:11:22.000Z",
@@ -8785,7 +8874,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-99-scistisk-thriller%2F",
+    "id": "dn-100-scistisk-thriller%2F",
     "title": "Skogsmullar döljer nazisympatier i ekofascistisk thriller",
     "link": "https://www.dn.se/kultur/skogsmullar-doljer-nazisympatier-i-ekofascistisk-thriller/",
     "pubDate": "2026-10-22T07:09:07.000Z",
@@ -8797,7 +8886,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-100-iga-amazoncheckar%2F",
+    "id": "dn-101-iga-amazoncheckar%2F",
     "title": "Trump sätter sitt namn på statliga Amazoncheckar",
     "link": "https://www.dn.se/varlden/trump-satter-sitt-namn-pa-statliga-amazoncheckar/",
     "pubDate": "2026-10-22T06:57:07.000Z",
@@ -8821,7 +8910,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-101-ansvar-for-ekocid%2F",
+    "id": "dn-102-ansvar-for-ekocid%2F",
     "title": "Jonas Ebbesson: Sverige bör driva på för globalt straffansvar för ekocid",
     "link": "https://www.dn.se/kultur/sverige-bor-driva-pa-for-globalt-straffansvar-for-ekocid/",
     "pubDate": "2026-10-22T06:32:54.000Z",
@@ -8833,7 +8922,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-102-gnal-till-ukraina%2F",
+    "id": "dn-103-gnal-till-ukraina%2F",
     "title": "Nu skeppas första ryska dieseln: ”Signal till Ukraina”",
     "link": "https://www.dn.se/varlden/nu-skeppas-forsta-ryska-dieseln-signal-till-ukraina/",
     "pubDate": "2026-10-22T06:19:55.000Z",
@@ -8869,7 +8958,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-103-ta-skiva-hittills%2F",
+    "id": "dn-104-ta-skiva-hittills%2F",
     "title": "”Ögonblick” är Maxida Märaks bästa skiva hittills",
     "link": "https://www.dn.se/kultur/ogonblick-ar-maxida-maraks-basta-skiva-hittills/",
     "pubDate": "2026-10-22T05:30:08.000Z",
@@ -8881,7 +8970,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-104-tuna-forvanar-mig%2F",
+    "id": "dn-105-tuna-forvanar-mig%2F",
     "title": "Helmerson: Kamratuppfostran på internat? Det hade vi inte en aaaning om!",
     "link": "https://www.dn.se/kultur/helmerson-er-forvaning-om-sigtuna-forvanar-mig/",
     "pubDate": "2026-10-22T05:30:00.000Z",
@@ -8893,7 +8982,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-105-a-varldens-godhet%2F",
+    "id": "dn-106-a-varldens-godhet%2F",
     "title": "Hammarbykaptenen om skjutningen i Älvsjö: ”Får en att tveka på världens godhet”",
     "link": "https://www.dn.se/sport/hammarbykaptenen-om-skjutningen-i-alvsjo-far-en-att-tveka-pa-varldens-godhet/",
     "pubDate": "2026-10-22T05:13:56.000Z",
@@ -8918,7 +9007,7 @@
     "category": "Världen"
   },
   {
-    "id": "dn-106--svenska-kraftnat%2F",
+    "id": "dn-107--svenska-kraftnat%2F",
     "title": "Ytterligare två tunga avhopp på Svenska kraftnät",
     "link": "https://www.dn.se/sverige/ytterligare-tva-tunga-avhopp-pa-svenska-kraftnat/",
     "pubDate": "2026-10-22T05:02:37.000Z",
@@ -8982,7 +9071,7 @@
     "category": "War and Armed Conflicts"
   },
   {
-    "id": "dn-107-erfekta-poptjejen%2F",
+    "id": "dn-108-erfekta-poptjejen%2F",
     "title": "Miss Li: ”Jag kommer aldrig att bli den där perfekta poptjejen”",
     "link": "https://www.dn.se/kultur/miss-li-jag-kommer-aldrig-att-bli-den-dar-perfekta-poptjejen/",
     "pubDate": "2026-10-22T04:08:47.000Z",
@@ -8994,7 +9083,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-108-osta-som-familjen%2F",
+    "id": "dn-109-osta-som-familjen%2F",
     "title": "Var fjärde i utsatta områden känner tryck att rösta som familjen",
     "link": "https://www.dn.se/sverige/var-fjarde-i-utsatta-omraden-kanner-tryck-att-rosta-som-familjen/",
     "pubDate": "2026-10-22T04:06:23.000Z",
@@ -9006,7 +9095,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-109-oktobers-basta-ol%2F",
+    "id": "dn-110-oktobers-basta-ol%2F",
     "title": "Experten tipsar: Här är oktobers bästa öl",
     "link": "https://www.dn.se/mat-dryck/experten-tipsar-har-ar-oktobers-basta-ol/",
     "pubDate": "2026-10-22T04:00:00.000Z",
@@ -9031,7 +9120,7 @@
     "category": "Debatt"
   },
   {
-    "id": "dn-110-h-vinintresserade%2F",
+    "id": "dn-111-h-vinintresserade%2F",
     "title": "Tre evenemang i Stockholm för öl-, cider- och vinintresserade",
     "link": "https://www.dn.se/mat-dryck/tre-evenemang-i-stockholm-for-ol-cider-och-vinintresserade/",
     "pubDate": "2026-10-22T03:58:00.000Z",
@@ -9153,7 +9242,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-111-radda-strommingen%2F",
+    "id": "dn-112-radda-strommingen%2F",
     "title": "Insändare. Enas över blockgränsen för att rädda strömmingen",
     "link": "https://www.dn.se/insandare/enas-over-blockgransen-for-att-radda-strommingen/",
     "pubDate": "2026-10-22T03:00:00.000Z",
@@ -9215,7 +9304,7 @@
     "country": "SE"
   },
   {
-    "id": "atlantic-21-%3Futm_source%3Dfeed",
+    "id": "atlantic-22-%3Futm_source%3Dfeed",
     "title": "Vladimir Putin, the Humanitarian",
     "link": "https://www.theatlantic.com/newsletters/2026/10/congratulations-great-humanitarian-vladimir-putin/689111/?utm_source=feed",
     "pubDate": "2026-10-21T22:56:00.000Z",
@@ -9278,7 +9367,7 @@
     "country": "SE"
   },
   {
-    "id": "atlantic-22-%3Futm_source%3Dfeed",
+    "id": "atlantic-23-%3Futm_source%3Dfeed",
     "title": "Vivek Ramaswamy’s Appalling Campaign Ad",
     "link": "https://www.theatlantic.com/newsletters/2026/10/vivek-ramaswamy-ohio-amy-acton-child-abuse/689108/?utm_source=feed",
     "pubDate": "2026-10-21T21:50:00.000Z",
@@ -9442,7 +9531,7 @@
     "category": "World"
   },
   {
-    "id": "atlantic-23-%3Futm_source%3Dfeed",
+    "id": "atlantic-24-%3Futm_source%3Dfeed",
     "title": "Read This Website While You Still Can",
     "link": "https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/?utm_source=feed",
     "pubDate": "2026-10-21T19:21:21.000Z",
@@ -9591,7 +9680,7 @@
     "country": "SE"
   },
   {
-    "id": "atlantic-24-%3Futm_source%3Dfeed",
+    "id": "atlantic-23-%3Futm_source%3Dfeed",
     "title": "Why Is Everyone Avoiding the Biggest Issue Facing Voters?",
     "link": "https://www.theatlantic.com/newsletters/2026/10/trump-golf-course-dc-potomac/689104/?utm_source=feed",
     "pubDate": "2026-10-21T18:17:00.000Z",
@@ -9600,8 +9689,7 @@
     "sourceShort": "ATLANTIC",
     "badgeColor": "#2b2d42",
     "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Newsletters"
+    "country": "INT"
   },
   {
     "id": "dn-109-aler-om-nya-moten%2F",
@@ -9628,7 +9716,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-112-varldscupsasongen%2F",
+    "id": "dn-113-varldscupsasongen%2F",
     "title": "Shiffrins oväntade besked öppnar för 22-åring från Sundsvall – allt om alpina världscupsäsongen",
     "link": "https://www.dn.se/sport/shiffrins-ovantade-besked-oppnar-for-22-aring-fran-sundsvall-allt-om-alpina-varldscupsasongen/",
     "pubDate": "2026-10-21T18:03:55.000Z",
@@ -9866,7 +9954,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-113-ran-oslos-baksida%2F",
+    "id": "dn-114-ran-oslos-baksida%2F",
     "title": "Han har skrivit en brutal och ärlig skildring från Oslos baksida",
     "link": "https://www.dn.se/kultur/han-har-skrivit-en-brutal-och-arlig-skildring-fran-oslos-baksida/",
     "pubDate": "2026-10-21T16:00:00.000Z",
@@ -9963,7 +10051,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-114-ag-har-gjort-mitt%2F",
+    "id": "dn-115-ag-har-gjort-mitt%2F",
     "title": "Äventyraren snart i mål efter 28 år: ”Jag har gjort mitt”",
     "link": "https://www.dn.se/varlden/aventyraren-snart-i-mal-efter-28-ar-jag-har-gjort-mitt/",
     "pubDate": "2026-10-21T15:25:15.000Z",
@@ -10858,7 +10946,7 @@
     "category": "internal-open-access-from"
   },
   {
-    "id": "dn-115-greps-en-efter-en%2F",
+    "id": "dn-116-greps-en-efter-en%2F",
     "title": "Gänget satte skräck i Sverige – sedan greps en efter en",
     "link": "https://www.dn.se/sverige/ganget-satte-skrack-i-sverige-sedan-greps-en-efter-en/",
     "pubDate": "2026-10-21T04:02:09.000Z",
@@ -10955,7 +11043,7 @@
     "category": "DeepSeek Artificial Intel"
   },
   {
-    "id": "dn-116-er-man-dar-du-bor%2F",
+    "id": "dn-117-er-man-dar-du-bor%2F",
     "title": "Så länge lever man där du bor",
     "link": "https://www.dn.se/sverige/sa-lange-lever-man-dar-du-bor/",
     "pubDate": "2026-10-21T03:12:08.000Z",
@@ -10967,7 +11055,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-117--uppgang-och-fall%2F",
+    "id": "dn-118--uppgang-och-fall%2F",
     "title": "Dalennätverkets uppgång och fall",
     "link": "https://www.dn.se/podd/spotlight/dalennatverkets-uppgang-och-fall/",
     "pubDate": "2026-10-21T03:00:19.000Z",
@@ -11873,7 +11961,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-118-en-otrolig-okning%2F",
+    "id": "dn-119-en-otrolig-okning%2F",
     "title": "Här ökar medellivslängden mest i Sverige: ”En otrolig ökning”",
     "link": "https://www.dn.se/sverige/har-okar-medellivslangden-mest-i-sverige-en-otrolig-okning/",
     "pubDate": "2026-10-20T03:05:03.000Z",
@@ -12388,96 +12476,5 @@
     "textColor": "#ffffff",
     "country": "DE",
     "category": "News"
-  },
-  {
-    "id": "flamman-9-s-som-ingen-annan%2F",
-    "title": "Antikmormor rockar Odysseus som ingen annan",
-    "link": "https://www.flamman.se/antikmormor-rockar-odysseus-som-ingen-annan/",
-    "pubDate": "2026-10-17T06:55:00.000Z",
-    "sourceId": "flamman",
-    "sourceName": "Flamman",
-    "sourceShort": "FLAMMAN",
-    "badgeColor": "#9d0208",
-    "textColor": "#ffffff",
-    "country": "SE",
-    "category": "Kultur"
-  },
-  {
-    "id": "expressen-17-dra-transpersoner%2F",
-    "title": "DEBATT: Byt inte lagen på grund av en person",
-    "link": "https://www.expressen.se/debatt/debatt-lat-inte-lily-skada-andra-transpersoner/",
-    "pubDate": "2026-10-17T03:00:00.000Z",
-    "sourceId": "expressen",
-    "sourceName": "Expressen",
-    "sourceShort": "EXPRESSEN",
-    "badgeColor": "#e30613",
-    "textColor": "#ffffff",
-    "country": "SE",
-    "category": "Debatt"
-  },
-  {
-    "id": "dw-52-en-all-1573-xml-mrss",
-    "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
-    "link": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-xml-mrss",
-    "pubDate": "2026-10-16T19:42:00.000Z",
-    "sourceId": "dw",
-    "sourceName": "Deutsche Welle",
-    "sourceShort": "DW",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "DE",
-    "category": "World"
-  },
-  {
-    "id": "dw-53-en-all-1573-xml-mrss",
-    "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
-    "link": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-xml-mrss",
-    "pubDate": "2026-10-16T17:46:00.000Z",
-    "sourceId": "dw",
-    "sourceName": "Deutsche Welle",
-    "sourceShort": "DW",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "DE",
-    "category": "World"
-  },
-  {
-    "id": "expressen-18-e-om-skogsbrander%2F",
-    "title": "DEBATT: SD-väljare påverkas mindre av skogsbränder",
-    "link": "https://www.expressen.se/debatt/debatt-sd-valjare-bryr-sig-inte-om-skogsbrander/",
-    "pubDate": "2026-10-16T15:00:00.000Z",
-    "sourceId": "expressen",
-    "sourceName": "Expressen",
-    "sourceShort": "EXPRESSEN",
-    "badgeColor": "#e30613",
-    "textColor": "#ffffff",
-    "country": "SE",
-    "category": "Debatt"
-  },
-  {
-    "id": "dw-54-en-all-1573-xml-mrss",
-    "title": "The Bundestag has debated the genocide Germany carried out in Namibia a century ago. But will it spur progress on addressing colonial crimes?",
-    "link": "https://www.dw.com/en/the-bundestag-has-debated-the-genocide-germany-carried-out-in-namibia-a-century-ago-but-will-it-spur-progress-on-addressing-colonial-crimes/a-79682388?maca=en-rss-en-all-1573-xml-mrss",
-    "pubDate": "2026-10-16T14:42:00.000Z",
-    "sourceId": "dw",
-    "sourceName": "Deutsche Welle",
-    "sourceShort": "DW",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "DE",
-    "category": "Germany"
-  },
-  {
-    "id": "dw-55-en-all-1573-xml-mrss",
-    "title": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-    "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-xml-mrss",
-    "pubDate": "2026-10-16T14:23:00.000Z",
-    "sourceId": "dw",
-    "sourceName": "Deutsche Welle",
-    "sourceShort": "DW",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "DE",
-    "category": "World"
   }
 ]

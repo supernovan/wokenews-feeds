@@ -1,5 +1,18 @@
 [
   {
+    "id": "nyt-10-ucation-parents.html",
+    "title": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
+    "link": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
+    "pubDate": "2026-10-23T12:31:23.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Private and Sectarian Sch"
+  },
+  {
     "id": "dn-0-m-londonfavoriter%2F",
     "title": "”Här är stämningen tolerant, urban och obekymrad” – DN-korren listar fem Londonfavoriter",
     "link": "https://www.dn.se/varlden/har-ar-stamningen-tolerant-urban-och-obekymrad-dn-korren-listar-fem-londonfavoriter/",
@@ -515,7 +528,7 @@
     "category": "Världen"
   },
   {
-    "id": "guardian-1-Fy2k-used-cars-gen-z",
+    "id": "guardian-2-Fy2k-used-cars-gen-z",
     "title": "The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
     "pubDate": "2026-10-23T11:30:24.000Z",
@@ -565,19 +578,6 @@
     "textColor": "#ffffff",
     "country": "SE",
     "category": "Världen"
-  },
-  {
-    "id": "nyt-10-ucation-parents.html",
-    "title": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
-    "link": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
-    "pubDate": "2026-10-23T11:27:50.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Private and Sectarian Sch"
   },
   {
     "id": "aftonbladet-8-s%3Futm_medium%3Drss",
@@ -817,7 +817,7 @@
     "category": "Donald Trump"
   },
   {
-    "id": "guardian-5-a-voter-fraud-arrest",
+    "id": "guardian-6-a-voter-fraud-arrest",
     "title": "‘They wanted to make a scene’: the 72-year-old paraded in dramatic arrest for ‘voter fraud’",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/california-voter-fraud-arrest",
     "pubDate": "2026-10-23T11:00:31.000Z",
@@ -1316,7 +1316,7 @@
     "category": "Donald Trump"
   },
   {
-    "id": "guardian-7-s-ballot-initiatives",
+    "id": "guardian-8-s-ballot-initiatives",
     "title": "Billionaire tax and trans rights: what are key state ballot initiatives in midterms?",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/key-midterms-ballot-initiatives",
     "pubDate": "2026-10-23T10:00:30.000Z",
@@ -3347,7 +3347,7 @@
     "category": "Donald Trump"
   },
   {
-    "id": "guardian-7-cases-west-coast-cdc",
+    "id": "guardian-9-cases-west-coast-cdc",
     "title": "Flu cases rise on west coast earlier than usual as US health experts encourage vaccine",
     "link": "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
     "pubDate": "2026-10-23T01:50:38.000Z",
@@ -3398,7 +3398,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-9-iminal-investigation",
+    "id": "guardian-10-iminal-investigation",
     "title": "Department of Justice opens criminal investigation into Corey Lewandowski",
     "link": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
     "pubDate": "2026-10-23T00:55:02.000Z",
@@ -4672,7 +4672,7 @@
     "category": "Typhoons"
   },
   {
-    "id": "guardian-10-investigation-ruling",
+    "id": "guardian-11-investigation-ruling",
     "title": "US judge orders Trump administration to halt noncitizen voting investigation",
     "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-administration-noncitizen-voting-investigation-ruling",
     "pubDate": "2026-10-22T17:38:47.000Z",
@@ -4834,7 +4834,7 @@
     "category": "New York"
   },
   {
-    "id": "guardian-11-deposition-discovery",
+    "id": "guardian-12-deposition-discovery",
     "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
     "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
     "pubDate": "2026-10-22T17:18:12.000Z",

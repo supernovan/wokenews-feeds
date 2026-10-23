@@ -1,5 +1,70 @@
 [
   {
+    "id": "nyt-2--aipac-michigan.html",
+    "title": "Bernie Sanders Gives $1 Million to Bolster El-Sayed and Counter AIPAC in Michigan",
+    "link": "https://www.nytimes.com/2026/10/22/us/politics/sanders-el-sayed-aipac-michigan.html",
+    "pubDate": "2026-10-23T09:31:39.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Midterm Elections (2026)"
+  },
+  {
+    "id": "nyt-2--public-opinion.html",
+    "title": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
+    "link": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
+    "pubDate": "2026-10-23T09:30:47.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Russian Invasion of Ukrai"
+  },
+  {
+    "id": "nyt-7-paganda-epstein.html",
+    "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+    "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+    "pubDate": "2026-10-23T09:30:45.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Houthis"
+  },
+  {
+    "id": "dw-0-en-all-1573-xml-mrss",
+    "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+    "link": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-xml-mrss",
+    "pubDate": "2026-10-23T09:29:00.000Z",
+    "sourceId": "dw",
+    "sourceName": "Deutsche Welle",
+    "sourceShort": "DW",
+    "badgeColor": "#002f6c",
+    "textColor": "#ffffff",
+    "country": "DE",
+    "category": "World"
+  },
+  {
+    "id": "nyt-1-shooting-israel.html",
+    "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+    "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+    "pubDate": "2026-10-23T09:28:42.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Netanyahu, Benjamin"
+  },
+  {
     "id": "aftonbladet-0-t%3Futm_medium%3Drss",
     "title": "Nytt fartyg i sjönöd i Svarta havet",
     "link": "https://www.aftonbladet.se/nyheter/a/64QgVe/nytt-fartyg-i-sjonod-i-svarta-havet?utm_medium=rss",
@@ -148,7 +213,7 @@
     "category": "Hospitality industry"
   },
   {
-    "id": "nyt-13-y-ad-trump-ohio.html",
+    "id": "nyt-14-y-ad-trump-ohio.html",
     "title": "What Ramaswamy’s Vile Ad Reveals About the Future of Conservatism",
     "link": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
     "pubDate": "2026-10-23T09:04:31.000Z",
@@ -186,7 +251,7 @@
     "category": "Elections"
   },
   {
-    "id": "dw-0-en-all-1573-xml-mrss",
+    "id": "dw-1-en-all-1573-xml-mrss",
     "title": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
     "link": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T09:04:00.000Z",
@@ -199,10 +264,10 @@
     "category": "News"
   },
   {
-    "id": "nyt-1-ro-minas-gerais.html",
+    "id": "nyt-3-ro-minas-gerais.html",
     "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
     "link": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
-    "pubDate": "2026-10-23T09:02:53.000Z",
+    "pubDate": "2026-10-23T09:02:54.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
@@ -212,7 +277,7 @@
     "category": "Politics and Government"
   },
   {
-    "id": "nyt-14-igence-midterms.html",
+    "id": "nyt-15-igence-midterms.html",
     "title": "Is This Economy Trump’s Fault?",
     "link": "https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html",
     "pubDate": "2026-10-23T09:02:47.000Z",
@@ -236,19 +301,6 @@
     "textColor": "#ffffff",
     "country": "INT",
     "category": "United States Internation"
-  },
-  {
-    "id": "nyt-5-paganda-epstein.html",
-    "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-    "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-    "pubDate": "2026-10-23T09:00:52.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Houthis"
   },
   {
     "id": "guardian-13-Ftrump-moral-squalor",
@@ -277,19 +329,7 @@
     "category": "Brexit"
   },
   {
-    "id": "npr-0-unoff-lula-bolsonaro",
-    "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
-    "pubDate": "2026-10-23T09:00:00.000Z",
-    "sourceId": "npr",
-    "sourceName": "NPR",
-    "sourceShort": "NPR",
-    "badgeColor": "#d62027",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
-    "id": "npr-1-rice-holiday-airfare",
+    "id": "npr-0-rice-holiday-airfare",
     "title": "With jet fuel prices near a record, holiday airfares soar higher",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
     "pubDate": "2026-10-23T09:00:00.000Z",
@@ -301,7 +341,7 @@
     "country": "INT"
   },
   {
-    "id": "npr-2-n-phone-call-myanmar",
+    "id": "npr-1-n-phone-call-myanmar",
     "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
     "pubDate": "2026-10-23T09:00:00.000Z",
@@ -313,7 +353,7 @@
     "country": "INT"
   },
   {
-    "id": "npr-3-lan-a-say-no-retreat",
+    "id": "npr-2-lan-a-say-no-retreat",
     "title": "What if you gave yourself a day to cancel all the plans you dread?",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
     "pubDate": "2026-10-23T09:00:00.000Z",
@@ -325,7 +365,7 @@
     "country": "INT"
   },
   {
-    "id": "npr-4-ousing-affordability",
+    "id": "npr-3-ousing-affordability",
     "title": "Gen Z candidates in both parties aim to tackle high housing costs",
     "link": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
     "pubDate": "2026-10-23T09:00:00.000Z",
@@ -337,9 +377,21 @@
     "country": "INT"
   },
   {
-    "id": "npr-5-ating-black-students",
+    "id": "npr-4-ating-black-students",
     "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
     "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
+    "pubDate": "2026-10-23T09:00:00.000Z",
+    "sourceId": "npr",
+    "sourceName": "NPR",
+    "sourceShort": "NPR",
+    "badgeColor": "#d62027",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "npr-5-unoff-lula-bolsonaro",
+    "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
     "pubDate": "2026-10-23T09:00:00.000Z",
     "sourceId": "npr",
     "sourceName": "NPR",
@@ -386,7 +438,7 @@
     "category": "France"
   },
   {
-    "id": "dw-1-en-all-1573-xml-mrss",
+    "id": "dw-2-en-all-1573-xml-mrss",
     "title": "Germany news: Wadephul says 'threat of famine' due to ongoing wars",
     "link": "https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T08:48:00.000Z",
@@ -497,7 +549,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-2-en-all-1573-xml-mrss",
+    "id": "dw-3-en-all-1573-xml-mrss",
     "title": "Israel preparing 'full closure' of West Bank, Netanyahu says",
     "link": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T08:25:00.000Z",
@@ -659,7 +711,7 @@
     "category": "Russian Invasion of Ukrai"
   },
   {
-    "id": "dw-3-en-all-1573-xml-mrss",
+    "id": "dw-4-en-all-1573-xml-mrss",
     "title": "South Korea proposes military talks with North again",
     "link": "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T07:50:00.000Z",
@@ -672,7 +724,7 @@
     "category": "News"
   },
   {
-    "id": "nyt-4-ake-tibet-china.html",
+    "id": "nyt-6-ake-tibet-china.html",
     "title": "Powerful Earthquake in Tibet Kills at Least 16",
     "link": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
     "pubDate": "2026-10-23T07:40:46.000Z",
@@ -796,7 +848,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-4-en-all-1573-xml-mrss",
+    "id": "dw-5-en-all-1573-xml-mrss",
     "title": "Germany sit out FIFA Under-15 World Cup as Russia return",
     "link": "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T07:17:00.000Z",
@@ -934,7 +986,7 @@
     "category": "Ekonomi"
   },
   {
-    "id": "dw-5-en-all-1573-xml-mrss",
+    "id": "dw-6-en-all-1573-xml-mrss",
     "title": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
     "link": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T06:40:00.000Z",
@@ -1132,7 +1184,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-15-ght-trump-ocean.html",
+    "id": "nyt-16-ght-trump-ocean.html",
     "title": "Late Night Dunks on Trump for Planning to Rename an Ocean",
     "link": "https://www.nytimes.com/2026/10/23/arts/television/late-night-trump-ocean.html",
     "pubDate": "2026-10-23T05:52:30.000Z",
@@ -1170,7 +1222,7 @@
     "category": "Serbia"
   },
   {
-    "id": "dw-6-en-all-1573-xml-mrss",
+    "id": "dw-7-en-all-1573-xml-mrss",
     "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
     "link": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T05:37:00.000Z",
@@ -1231,7 +1283,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-7-en-all-1573-xml-mrss",
+    "id": "dw-8-en-all-1573-xml-mrss",
     "title": "Embarrassing name? How we live with names we don't like",
     "link": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T05:29:00.000Z",
@@ -1244,7 +1296,7 @@
     "category": "Science"
   },
   {
-    "id": "nyt-6-s-drones-russia.html",
+    "id": "nyt-8-s-drones-russia.html",
     "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
     "link": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
     "pubDate": "2026-10-23T05:13:32.000Z",
@@ -1447,7 +1499,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-8-en-all-1573-xml-mrss",
+    "id": "dw-9-en-all-1573-xml-mrss",
     "title": "India news: Thousands of Indian pilgrims stranded in Saudi Arabia as Houthi attacks disrupt flights",
     "link": "https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights/live-79738437?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T04:46:00.000Z",
@@ -1595,7 +1647,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-3-c-church-rumors.html",
+    "id": "nyt-5-c-church-rumors.html",
     "title": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
     "link": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html",
     "pubDate": "2026-10-23T04:01:16.000Z",
@@ -1608,7 +1660,7 @@
     "category": "Ebola Virus"
   },
   {
-    "id": "nyt-2-israel-election.html",
+    "id": "nyt-4-israel-election.html",
     "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
     "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
     "pubDate": "2026-10-23T04:01:13.000Z",
@@ -1831,7 +1883,7 @@
     "category": "Världen"
   },
   {
-    "id": "dw-9-en-all-1573-xml-mrss",
+    "id": "dw-10-en-all-1573-xml-mrss",
     "title": "Serbia: Tens of thousands rally ahead of elections",
     "link": "https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T03:15:00.000Z",
@@ -1894,7 +1946,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-10-en-all-1573-xml-mrss",
+    "id": "dw-11-en-all-1573-xml-mrss",
     "title": "Airbnb scraps guest checkout chores such as cleaning",
     "link": "https://www.dw.com/en/airbnb-scraps-guest-checkout-chores-such-as-cleaning/a-79738340?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T02:14:00.000Z",
@@ -2010,7 +2062,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-7-an-workers-jobs.html",
+    "id": "nyt-8-an-workers-jobs.html",
     "title": "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition",
     "link": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
     "pubDate": "2026-10-23T00:40:08.000Z",
@@ -2061,7 +2113,7 @@
     "category": "Världen"
   },
   {
-    "id": "nyt-5-ce-dept-inquiry.html",
+    "id": "nyt-6-ce-dept-inquiry.html",
     "title": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
     "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
     "pubDate": "2026-10-22T23:57:34.000Z",
@@ -2100,7 +2152,7 @@
     "category": "Technology"
   },
   {
-    "id": "nyt-6-signs-rfk-trump.html",
+    "id": "nyt-7-signs-rfk-trump.html",
     "title": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
     "link": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
     "pubDate": "2026-10-22T23:33:19.000Z",
@@ -2126,7 +2178,7 @@
     "category": "Rebel Wilson"
   },
   {
-    "id": "dw-11-en-all-1573-xml-mrss",
+    "id": "dw-12-en-all-1573-xml-mrss",
     "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
     "link": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T23:24:00.000Z",
@@ -2163,19 +2215,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "King Charles III"
-  },
-  {
-    "id": "nyt-2--aipac-michigan.html",
-    "title": "Bernie Sanders Gives $1 Million to Bolster El-Sayed and Counter AIPAC in Michigan",
-    "link": "https://www.nytimes.com/2026/10/22/us/politics/sanders-el-sayed-aipac-michigan.html",
-    "pubDate": "2026-10-22T23:02:57.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Midterm Elections (2026)"
   },
   {
     "id": "guardian-39-se-nhs-waiting-times",
@@ -2216,7 +2255,7 @@
     "category": "Drugs (Pharmaceuticals)"
   },
   {
-    "id": "nyt-11-nalist-politics.html",
+    "id": "nyt-13-nalist-politics.html",
     "title": "Serbian Election Underscores the Region’s Long Political Limbo",
     "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
     "pubDate": "2026-10-22T22:44:35.000Z",
@@ -2523,7 +2562,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-12-en-all-1573-xml-mrss",
+    "id": "dw-13-en-all-1573-xml-mrss",
     "title": "Poland: Thousands protest for more abortion rights",
     "link": "https://www.dw.com/en/poland-thousands-protest-for-more-abortion-rights/a-79737572?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T20:52:00.000Z",
@@ -2650,7 +2689,7 @@
     "category": "Midterm Elections (2026)"
   },
   {
-    "id": "nyt-11-m-skerritt-dead.html",
+    "id": "nyt-12-m-skerritt-dead.html",
     "title": "Tom Skerritt, Who Had Key Roles in ‘Picket Fences’ and ‘Top Gun,’ Dies at 93",
     "link": "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html",
     "pubDate": "2026-10-22T19:58:29.000Z",
@@ -2779,7 +2818,7 @@
     "category": "Personal Finances"
   },
   {
-    "id": "dw-13-en-all-1573-xml-mrss",
+    "id": "dw-14-en-all-1573-xml-mrss",
     "title": "Albania's student protests are only getting bigger",
     "link": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T19:18:00.000Z",
@@ -2792,7 +2831,7 @@
     "category": "World"
   },
   {
-    "id": "dw-14-en-all-1573-xml-mrss",
+    "id": "dw-15-en-all-1573-xml-mrss",
     "title": "Lina Attalah: Mada Masr journalist sent for trial in Egypt",
     "link": "https://www.dw.com/en/lina-attalah-mada-masr-journalist-sent-for-trial-in-egypt/a-79736647?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T19:17:00.000Z",
@@ -2879,7 +2918,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-9-protests-macron.html",
+    "id": "nyt-11-protests-macron.html",
     "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
     "link": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
     "pubDate": "2026-10-22T19:02:05.000Z",
@@ -3081,7 +3120,7 @@
     "category": "Politics"
   },
   {
-    "id": "dw-15-en-all-1573-xml-mrss",
+    "id": "dw-16-en-all-1573-xml-mrss",
     "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
     "link": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T18:18:00.000Z",
@@ -3132,7 +3171,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-7--dammam-airport.html",
+    "id": "nyt-9--dammam-airport.html",
     "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
     "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
     "pubDate": "2026-10-22T18:07:36.000Z",
@@ -3207,7 +3246,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "nyt-13-n-champi-mayors.html",
+    "id": "nyt-21-n-champi-mayors.html",
     "title": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
     "link": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html",
     "pubDate": "2026-10-22T17:39:10.000Z",
@@ -3420,7 +3459,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-16-en-all-1573-xml-mrss",
+    "id": "dw-17-en-all-1573-xml-mrss",
     "title": "Canada's Mark Carney visits Turkey to boost trade ties",
     "link": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T17:07:00.000Z",
@@ -3583,7 +3622,7 @@
     "category": "Golden State Warriors"
   },
   {
-    "id": "dw-17-en-all-1573-xml-mrss",
+    "id": "dw-18-en-all-1573-xml-mrss",
     "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
     "link": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T16:28:00.000Z",
@@ -3659,7 +3698,7 @@
     "category": "Archives and Records"
   },
   {
-    "id": "nyt-12-ybersecurity-ai.html",
+    "id": "nyt-22-ybersecurity-ai.html",
     "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
     "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
     "pubDate": "2026-10-22T16:01:36.000Z",
@@ -3672,7 +3711,7 @@
     "category": "Computer Security"
   },
   {
-    "id": "dw-18-en-all-1573-xml-mrss",
+    "id": "dw-19-en-all-1573-xml-mrss",
     "title": "Are the French police the most violent in the EU?",
     "link": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T16:01:00.000Z",
@@ -3747,7 +3786,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-10-ns-human-rights.html",
+    "id": "nyt-12-ns-human-rights.html",
     "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
     "link": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
     "pubDate": "2026-10-22T15:44:46.000Z",
@@ -3858,7 +3897,7 @@
     "category": "Sport"
   },
   {
-    "id": "nyt-8-ump-ukraine-war.html",
+    "id": "nyt-10-ump-ukraine-war.html",
     "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
     "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
     "pubDate": "2026-10-22T15:22:53.000Z",
@@ -4934,7 +4973,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-23-ery-nomad-games.html",
+    "id": "nyt-25-ery-nomad-games.html",
     "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
     "link": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
     "pubDate": "2026-10-22T11:04:08.000Z",
@@ -5245,7 +5284,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-21-nesia-minnesota.html",
+    "id": "nyt-23-nesia-minnesota.html",
     "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
     "link": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
     "pubDate": "2026-10-22T09:03:31.000Z",
@@ -5505,7 +5544,7 @@
     "category": "Environment"
   },
   {
-    "id": "nyt-41-israel-election.html",
+    "id": "nyt-43-israel-election.html",
     "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
     "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
     "pubDate": "2026-10-22T08:04:47.000Z",
@@ -5554,7 +5593,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-25-y-zoo-australia.html",
+    "id": "nyt-27-y-zoo-australia.html",
     "title": "Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof",
     "link": "https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html",
     "pubDate": "2026-10-22T07:30:31.000Z",
@@ -5774,7 +5813,7 @@
     "category": "Utrikes"
   },
   {
-    "id": "nyt-29-tests-russia-us.html",
+    "id": "nyt-31-tests-russia-us.html",
     "title": "A Debt-Fueled “Doom Loop”",
     "link": "https://www.nytimes.com/2026/10/21/world/debt-france-protests-russia-us.html",
     "pubDate": "2026-10-22T04:45:28.000Z",
@@ -5787,7 +5826,7 @@
     "category": "internal-open-access-from"
   },
   {
-    "id": "nyt-22-rainforest-haze.html",
+    "id": "nyt-24-rainforest-haze.html",
     "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
     "link": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
     "pubDate": "2026-10-22T04:22:51.000Z",
@@ -5800,7 +5839,7 @@
     "category": "Indonesia"
   },
   {
-    "id": "nyt-24-istan-proxy-war.html",
+    "id": "nyt-26-istan-proxy-war.html",
     "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
     "link": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
     "pubDate": "2026-10-22T04:10:29.000Z",
@@ -5959,7 +5998,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-33-n-drone-strikes.html",
+    "id": "nyt-35-n-drone-strikes.html",
     "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
     "link": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
     "pubDate": "2026-10-22T03:26:58.000Z",
@@ -6021,7 +6060,7 @@
     "category": "US news"
   },
   {
-    "id": "nyt-26-ary-haiti-gangs.html",
+    "id": "nyt-28-ary-haiti-gangs.html",
     "title": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
     "link": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
     "pubDate": "2026-10-21T23:13:39.000Z",
@@ -6071,7 +6110,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-27-pope-leo-cancer.html",
+    "id": "nyt-29-pope-leo-cancer.html",
     "title": "Pope Needs No Further Treatment for Lung Cancer, Doctors Say",
     "link": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
     "pubDate": "2026-10-21T22:18:16.000Z",
@@ -6147,7 +6186,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-30-ts-youth-future.html",
+    "id": "nyt-32-ts-youth-future.html",
     "title": "Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future",
     "link": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
     "pubDate": "2026-10-21T21:05:46.000Z",
@@ -6184,7 +6223,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-28-en-ai-publisher.html",
+    "id": "nyt-30-en-ai-publisher.html",
     "title": "Thélyson Orélien's Quebec Publisher Cuts Ties Over A.I. Accusations",
     "link": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html",
     "pubDate": "2026-10-21T20:47:35.000Z",
@@ -6197,7 +6236,7 @@
     "category": "Orelien, Thelyson"
   },
   {
-    "id": "nyt-37-k-bukangi-busan.html",
+    "id": "nyt-39-k-bukangi-busan.html",
     "title": "Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal",
     "link": "https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html",
     "pubDate": "2026-10-21T20:44:41.000Z",
@@ -6286,7 +6325,7 @@
     "category": "Technology"
   },
   {
-    "id": "nyt-34-france-protests.html",
+    "id": "nyt-36-france-protests.html",
     "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
     "link": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
     "pubDate": "2026-10-21T19:16:14.000Z",
@@ -6311,7 +6350,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-31-i-cybersecurity.html",
+    "id": "nyt-33-i-cybersecurity.html",
     "title": "A.I. Discovered a Critical Vulnerability in PHP, a Coding Language Behind Many Websites",
     "link": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
     "pubDate": "2026-10-21T19:04:36.000Z",
@@ -6336,7 +6375,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-38-n-videos-brazil.html",
+    "id": "nyt-40-n-videos-brazil.html",
     "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
     "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
     "pubDate": "2026-10-21T19:03:46.000Z",
@@ -6361,7 +6400,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-44-cockroach-party.html",
+    "id": "nyt-46-cockroach-party.html",
     "title": "Modi Seeks to Calm Allies by Shackling Gen Z Protests",
     "link": "https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html",
     "pubDate": "2026-10-21T18:59:00.000Z",
@@ -6521,7 +6560,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-32-lhi-air-quality.html",
+    "id": "nyt-34-lhi-air-quality.html",
     "title": "Delhi’s Winter Season of Polluted Air Begins",
     "link": "https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html",
     "pubDate": "2026-10-21T17:32:03.000Z",
@@ -6547,7 +6586,7 @@
     "category": "Guinea-Bissau"
   },
   {
-    "id": "nyt-35-tarlink-ukraine.html",
+    "id": "nyt-37-tarlink-ukraine.html",
     "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
     "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
     "pubDate": "2026-10-21T17:11:32.000Z",
@@ -6572,7 +6611,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-46-eferendum-trump.html",
+    "id": "nyt-48-eferendum-trump.html",
     "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
     "link": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
     "pubDate": "2026-10-21T17:06:01.000Z",
@@ -6882,7 +6921,7 @@
     "category": "Books"
   },
   {
-    "id": "nyt-43-rts-ai-controls.html",
+    "id": "nyt-45-rts-ai-controls.html",
     "title": "China’s Free A.I. Models Are Thrown Into Uncertainty",
     "link": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
     "pubDate": "2026-10-21T14:43:43.000Z",
@@ -7093,7 +7132,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-36-risoner-release.html",
+    "id": "nyt-38-risoner-release.html",
     "title": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
     "link": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
     "pubDate": "2026-10-21T13:10:45.000Z",
@@ -7275,7 +7314,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-45-hones-commuters.html",
+    "id": "nyt-47-hones-commuters.html",
     "title": "UK to Headphone Dodgers on Trains: Shush",
     "link": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
     "pubDate": "2026-10-21T11:01:21.000Z",
@@ -7288,7 +7327,7 @@
     "category": "London (England)"
   },
   {
-    "id": "nyt-42-ian-politicians.html",
+    "id": "nyt-44-ian-politicians.html",
     "title": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
     "link": "https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html",
     "pubDate": "2026-10-21T10:57:42.000Z",
@@ -7337,7 +7376,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-40-las-earthquakes.html",
+    "id": "nyt-42-las-earthquakes.html",
     "title": "Why These Towers Collapsed in Venezuela’s Earthquakes",
     "link": "https://www.nytimes.com/video/world/americas/100000011160984/why-these-towers-collapsed-in-venezuelas-earthquakes.html",
     "pubDate": "2026-10-21T10:23:10.000Z",
@@ -7423,7 +7462,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-47-france-protests.html",
+    "id": "nyt-49-france-protests.html",
     "title": "Art Basel Paris Preview Draws Interest Despite Protests",
     "link": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
     "pubDate": "2026-10-21T09:13:37.000Z",
@@ -7448,7 +7487,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-39-thquakes-deaths.html",
+    "id": "nyt-41-thquakes-deaths.html",
     "title": "Death Toll From Venezuela Quakes Likely Far Exceeds Official Count",
     "link": "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html",
     "pubDate": "2026-10-21T09:00:24.000Z",
@@ -10794,7 +10833,7 @@
     "country": "DE"
   },
   {
-    "id": "nyt-8-es-over-at-last.html",
+    "id": "nyt-9-es-over-at-last.html",
     "title": "The History of the Carriage Horses in Central Park",
     "link": "https://www.nytimes.com/2026/07/17/nyregion/is-new-yorks-love-hate-relationship-with-horse-carriages-over-at-last.html",
     "pubDate": "2026-07-17T16:20:07.000Z",

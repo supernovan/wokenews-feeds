@@ -381,8 +381,8 @@
   },
   {
     "id": "dw-1-en-all-1573-xml-mrss",
-    "title": "French police are investigating a possible terror-related shooting near Paris that left one dead",
-    "link": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-xml-mrss",
+    "title": "France: 1 killed, 4 wounded after shooting near Paris",
+    "link": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T11:22:00.000Z",
     "sourceId": "dw",
     "sourceName": "Deutsche Welle",
@@ -394,8 +394,8 @@
   },
   {
     "id": "dw-1-en-all-1573-xml-mrss",
-    "title": "France: 1 killed, 4 wounded after shooting near Paris",
-    "link": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-xml-mrss",
+    "title": "French police are investigating a possible terror-related shooting near Paris that left one dead",
+    "link": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T11:22:00.000Z",
     "sourceId": "dw",
     "sourceName": "Deutsche Welle",
@@ -1531,19 +1531,7 @@
     "country": "INT"
   },
   {
-    "id": "npr-7-n-phone-call-myanmar",
-    "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
-    "pubDate": "2026-10-23T09:00:00.000Z",
-    "sourceId": "npr",
-    "sourceName": "NPR",
-    "sourceShort": "NPR",
-    "badgeColor": "#d62027",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
-    "id": "npr-8-unoff-lula-bolsonaro",
+    "id": "npr-7-unoff-lula-bolsonaro",
     "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
     "pubDate": "2026-10-23T09:00:00.000Z",
@@ -1555,9 +1543,21 @@
     "country": "INT"
   },
   {
-    "id": "npr-9-rice-holiday-airfare",
+    "id": "npr-8-rice-holiday-airfare",
     "title": "With jet fuel prices near a record, holiday airfares soar higher",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
+    "pubDate": "2026-10-23T09:00:00.000Z",
+    "sourceId": "npr",
+    "sourceName": "NPR",
+    "sourceShort": "NPR",
+    "badgeColor": "#d62027",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "npr-9-n-phone-call-myanmar",
+    "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
     "pubDate": "2026-10-23T09:00:00.000Z",
     "sourceId": "npr",
     "sourceName": "NPR",

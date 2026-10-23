@@ -1,5 +1,69 @@
 [
   {
+    "id": "guardian-35-r-south-west-england",
+    "title": "Thousands of homes without power as Storm Austen hits south-west England",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
+    "pubDate": "2026-10-23T13:23:38.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "UK weather"
+  },
+  {
+    "id": "svt-0-om-gavle-efter-krock",
+    "title": "E4 avstängd norr om Gävle efter krock",
+    "link": "https://www.svt.se/nyheter/lokalt/gavleborg/e4-avstangd-norr-om-gavle-efter-krock",
+    "pubDate": "2026-10-23T13:19:49.000Z",
+    "sourceId": "svt",
+    "sourceName": "SVT Nyheter",
+    "sourceShort": "SVT",
+    "badgeColor": "#002f6c",
+    "textColor": "#ffffff",
+    "country": "SE"
+  },
+  {
+    "id": "nyt-19-igence-midterms.html",
+    "title": "There Are Solutions to This Crazy Economy. Voters Will Hate Them.",
+    "link": "https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html",
+    "pubDate": "2026-10-23T13:17:49.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "audio-neutral-informative"
+  },
+  {
+    "id": "guardian-36--latest-news-updates",
+    "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
+    "pubDate": "2026-10-23T13:17:20.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Politics"
+  },
+  {
+    "id": "guardian-40-swamy-latest-updates",
+    "title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+    "pubDate": "2026-10-23T13:15:09.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "US midterm elections 2026"
+  },
+  {
     "id": "dn-0-extremt-daligt-nu%2F",
     "title": "Tennisklubben larmade om anläggningsproblem – sedan brann en bana upp: ”Extremt dåligt nu”",
     "link": "https://www.dn.se/sport/tennisklubben-larmade-om-anlaggningsproblem-sedan-brann-en-bana-upp-extremt-daligt-nu/",
@@ -12,7 +76,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-0-till-kulturutskottet",
+    "id": "svt-1-till-kulturutskottet",
     "title": "Statens fastighetsverk kallas till kulturutskottet",
     "link": "https://www.svt.se/kultur/konflikt-om-museers-hyror-till-kulturutskottet",
     "pubDate": "2026-10-23T13:12:09.000Z",
@@ -22,6 +86,19 @@
     "badgeColor": "#002f6c",
     "textColor": "#ffffff",
     "country": "SE"
+  },
+  {
+    "id": "guardian-20--latest-news-updates",
+    "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+    "pubDate": "2026-10-23T13:10:24.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "World news"
   },
   {
     "id": "nyt-3-france-shooting.html",
@@ -37,7 +114,7 @@
     "category": "France"
   },
   {
-    "id": "guardian-35-acks-woolwich-london",
+    "id": "guardian-37-acks-woolwich-london",
     "title": "Met police searching for suspect after man shot near Royal Artillery Barracks",
     "link": "https://www.theguardian.com/uk-news/2026/oct/23/shooting-royal-artillery-barracks-woolwich-london",
     "pubDate": "2026-10-23T13:08:56.000Z",
@@ -63,7 +140,7 @@
     "category": "News"
   },
   {
-    "id": "nyt-8-aine-musk-trump.html",
+    "id": "nyt-7-aine-musk-trump.html",
     "title": "Trump Asked Musk to Reverse Starshield Restrictions on Ukraine",
     "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
     "pubDate": "2026-10-23T13:05:59.000Z",
@@ -139,19 +216,6 @@
     "category": "Life"
   },
   {
-    "id": "guardian-20--latest-news-updates",
-    "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-    "pubDate": "2026-10-23T13:02:53.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "World news"
-  },
-  {
     "id": "aftonbladet-0-e%3Futm_medium%3Drss",
     "title": "Efterlyst överlämnad från arabemiraten till Sverige",
     "link": "https://www.aftonbladet.se/nyheter/a/9k12b5/efterlyst-overlamnad-fran-arabemiraten-till-sverige?utm_medium=rss",
@@ -202,7 +266,7 @@
     "category": "Meghan, the Duchess of Su"
   },
   {
-    "id": "guardian-36-y-stockpile-twiglets",
+    "id": "guardian-38-y-stockpile-twiglets",
     "title": "Andy Burnham says he has emergency stockpile of beans, soup and Twiglets",
     "link": "https://www.theguardian.com/society/2026/oct/23/andy-burnham-emergency-stockpile-twiglets",
     "pubDate": "2026-10-23T12:57:06.000Z",
@@ -215,7 +279,7 @@
     "category": "Emergency planning"
   },
   {
-    "id": "nyt-7-y-boards-retain.html",
+    "id": "nyt-6-y-boards-retain.html",
     "title": "Hegseth Barred Trans Troops. Military Boards Are Rejecting Those Orders.",
     "link": "https://www.nytimes.com/2026/10/23/us/trans-troops-military-boards-retain.html",
     "pubDate": "2026-10-23T12:55:22.000Z",
@@ -253,17 +317,16 @@
     "category": "Nyheter"
   },
   {
-    "id": "guardian-37--latest-news-updates",
-    "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
-    "pubDate": "2026-10-23T12:50:34.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Politics"
+    "id": "svt-2-amad-ko-lag-i-godsel",
+    "title": "Döms för djurplågeri – förlamad ko låg i gödsel",
+    "link": "https://www.svt.se/nyheter/lokalt/halland/doms-for-djurplageri-forlamad-ko-lag-i-godsel",
+    "pubDate": "2026-10-23T12:47:21.000Z",
+    "sourceId": "svt",
+    "sourceName": "SVT Nyheter",
+    "sourceShort": "SVT",
+    "badgeColor": "#002f6c",
+    "textColor": "#ffffff",
+    "country": "SE"
   },
   {
     "id": "guardian-9--fatal-ice-shootings",
@@ -366,20 +429,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-40-swamy-latest-updates",
-    "title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-    "pubDate": "2026-10-23T12:36:46.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "US midterm elections 2026"
-  },
-  {
-    "id": "nyt-10-ucation-parents.html",
+    "id": "nyt-9-ucation-parents.html",
     "title": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
     "link": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
     "pubDate": "2026-10-23T12:31:23.000Z",
@@ -416,7 +466,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-38-es-headphone-dodgers",
+    "id": "guardian-39-es-headphone-dodgers",
     "title": "Potholes, bus fares and headphone dodgers: will Burnham’s strategy of ‘everyday fixes’ succeed?",
     "link": "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
     "pubDate": "2026-10-23T12:26:53.000Z",
@@ -553,7 +603,7 @@
     "category": "Texas"
   },
   {
-    "id": "svt-1-v-pa-bilar-idiotiskt",
+    "id": "svt-3-v-pa-bilar-idiotiskt",
     "title": "Ebba Busch (KD) om minskade klimatkrav på bilar: ”Idiotiskt”",
     "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-kd-om-minskade-klimatkrav-pa-bilar-idiotiskt",
     "pubDate": "2026-10-23T12:14:31.000Z",
@@ -565,7 +615,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-2-att-det-blivit-sahar",
+    "id": "svt-4-att-det-blivit-sahar",
     "title": "Dömda systrarnas ord från häktet: ”Ofattbart att det blivit såhär”",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/domda-systrarnas-ord-fran-haktet-ofattbart-att-det-blivit-sahar",
     "pubDate": "2026-10-23T12:14:06.000Z",
@@ -628,7 +678,7 @@
   },
   {
     "id": "guardian-21-nk-satellite-network",
-    "title": "Ukraine troops report ongoing problems with Starlink satellite network",
+    "title": "Ukraine troops report continuing Starlink problems despite Trump claims",
     "link": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
     "pubDate": "2026-10-23T12:09:08.000Z",
     "sourceId": "guardian",
@@ -638,19 +688,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "Ukraine"
-  },
-  {
-    "id": "guardian-39-r-south-west-england",
-    "title": "Thousands of homes without power as Storm Austen hits south-west England",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
-    "pubDate": "2026-10-23T12:08:21.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "UK weather"
   },
   {
     "id": "dn-10--utnyttjas-for-ai%2F",
@@ -802,19 +839,6 @@
     "category": "Politics and Government"
   },
   {
-    "id": "nyt-20-igence-midterms.html",
-    "title": "Is This Economy Trump’s Fault?",
-    "link": "https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html",
-    "pubDate": "2026-10-23T11:35:58.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "audio-neutral-informative"
-  },
-  {
     "id": "guardian-25--renews-strikes-iran",
     "title": "Oil hits five-month high amid fears US will renew strikes on Iran",
     "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
@@ -866,7 +890,7 @@
     "category": "Vader"
   },
   {
-    "id": "nyt-21-e-being-watched.html",
+    "id": "nyt-20-e-being-watched.html",
     "title": "You Are Being Watched",
     "link": "https://www.nytimes.com/2026/10/23/briefing/you-are-being-watched.html",
     "pubDate": "2026-10-23T11:33:38.000Z",
@@ -1006,7 +1030,7 @@
     "category": "News"
   },
   {
-    "id": "svt-3--tillhor-nagon-annan",
+    "id": "svt-5--tillhor-nagon-annan",
     "title": "Kronofogden förklarar – därför säljer de klänningar som tillhör någon annan",
     "link": "https://www.svt.se/nyheter/lokalt/smaland/kronofogden-forklarar-darfor-saljer-de-klanningar-som-tillhor-nagon-annan",
     "pubDate": "2026-10-23T11:16:18.000Z",
@@ -1031,7 +1055,7 @@
     "category": "Polls and Public Opinion"
   },
   {
-    "id": "svt-4-gdens-auktion-snopet",
+    "id": "svt-6-gdens-auktion-snopet",
     "title": "Evelinas brudklänning dök upp på Kronofogdens auktion: ”Snopet”",
     "link": "https://www.svt.se/nyheter/lokalt/smaland/evelinas-brudklanning-dok-upp-pa-kronofogdens-auktion-snopet",
     "pubDate": "2026-10-23T11:14:42.000Z",
@@ -1043,7 +1067,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-4-wns-midterms-ad.html",
+    "id": "nyt-3-wns-midterms-ad.html",
     "title": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
     "link": "https://www.nytimes.com/2026/10/23/podcasts/the-headlines/ai-cameras-border-towns-midterms-ad.html",
     "pubDate": "2026-10-23T11:14:09.000Z",
@@ -1156,7 +1180,7 @@
   },
   {
     "id": "guardian-43--rallies-male-bodies",
-    "title": "What’s up with Trump’s unhinged rants on male candidates’ bodies at rallies?",
+    "title": "What’s up with Trump’s unhinged fixation on male candidates’ bodies at rallies?",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/trump-midterm-rallies-male-bodies",
     "pubDate": "2026-10-23T11:00:32.000Z",
     "sourceId": "guardian",
@@ -1295,7 +1319,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-5-alla-sjukdomsorsaken",
+    "id": "svt-7-alla-sjukdomsorsaken",
     "title": "Expertgranskning: SSAB kan inte fastställa sjukdomsorsaken",
     "link": "https://www.svt.se/nyheter/lokalt/norrbotten/expertgranskning-ssab-kan-inte-faststalla-sjukdomsorsaken",
     "pubDate": "2026-10-23T10:45:42.000Z",
@@ -1307,7 +1331,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-6-utanfor-paris-en-dod",
+    "id": "svt-8-utanfor-paris-en-dod",
     "title": "Skjutning utanför Paris – en död",
     "link": "https://www.svt.se/nyheter/utrikes/skjutning-utanfor-paris-en-dod",
     "pubDate": "2026-10-23T10:45:15.000Z",
@@ -1331,7 +1355,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-7-pa-regeringskansliet",
+    "id": "svt-9-pa-regeringskansliet",
     "title": "AI-tjänster spärras på Regeringskansliet",
     "link": "https://www.svt.se/nyheter/inrikes/ai-tjanster-sparras-pa-regeringskansliet",
     "pubDate": "2026-10-23T10:36:42.000Z",
@@ -1556,7 +1580,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-19-y-ad-trump-ohio.html",
+    "id": "nyt-18-y-ad-trump-ohio.html",
     "title": "The Meaning of the Republican War Over Ramaswamy’s Vile Ad",
     "link": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
     "pubDate": "2026-10-23T10:11:50.000Z",
@@ -1629,7 +1653,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-8-l-gallivare-narradio",
+    "id": "svt-10-l-gallivare-narradio",
     "title": "SD-politiker vill stoppa skattepengar till Gällivare närradio",
     "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sd-politiker-vill-stoppa-skattepengar-till-gallivare-narradio",
     "pubDate": "2026-10-23T10:00:50.000Z",
@@ -1719,7 +1743,7 @@
     "category": "France"
   },
   {
-    "id": "svt-9-as-anvande-tamponger",
+    "id": "svt-11-as-anvande-tamponger",
     "title": "Kvinnor använde tamponger för att tända eld på flera bilar i Jönköping – nu åtalas de",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/kvinnorna-tande-eld-pa-flera-bilar-i-somras-anvande-tamponger",
     "pubDate": "2026-10-23T09:54:44.000Z",
@@ -1940,7 +1964,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-10-d-uppdrag-granskning",
+    "id": "svt-12-d-uppdrag-granskning",
     "title": "Uppsala moské avskedar imam efter intervju med Uppdrag granskning",
     "link": "https://www.svt.se/nyheter/lokalt/uppsala/uppsala-moske-avskedar-imam-efter-intervju-med-uppdrag-granskning",
     "pubDate": "2026-10-23T09:04:29.000Z",
@@ -1978,7 +2002,7 @@
     "category": "Campaign Finance"
   },
   {
-    "id": "nyt-11-ayoffs-congress.html",
+    "id": "nyt-10-ayoffs-congress.html",
     "title": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers",
     "link": "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html",
     "pubDate": "2026-10-23T09:03:00.000Z",
@@ -1991,7 +2015,7 @@
     "category": "Artificial Intelligence"
   },
   {
-    "id": "nyt-12-hington-history.html",
+    "id": "nyt-11-hington-history.html",
     "title": "Does Congress Need to Approve the Arch? Trump Says It Did 100 Years Ago.",
     "link": "https://www.nytimes.com/2026/10/23/upshot/arch-trump-washington-history.html",
     "pubDate": "2026-10-23T09:02:30.000Z",
@@ -2002,6 +2026,19 @@
     "textColor": "#ffffff",
     "country": "INT",
     "category": "United States Triumphal A"
+  },
+  {
+    "id": "nyt-14--melanoma-study.html",
+    "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+    "link": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
+    "pubDate": "2026-10-23T09:00:39.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Drugs (Pharmaceuticals)"
   },
   {
     "id": "nyt-15-cancer-patients.html",
@@ -2066,9 +2103,9 @@
     "country": "INT"
   },
   {
-    "id": "npr-8-n-phone-call-myanmar",
-    "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+    "id": "npr-8-ousing-affordability",
+    "title": "Gen Z is 'in the thick' of high housing costs. These candidates aim to solve it",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
     "pubDate": "2026-10-23T09:00:00.000Z",
     "sourceId": "npr",
     "sourceName": "NPR",
@@ -2090,9 +2127,9 @@
     "country": "INT"
   },
   {
-    "id": "npr-8-ousing-affordability",
-    "title": "Gen Z is 'in the thick' of high housing costs. These candidates aim to solve it",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
+    "id": "npr-8-n-phone-call-myanmar",
+    "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
     "pubDate": "2026-10-23T09:00:00.000Z",
     "sourceId": "npr",
     "sourceName": "NPR",
@@ -2114,7 +2151,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-11-r-bojkott-av-matcher",
+    "id": "svt-13-r-bojkott-av-matcher",
     "title": "Föreningar i Umeå kritiska till UIK:s akademi – diskuterar bojkott av matcher",
     "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/foreningar-i-umea-kritiska-till-uiks-akademi-diskuterar-bojkott-av-matcher",
     "pubDate": "2026-10-23T08:58:11.000Z",
@@ -2323,7 +2360,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-12-for-andra-aret-i-rad",
+    "id": "svt-14-for-andra-aret-i-rad",
     "title": "Södertälje bäst i landet på miljöarbete – för andra året i rad",
     "link": "https://www.svt.se/nyheter/lokalt/sodertalje/sodertalje-bast-i-landet-pa-miljoarbete-for-andra-aret-i-rad",
     "pubDate": "2026-10-23T08:08:15.000Z",
@@ -2709,7 +2746,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-13-ommaren-en-katastrof",
+    "id": "svt-15-ommaren-en-katastrof",
     "title": "Över 60 incidenter på lågstadieskola i Vaggeryd efter sommaren – ”En katastrof”",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/over-60-incidenter-pa-lagstadieskola-i-vaggeryd-efter-sommaren-en-katastrof",
     "pubDate": "2026-10-23T06:22:17.000Z",
@@ -2833,7 +2870,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-22-ght-trump-ocean.html",
+    "id": "nyt-21-ght-trump-ocean.html",
     "title": "Late Night Dunks on Trump for Planning to Rename an Ocean",
     "link": "https://www.nytimes.com/2026/10/23/arts/television/late-night-trump-ocean.html",
     "pubDate": "2026-10-23T05:52:30.000Z",
@@ -2921,7 +2958,7 @@
   },
   {
     "id": "dn-33-fall-tva-melodier%2F",
-    "title": "EKG: Jag skämdes i musikskolan – men fortsatte kämpa",
+    "title": "EKG: Tack, farfar, för att du i alla fall försökte",
     "link": "https://www.dn.se/kultur/ekg-jag-larde-mig-i-alla-fall-tva-melodier/",
     "pubDate": "2026-10-23T05:30:00.000Z",
     "sourceId": "dn",
@@ -3124,7 +3161,7 @@
     "category": "Australian economy"
   },
   {
-    "id": "svt-14-pa-kastrup-flygplats",
+    "id": "svt-16-pa-kastrup-flygplats",
     "title": "Efter långa köerna på Kastrup: ”Kan pågå hela helgen”",
     "link": "https://www.svt.se/nyheter/lokalt/skane/langa-koer-pa-kastrup-flygplats",
     "pubDate": "2026-10-23T04:53:21.000Z",
@@ -3199,7 +3236,7 @@
     "category": "LeBron James"
   },
   {
-    "id": "svt-15-oping-flera-anhallna",
+    "id": "svt-17-oping-flera-anhallna",
     "title": "Grovt rån i Norrköping – flera anhållna",
     "link": "https://www.svt.se/nyheter/lokalt/ost/grovt-ran-i-norrkoping-flera-anhallna",
     "pubDate": "2026-10-23T04:26:31.000Z",
@@ -3285,7 +3322,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-16-mma-hybridattackerna",
+    "id": "svt-18-mma-hybridattackerna",
     "title": "Granskning: Så trappar Ryssland upp våldsamma hybridattackerna",
     "link": "https://www.svt.se/nyheter/inrikes/granskning-sa-trappar-ryssland-upp-valdsamma-hybridattackerna",
     "pubDate": "2026-10-23T04:01:57.000Z",
@@ -3297,7 +3334,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-17-ottslighet-i-sverige",
+    "id": "svt-19-ottslighet-i-sverige",
     "title": "Så ska polisen stoppa statsaktörernas brottslighet i Sverige",
     "link": "https://www.svt.se/nyheter/inrikes/sa-ska-polisen-stoppa-statsaktorernas-brottslighet-i-sverige",
     "pubDate": "2026-10-23T04:01:40.000Z",
@@ -3447,7 +3484,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-18--sala-ska-sa-ett-fro",
+    "id": "svt-20--sala-ska-sa-ett-fro",
     "title": "Sovande kvinna dök upp på perrongen i Sala: ”Ska så ett frö”",
     "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sovande-kvinna-dok-upp-pa-perrongen-i-sala-ska-sa-ett-fro",
     "pubDate": "2026-10-23T03:30:06.000Z",
@@ -3459,7 +3496,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-19-egi-av-taika-waititi",
+    "id": "svt-21-egi-av-taika-waititi",
     "title": "Recension: ”Klara och solen” i regi av Taika Waititi",
     "link": "https://www.svt.se/kultur/recension-klara-och-solen-i-regi-av-taika-waititi",
     "pubDate": "2026-10-23T03:30:06.000Z",
@@ -3471,7 +3508,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-20-egi-av-james-watkins",
+    "id": "svt-22-egi-av-james-watkins",
     "title": "Recension: ”Clayface” i regi av James Watkins",
     "link": "https://www.svt.se/kultur/recension-clayface-i-regi-av-james-watkins",
     "pubDate": "2026-10-23T03:30:06.000Z",
@@ -3483,7 +3520,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-21-pats-ett-helt-haveri",
+    "id": "svt-23-pats-ett-helt-haveri",
     "title": "Polisen om A-traktorer som stoppats: ”Ett helt haveri”",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/polisen-om-a-traktorer-som-stoppats-ett-helt-haveri",
     "pubDate": "2026-10-23T03:30:06.000Z",
@@ -3495,7 +3532,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-22-rkagare-gick-i-taket",
+    "id": "svt-24-rkagare-gick-i-taket",
     "title": "Trafikverkets avverkning nära Skellefteå kritiseras av markägare: ”Gick i taket”",
     "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/trafikverkets-avverkning-nara-skelleftea-kritiseras-av-markagare-gick-i-taket",
     "pubDate": "2026-10-23T03:30:06.000Z",
@@ -3507,7 +3544,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-23-angd-hushallsekonomi",
+    "id": "svt-25-angd-hushallsekonomi",
     "title": "Populärt med kalas utanför hemmet – trots ansträngd hushållsekonomi",
     "link": "https://www.svt.se/nyheter/lokalt/sormland/populart-med-kalas-utanfor-hemmet-trots-anstrangd-hushallsekonomi",
     "pubDate": "2026-10-23T03:30:06.000Z",
@@ -3736,7 +3773,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-23-an-workers-jobs.html",
+    "id": "nyt-22-an-workers-jobs.html",
     "title": "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition",
     "link": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
     "pubDate": "2026-10-23T00:40:08.000Z",
@@ -4582,7 +4619,7 @@
     "category": "Technology"
   },
   {
-    "id": "svt-24-atryckningar-vid-val",
+    "id": "svt-26-atryckningar-vid-val",
     "title": "Ny rapport: Fler i utsatta områden upplever påtryckningar vid val",
     "link": "https://www.svt.se/nyheter/inrikes/ny-rapport-fler-i-utsatta-omraden-upplever-patryckningar-vid-val",
     "pubDate": "2026-10-22T19:08:05.000Z",
@@ -5297,7 +5334,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-25-t-mer-efter-2-timmar",
+    "id": "svt-27-t-mer-efter-2-timmar",
     "title": "Oskrivna caféregler: ”Man bör köpa något mer efter 2 timmar”",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/oskrivna-caferegler-man-bor-kopa-nagot-mer-efter-2-timmar",
     "pubDate": "2026-10-22T16:30:01.000Z",
@@ -5685,7 +5722,7 @@
     "category": "France"
   },
   {
-    "id": "svt-26-sa-tonarsutvisningar",
+    "id": "svt-28-sa-tonarsutvisningar",
     "title": "Migrationsverket öppnar för att pausa tonårsutvisningar",
     "link": "https://www.svt.se/nyheter/inrikes/migrationsverket-oppnar-for-att-pausa-tonarsutvisningar",
     "pubDate": "2026-10-22T15:06:46.000Z",
@@ -5859,7 +5896,7 @@
     "category": "Ukraine"
   },
   {
-    "id": "svt-27-ng-efter-gryningsrad",
+    "id": "svt-29-ng-efter-gryningsrad",
     "title": "Tre misstänkta i valfusk-utredning efter gryningsräd",
     "link": "https://www.svt.se/nyheter/lokalt/dalarna/tre-misstankta-i-valfusk-utredning-efter-gryningsrad",
     "pubDate": "2026-10-22T14:34:04.000Z",
@@ -5908,7 +5945,7 @@
     "category": "World"
   },
   {
-    "id": "svt-28-ea-protesterar-dynga",
+    "id": "svt-30-ea-protesterar-dynga",
     "title": "AI-bilder tar över – fotografer i Umeå protesterar: ”Dynga”",
     "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/ai-bilder-tar-over-fotografer-i-umea-protesterar-dynga",
     "pubDate": "2026-10-22T14:15:41.000Z",
@@ -6363,7 +6400,7 @@
     "country": "INT"
   },
   {
-    "id": "svt-29-yckelpigor-i-uppsala",
+    "id": "svt-31-yckelpigor-i-uppsala",
     "title": "Därför är det så många nyckelpigor i Uppsala",
     "link": "https://www.svt.se/nyheter/lokalt/uppsala/darfor-ar-det-sa-manga-nyckelpigor-i-uppsala",
     "pubDate": "2026-10-22T12:40:04.000Z",
@@ -6750,7 +6787,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-30-llega-far-loneavdrag",
+    "id": "svt-32-llega-far-loneavdrag",
     "title": "Översergeant imiterade oralsex på kvinnlig kollega – får löneavdrag",
     "link": "https://www.svt.se/nyheter/lokalt/vast/oversergeant-imiterade-oralsex-pa-kvinnlig-kollega-far-loneavdrag",
     "pubDate": "2026-10-22T10:43:14.000Z",
@@ -6811,7 +6848,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-31-a-studenter-i-milano",
+    "id": "svt-33-a-studenter-i-milano",
     "title": "Våldshot mot utländska studenter i Milano",
     "link": "https://www.svt.se/nyheter/lokalt/varmland/valdshot-mot-utlandska-studenter-i-milano",
     "pubDate": "2026-10-22T10:19:43.000Z",
@@ -7010,7 +7047,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "svt-32-ar-atstorningsvarden",
+    "id": "svt-34-ar-atstorningsvarden",
     "title": "Långa köer och regionala skillnader präglar ätstörningsvården",
     "link": "https://www.svt.se/nyheter/uutiset/svenska/langa-koer-och-regionala-skillnader-praglar-atstorningsvarden",
     "pubDate": "2026-10-22T09:02:52.000Z",
@@ -7022,7 +7059,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-33-da-att-forlora-henne",
+    "id": "svt-35-da-att-forlora-henne",
     "title": "Ninas dotter kämpade med anorexi: ”Vi var rädda att förlora henne”",
     "link": "https://www.svt.se/nyheter/uutiset/svenska/ninas-dotter-kampade-med-anorexi-vi-var-radda-att-forlora-henne",
     "pubDate": "2026-10-22T09:01:47.000Z",
@@ -7034,7 +7071,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-34-edig-overklagas-inte",
+    "id": "svt-36-edig-overklagas-inte",
     "title": "Domen för dödliga misshandeln av Christian Zedig överklagas inte",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ett-ars-fangelse-for-dodliga-misshandeln-av-christian-zedig-overklagas-inte",
     "pubDate": "2026-10-22T09:01:01.000Z",
@@ -7118,7 +7155,7 @@
     "country": "INT"
   },
   {
-    "id": "svt-35-m-gaslukt-i-borlange",
+    "id": "svt-37-m-gaslukt-i-borlange",
     "title": "Centralstationen utrymdes efter larm om gaslukt i Borlänge",
     "link": "https://www.svt.se/nyheter/lokalt/dalarna/centralstationen-utrymd-efter-larm-om-gaslukt-i-borlange",
     "pubDate": "2026-10-22T08:55:03.000Z",
@@ -7402,7 +7439,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-36-r-i-sverige-i-sommar",
+    "id": "svt-38-r-i-sverige-i-sommar",
     "title": "The Cardigans turnérar i Sverige i sommar",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/the-cardigans-turnerar-i-sverige-i-sommar",
     "pubDate": "2026-10-22T05:54:21.000Z",
@@ -7414,7 +7451,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-37-m-farlig-forsandelse",
+    "id": "svt-39-m-farlig-forsandelse",
     "title": "Försäkringskassan inrymdes i Östersund efter larm om farlig försändelse",
     "link": "https://www.svt.se/nyheter/lokalt/jamtland/inrymning-pa-forsakringskassan-i-ostersund-efter-larm-om-farlig-forsandelse",
     "pubDate": "2026-10-22T05:47:49.000Z",
@@ -7626,7 +7663,7 @@
     "category": "North Korea"
   },
   {
-    "id": "svt-38-s-bilgomma-i-kolback",
+    "id": "svt-40-s-bilgomma-i-kolback",
     "title": "Så knäckte polisen stöldligans bilgömma i Kolbäck",
     "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sa-knackte-polisen-stoldligans-bilgomma-i-kolback",
     "pubDate": "2026-10-22T03:30:03.000Z",
@@ -7638,7 +7675,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-39--hade-fast-manadslon",
+    "id": "svt-41--hade-fast-manadslon",
     "title": "Grundlön och fasta arbetstider – knarkliga i Sundsvall drev affärer som ”företag”",
     "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/knarkliga-var-som-ett-foretag-de-anstallda-hade-fast-manadslon",
     "pubDate": "2026-10-22T03:30:03.000Z",
@@ -7650,7 +7687,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-40-s-doms-till-fangelse",
+    "id": "svt-42-s-doms-till-fangelse",
     "title": "Man odlade cannabis i stora delar av sitt hus – döms till fängelse",
     "link": "https://www.svt.se/nyheter/lokalt/smaland/man-odlade-cannabis-i-stora-delar-av-sitt-hus-doms-till-fangelse",
     "pubDate": "2026-10-22T03:30:03.000Z",
@@ -7662,7 +7699,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-41-a-over-hyreskontrakt",
+    "id": "svt-43-a-over-hyreskontrakt",
     "title": "M i Stockholm: Misshandlade kvinnor ska få ta över hyreskontrakt",
     "link": "https://www.svt.se/nyheter/lokalt/stockholm/m-i-stockholm-misshandlade-kvinnor-ska-fa-ta-over-hyreskontrakt",
     "pubDate": "2026-10-22T03:30:03.000Z",
@@ -7674,7 +7711,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-42-ligorna-glom-sverige",
+    "id": "svt-44-ligorna-glom-sverige",
     "title": "Polisens arbete avskräcker stöldligorna: ”Glöm Sverige”",
     "link": "https://www.svt.se/nyheter/lokalt/vastmanland/polisens-arbete-avskracker-stoldligorna-glom-sverige",
     "pubDate": "2026-10-22T03:30:03.000Z",
@@ -7911,7 +7948,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-43-ittering-i-stormotet",
+    "id": "svt-45-ittering-i-stormotet",
     "title": "Inbytte Viktor Gyökeres bakom Arsenals kvittering i stormötet",
     "link": "https://www.svt.se/sport/fotboll/inbytte-viktor-gyokeres-bakom-arsenals-kvittering-i-stormotet",
     "pubDate": "2026-10-21T20:53:22.000Z",
@@ -8137,7 +8174,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-44-ar-ater-doda-kroppar",
+    "id": "svt-46-ar-ater-doda-kroppar",
     "title": "SVT möter flyktingarna från katastrofbyn: ”Hundar äter döda kroppar”",
     "link": "https://www.svt.se/nyheter/utrikes/svt-moter-flyktingarna-fran-katastrofbyn-hundar-ater-doda-kroppar",
     "pubDate": "2026-10-21T18:43:26.000Z",
@@ -8571,7 +8608,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-45-z-gissa-delstaten%2F",
+    "id": "svt-47-z-gissa-delstaten%2F",
     "title": "Videoquiz: Gissa delstaten!",
     "link": "https://www.svt.se/special/videoquiz-gissa-delstaten/",
     "pubDate": "2026-10-21T15:06:47.000Z",
@@ -8583,7 +8620,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-46-r-tidsgrans-i-cafeet",
+    "id": "svt-48-r-tidsgrans-i-cafeet",
     "title": "Efter långsittare – Ica i Tranås inför tidsgräns i caféet",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-langsittare-ica-kvantum-i-tranas-infor-tidsgrans-i-cafeet",
     "pubDate": "2026-10-21T15:05:10.000Z",
@@ -8632,7 +8669,7 @@
     "category": "China"
   },
   {
-    "id": "svt-47-ng-i-mordet-i-alvsjo",
+    "id": "svt-49-ng-i-mordet-i-alvsjo",
     "title": "Uppgifter: Polisen utreder Foxtrot-inblandning i mordet i Älvsjö",
     "link": "https://www.svt.se/nyheter/inrikes/uppgifter-polisen-utreder-foxtrot-inblandning-i-mordet-i-alvsjo",
     "pubDate": "2026-10-21T14:42:32.000Z",
@@ -8680,7 +8717,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-48-ots-svenskt-motstand",
+    "id": "svt-50-ots-svenskt-motstand",
     "title": "Förbud mot bensin- och dieselbilar kan rivas upp – trots svenskt motstånd",
     "link": "https://www.svt.se/nyheter/inrikes/forbudet-kan-rivas-upp-trots-svenskt-motstand",
     "pubDate": "2026-10-21T14:27:34.000Z",
@@ -8767,7 +8804,7 @@
     "category": "News"
   },
   {
-    "id": "svt-49--i-sverige-pa-schack",
+    "id": "svt-51--i-sverige-pa-schack",
     "title": "Piteåbon Harald, 7 år, är svensk mästare i schack",
     "link": "https://www.svt.se/nyheter/lokalt/norrbotten/piteabon-harald-7-ar-ar-bast-i-sverige-pa-schack",
     "pubDate": "2026-10-21T13:53:54.000Z",
@@ -8816,7 +8853,7 @@
     "country": "INT"
   },
   {
-    "id": "svt-50-nde-ovning-med-norge",
+    "id": "svt-52-nde-ovning-med-norge",
     "title": "2 000 deltar i gränsöverskridande övning med Norge",
     "link": "https://www.svt.se/nyheter/lokalt/varmland/2-000-deltar-i-gransoverskridande-ovning-med-norge",
     "pubDate": "2026-10-21T13:32:43.000Z",
@@ -8865,7 +8902,7 @@
     "country": "INT"
   },
   {
-    "id": "svt-51--datacentret-i-tydal",
+    "id": "svt-53--datacentret-i-tydal",
     "title": "Följ med in på bygget av det gigantiska AI-datacentret i Tydal",
     "link": "https://www.svt.se/nyheter/lokalt/jamtland/folj-med-in-pa-bygget-av-det-gigantiska-ai-datacentret-i-tydal",
     "pubDate": "2026-10-21T12:24:52.000Z",
@@ -8877,7 +8914,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-52-ning-hos-kronofogden",
+    "id": "svt-54-ning-hos-kronofogden",
     "title": "Här kan man fynda brudklänning – hos Kronofogden",
     "link": "https://www.svt.se/nyheter/lokalt/smaland/har-kan-man-fynda-brudklanning-hos-kronofogden",
     "pubDate": "2026-10-21T12:22:42.000Z",
@@ -8937,7 +8974,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-53-loste-runns-vrakgata",
+    "id": "svt-55-loste-runns-vrakgata",
     "title": "Amatörforskarnas detektivarbete löste Runns vrakgåta",
     "link": "https://www.svt.se/nyheter/lokalt/dalarna/amatorforskarnas-detektivarbete-loste-runns-vrakgata",
     "pubDate": "2026-10-21T12:10:42.000Z",
@@ -8961,7 +8998,7 @@
     "country": "INT"
   },
   {
-    "id": "svt-54-ikolycka-utanfor-lit",
+    "id": "svt-56-ikolycka-utanfor-lit",
     "title": "Flera fordon i trafikolycka utanför Lit",
     "link": "https://www.svt.se/nyheter/lokalt/jamtland/flera-fordon-i-trafikolycka-utanfor-lit",
     "pubDate": "2026-10-21T11:47:09.000Z",
@@ -8973,7 +9010,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-55-jukskrivna-i-protest",
+    "id": "svt-57-jukskrivna-i-protest",
     "title": "Barn slåss med pennor och saxar – lärare i Vaggeryd sjukskrivna",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/barn-slass-med-pennor-och-saxar-larare-i-vaggeryd-sjukskrivna-i-protest",
     "pubDate": "2026-10-21T11:44:52.000Z",
@@ -9036,7 +9073,7 @@
     "category": "Politics and Government"
   },
   {
-    "id": "svt-56-ka-pa-stegra-i-boden",
+    "id": "svt-58-ka-pa-stegra-i-boden",
     "title": "Fallolycka på Stegra i Boden – man i 65-årsåldern omkom",
     "link": "https://www.svt.se/nyheter/lokalt/norrbotten/fallolycka-pa-stegra-i-boden",
     "pubDate": "2026-10-21T10:50:04.000Z",
@@ -9109,7 +9146,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-57-sele-redan-i-oktober",
+    "id": "svt-59-sele-redan-i-oktober",
     "title": "Nu är julgranen på plats i Lycksele – redan i oktober",
     "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/nu-ar-julgranen-pa-plats-i-lycksele-redan-i-oktober",
     "pubDate": "2026-10-21T10:09:48.000Z",
@@ -9234,7 +9271,7 @@
     "category": "Business"
   },
   {
-    "id": "svt-58-att-kunna-neka-visum",
+    "id": "svt-60-att-kunna-neka-visum",
     "title": "Migrationsministern: ”Analyserar förutsättningar att kunna neka visum”",
     "link": "https://www.svt.se/sport/langdskidor/migrationsministern-analyserar-forutsattningar-att-kunna-neka-visum",
     "pubDate": "2026-10-21T08:17:21.000Z",
@@ -9270,7 +9307,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-59-harjedalen-jo-anmals",
+    "id": "svt-61-harjedalen-jo-anmals",
     "title": "Karps skogsköp i Härjedalen JO-anmäls",
     "link": "https://www.svt.se/nyheter/lokalt/jamtland/karps-skogskop-i-harjedalen-jo-anmals",
     "pubDate": "2026-10-21T08:04:06.000Z",
@@ -9282,7 +9319,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-60-or-en-rad-valdsbrott",
+    "id": "svt-62-or-en-rad-valdsbrott",
     "title": "Gängtoppen Ildar ”Scar” Galiyev åtalas för en rad våldsbrott",
     "link": "https://www.svt.se/nyheter/inrikes/gangtoppen-ildar-scar-galiyev-atalas-for-en-rad-valdsbrott",
     "pubDate": "2026-10-21T08:03:23.000Z",
@@ -9318,7 +9355,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-61--nils-einar-gronberg",
+    "id": "svt-63--nils-einar-gronberg",
     "title": "Vem var rapparen Nils Einár Grönberg?",
     "link": "https://www.svt.se/kultur/vem-var-rapparen-nils-einar-gronberg",
     "pubDate": "2026-10-21T07:03:23.000Z",
@@ -9330,7 +9367,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-62-jansten-i-vaxjo-ovar",
+    "id": "svt-64-jansten-i-vaxjo-ovar",
     "title": "En robot har slagit ner i byggnad – se när räddningstjänsten i Växjö övar",
     "link": "https://www.svt.se/nyheter/lokalt/smaland/en-robot-har-slagit-ner-i-byggnad-se-nar-raddningstjansten-i-vaxjo-ovar",
     "pubDate": "2026-10-21T07:00:44.000Z",
@@ -9367,7 +9404,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-63-an-i-europa-en-orsak",
+    "id": "svt-65-an-i-europa-en-orsak",
     "title": "Fortsatt nedåt för Husqvarna – torkan i Europa en orsak",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/fortsatt-nedat-for-husqvarna-torkan-i-europa-en-orsak",
     "pubDate": "2026-10-21T05:45:10.000Z",
@@ -9379,7 +9416,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-64-ra-parisavtalets-mal",
+    "id": "svt-66-ra-parisavtalets-mal",
     "title": "FN: Omöjligt klara Parisavtalets mål",
     "link": "https://www.svt.se/nyheter/inrikes/fn-omojligt-klara-parisavtalets-mal",
     "pubDate": "2026-10-21T05:01:58.000Z",
@@ -9430,7 +9467,7 @@
     "category": "internal-open-access-from"
   },
   {
-    "id": "svt-65-kare-fran-vm-i-falun",
+    "id": "svt-67-kare-fran-vm-i-falun",
     "title": "Svenska skidförbundet vill stoppa ryska åkare från VM i Falun",
     "link": "https://www.svt.se/sport/langdskidor/svenska-skidforbundet-vill-stoppa-ryska-akare-fran-vm-i-falun",
     "pubDate": "2026-10-21T04:00:07.000Z",
@@ -9442,7 +9479,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-66-trottnade-pa-skarmen",
+    "id": "svt-68-trottnade-pa-skarmen",
     "title": "Dominika, 25, tröttnade på skärmarna – startade offlineklubb i Katrineholm",
     "link": "https://www.svt.se/nyheter/lokalt/sormland/dominika-25-startade-offlineklubb-i-katrineholm-trottnade-pa-skarmen",
     "pubDate": "2026-10-21T03:30:02.000Z",
@@ -9454,7 +9491,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-67-enhamn-och-stockholm",
+    "id": "svt-69-enhamn-och-stockholm",
     "title": "Vårdchefens make flög 83 gånger i högsta prisklass mellan Köpenhamn och Stockholm",
     "link": "https://www.svt.se/nyheter/lokalt/skane/vardchefens-make-flog-83-ganger-i-hogsta-prisklass-mellan-kopenhamn-och-stockholm",
     "pubDate": "2026-10-21T03:30:02.000Z",
@@ -9466,7 +9503,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-68--tackar-lbsb-for-sig",
+    "id": "svt-70--tackar-lbsb-for-sig",
     "title": "Sista kvällen med gänget – nu tackar LBSB för sig",
     "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sista-kvallen-med-ganget-nu-tackar-lbsb-for-sig",
     "pubDate": "2026-10-21T03:30:02.000Z",
@@ -9478,7 +9515,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-69-ussen-berta-nytt-liv",
+    "id": "svt-71-ussen-berta-nytt-liv",
     "title": "Erika i Kalix har gett 60-åriga skolbussen Berta nytt liv",
     "link": "https://www.svt.se/nyheter/lokalt/norrbotten/erika-i-kalix-har-gett-60-ariga-skolbussen-berta-nytt-liv",
     "pubDate": "2026-10-21T03:30:02.000Z",
@@ -9490,7 +9527,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-70-det-ar-lite-bade-och",
+    "id": "svt-72-det-ar-lite-bade-och",
     "title": "Så säger Tydalsbor om datacentret: ”Det är lite både och”",
     "link": "https://www.svt.se/nyheter/lokalt/jamtland/sa-sager-tydalsbor-om-datacentret-det-ar-lite-bade-och",
     "pubDate": "2026-10-21T03:30:02.000Z",
@@ -9657,7 +9694,7 @@
     "category": "US and Israeli Attack on "
   },
   {
-    "id": "svt-71-visningsbaset-hatskt",
+    "id": "svt-73-visningsbaset-hatskt",
     "title": "Storbråk i Frölundas kross – trångt i utvisningsbåset: ”Hätskt”",
     "link": "https://www.svt.se/sport/ishockey/storbrak-i-frolundas-kross-trangt-i-utvisningsbaset-hatskt",
     "pubDate": "2026-10-20T19:32:29.000Z",
@@ -9734,7 +9771,7 @@
     "category": "News"
   },
   {
-    "id": "svt-72-sa-anmaldes-till-ivo",
+    "id": "svt-74-sa-anmaldes-till-ivo",
     "title": "Läckta uppgifter om tomtens hälsa anmäldes till Ivo",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lackta-uppgifter-om-tomtens-halsa-anmaldes-till-ivo",
     "pubDate": "2026-10-20T16:30:09.000Z",
@@ -9772,7 +9809,7 @@
     "category": "Las Vegas"
   },
   {
-    "id": "svt-73-a-e12-utanfor-vannas",
+    "id": "svt-75-a-e12-utanfor-vannas",
     "title": "Frontalkrock på E12 utanför Vännäs – en kvinna död",
     "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/krock-pa-e12-utanfor-vannas",
     "pubDate": "2026-10-20T15:48:18.000Z",
@@ -9810,7 +9847,7 @@
     "category": "News"
   },
   {
-    "id": "svt-74-ordning-i-sodertalje",
+    "id": "svt-76-ordning-i-sodertalje",
     "title": "Boel Godner (S) blickar tillbaka: ”Det var oordning i Södertälje”",
     "link": "https://www.svt.se/nyheter/lokalt/sodertalje/boel-godner-s-blickar-tillbaka-det-var-oordning-i-sodertalje",
     "pubDate": "2026-10-20T15:28:33.000Z",
@@ -9835,7 +9872,7 @@
     "category": "Debatt"
   },
   {
-    "id": "svt-75-kostar-ukrainska-liv",
+    "id": "svt-77-kostar-ukrainska-liv",
     "title": "”En dålig relation med USA kostar ukrainska liv”",
     "link": "https://www.svt.se/nyheter/utrikes/en-dalig-relation-med-usa-kostar-ukrainska-liv",
     "pubDate": "2026-10-20T14:20:33.000Z",
@@ -9847,7 +9884,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-76-or-kameraovervakning",
+    "id": "svt-78-or-kameraovervakning",
     "title": "Anundshög plundrat igen – museiechefen: ”Dags för kameraövervakning”",
     "link": "https://www.svt.se/nyheter/lokalt/vastmanland/anundshog-plundrat-igen-narmare-20-gropar-upptackta-dags-for-kameraovervakning",
     "pubDate": "2026-10-20T14:05:25.000Z",
@@ -9859,7 +9896,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-77-hog-arbetsbelastning",
+    "id": "svt-79-hog-arbetsbelastning",
     "title": "Lärarna kom inte till jobbet – sjukskrivna på grund av hög arbetsbelastning",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lararna-kom-inte-till-jobbet-protesterar-mot-hog-arbetsbelastning",
     "pubDate": "2026-10-20T13:25:04.000Z",
@@ -9884,7 +9921,7 @@
     "category": "Inrikes"
   },
   {
-    "id": "svt-78--hastolyckan-i-timra",
+    "id": "svt-80--hastolyckan-i-timra",
     "title": "Trafikverkets svar efter hästolyckan i Timrå",
     "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/trafikverkets-svar-efter-hastolyckan-i-timra",
     "pubDate": "2026-10-20T13:13:40.000Z",
@@ -9896,7 +9933,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-79-l-sverige-och-haktad",
+    "id": "svt-81-l-sverige-och-haktad",
     "title": "Svensk gängtopp förd till Sverige och häktad",
     "link": "https://www.svt.se/nyheter/inrikes/svensk-gangtopp-ford-till-sverige-och-haktad",
     "pubDate": "2026-10-20T13:11:29.000Z",
@@ -9920,7 +9957,7 @@
     "country": "INT"
   },
   {
-    "id": "svt-80-or-drap-i-skelleftea",
+    "id": "svt-82-or-drap-i-skelleftea",
     "title": "Man i 40-årsåldern häktas misstänkt för dråp i Skellefteå",
     "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-i-40-arsaldern-haktas-misstankt-for-drap-i-skelleftea",
     "pubDate": "2026-10-20T12:39:26.000Z",
@@ -9945,7 +9982,7 @@
     "category": "Sports"
   },
   {
-    "id": "svt-81-laget-inget-positivt",
+    "id": "svt-83-laget-inget-positivt",
     "title": "Länsidrottschefen kritiserar akademilaget: ”Inget positivt”",
     "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/lansidrottschefen-kritiserar-akademilaget-inget-positivt",
     "pubDate": "2026-10-20T12:24:45.000Z",
@@ -9957,7 +9994,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-82-ar-for-barn-och-unga",
+    "id": "svt-84-ar-for-barn-och-unga",
     "title": "Chatt: Elitsatsningar för barn och unga – vad tycker du?",
     "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/chatt-vad-tycker-du-om-elitsatsningar-for-barn-och-unga",
     "pubDate": "2026-10-20T12:24:41.000Z",
@@ -9981,7 +10018,7 @@
     "country": "INT"
   },
   {
-    "id": "svt-83-ilkrasch-i-jonkoping",
+    "id": "svt-85-ilkrasch-i-jonkoping",
     "title": "Ung man döms efter våldsam bilkrasch i Jönköping",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ung-man-doms-efter-valdsam-bilkrasch-i-jonkoping",
     "pubDate": "2026-10-20T12:12:44.000Z",
@@ -10031,7 +10068,7 @@
     "category": "Ledare"
   },
   {
-    "id": "svt-84-i-doms-till-fangelse",
+    "id": "svt-86-i-doms-till-fangelse",
     "title": "Man från inlandet skapade barnporr med hjälp av AI – döms till fängelse",
     "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-fran-inlandet-skapade-barnporr-med-hjalp-av-ai-doms-till-fangelse",
     "pubDate": "2026-10-20T11:30:47.000Z",
@@ -10043,7 +10080,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-85-er-radda-situationen",
+    "id": "svt-87-er-radda-situationen",
     "title": "Ukraina och USA möts i Oslo: ”Europa försöker rädda situationen”",
     "link": "https://www.svt.se/nyheter/utrikes/ukraina-och-usa-mots-i-oslo-europa-forsoker-radda-situationen",
     "pubDate": "2026-10-20T10:54:23.000Z",
@@ -10055,7 +10092,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-86--det-saknar-malmo-ff",
+    "id": "svt-88--det-saknar-malmo-ff",
     "title": "Pontus Jansson slår fast: Det saknar Malmö FF",
     "link": "https://www.svt.se/sport/fotboll/pontus-jansson-slar-fast-det-saknar-malmo-ff",
     "pubDate": "2026-10-20T10:39:55.000Z",
@@ -10067,7 +10104,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-87-te-bort-dahliaknolar",
+    "id": "svt-89-te-bort-dahliaknolar",
     "title": "Rusning när Östersund skänkte bort dahliaknölar",
     "link": "https://www.svt.se/nyheter/lokalt/jamtland/rusning-nar-ostersund-skankte-bort-dahliaknolar",
     "pubDate": "2026-10-20T10:03:24.000Z",
@@ -10079,7 +10116,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-88--norsk-totaldominans",
+    "id": "svt-90--norsk-totaldominans",
     "title": "De får Nordiska rådets pris – norsk totaldominans",
     "link": "https://www.svt.se/kultur/de-vinner-nordiska-radets-pris-norsk-totaldominans",
     "pubDate": "2026-10-20T10:00:02.000Z",
@@ -10104,7 +10141,7 @@
     "category": "IPOs"
   },
   {
-    "id": "svt-89-tidigare-chefen-sjuk",
+    "id": "svt-91-tidigare-chefen-sjuk",
     "title": "Rättegången i BDX-härvan skjuts upp – tidigare chefen sjuk",
     "link": "https://www.svt.se/nyheter/lokalt/norrbotten/rattegangen-i-bdx-harvan-skjuts-upp-tidigare-chefen-sjuk",
     "pubDate": "2026-10-20T09:43:27.000Z",
@@ -10155,7 +10192,7 @@
     "category": "Culture"
   },
   {
-    "id": "svt-90--som-mordet-i-alvsjo",
+    "id": "svt-92--som-mordet-i-alvsjo",
     "title": "Tonårspojkarna anmäldes försvunna – samma dag som mordet i Älvsjö",
     "link": "https://www.svt.se/nyheter/inrikes/tonarspojkarna-anmaldes-forsvunna-samma-dag-som-mordet-i-alvsjo",
     "pubDate": "2026-10-20T08:55:10.000Z",
@@ -10167,7 +10204,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-91-r-man-kan-inte-ringa",
+    "id": "svt-93-r-man-kan-inte-ringa",
     "title": "Störningar i regionens verksamheter lösta – gick inte att ringa",
     "link": "https://www.svt.se/nyheter/lokalt/sormland/storningar-i-regionens-verksamheter-man-kan-inte-ringa",
     "pubDate": "2026-10-20T08:51:18.000Z",
@@ -10179,7 +10216,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-92--dodssjuka-patienten",
+    "id": "svt-94--dodssjuka-patienten",
     "title": "Sjuksköterskans egna ord om våldtäkten på den dödssjuka patienten",
     "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sjukskoterskans-egna-ord-om-valdtakten-pa-den-dodssjuka-patienten",
     "pubDate": "2026-10-20T08:37:49.000Z",
@@ -10191,7 +10228,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-93-het-via-dejtingappar",
+    "id": "svt-95-het-via-dejtingappar",
     "title": "Kyrkans test: Motverka ensamhet via dejtingappar",
     "link": "https://www.svt.se/nyheter/lokalt/varmland/kyrkans-test-motverka-ensamhet-via-dejtingappar",
     "pubDate": "2026-10-20T08:18:40.000Z",
@@ -10203,7 +10240,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-94--region-ostergotland",
+    "id": "svt-96--region-ostergotland",
     "title": "Nytt styre klart i Region Östergötland: ”Vill sätta medarbetarna i centrum”",
     "link": "https://www.svt.se/nyheter/lokalt/ost/nytt-styre-klart-i-region-ostergotland",
     "pubDate": "2026-10-20T08:16:23.000Z",
@@ -10215,7 +10252,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-95-lt-kanns-fantastiskt",
+    "id": "svt-97-lt-kanns-fantastiskt",
     "title": "Fotbollstältet i Umeå är nu sålt: ”Känns fantastiskt”",
     "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/fotbollstaltet-i-umea-ar-nu-salt-kanns-fantastiskt",
     "pubDate": "2026-10-20T08:01:54.000Z",
@@ -10227,7 +10264,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-96-karin-kanns-hopplost",
+    "id": "svt-98-karin-kanns-hopplost",
     "title": "Mimmis förskola i Gnesta brann ner – mamman Karin: ”Känns hopplöst”",
     "link": "https://www.svt.se/nyheter/lokalt/sormland/mimmis-forskola-i-gnesta-brann-ner-mamman-karin-kanns-hopplost",
     "pubDate": "2026-10-20T07:25:57.000Z",
@@ -10239,7 +10276,7 @@
     "country": "SE"
   },
   {
-    "id": "svt-97--pa-kvinnan-i-alvsjo",
+    "id": "svt-99--pa-kvinnan-i-alvsjo",
     "title": "Två tonårspojkar häktas efter mordet på kvinnan i Älvsjö",
     "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-begars-haktade-efter-mordet-pa-kvinnan-i-alvsjo",
     "pubDate": "2026-10-20T07:16:50.000Z",
@@ -12461,42 +12498,6 @@
     "title": "The Future of Europe: Canada in the EU Sounds Crazy. Is It?",
     "link": "https://www.spiegel.de/international/world/the-future-of-europe-canada-in-the-eu-sounds-crazy-is-it-a-57073424-ab99-4c05-808b-e373a1f4edf5#ref=rss",
     "pubDate": "2026-09-16T09:15:00.000Z",
-    "sourceId": "spiegel",
-    "sourceName": "Der Spiegel",
-    "sourceShort": "SPIEGEL",
-    "badgeColor": "#e64415",
-    "textColor": "#ffffff",
-    "country": "DE"
-  },
-  {
-    "id": "spiegel-7-d3a90f98%23ref%3Drss",
-    "title": "Fake Jewish Lineage: The Passport Scheme that Exploited Germany’s Nazi History",
-    "link": "https://www.spiegel.de/international/germany/fake-jewish-lineage-the-passport-scheme-that-exploited-germanys-nazi-history-a-215f2f6a-613e-4371-8786-054ed3a90f98#ref=rss",
-    "pubDate": "2026-09-03T07:41:00.000Z",
-    "sourceId": "spiegel",
-    "sourceName": "Der Spiegel",
-    "sourceShort": "SPIEGEL",
-    "badgeColor": "#e64415",
-    "textColor": "#ffffff",
-    "country": "DE"
-  },
-  {
-    "id": "spiegel-8-add8d5a6%23ref%3Drss",
-    "title": "BYD, Geely, Xpeng: Germany’s Vaunted Auto Industry in Dire Straits Amid Chinese Surge",
-    "link": "https://www.spiegel.de/international/business/byd-geely-xpeng-germany-vaunted-auto-industry-in-dire-straits-amid-chinese-surge-a-6a3dfa2e-b95f-4c12-83a4-9cc5add8d5a6#ref=rss",
-    "pubDate": "2026-08-31T16:08:00.000Z",
-    "sourceId": "spiegel",
-    "sourceName": "Der Spiegel",
-    "sourceShort": "SPIEGEL",
-    "badgeColor": "#e64415",
-    "textColor": "#ffffff",
-    "country": "DE"
-  },
-  {
-    "id": "spiegel-9-0e5a2213%23ref%3Drss",
-    "title": "Amodei vs. Altman: How the Race for AI Dominance Is Increasing the Risks",
-    "link": "https://www.spiegel.de/international/business/amodei-vs-altman-how-the-race-for-ai-dominance-is-increasing-the-risks-a-0aa34d2c-c3a2-466f-9925-831a0e5a2213#ref=rss",
-    "pubDate": "2026-08-24T16:57:00.000Z",
     "sourceId": "spiegel",
     "sourceName": "Der Spiegel",
     "sourceShort": "SPIEGEL",

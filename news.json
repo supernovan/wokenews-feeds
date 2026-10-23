@@ -13,7 +13,19 @@
     "category": "Nyheter"
   },
   {
-    "id": "npr-0-%2Fhacking-php-flaws",
+    "id": "npr-0-hu-closure-west-bank",
+    "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+    "pubDate": "2026-10-23T09:40:32.000Z",
+    "sourceId": "npr",
+    "sourceName": "NPR",
+    "sourceShort": "NPR",
+    "badgeColor": "#d62027",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "npr-1-%2Fhacking-php-flaws",
     "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
     "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
     "pubDate": "2026-10-23T09:37:38.000Z",
@@ -354,18 +366,6 @@
     "category": "Donald Trump"
   },
   {
-    "id": "npr-1-unoff-lula-bolsonaro",
-    "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
-    "pubDate": "2026-10-23T09:00:00.000Z",
-    "sourceId": "npr",
-    "sourceName": "NPR",
-    "sourceShort": "NPR",
-    "badgeColor": "#d62027",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
     "id": "npr-2-rice-holiday-airfare",
     "title": "With jet fuel prices near a record, holiday airfares soar higher",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
@@ -417,6 +417,18 @@
     "id": "npr-6-ating-black-students",
     "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
     "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
+    "pubDate": "2026-10-23T09:00:00.000Z",
+    "sourceId": "npr",
+    "sourceName": "NPR",
+    "sourceShort": "NPR",
+    "badgeColor": "#d62027",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "npr-7-unoff-lula-bolsonaro",
+    "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
     "pubDate": "2026-10-23T09:00:00.000Z",
     "sourceId": "npr",
     "sourceName": "NPR",
@@ -489,7 +501,7 @@
     "category": "Världen"
   },
   {
-    "id": "npr-7-2Fmorning-news-brief",
+    "id": "npr-8-2Fmorning-news-brief",
     "title": "Morning news brief",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6003504/morning-news-brief",
     "pubDate": "2026-10-23T08:44:19.000Z",
@@ -624,7 +636,7 @@
     "country": "SE"
   },
   {
-    "id": "npr-8-2Feurope-heat-deaths",
+    "id": "npr-9-2Feurope-heat-deaths",
     "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
     "link": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
     "pubDate": "2026-10-23T08:17:06.000Z",

@@ -1,5 +1,18 @@
 [
   {
+    "id": "nyt-14--election-shift.html",
+    "title": "Where Brazil’s Left Is Losing Voters",
+    "link": "https://www.nytimes.com/video/world/americas/100000011230998/brazil-nanuque-election-shift.html",
+    "pubDate": "2026-10-23T11:34:03.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Elections"
+  },
+  {
     "id": "expressen-0-ar-hojer-hotnivan%2F",
     "title": "Efter drönarlarmen – tysk militär höjer hotnivån",
     "link": "https://www.expressen.se/nyheter/varlden/efter-dronarlarmen-tysk-militar-hojer-hotnivan/",
@@ -13,7 +26,20 @@
     "category": "Världen"
   },
   {
-    "id": "expressen-1-ilmen-fortsatt-sa%2F",
+    "id": "expressen-1-at-gpt-och-claude%2F",
+    "title": "Regeringskansliet spärrar Chat GPT och Claude",
+    "link": "https://www.expressen.se/ekonomi/tech/regeringskansliet-sparrar-chat-gpt-och-claude/",
+    "pubDate": "2026-10-23T11:30:15.000Z",
+    "sourceId": "expressen",
+    "sourceName": "Expressen",
+    "sourceShort": "EXPRESSEN",
+    "badgeColor": "#e30613",
+    "textColor": "#ffffff",
+    "country": "SE",
+    "category": "Ekonomi"
+  },
+  {
+    "id": "expressen-2-ilmen-fortsatt-sa%2F",
     "title": "Trump om kritiserade reklamfilmen: ”Fortsätt så”",
     "link": "https://www.expressen.se/nyheter/varlden/trump-om-kritiserade-reklamfilmen-fortsatt-sa/",
     "pubDate": "2026-10-23T11:28:16.000Z",
@@ -114,7 +140,7 @@
     "category": "World news"
   },
   {
-    "id": "expressen-0-ankt-terrorattack%2F",
+    "id": "expressen-3-ankt-terrorattack%2F",
     "title": "Skjutning utanför Paris – misstänkt terrorattack",
     "link": "https://www.expressen.se/nyheter/varlden/skjutning-utanfor-paris-misstankt-terrorattack/",
     "pubDate": "2026-10-23T11:17:21.000Z",
@@ -226,7 +252,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-1-ad-9337-298035fd70cb",
+    "id": "expressen-4-ad-9337-298035fd70cb",
     "title": "Misstänkt terrorattack utanför Paris",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a58daf07-80f9-43ad-9337-298035fd70cb",
     "pubDate": "2026-10-23T11:07:42.000Z",
@@ -264,7 +290,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-2-pgorelse-i-saffle%2F",
+    "id": "expressen-5-pgorelse-i-saffle%2F",
     "title": "Morddom efter dödlig uppgörelse i Säffle",
     "link": "https://www.expressen.se/nyheter/krim/morddom-efter-dodlig-uppgorelse-i-saffle/",
     "pubDate": "2026-10-23T11:03:38.000Z",
@@ -302,7 +328,7 @@
     "category": "Donald Trump"
   },
   {
-    "id": "guardian-2-a-voter-fraud-arrest",
+    "id": "guardian-3-a-voter-fraud-arrest",
     "title": "‘They wanted to make a scene’: the 72-year-old paraded in dramatic arrest for ‘voter fraud’",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/california-voter-fraud-arrest",
     "pubDate": "2026-10-23T11:00:31.000Z",
@@ -404,7 +430,7 @@
     "category": "US news"
   },
   {
-    "id": "expressen-3-a5-99c1-417e33d193ec",
+    "id": "expressen-6-a5-99c1-417e33d193ec",
     "title": "Ali ställer in intervju",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f7fb28b7-2425-4ba5-99c1-417e33d193ec",
     "pubDate": "2026-10-23T10:51:04.000Z",
@@ -542,7 +568,7 @@
     "category": "Russian Invasion of Ukrai"
   },
   {
-    "id": "expressen-9-har-missat-flyget%2F",
+    "id": "expressen-12-har-missat-flyget%2F",
     "title": "Kaos på Kastrup flygplats – hundratals har missat flyget",
     "link": "https://www.expressen.se/nyheter/varlden/kaos-pa-kastrup-flygplats-hundratals-har-missat-flyget/",
     "pubDate": "2026-10-23T10:32:31.000Z",
@@ -555,7 +581,7 @@
     "category": "Världen"
   },
   {
-    "id": "expressen-7-38-8885-c23d7d898419",
+    "id": "expressen-10-38-8885-c23d7d898419",
     "title": "SMHI varnar för vind",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=65b86d5d-b2c5-4438-8885-c23d7d898419",
     "pubDate": "2026-10-23T10:32:15.000Z",
@@ -606,7 +632,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-4-5a-90ee-23e681b30bac",
+    "id": "expressen-7-5a-90ee-23e681b30bac",
     "title": "Ebba Busch nobbar Andersson igen: ”Där är vi inte”",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=42f01051-0526-4f5a-90ee-23e681b30bac",
     "pubDate": "2026-10-23T10:24:31.000Z",
@@ -767,7 +793,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-5-ar-om-plastkorkar%2F",
+    "id": "expressen-8-ar-om-plastkorkar%2F",
     "title": "Ebba Buschs platskorksattack: Byråkrati",
     "link": "https://www.expressen.se/tv/politik/buschs-eu-kanga-brakar-om-plastkorkar/",
     "pubDate": "2026-10-23T10:02:40.000Z",
@@ -853,7 +879,7 @@
     "category": "AI (artificial intelligen"
   },
   {
-    "id": "guardian-4-s-ballot-initiatives",
+    "id": "guardian-5-s-ballot-initiatives",
     "title": "Billionaire tax and trans rights: what are key state ballot initiatives in midterms?",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/key-midterms-ballot-initiatives",
     "pubDate": "2026-10-23T10:00:30.000Z",
@@ -1151,19 +1177,6 @@
     "country": "SE"
   },
   {
-    "id": "nyt-14--election-shift.html",
-    "title": "Where Brazil’s Left Is Losing Voters",
-    "link": "https://www.nytimes.com/video/world/americas/100000011230998/brazil-nanuque-election-shift.html",
-    "pubDate": "2026-10-23T09:04:21.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Elections"
-  },
-  {
     "id": "dw-2-en-all-1573-xml-mrss",
     "title": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
     "link": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-xml-mrss",
@@ -1366,7 +1379,7 @@
     "country": "INT"
   },
   {
-    "id": "expressen-8-yr-fran-rovdjuren%2F",
+    "id": "expressen-11-yr-fran-rovdjuren%2F",
     "title": "Mystiska beteendet – flyr från rovdjuren",
     "link": "https://www.expressen.se/tv/nyheter/varlden/mystiska-beteendet-flyr-fran-rovdjuren/",
     "pubDate": "2026-10-23T08:59:57.000Z",
@@ -1415,7 +1428,7 @@
     "country": "INT"
   },
   {
-    "id": "expressen-10-v-nytt-virus-dog-%2F",
+    "id": "expressen-13-v-nytt-virus-dog-%2F",
     "title": "Första människan smittad av nytt virus – dog",
     "link": "https://www.expressen.se/nyheter/varlden/forsta-manniskan-smittad-av-nytt-virus-dog-/",
     "pubDate": "2026-10-23T08:43:41.000Z",
@@ -1464,7 +1477,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-13-ran-jordbavningen%2F",
+    "id": "expressen-16-ran-jordbavningen%2F",
     "title": "Minst 16 döda – flyr i skräck under jordskalvet",
     "link": "https://www.expressen.se/tv/nyheter/varlden/flyr-i-skrack-fran-jordbavningen/",
     "pubDate": "2026-10-23T08:29:54.000Z",
@@ -1513,7 +1526,7 @@
     "category": "News"
   },
   {
-    "id": "expressen-11-r-rosa-delfinerna%2F",
+    "id": "expressen-14-r-rosa-delfinerna%2F",
     "title": "Chocken – rosa djur dyker upp ur havet",
     "link": "https://www.expressen.se/tv/nyheter/varlden/strandbesokarnas-chock-ser-rosa-delfinerna/",
     "pubDate": "2026-10-23T08:22:25.000Z",
@@ -1525,7 +1538,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-12-ackerattack-ay2qd%2F",
+    "id": "expressen-15-ackerattack-ay2qd%2F",
     "title": "Så skyddar du dig bäst mot hackerattacker",
     "link": "https://www.expressen.se/ekonomi/tech/sa-skyddar-du-dig-fore-och-efter-en-hackerattack-ay2qd/",
     "pubDate": "2026-10-23T08:20:20.000Z",
@@ -1538,7 +1551,7 @@
     "category": "Ekonomi"
   },
   {
-    "id": "expressen-19-ationer-i-serbien%2F",
+    "id": "expressen-13-ationer-i-serbien%2F",
     "title": "Enorma protester inför valet i Serbien",
     "link": "https://www.expressen.se/tv/nyheter/varlden/enorma-demonstrationer-i-serbien/",
     "pubDate": "2026-10-23T08:17:42.000Z",
@@ -1700,7 +1713,7 @@
     "category": "Consumer spending"
   },
   {
-    "id": "expressen-14-a7-ab6a-afef73549b1b",
+    "id": "expressen-17-a7-ab6a-afef73549b1b",
     "title": "19 åtalas i stor härva",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2ac2b054-0a1d-43a7-ab6a-afef73549b1b",
     "pubDate": "2026-10-23T07:24:23.000Z",
@@ -1749,7 +1762,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-15-itt-i-parlamentet%2F",
+    "id": "expressen-18-itt-i-parlamentet%2F",
     "title": "Storbråk bryter ut – mitt i parlamentet",
     "link": "https://www.expressen.se/tv/nyheter/varlden/storbrak-bryter-ut-mitt-i-parlamentet/",
     "pubDate": "2026-10-23T07:20:52.000Z",
@@ -1810,7 +1823,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-16-69-90e8-7a2c41da3a9d",
+    "id": "expressen-19-69-90e8-7a2c41da3a9d",
     "title": "Rasar på börsen",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=974995ae-025c-4069-90e8-7a2c41da3a9d",
     "pubDate": "2026-10-23T07:09:05.000Z",
@@ -2910,7 +2923,7 @@
     "category": "Brazil"
   },
   {
-    "id": "guardian-5--latest-news-updates",
+    "id": "guardian-6--latest-news-updates",
     "title": "Trump tells Iowa rally crowd he encouraged Ramaswamy to keep running widely criticized campaign ad – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
     "pubDate": "2026-10-23T01:59:51.000Z",
@@ -2923,7 +2936,7 @@
     "category": "Donald Trump"
   },
   {
-    "id": "guardian-6-cases-west-coast-cdc",
+    "id": "guardian-7-cases-west-coast-cdc",
     "title": "Flu cases rise on west coast earlier than usual as US health experts encourage vaccine",
     "link": "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
     "pubDate": "2026-10-23T01:50:38.000Z",
@@ -2974,7 +2987,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-7-iminal-investigation",
+    "id": "guardian-8-iminal-investigation",
     "title": "Department of Justice opens criminal investigation into Corey Lewandowski",
     "link": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
     "pubDate": "2026-10-23T00:55:02.000Z",

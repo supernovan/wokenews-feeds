@@ -13,6 +13,32 @@
     "category": "Kultur"
   },
   {
+    "id": "guardian-40-on-homeland-security",
+    "title": "First Thing: Former DHS aide Lewandowski investigated over claims he profited from government role",
+    "link": "https://www.theguardian.com/us-news/2026/oct/23/first-thing-corey-lewandowski-under-investigation-homeland-security",
+    "pubDate": "2026-10-23T10:53:00.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "US news"
+  },
+  {
+    "id": "guardian-20--latest-news-updates",
+    "title": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+    "pubDate": "2026-10-23T10:52:49.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "World news"
+  },
+  {
     "id": "expressen-0-a5-99c1-417e33d193ec",
     "title": "Ali ställer in intervju",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f7fb28b7-2425-4ba5-99c1-417e33d193ec",
@@ -24,6 +50,19 @@
     "textColor": "#ffffff",
     "country": "SE",
     "category": "Nyheter"
+  },
+  {
+    "id": "guardian-10-laims-against-father",
+    "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
+    "pubDate": "2026-10-23T10:50:57.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Meghan, the Duchess of Su"
   },
   {
     "id": "etc-0-t%3Futm_source%3Drss",
@@ -87,19 +126,6 @@
     "category": "Politics"
   },
   {
-    "id": "guardian-10-laims-against-father",
-    "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
-    "pubDate": "2026-10-23T10:40:40.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Meghan, the Duchess of Su"
-  },
-  {
     "id": "svt-2-pa-regeringskansliet",
     "title": "AI-tjänster spärras på Regeringskansliet",
     "link": "https://www.svt.se/nyheter/inrikes/ai-tjanster-sparras-pa-regeringskansliet",
@@ -123,19 +149,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "Retail industry"
-  },
-  {
-    "id": "guardian-20--latest-news-updates",
-    "title": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-    "pubDate": "2026-10-23T10:35:11.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "World news"
   },
   {
     "id": "guardian-22--us-grand-prix-texas",
@@ -180,7 +193,7 @@
     "id": "expressen-6-har-missat-flyget%2F",
     "title": "Kaos på Kastrup flygplats – hundratals har missat flyget",
     "link": "https://www.expressen.se/nyheter/varlden/kaos-pa-kastrup-flygplats-hundratals-har-missat-flyget/",
-    "pubDate": "2026-10-23T10:32:32.000Z",
+    "pubDate": "2026-10-23T10:32:31.000Z",
     "sourceId": "expressen",
     "sourceName": "Expressen",
     "sourceShort": "EXPRESSEN",
@@ -267,7 +280,7 @@
     "category": "Midterm Elections (2026)"
   },
   {
-    "id": "vox-0-mens-health-outcomes",
+    "id": "vox-1-mens-health-outcomes",
     "title": "Why are doctors paid less for procedures on women?",
     "link": "https://www.vox.com/the-highlight/504071/medical-billing-womens-health-outcomes",
     "pubDate": "2026-10-23T10:22:28.000Z",
@@ -403,7 +416,7 @@
   },
   {
     "id": "expressen-2-ar-om-plastkorkar%2F",
-    "title": "Buschs EU-känga: Bråkar om plastkorkar",
+    "title": "Ebba Buschs platskorksattack: Byråkrati",
     "link": "https://www.expressen.se/tv/politik/buschs-eu-kanga-brakar-om-plastkorkar/",
     "pubDate": "2026-10-23T10:02:40.000Z",
     "sourceId": "expressen",
@@ -475,7 +488,7 @@
     "category": "Donald Trump"
   },
   {
-    "id": "guardian-40-ai-mass-unemployment",
+    "id": "guardian-41-ai-mass-unemployment",
     "title": "Is a job guarantee the solution to mass AI unemployment?",
     "link": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
     "pubDate": "2026-10-23T10:00:30.000Z",
@@ -728,7 +741,7 @@
   },
   {
     "id": "aftonbladet-12-g%3Futm_medium%3Drss",
-    "title": "Talmannen möter C-ledaren måndag förmiddag",
+    "title": "Buschs fråga till S: Är det rätt med extra val?",
     "link": "https://www.aftonbladet.se/nyheter/a/Kr42o7/talmannen-moter-c-ledaren-mandag-formiddag?utm_medium=rss",
     "pubDate": "2026-10-23T09:16:07.000Z",
     "sourceId": "aftonbladet",
@@ -2272,7 +2285,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-41-ons-answered-podcast",
+    "id": "guardian-42-ons-answered-podcast",
     "title": "What will Trump do if he loses in November? Your questions answered – podcast",
     "link": "https://www.theguardian.com/politics/audio/2026/oct/23/us-midterm-elections-donald-trump-your-questions-answered-podcast",
     "pubDate": "2026-10-23T04:00:05.000Z",
@@ -2559,7 +2572,7 @@
     "category": "Brazil"
   },
   {
-    "id": "guardian-42--latest-news-updates",
+    "id": "guardian-43--latest-news-updates",
     "title": "Trump tells Iowa rally crowd he encouraged Ramaswamy to keep running widely criticized campaign ad – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
     "pubDate": "2026-10-23T01:59:51.000Z",
@@ -2572,7 +2585,7 @@
     "category": "Donald Trump"
   },
   {
-    "id": "guardian-43-cases-west-coast-cdc",
+    "id": "guardian-44-cases-west-coast-cdc",
     "title": "Flu cases rise on west coast earlier than usual as US health experts encourage vaccine",
     "link": "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
     "pubDate": "2026-10-23T01:50:38.000Z",
@@ -2623,7 +2636,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-44-iminal-investigation",
+    "id": "guardian-3-iminal-investigation",
     "title": "Department of Justice opens criminal investigation into Corey Lewandowski",
     "link": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
     "pubDate": "2026-10-23T00:55:02.000Z",
@@ -2918,6 +2931,19 @@
     "category": "Formula One 2026"
   },
   {
+    "id": "vox-0-ell-frats-greek-life",
+    "title": "Colleges can do more to prevent sexual assault. Here’s where to start.",
+    "link": "https://www.vox.com/life/507369/colleges-sexual-assault-jane-doe-cornell-frats-greek-life",
+    "pubDate": "2026-10-22T21:51:17.000Z",
+    "sourceId": "vox",
+    "sourceName": "Vox",
+    "sourceShort": "VOX",
+    "badgeColor": "#fff200",
+    "textColor": "#121212",
+    "country": "INT",
+    "category": "Life"
+  },
+  {
     "id": "guardian-26--markets-drop-ai-oil",
     "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
     "link": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
@@ -3020,7 +3046,7 @@
     "category": "Climate crisis"
   },
   {
-    "id": "vox-2-2026-midterms-israel",
+    "id": "vox-3-2026-midterms-israel",
     "title": "Would a Democratic Congress change course on Israel?",
     "link": "https://www.vox.com/today-explained-newsletter/507393/2026-midterms-israel",
     "pubDate": "2026-10-22T21:33:47.000Z",
@@ -3136,7 +3162,7 @@
     "category": "Världen"
   },
   {
-    "id": "vox-3--denaturalize-deport",
+    "id": "vox-4--denaturalize-deport",
     "title": "Can Trump deport Ilhan Omar?",
     "link": "https://www.vox.com/podcasts/507328/ilhan-omar-trump-immigration-investigation-denaturalize-deport",
     "pubDate": "2026-10-22T20:59:08.000Z",
@@ -3186,7 +3212,7 @@
     "country": "SE"
   },
   {
-    "id": "vox-1-g-ban-for-the-people",
+    "id": "vox-2-g-ban-for-the-people",
     "title": "How to ban gerrymandering when the Supreme Court is stacked against you",
     "link": "https://www.vox.com/politics/507376/supreme-court-gerrymandering-ban-for-the-people",
     "pubDate": "2026-10-22T20:38:56.000Z",
@@ -3327,7 +3353,7 @@
     "category": "Sverige"
   },
   {
-    "id": "vox-4-se-senate-healthcare",
+    "id": "vox-5-se-senate-healthcare",
     "title": "The 2026 election could reshape healthcare",
     "link": "https://www.vox.com/good-medicine-newsletter/507342/2026-midterm-elections-house-senate-healthcare",
     "pubDate": "2026-10-22T19:52:34.000Z",
@@ -3468,7 +3494,7 @@
     "country": "INT"
   },
   {
-    "id": "vox-7-ntoxication-loophole",
+    "id": "vox-8-ntoxication-loophole",
     "title": "The Cornell rape case has surfaced a hidden divide among progressives",
     "link": "https://www.vox.com/politics/507219/cornell-seven-new-york-voluntary-intoxication-loophole",
     "pubDate": "2026-10-22T19:13:16.000Z",
@@ -5735,7 +5761,7 @@
     "country": "SE"
   },
   {
-    "id": "vox-6-isit-cost-preventive",
+    "id": "vox-7-isit-cost-preventive",
     "title": "You’re supposed to get one free doctor’s visit every year. So why are so many Americans being charged?",
     "link": "https://www.vox.com/the-highlight/504171/annual-doctor-appointment-visit-cost-preventive",
     "pubDate": "2026-10-22T10:11:24.000Z",
@@ -6735,7 +6761,7 @@
     "category": "Leo XIV"
   },
   {
-    "id": "vox-8-ons-ukraine-starlink",
+    "id": "vox-9-ons-ukraine-starlink",
     "title": "Russia released a US prisoner. What did they get out of it?",
     "link": "https://www.vox.com/the-logoff-newsletter-trump/507217/trump-russia-hubbard-sanctions-ukraine-starlink",
     "pubDate": "2026-10-21T22:13:38.000Z",
@@ -6773,7 +6799,7 @@
     "category": "Newsletters"
   },
   {
-    "id": "vox-5-transmission-project",
+    "id": "vox-6-transmission-project",
     "title": "How the biggest renewable energy project in US history finally got built",
     "link": "https://www.vox.com/future-perfect/507189/sunzia-wind-energy-transmission-project",
     "pubDate": "2026-10-21T21:35:25.000Z",

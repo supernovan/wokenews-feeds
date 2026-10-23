@@ -1,5 +1,31 @@
 [
   {
+    "id": "nyt-8-aine-musk-trump.html",
+    "title": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
+    "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
+    "pubDate": "2026-10-23T10:32:58.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Russian Invasion of Ukrai"
+  },
+  {
+    "id": "expressen-3-38-8885-c23d7d898419",
+    "title": "SMHI varnar för vind",
+    "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=65b86d5d-b2c5-4438-8885-c23d7d898419",
+    "pubDate": "2026-10-23T10:32:15.000Z",
+    "sourceId": "expressen",
+    "sourceName": "Expressen",
+    "sourceShort": "EXPRESSEN",
+    "badgeColor": "#e30613",
+    "textColor": "#ffffff",
+    "country": "SE",
+    "category": "Nyheter"
+  },
+  {
     "id": "nyt-1-shooting-israel.html",
     "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
     "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
@@ -526,19 +552,6 @@
     "country": "SE"
   },
   {
-    "id": "expressen-3-38-8885-c23d7d898419",
-    "title": "SMHI varnar för vind",
-    "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=65b86d5d-b2c5-4438-8885-c23d7d898419",
-    "pubDate": "2026-10-23T09:21:39.000Z",
-    "sourceId": "expressen",
-    "sourceName": "Expressen",
-    "sourceShort": "EXPRESSEN",
-    "badgeColor": "#e30613",
-    "textColor": "#ffffff",
-    "country": "SE",
-    "category": "Nyheter"
-  },
-  {
     "id": "aftonbladet-10-d%3Futm_medium%3Drss",
     "title": "Ukraina: Fortsatta problem med Starshield",
     "link": "https://www.aftonbladet.se/nyheter/a/mK2dR4/ukraina-fortsatta-problem-med-starshield?utm_medium=rss",
@@ -780,9 +793,9 @@
     "category": "Donald Trump"
   },
   {
-    "id": "npr-2-lan-a-say-no-retreat",
-    "title": "What if you gave yourself a day to cancel all the plans you dread?",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
+    "id": "npr-2-rice-holiday-airfare",
+    "title": "With jet fuel prices near a record, holiday airfares soar higher",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
     "pubDate": "2026-10-23T09:00:00.000Z",
     "sourceId": "npr",
     "sourceName": "NPR",
@@ -792,9 +805,9 @@
     "country": "INT"
   },
   {
-    "id": "npr-3-rice-holiday-airfare",
-    "title": "With jet fuel prices near a record, holiday airfares soar higher",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
+    "id": "npr-3-lan-a-say-no-retreat",
+    "title": "What if you gave yourself a day to cancel all the plans you dread?",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
     "pubDate": "2026-10-23T09:00:00.000Z",
     "sourceId": "npr",
     "sourceName": "NPR",
@@ -925,6 +938,18 @@
     "textColor": "#ffffff",
     "country": "SE",
     "category": "Världen"
+  },
+  {
+    "id": "npr-9--how-they-found-love",
+    "title": "Uninterested in dating, an Alabama couple shares how they found love",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6005239/uninterested-in-dating-an-alabama-couple-shares-how-they-found-love",
+    "pubDate": "2026-10-23T08:41:44.000Z",
+    "sourceId": "npr",
+    "sourceName": "NPR",
+    "sourceShort": "NPR",
+    "badgeColor": "#d62027",
+    "textColor": "#ffffff",
+    "country": "INT"
   },
   {
     "id": "dn-5-skey-on-the-rocks%2F",
@@ -1134,19 +1159,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "Tibet"
-  },
-  {
-    "id": "nyt-8-aine-musk-trump.html",
-    "title": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
-    "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
-    "pubDate": "2026-10-23T07:52:27.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Russian Invasion of Ukrai"
   },
   {
     "id": "dw-4-en-all-1573-xml-mrss",

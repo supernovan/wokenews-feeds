@@ -1,0 +1,36 @@
+name: Auto Update News Feeds
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "update-feeds"
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    name: Fetch Feeds & Push
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch fresh RSS feeds
+        run: node buildFeeds.js
+
+      - name: Commit and Push Updated news.json
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update news [skip ci]" && git push)

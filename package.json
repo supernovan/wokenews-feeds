@@ -1,0 +1,18 @@
+{
+  "name": "wokenews-feeds",
+  "version": "1.0.0",
+  "description": "24/7 automated RSS aggregator and news data provider for Woke News",
+  "main": "serverRss.js",
+  "scripts": {
+    "build": "node buildFeeds.js",
+    "start": "node buildFeeds.js"
+  },
+  "keywords": [
+    "rss",
+    "news",
+    "aggregator",
+    "wokenews"
+  ],
+  "author": "supernovan",
+  "license": "MIT"
+}

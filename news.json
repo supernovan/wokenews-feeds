@@ -1,5 +1,109 @@
 [
   {
+    "id": "nyt-1-j-lawsuit-trump.html",
+    "title": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
+    "link": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html",
+    "pubDate": "2026-10-23T23:22:41.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "United States Politics an"
+  },
+  {
+    "id": "nyt-17-al-judge-ruling.html",
+    "title": "Judge Denies Medical Release for N.Y.C. Man Shot by ICE",
+    "link": "https://www.nytimes.com/2026/10/23/nyregion/ice-shooting-oscar-belgal-judge-ruling.html",
+    "pubDate": "2026-10-23T23:20:52.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Illegal Immigration"
+  },
+  {
+    "id": "guardian-40-n-shooter-speaks-out",
+    "title": "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’",
+    "link": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
+    "pubDate": "2026-10-23T23:10:42.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Oregon"
+  },
+  {
+    "id": "guardian-30--wiley-deconstructed",
+    "title": "Bodycam video shows police shooting death of one-year-old Kohen Wiley – deconstructed",
+    "link": "https://www.theguardian.com/us-news/video/2026/oct/23/bodycam-video-shows-police-shooting-death-of-one-year-old-kohen-wiley-deconstructed",
+    "pubDate": "2026-10-23T23:10:39.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "US news"
+  },
+  {
+    "id": "nyt-4-church-shooting.html",
+    "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+    "link": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+    "pubDate": "2026-10-23T23:07:34.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Churches (Buildings)"
+  },
+  {
+    "id": "guardian-41-swamy-latest-updates",
+    "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+    "pubDate": "2026-10-23T23:05:52.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "US midterm elections 2026"
+  },
+  {
+    "id": "guardian-35-authenticity-ai-boom",
+    "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+    "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+    "pubDate": "2026-10-23T23:01:16.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "BBC"
+  },
+  {
+    "id": "guardian-2-g-data-key-takeaways",
+    "title": "Surging turnout, with Democrats voting more: key takeaways from early voting data",
+    "link": "https://www.theguardian.com/us-news/2026/oct/23/early-voting-data-key-takeaways",
+    "pubDate": "2026-10-23T22:57:52.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "US midterm elections 2026"
+  },
+  {
     "id": "dn-0-stallklara-stamma%2F",
     "title": "de clair bländar Fasching med sin kristallklara stämma",
     "link": "https://www.dn.se/kultur/de-clair-blandar-fasching-med-sin-kristallklara-stamma/",
@@ -12,7 +116,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-35-om-online-safety-act",
+    "id": "guardian-36-om-online-safety-act",
     "title": "Online safety laws have failed to protect children in UK, Ofcom admits",
     "link": "https://www.theguardian.com/society/2026/oct/23/uk-children-just-as-likely-to-have-suffered-harm-on-social-media-despite-crackdown-ofcom-online-safety-act",
     "pubDate": "2026-10-23T22:51:50.000Z",
@@ -23,19 +127,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "Children"
-  },
-  {
-    "id": "nyt-4-church-shooting.html",
-    "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
-    "link": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
-    "pubDate": "2026-10-23T22:42:23.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Churches (Buildings)"
   },
   {
     "id": "guardian-15-t-allegations-ntwnfb",
@@ -51,6 +142,19 @@
     "category": "Australian Greens"
   },
   {
+    "id": "nyt-0-e-race-sullivan.html",
+    "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
+    "pubDate": "2026-10-23T22:40:54.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Midterm Elections (2026)"
+  },
+  {
     "id": "guardian-22-heerleaders-unionize",
     "title": "Dallas Cowboys cheerleaders unionize after years of fighting for fair pay",
     "link": "https://www.theguardian.com/sport/2026/oct/23/dallas-cowboys-cheerleaders-unionize",
@@ -64,20 +168,7 @@
     "category": "Dallas Cowboys"
   },
   {
-    "id": "guardian-40-swamy-latest-updates",
-    "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-    "pubDate": "2026-10-23T22:27:57.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "US midterm elections 2026"
-  },
-  {
-    "id": "nyt-8-wandowski-trump.html",
+    "id": "nyt-7-wandowski-trump.html",
     "title": "Corey Lewandowski Always Found His Way Back to Trump. Until Now.",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/corey-lewandowski-trump.html",
     "pubDate": "2026-10-23T22:26:55.000Z",
@@ -90,20 +181,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "nyt-16-al-judge-ruling.html",
-    "title": "Judge Denies Medical Release for N.Y.C. Man Shot by ICE",
-    "link": "https://www.nytimes.com/2026/10/23/nyregion/ice-shooting-oscar-belgal-judge-ruling.html",
-    "pubDate": "2026-10-23T22:22:16.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Illegal Immigration"
-  },
-  {
-    "id": "guardian-36-r-south-west-england",
+    "id": "guardian-37-r-south-west-england",
     "title": "Thousands of homes without power as Storm Austen hits south-west England",
     "link": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
     "pubDate": "2026-10-23T22:21:28.000Z",
@@ -129,7 +207,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "nyt-3-t-bank-melanoma.html",
+    "id": "nyt-4-t-bank-melanoma.html",
     "title": "The Evening: D.O.J. Moves to Block Alaska Result if G.O.P. Loses",
     "link": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
     "pubDate": "2026-10-23T22:12:12.000Z",
@@ -154,7 +232,7 @@
     "category": "Formula One"
   },
   {
-    "id": "guardian-41-er-conviction-police",
+    "id": "guardian-42-er-conviction-police",
     "title": "Ohio man convicted of murder for running over officer after police killed his son",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
     "pubDate": "2026-10-23T22:07:38.000Z",
@@ -167,7 +245,7 @@
     "category": "Ohio"
   },
   {
-    "id": "guardian-42-trump-tariffs-canada",
+    "id": "guardian-43-trump-tariffs-canada",
     "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
     "pubDate": "2026-10-23T22:03:07.000Z",
@@ -231,7 +309,7 @@
     "category": "Artificial Intelligence"
   },
   {
-    "id": "guardian-3-nancy-clayton-echard",
+    "id": "guardian-5-nancy-clayton-echard",
     "title": "Woman who faked pregnancies, including with Bachelor star, sentenced to 30 days",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/laura-owens-sentenced-fake-pregnancy-clayton-echard",
     "pubDate": "2026-10-23T21:47:34.000Z",
@@ -281,7 +359,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-12-kaylub-giamanco.html",
+    "id": "nyt-11-kaylub-giamanco.html",
     "title": "‘I Have to Go In’: Kaylub Giamanco Describes Killing Gunman in Oregon School Shooting",
     "link": "https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html",
     "pubDate": "2026-10-23T21:33:59.000Z",
@@ -408,7 +486,7 @@
     "category": "Midterm Elections (2026)"
   },
   {
-    "id": "nyt-9-ficials-charged.html",
+    "id": "nyt-8-ficials-charged.html",
     "title": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
     "pubDate": "2026-10-23T20:54:25.000Z",
@@ -434,7 +512,7 @@
     "category": "News"
   },
   {
-    "id": "nyt-17-ution-detention.html",
+    "id": "nyt-18-ution-detention.html",
     "title": "Appeals Court Backs Trump on Constitutionality of Detentions",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
     "pubDate": "2026-10-23T20:47:16.000Z",
@@ -447,7 +525,7 @@
     "category": "Illegal Immigration"
   },
   {
-    "id": "nyt-2--canada-tariffs.html",
+    "id": "nyt-3--canada-tariffs.html",
     "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
     "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
     "pubDate": "2026-10-23T20:29:40.000Z",
@@ -473,7 +551,7 @@
     "category": "France"
   },
   {
-    "id": "guardian-43-ce-arrest-flock-wife",
+    "id": "guardian-44-ce-arrest-flock-wife",
     "title": "Indiana police officer arrested for using Flock cameras to search wife’s details",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
     "pubDate": "2026-10-23T20:19:56.000Z",
@@ -537,7 +615,7 @@
     "category": "Världen"
   },
   {
-    "id": "nyt-5-prices-iran-war.html",
+    "id": "nyt-6-prices-iran-war.html",
     "title": "Global Oil Price Hits $116 a Barrel, Highest Since April",
     "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
     "pubDate": "2026-10-23T20:03:29.000Z",
@@ -688,7 +766,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-30--rally-in-iowa-video",
+    "id": "guardian-31--rally-in-iowa-video",
     "title": "Trump floats unconstitutional third term at campaign rally in Iowa – video",
     "link": "https://www.theguardian.com/us-news/video/2026/oct/23/trump-floats-unconstitutional-third-term-at-campaign-rally-in-iowa-video",
     "pubDate": "2026-10-23T19:30:24.000Z",
@@ -752,7 +830,7 @@
     "category": "Royal Families"
   },
   {
-    "id": "nyt-10-nations-library.html",
+    "id": "nyt-9-nations-library.html",
     "title": "Trump Advisers Give Fees Earned for Aiding Srpska to His Library",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html",
     "pubDate": "2026-10-23T19:10:04.000Z",
@@ -840,7 +918,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "nyt-4-inancial-crisis.html",
+    "id": "nyt-5-inancial-crisis.html",
     "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
     "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
     "pubDate": "2026-10-23T18:46:44.000Z",
@@ -879,7 +957,7 @@
     "category": "Sverige"
   },
   {
-    "id": "guardian-5--board-epstein-links",
+    "id": "guardian-7--board-epstein-links",
     "title": "Why did an Epstein-linked billionaire step down from one of America’s most famous hospitals?",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/billionaire-glenn-dubin-mount-sinai-board-epstein-links",
     "pubDate": "2026-10-23T18:42:41.000Z",
@@ -1006,7 +1084,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-37-ster-hmos-police-say",
+    "id": "guardian-38-ster-hmos-police-say",
     "title": "Criminals recruiting children to damage Greater Manchester HMOs, police believe",
     "link": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
     "pubDate": "2026-10-23T18:19:43.000Z",
@@ -1019,7 +1097,7 @@
     "category": "UK news"
   },
   {
-    "id": "nyt-6-kraine-starlink.html",
+    "id": "nyt-12-kraine-starlink.html",
     "title": "Lawmakers Plan to Block Trump Nominees Over Ukraine Satellite Network Restrictions",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
     "pubDate": "2026-10-23T18:18:46.000Z",
@@ -1345,7 +1423,7 @@
     "category": "United States Internation"
   },
   {
-    "id": "guardian-38-ment-vigilante-world",
+    "id": "guardian-39-ment-vigilante-world",
     "title": "Tommy Robinson ‘threatened people and acted like a bully’, jury told",
     "link": "https://www.theguardian.com/uk-news/2026/oct/23/tommy-robinson-trial-harassment-vigilante-world",
     "pubDate": "2026-10-23T17:14:59.000Z",
@@ -1447,7 +1525,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-6-rump-changes-subject",
+    "id": "guardian-8-rump-changes-subject",
     "title": "As midterms loom, Trump and his allies try to change the subject",
     "link": "https://www.theguardian.com/us-news/2026/oct/22/midterm-elections-trump-changes-subject",
     "pubDate": "2026-10-23T17:00:09.000Z",
@@ -1560,19 +1638,6 @@
     "category": "Defense and Military Forc"
   },
   {
-    "id": "nyt-1-e-race-sullivan.html",
-    "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
-    "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
-    "pubDate": "2026-10-23T16:46:17.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Midterm Elections (2026)"
-  },
-  {
     "id": "guardian-39-t-undeclared-5m-gift",
     "title": "Reform UK braces for Farage standards verdict over undeclared £5m gift",
     "link": "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
@@ -1662,7 +1727,7 @@
     "category": "Winter (Season)"
   },
   {
-    "id": "nyt-7-e-melania-trump.html",
+    "id": "nyt-13-e-melania-trump.html",
     "title": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
     "pubDate": "2026-10-23T16:37:40.000Z",
@@ -1777,7 +1842,7 @@
     "category": "Världen"
   },
   {
-    "id": "nyt-11-blet-smartphone.html",
+    "id": "nyt-10-blet-smartphone.html",
     "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
     "link": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
     "pubDate": "2026-10-23T16:14:56.000Z",
@@ -1790,7 +1855,7 @@
     "category": "iPhone"
   },
   {
-    "id": "nyt-15-n-moth-research.html",
+    "id": "nyt-16-n-moth-research.html",
     "title": "Why Has This Teenager Tracked Down 11,377 Moths Since April?",
     "link": "https://www.nytimes.com/2026/10/23/style/violet-clinton-teen-moth-research.html",
     "pubDate": "2026-10-23T16:13:07.000Z",
@@ -2915,7 +2980,7 @@
     "category": "Photography"
   },
   {
-    "id": "nyt-14-inging-governor.html",
+    "id": "nyt-15-inging-governor.html",
     "title": "How the Decline of Western NY Defined Kathy Hochul’s Politics",
     "link": "https://www.nytimes.com/2026/10/23/nyregion/kathy-hochul-western-new-york-upbringing-governor.html",
     "pubDate": "2026-10-23T12:57:42.000Z",
@@ -4323,7 +4388,7 @@
     "category": "AI (artificial intelligen"
   },
   {
-    "id": "guardian-31-nate-video-explainer",
+    "id": "guardian-32-nate-video-explainer",
     "title": "These key races in the 2026 midterms will decide who controls the US Senate – video explainer",
     "link": "https://www.theguardian.com/us-news/video/2026/oct/23/these-key-races-in-the-2026-midterms-will-decide-who-controls-the-us-senate-video-explainer",
     "pubDate": "2026-10-23T10:00:22.000Z",
@@ -12430,67 +12495,5 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "Brazil"
-  },
-  {
-    "id": "dw-37-en-all-1573-xml-mrss",
-    "title": "Germany news: Hackers release AfD party emails",
-    "link": "https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-all-1573-xml-mrss",
-    "pubDate": "2026-10-20T15:41:00.000Z",
-    "sourceId": "dw",
-    "sourceName": "Deutsche Welle",
-    "sourceShort": "DW",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "DE",
-    "category": "News"
-  },
-  {
-    "id": "svt-84-ordning-i-sodertalje",
-    "title": "Boel Godner (S) blickar tillbaka: ”Det var oordning i Södertälje”",
-    "link": "https://www.svt.se/nyheter/lokalt/sodertalje/boel-godner-s-blickar-tillbaka-det-var-oordning-i-sodertalje",
-    "pubDate": "2026-10-20T15:28:33.000Z",
-    "sourceId": "svt",
-    "sourceName": "SVT Nyheter",
-    "sourceShort": "SVT",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "expressen-8--ignorera-det-har%2F",
-    "title": "DEBATT: Det går inte att ignorera det här",
-    "link": "https://www.expressen.se/debatt/debatt-det-gar-inte-att-ignorera-det-har/",
-    "pubDate": "2026-10-20T15:00:00.000Z",
-    "sourceId": "expressen",
-    "sourceName": "Expressen",
-    "sourceShort": "EXPRESSEN",
-    "badgeColor": "#e30613",
-    "textColor": "#ffffff",
-    "country": "SE",
-    "category": "Debatt"
-  },
-  {
-    "id": "svt-85-kostar-ukrainska-liv",
-    "title": "”En dålig relation med USA kostar ukrainska liv”",
-    "link": "https://www.svt.se/nyheter/utrikes/en-dalig-relation-med-usa-kostar-ukrainska-liv",
-    "pubDate": "2026-10-20T14:20:33.000Z",
-    "sourceId": "svt",
-    "sourceName": "SVT Nyheter",
-    "sourceShort": "SVT",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "svt-86-or-kameraovervakning",
-    "title": "Anundshög plundrat igen – museiechefen: ”Dags för kameraövervakning”",
-    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/anundshog-plundrat-igen-narmare-20-gropar-upptackta-dags-for-kameraovervakning",
-    "pubDate": "2026-10-20T14:05:25.000Z",
-    "sourceId": "svt",
-    "sourceName": "SVT Nyheter",
-    "sourceShort": "SVT",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "SE"
   }
 ]

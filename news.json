@@ -1,5 +1,30 @@
 [
   {
+    "id": "dn-0-tionell-flygplats%2F",
+    "title": "Ebolapatienten i Nigeria kan ha smittats på internationell flygplats",
+    "link": "https://www.dn.se/varlden/ebolapatienten-i-nigeria-kan-ha-smittats-pa-internationell-flygplats/",
+    "pubDate": "2026-10-23T11:22:13.000Z",
+    "sourceId": "dn",
+    "sourceName": "Dagens Nyheter",
+    "sourceShort": "DN",
+    "badgeColor": "#0a3875",
+    "textColor": "#ffffff",
+    "country": "SE"
+  },
+  {
+    "id": "dw-0-en-all-1573-xml-mrss",
+    "title": "France: 1 killed, 4 wounded after shooting near Paris",
+    "link": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-xml-mrss",
+    "pubDate": "2026-10-23T11:22:00.000Z",
+    "sourceId": "dw",
+    "sourceName": "Deutsche Welle",
+    "sourceShort": "DW",
+    "badgeColor": "#002f6c",
+    "textColor": "#ffffff",
+    "country": "DE",
+    "category": "News"
+  },
+  {
     "id": "expressen-0-ankt-terrorattack%2F",
     "title": "Skjutning utanför Paris – misstänkt terrorattack",
     "link": "https://www.expressen.se/nyheter/varlden/skjutning-utanfor-paris-misstankt-terrorattack/",
@@ -63,6 +88,30 @@
     "category": "United States Politics an"
   },
   {
+    "id": "etc-0-z%3Futm_source%3Drss",
+    "title": "Misstänkt terrorattack utanför Paris",
+    "link": "https://www.etc.se/utrikes/misstaenkt-terrorattack-utanfoer-paris-uzpf1ujz?utm_source=rss",
+    "pubDate": "2026-10-23T11:10:00.000Z",
+    "sourceId": "etc",
+    "sourceName": "Dagens ETC",
+    "sourceShort": "ETC",
+    "badgeColor": "#e50020",
+    "textColor": "#ffffff",
+    "country": "SE"
+  },
+  {
+    "id": "etc-1-s%3Futm_source%3Drss",
+    "title": "Misstänkt terrorattack utanför Paris",
+    "link": "https://www.etc.se/utrikes/misstaenkt-terrorattack-utanfoer-paris?utm_source=rss",
+    "pubDate": "2026-10-23T11:10:00.000Z",
+    "sourceId": "etc",
+    "sourceName": "Dagens ETC",
+    "sourceShort": "ETC",
+    "badgeColor": "#e50020",
+    "textColor": "#ffffff",
+    "country": "SE"
+  },
+  {
     "id": "guardian-20--latest-news-updates",
     "title": "French interior minister says authorities will be ‘uncompromising’ with ‘vandals’ ahead of weekend protests – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
@@ -76,7 +125,7 @@
     "category": "World news"
   },
   {
-    "id": "dn-0-rade-stridshundar%2F",
+    "id": "dn-1-rade-stridshundar%2F",
     "title": "Företag ska avla fram genmodifierade stridshundar",
     "link": "https://www.dn.se/varlden/foretag-ska-avla-fram-genmodifierade-stridshundar/",
     "pubDate": "2026-10-23T11:07:52.000Z",
@@ -152,7 +201,7 @@
     "category": "Krim"
   },
   {
-    "id": "dn-1--fram-kristersson%2F",
+    "id": "dn-2--fram-kristersson%2F",
     "title": "Ebba Busch: S bör överväga att släppa fram Kristersson",
     "link": "https://www.dn.se/sverige/ebba-busch-s-bor-overvaga-att-slappa-fram-kristersson/",
     "pubDate": "2026-10-23T11:02:03.000Z",
@@ -188,6 +237,18 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "US news"
+  },
+  {
+    "id": "etc-7-e%3Futm_source%3Drss",
+    "title": "Stor litteratur om drömmars betydelse",
+    "link": "https://www.etc.se/recension/stor-litteratur-om-droemmars-betydelse?utm_source=rss",
+    "pubDate": "2026-10-23T11:00:00.000Z",
+    "sourceId": "etc",
+    "sourceName": "Dagens ETC",
+    "sourceShort": "ETC",
+    "badgeColor": "#e50020",
+    "textColor": "#ffffff",
+    "country": "SE"
   },
   {
     "id": "npr-0-post-more-hyperlinks",
@@ -293,8 +354,8 @@
     "category": "Meghan, the Duchess of Su"
   },
   {
-    "id": "etc-0-t%3Futm_source%3Drss",
-    "title": "Hyllar Hitler och bygger vapenarsenal – åklagaren: \"Historiskt intresse för andra världskriget\"",
+    "id": "etc-2-t%3Futm_source%3Drss",
+    "title": "Hyllar Hitler och bygger vapenarsenal – åklagaren: ”Historiskt intresse för andra världskriget”",
     "link": "https://www.etc.se/story/hyllar-hitler-och-bygger-vapenarsenal-aaklagaren-historiskt-intresse-foer-andra-vaerldskriget?utm_source=rss",
     "pubDate": "2026-10-23T10:50:00.000Z",
     "sourceId": "etc",
@@ -558,7 +619,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-2-t%3Futm_source%3Drss",
+    "id": "etc-4-t%3Futm_source%3Drss",
     "title": "15-årig pojke begärs häktad efter skolincident",
     "link": "https://www.etc.se/inrikes/pojke-begaers-haektad-efter-skolincident?utm_source=rss",
     "pubDate": "2026-10-23T10:20:00.000Z",
@@ -582,7 +643,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-2-juvlig-upplevelse%2F",
+    "id": "dn-3-juvlig-upplevelse%2F",
     "title": "Förnedringsteatern på Dramaten blir en ljuvlig upplevelse",
     "link": "https://www.dn.se/kultur/fornedringsteatern-pa-dramaten-blir-en-ljuvlig-upplevelse/",
     "pubDate": "2026-10-23T10:16:53.000Z",
@@ -594,7 +655,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-3-r-miljoner-tallar%2F",
+    "id": "dn-4-r-miljoner-tallar%2F",
     "title": "Stort utbrott av knäckesjuka – drabbar miljoner tallar",
     "link": "https://www.dn.se/sverige/stort-utbrott-av-knackesjuka-drabbar-miljoner-tallar/",
     "pubDate": "2026-10-23T10:14:15.000Z",
@@ -606,7 +667,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-4-fns-miljotoppmote%2F",
+    "id": "dn-5-fns-miljotoppmote%2F",
     "title": "Ordbråk och geopolitiska markeringar bromsar FN:s miljötoppmöte",
     "link": "https://www.dn.se/varlden/ordbrak-och-geopolitiska-markeringar-bromsar-fns-miljotoppmote/",
     "pubDate": "2026-10-23T10:12:18.000Z",
@@ -882,7 +943,7 @@
     "category": "Houthis"
   },
   {
-    "id": "etc-3-e%3Futm_source%3Drss",
+    "id": "etc-5-e%3Futm_source%3Drss",
     "title": "Möjligt nytt dödsvirus upptäckt i Frankrike",
     "link": "https://www.etc.se/klimat-miljo/moejligt-nytt-doedsvirus-upptaeckt-i-frankrike?utm_source=rss",
     "pubDate": "2026-10-23T09:30:00.000Z",
@@ -894,7 +955,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-0-en-all-1573-xml-mrss",
+    "id": "dw-1-en-all-1573-xml-mrss",
     "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
     "link": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T09:29:00.000Z",
@@ -991,7 +1052,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-5-et-en-san-har-dag%2F",
+    "id": "dn-6-et-en-san-har-dag%2F",
     "title": "”Det finns en framtid för Volvo också, vi får inte glömma det en sån här dag”",
     "link": "https://www.dn.se/ekonomi/det-finns-en-framtid-for-volvo-ocksa-vi-far-inte-glomma-det-en-san-har-dag/",
     "pubDate": "2026-10-23T09:12:33.000Z",
@@ -1003,7 +1064,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-6-behandlingshemmet%2F",
+    "id": "dn-7-behandlingshemmet%2F",
     "title": "Jonas Lundqvist: ”Jag kom bara ut med en ny skiva från behandlingshemmet”",
     "link": "https://www.dn.se/kultur/jonas-lundqvist-jag-kom-bara-ut-med-en-ny-skiva-fran-behandlingshemmet/",
     "pubDate": "2026-10-23T09:09:57.000Z",
@@ -1040,7 +1101,7 @@
     "category": "Elections"
   },
   {
-    "id": "dw-1-en-all-1573-xml-mrss",
+    "id": "dw-2-en-all-1573-xml-mrss",
     "title": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
     "link": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T09:04:00.000Z",
@@ -1266,7 +1327,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-2-en-all-1573-xml-mrss",
+    "id": "dw-3-en-all-1573-xml-mrss",
     "title": "Germany news: Wadephul says 'threat of famine' due to ongoing wars",
     "link": "https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T08:48:00.000Z",
@@ -1316,7 +1377,7 @@
     "country": "INT"
   },
   {
-    "id": "dn-7-skey-on-the-rocks%2F",
+    "id": "dn-8-skey-on-the-rocks%2F",
     "title": "Helgens drink: Whiskey on the rocks",
     "link": "https://www.dn.se/mat-dryck/helgens-drink-whiskey-on-the-rocks/",
     "pubDate": "2026-10-23T08:32:03.000Z",
@@ -1328,7 +1389,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-4-r%3Futm_source%3Drss",
+    "id": "etc-6-r%3Futm_source%3Drss",
     "title": "Oscar Zia om Edvin Törnblom: ”Jag hade glömt hur jävla ont det gör”",
     "link": "https://www.etc.se/kultur-noje/oscar-zia-om-edvin-toernblom-jag-hade-gloemt-hur-jaevla-ont-det-goer?utm_source=rss",
     "pubDate": "2026-10-23T08:30:00.000Z",
@@ -1352,7 +1413,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-8-lvo-kan-fortsatta%2F",
+    "id": "dn-9-lvo-kan-fortsatta%2F",
     "title": "Jonas Fröberg: Blodbadet hos Volvo kan fortsätta",
     "link": "https://www.dn.se/ekonomi/jonas-froberg-blodbadet-hos-volvo-kan-fortsatta/",
     "pubDate": "2026-10-23T08:28:12.000Z",
@@ -1364,7 +1425,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-9--forbjuda-vinster%2F",
+    "id": "dn-10--forbjuda-vinster%2F",
     "title": "Insändare. C-ledaren bör lyssna på väljarna och förbjuda vinster",
     "link": "https://www.dn.se/insandare/c-ledaren-bor-lyssna-pa-valjarna-och-forbjuda-vinster/",
     "pubDate": "2026-10-23T08:27:30.000Z",
@@ -1376,7 +1437,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-3-en-all-1573-xml-mrss",
+    "id": "dw-4-en-all-1573-xml-mrss",
     "title": "Israel preparing 'full closure' of West Bank, Netanyahu says",
     "link": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T08:25:00.000Z",
@@ -1451,7 +1512,7 @@
     "category": "Europe weather"
   },
   {
-    "id": "dn-10-oller-pa-dramaten%2F",
+    "id": "dn-11-oller-pa-dramaten%2F",
     "title": "Livia Millhagen spelar 24 roller på Dramaten",
     "link": "https://www.dn.se/kultur/livia-millhagen-spelar-24-roller-pa-dramaten/",
     "pubDate": "2026-10-23T08:11:44.000Z",
@@ -1525,7 +1586,7 @@
     "category": "Tibet"
   },
   {
-    "id": "dw-4-en-all-1573-xml-mrss",
+    "id": "dw-5-en-all-1573-xml-mrss",
     "title": "South Korea proposes military talks with North again",
     "link": "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T07:50:00.000Z",
@@ -1589,7 +1650,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "dn-11-nstruosa-clayface%2F",
+    "id": "dn-12-nstruosa-clayface%2F",
     "title": "Filmlistan vecka 43: Lerig kroppsskräck laddar monstruösa ”Clayface”",
     "link": "https://www.dn.se/kultur/filmlistan-vecka-43-lerig-kroppsskrack-laddar-monstruosa-clayface/",
     "pubDate": "2026-10-23T07:24:14.000Z",
@@ -1649,7 +1710,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-5-en-all-1573-xml-mrss",
+    "id": "dw-6-en-all-1573-xml-mrss",
     "title": "Germany sit out FIFA Under-15 World Cup as Russia return",
     "link": "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T07:17:00.000Z",
@@ -1674,7 +1735,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-11-n%3Futm_source%3Drss",
+    "id": "etc-14-n%3Futm_source%3Drss",
     "title": "Swisha inte bort vänskapen",
     "link": "https://www.etc.se/kronika/jag-hatar-swishkulturen?utm_source=rss",
     "pubDate": "2026-10-23T07:10:00.000Z",
@@ -1712,7 +1773,7 @@
     "category": "Global development"
   },
   {
-    "id": "etc-5-t%3Futm_source%3Drss",
+    "id": "etc-8-t%3Futm_source%3Drss",
     "title": "Bengalisk omelett",
     "link": "https://www.etc.se/recept/bengalisk-omelett?utm_source=rss",
     "pubDate": "2026-10-23T07:00:00.000Z",
@@ -1787,7 +1848,7 @@
     "category": "Ekonomi"
   },
   {
-    "id": "dw-6-en-all-1573-xml-mrss",
+    "id": "dw-7-en-all-1573-xml-mrss",
     "title": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
     "link": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T06:40:00.000Z",
@@ -1800,7 +1861,7 @@
     "category": "News"
   },
   {
-    "id": "dn-12-t-att-anvanda-den%2F",
+    "id": "dn-13-t-att-anvanda-den%2F",
     "title": "Trump om skandalfilmen: Fortsätt att använda den",
     "link": "https://www.dn.se/varlden/trump-om-skandalfilmen-fortsatt-att-anvanda-den/",
     "pubDate": "2026-10-23T06:39:33.000Z",
@@ -1812,7 +1873,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-13-allningsbranschen%2F",
+    "id": "dn-14-allningsbranschen%2F",
     "title": "”Drama kings” skämtar kungligt med svenska underhållningsbranschen",
     "link": "https://www.dn.se/kultur/drama-kings-skamtar-kungligt-med-svenska-underhallningsbranschen/",
     "pubDate": "2026-10-23T06:37:58.000Z",
@@ -1824,7 +1885,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-14-arnen-kommer-anda%2F",
+    "id": "dn-15-arnen-kommer-anda%2F",
     "title": "Dinosaurievärld på Skeppsholmen ska locka vuxna: ”Barnen kommer ändå”",
     "link": "https://www.dn.se/kultur/dinosaurievarld-pa-skeppsholmen-ska-locka-vuxna-barnen-kommer-anda/",
     "pubDate": "2026-10-23T06:31:22.000Z",
@@ -1886,7 +1947,7 @@
     "category": "Australian Greens"
   },
   {
-    "id": "dn-15-ya-bilderbokspris%2F",
+    "id": "dn-16-ya-bilderbokspris%2F",
     "title": "Aron Landahl får Kulturhuset Stadsteaterns nya bilderbokspris",
     "link": "https://www.dn.se/kultur/aron-landahl-far-kulturhuset-stadsteaterns-nya-bilderbokspris/",
     "pubDate": "2026-10-23T06:19:18.000Z",
@@ -1898,7 +1959,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-16-tycker-det-ar-fel%2F",
+    "id": "dn-17-tycker-det-ar-fel%2F",
     "title": "Swenn-Larsson om landslagets petning av Alphand: ”Jag tycker det är fel”",
     "link": "https://www.dn.se/sport/swenn-larsson-om-landslagets-petning-av-alphand-jag-tycker-det-ar-fel/",
     "pubDate": "2026-10-23T06:14:43.000Z",
@@ -1910,7 +1971,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-6-r%3Futm_source%3Drss",
+    "id": "etc-9-r%3Futm_source%3Drss",
     "title": "Volvo Cars skär ned med 2 500 tjänster",
     "link": "https://www.etc.se/ekonomi/volvo-cars-skaer-ned-med-2-500-tjaenster?utm_source=rss",
     "pubDate": "2026-10-23T06:10:00.000Z",
@@ -2023,7 +2084,7 @@
     "category": "Serbia"
   },
   {
-    "id": "dw-7-en-all-1573-xml-mrss",
+    "id": "dw-8-en-all-1573-xml-mrss",
     "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
     "link": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T05:37:00.000Z",
@@ -2048,7 +2109,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-17-ropas-varmeboljor%2F",
+    "id": "dn-18-ropas-varmeboljor%2F",
     "title": "Millenniets dödligaste sommar: 50 000 döda i Europas värmeböljor",
     "link": "https://www.dn.se/varlden/millenniets-dodligaste-sommar-50-000-doda-i-europas-varmeboljor/",
     "pubDate": "2026-10-23T05:33:00.000Z",
@@ -2060,7 +2121,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-18-r-flest-i-sverige%2F",
+    "id": "dn-19-r-flest-i-sverige%2F",
     "title": "Volvo Cars skär ned med 2 500 tjänster – flest i Sverige",
     "link": "https://www.dn.se/ekonomi/volvo-cars-skar-ned-med-2-500-tjanster-flest-i-sverige/",
     "pubDate": "2026-10-23T05:31:37.000Z",
@@ -2072,7 +2133,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-19-fall-tva-melodier%2F",
+    "id": "dn-20-fall-tva-melodier%2F",
     "title": "EKG: Jag skämdes i musikskolan – men fortsatte kämpa",
     "link": "https://www.dn.se/kultur/ekg-jag-larde-mig-i-alla-fall-tva-melodier/",
     "pubDate": "2026-10-23T05:30:00.000Z",
@@ -2084,7 +2145,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-8-en-all-1573-xml-mrss",
+    "id": "dw-9-en-all-1573-xml-mrss",
     "title": "Embarrassing name? How we live with names we don't like",
     "link": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T05:29:00.000Z",
@@ -2288,7 +2349,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-20-mval-av-infantino%2F",
+    "id": "dn-21-mval-av-infantino%2F",
     "title": "Beskedet: Asien stöttar omval av Infantino",
     "link": "https://www.dn.se/sport/beskedet-asien-stottar-omval-av-infantino/",
     "pubDate": "2026-10-23T04:47:35.000Z",
@@ -2300,7 +2361,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-9-en-all-1573-xml-mrss",
+    "id": "dw-10-en-all-1573-xml-mrss",
     "title": "India news: Protesters march to Election Commission demanding CEC Gyanesh Kumar's resignation",
     "link": "https://www.dw.com/en/india-news-protesters-march-to-election-commission-demanding-cec-gyanesh-kumar-s-resignation/live-79738437?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T04:46:00.000Z",
@@ -2326,7 +2387,7 @@
     "category": "News"
   },
   {
-    "id": "dn-21-ets-stora-vinnare%2F",
+    "id": "dn-22-ets-stora-vinnare%2F",
     "title": "Johannes Klenell: Så blev jag och Annie Lööf valets stora vinnare",
     "link": "https://www.dn.se/kultur/johannes-klenell-sa-blev-jag-och-annie-loof-valets-stora-vinnare/",
     "pubDate": "2026-10-23T04:31:12.000Z",
@@ -2400,7 +2461,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-22-manga-mohamed-ali%2F",
+    "id": "dn-23-manga-mohamed-ali%2F",
     "title": "”Det var en enkel googling, men det finns många Mohamed Ali”",
     "link": "https://www.dn.se/sverige/det-var-en-enkel-googling-men-det-finns-manga-mohamed-ali/",
     "pubDate": "2026-10-23T04:15:08.000Z",
@@ -2425,7 +2486,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "dn-23-har-ar-en-hammare%2F",
+    "id": "dn-24-har-ar-en-hammare%2F",
     "title": "Max Hjelm: Högern har fastnat i ett heligt krig mot år 2014 – och det enda vapen de har är en hammare",
     "link": "https://www.dn.se/ledare/max-hjelm-hogern-har-fastnat-i-ett-heligt-krig-mot-ar-2014-och-det-enda-vapen-de-har-ar-en-hammare/",
     "pubDate": "2026-10-23T04:03:08.000Z",
@@ -2512,7 +2573,7 @@
     "category": "US midterm elections 2026"
   },
   {
-    "id": "etc-9-e%3Futm_source%3Drss",
+    "id": "etc-12-e%3Futm_source%3Drss",
     "title": "V pratade om miljardärerna – men höjer skatten för Malmö",
     "link": "https://www.etc.se/debatt/v-pratade-om-miljardaererna-men-hoejer-skatten-foer-malmoe?utm_source=rss",
     "pubDate": "2026-10-23T04:00:00.000Z",
@@ -2524,7 +2585,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-14-n%3Futm_source%3Drss",
+    "id": "etc-17-n%3Futm_source%3Drss",
     "title": "Choose your fighter – poolförsäljaren eller professorn?",
     "link": "https://www.etc.se/ledare/choose-your-fighter-poolfoersaeljaren-eller-professorn?utm_source=rss",
     "pubDate": "2026-10-23T04:00:00.000Z",
@@ -2536,7 +2597,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-19-v%3Futm_source%3Drss",
+    "id": "etc-22-v%3Futm_source%3Drss",
     "title": "Skogsarbetare, jägare och vänsterpartist: ”C är på samma sida av bordet som V”",
     "link": "https://www.etc.se/inrikes/skogsarbetare-jaegare-och-vaensterpartist-c-aer-paa-samma-sida-av-bordet-som-v?utm_source=rss",
     "pubDate": "2026-10-23T04:00:00.000Z",
@@ -2587,7 +2648,7 @@
     "category": "NFL"
   },
   {
-    "id": "dn-24-a-sverige-gora-da%2F",
+    "id": "dn-25-a-sverige-gora-da%2F",
     "title": "Ledare: Världen missar 1,5-gradersmålet – vad ska Sverige göra då?",
     "link": "https://www.dn.se/ledare/varlden-missar-1-5-gradersmalet-vad-ska-sverige-gora-da/",
     "pubDate": "2026-10-23T03:37:16.000Z",
@@ -2697,7 +2758,7 @@
     "category": "Världen"
   },
   {
-    "id": "dw-10-en-all-1573-xml-mrss",
+    "id": "dw-11-en-all-1573-xml-mrss",
     "title": "Serbia: Tens of thousands rally ahead of elections",
     "link": "https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T03:15:00.000Z",
@@ -2710,7 +2771,7 @@
     "category": "News"
   },
   {
-    "id": "dn-25-storst-att-du-dor%2F",
+    "id": "dn-26-storst-att-du-dor%2F",
     "title": "Typåldern visar: Då är sannolikheten störst att du dör",
     "link": "https://www.dn.se/sverige/typaldern-visar-da-ar-sannolikheten-storst-att-du-dor/",
     "pubDate": "2026-10-23T03:07:29.000Z",
@@ -2760,7 +2821,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-11-en-all-1573-xml-mrss",
+    "id": "dw-12-en-all-1573-xml-mrss",
     "title": "Airbnb scraps guest checkout chores such as cleaning",
     "link": "https://www.dw.com/en/airbnb-scraps-guest-checkout-chores-such-as-cleaning/a-79738340?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T02:14:00.000Z",
@@ -2838,7 +2899,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "etc-1-r%3Futm_source%3Drss",
+    "id": "etc-3-r%3Futm_source%3Drss",
     "title": "De pratar om röstfusk – men lämnar förorten utan svar",
     "link": "https://www.etc.se/ledare/de-pratar-om-roestfusk-men-laemnar-foerorten-utan-svar?utm_source=rss",
     "pubDate": "2026-10-23T01:00:00.000Z",
@@ -2914,7 +2975,7 @@
     "category": "Serbia"
   },
   {
-    "id": "dn-26-r-en-kolonialmakt%2F",
+    "id": "dn-27-r-en-kolonialmakt%2F",
     "title": "Är Little Jinder en kolonialmakt?",
     "link": "https://www.dn.se/podd/kara-dagbok/ar-little-jinder-en-kolonialmakt/",
     "pubDate": "2026-10-23T00:00:00.000Z",
@@ -3004,7 +3065,7 @@
     "category": "Rebel Wilson"
   },
   {
-    "id": "dw-12-en-all-1573-xml-mrss",
+    "id": "dw-13-en-all-1573-xml-mrss",
     "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
     "link": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T23:24:00.000Z",
@@ -3222,7 +3283,7 @@
     "category": "National Security"
   },
   {
-    "id": "dn-27-rdigare-inramning%2F",
+    "id": "dn-28-rdigare-inramning%2F",
     "title": "Ljuvlig Stevie Wonder hade förtjänat en värdigare inramning",
     "link": "https://www.dn.se/kultur/ljuvlig-stevie-wonder-hade-fortjanat-en-vardigare-inramning/",
     "pubDate": "2026-10-22T21:37:02.000Z",
@@ -3401,7 +3462,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-13-en-all-1573-xml-mrss",
+    "id": "dw-14-en-all-1573-xml-mrss",
     "title": "Poland: Thousands protest for more abortion rights",
     "link": "https://www.dw.com/en/poland-thousands-protest-for-more-abortion-rights/a-79737572?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T20:52:00.000Z",
@@ -3632,7 +3693,7 @@
     "category": "Utah"
   },
   {
-    "id": "dn-28-ad-blev-lite-rord%2F",
+    "id": "dn-29-ad-blev-lite-rord%2F",
     "title": "Ny Loob slog till för Färjestad: ”Blev lite rörd”",
     "link": "https://www.dn.se/sport/ny-loob-slog-till-for-farjestad-blev-lite-rord/",
     "pubDate": "2026-10-22T19:23:20.000Z",
@@ -3670,7 +3731,7 @@
     "category": "Personal Finances"
   },
   {
-    "id": "dw-14-en-all-1573-xml-mrss",
+    "id": "dw-15-en-all-1573-xml-mrss",
     "title": "Albania's student protests are only getting bigger",
     "link": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T19:18:00.000Z",
@@ -3683,7 +3744,7 @@
     "category": "World"
   },
   {
-    "id": "dw-15-en-all-1573-xml-mrss",
+    "id": "dw-16-en-all-1573-xml-mrss",
     "title": "Lina Attalah: Mada Masr journalist sent for trial in Egypt",
     "link": "https://www.dw.com/en/lina-attalah-mada-masr-journalist-sent-for-trial-in-egypt/a-79736647?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T19:17:00.000Z",
@@ -3746,7 +3807,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-29-enhowers-jordglob%2F",
+    "id": "dn-30-enhowers-jordglob%2F",
     "title": "Hegseths tjänstemän förstörde Eisenhowers jordglob",
     "link": "https://www.dn.se/varlden/hegseths-tjansteman-forstorde-eisenhowers-jordglob/",
     "pubDate": "2026-10-22T19:04:02.000Z",
@@ -3758,7 +3819,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-30-te-dagens-nyheter%2F",
+    "id": "dn-31-te-dagens-nyheter%2F",
     "title": "22 oktober: Missa inte dagens nyheter",
     "link": "https://www.dn.se/sverige/22-oktober-missa-inte-dagens-nyheter/",
     "pubDate": "2026-10-22T19:03:50.000Z",
@@ -3809,7 +3870,7 @@
     "category": "Sverige"
   },
   {
-    "id": "dn-31--poang-i-georgien%2F",
+    "id": "dn-32--poang-i-georgien%2F",
     "title": "Veteranen räddade en Mjällby-poäng i Georgien",
     "link": "https://www.dn.se/sport/veteranen-raddade-en-mjallby-poang-i-georgien/",
     "pubDate": "2026-10-22T18:49:42.000Z",
@@ -3847,7 +3908,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "dn-32-terna-i-frankrike%2F",
+    "id": "dn-33-terna-i-frankrike%2F",
     "title": "Sofia Norlin: Därför är jag en del av protesterna i Frankrike",
     "link": "https://www.dn.se/kultur/sofia-norlin-darfor-ar-jag-en-del-av-protesterna-i-frankrike/",
     "pubDate": "2026-10-22T18:44:06.000Z",
@@ -3897,7 +3958,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-33-n-alaskas-odemark%2F",
+    "id": "dn-34-n-alaskas-odemark%2F",
     "title": "Oväntade hotet mot Trump: Vapenvän från Alaskas ödemark",
     "link": "https://www.dn.se/varlden/ovantade-hotet-mot-trump-vapenvan-fran-alaskas-odemark/",
     "pubDate": "2026-10-22T18:35:06.000Z",
@@ -3922,7 +3983,7 @@
     "category": "Trump administration"
   },
   {
-    "id": "dn-34-bli-lamnad-i-fred%2F",
+    "id": "dn-35-bli-lamnad-i-fred%2F",
     "title": "Bengt Ohlsson: Finns det någon plats där jag kan få bli lämnad i fred?",
     "link": "https://www.dn.se/kultur/bengt-ohlsson-finns-det-nagon-plats-dar-jag-kan-fa-bli-lamnad-i-fred/",
     "pubDate": "2026-10-22T18:29:43.000Z",
@@ -3972,7 +4033,7 @@
     "category": "Politics"
   },
   {
-    "id": "dw-16-en-all-1573-xml-mrss",
+    "id": "dw-17-en-all-1573-xml-mrss",
     "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
     "link": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T18:18:00.000Z",
@@ -4011,7 +4072,7 @@
     "category": "Sverige"
   },
   {
-    "id": "dn-35-e-loneokningstakt%2F",
+    "id": "dn-36-e-loneokningstakt%2F",
     "title": "LO avvisar arbetsgivarnas krav på lägre löneökningstakt",
     "link": "https://www.dn.se/ekonomi/lo-avvisar-arbetsgivarnas-krav-pa-lagre-loneokningstakt/",
     "pubDate": "2026-10-22T18:11:20.000Z",
@@ -4036,7 +4097,7 @@
     "category": "Airports"
   },
   {
-    "id": "dn-36-jarnan-total-skam%2F",
+    "id": "dn-37-jarnan-total-skam%2F",
     "title": "Trump sågar superstjärnan: ”Total skam”",
     "link": "https://www.dn.se/sport/trump-sagar-superstjarnan-total-skam/",
     "pubDate": "2026-10-22T18:02:23.000Z",
@@ -4048,7 +4109,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-37-rkradd-pa-riktigt%2F",
+    "id": "dn-38-rkradd-pa-riktigt%2F",
     "title": "DN Debatt. ”När ett boklån blir en orosanmälan blir jag mörkrädd på riktigt”",
     "link": "https://www.dn.se/debatt/nar-ett-boklan-blir-en-orosanmalan-blir-jag-morkradd-pa-riktigt/",
     "pubDate": "2026-10-22T18:00:00.000Z",
@@ -4137,7 +4198,7 @@
     "category": "Newsletters"
   },
   {
-    "id": "dn-38-lderna-som-sprids%2F",
+    "id": "dn-39-lderna-som-sprids%2F",
     "title": "Franska protesterna utnyttjas politiskt – här är falska bilderna som sprids",
     "link": "https://www.dn.se/varlden/franska-protesterna-utnyttjas-politiskt-har-ar-falska-bilderna-som-sprids/",
     "pubDate": "2026-10-22T17:36:35.000Z",
@@ -4149,7 +4210,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-39-stvagens-i-europa%2F",
+    "id": "dn-40-stvagens-i-europa%2F",
     "title": "Här är länderna i protestvågens i Europa",
     "link": "https://www.dn.se/varlden/har-ar-landerna-i-protestvagens-i-europa/",
     "pubDate": "2026-10-22T17:36:27.000Z",
@@ -4161,7 +4222,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-40-inte-till-sverige%2F",
+    "id": "dn-41-inte-till-sverige%2F",
     "title": "Expert: Protestvågen kommer inte till Sverige",
     "link": "https://www.dn.se/varlden/expert-protestvagen-kommer-inte-till-sverige/",
     "pubDate": "2026-10-22T17:36:19.000Z",
@@ -4311,7 +4372,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-17-en-all-1573-xml-mrss",
+    "id": "dw-18-en-all-1573-xml-mrss",
     "title": "Canada's Mark Carney visits Turkey to boost trade ties",
     "link": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T17:07:00.000Z",
@@ -4425,7 +4486,7 @@
     "category": "Reform UK"
   },
   {
-    "id": "dn-41-hostrusk-i-helgen%2F",
+    "id": "dn-42-hostrusk-i-helgen%2F",
     "title": "Stormen Boelo bjuder på höstrusk i helgen",
     "link": "https://www.dn.se/sverige/stormen-boelo-bjuder-pa-hostrusk-i-helgen/",
     "pubDate": "2026-10-22T16:36:45.000Z",
@@ -4437,7 +4498,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-42-ggar-upp-debatten%2F",
+    "id": "dn-43-ggar-upp-debatten%2F",
     "title": "Johanna Frändén: Sharialagar eller fransk revolution – fotbollsfruarnas utspel piggar upp debatten",
     "link": "https://www.dn.se/sport/johanna-franden-sharialagar-eller-fransk-revolution-fotbollsfruarnas-utspel-piggar-upp-debatten/",
     "pubDate": "2026-10-22T16:31:28.000Z",
@@ -4474,7 +4535,7 @@
     "category": "Golden State Warriors"
   },
   {
-    "id": "dw-18-en-all-1573-xml-mrss",
+    "id": "dw-19-en-all-1573-xml-mrss",
     "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
     "link": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T16:28:00.000Z",
@@ -4512,7 +4573,7 @@
     "category": "Sverige"
   },
   {
-    "id": "dn-43-arda-verkligheten%2F",
+    "id": "dn-44-arda-verkligheten%2F",
     "title": "C drömmer om mitten – här är den hårda verkligheten",
     "link": "https://www.dn.se/sverige/c-drommer-om-mitten-har-ar-den-harda-verkligheten/",
     "pubDate": "2026-10-22T16:19:50.000Z",
@@ -4563,7 +4624,7 @@
     "category": "Computer Security"
   },
   {
-    "id": "dw-19-en-all-1573-xml-mrss",
+    "id": "dw-20-en-all-1573-xml-mrss",
     "title": "Are the French police the most violent in the EU?",
     "link": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T16:01:00.000Z",
@@ -4589,7 +4650,7 @@
     "category": "France"
   },
   {
-    "id": "dn-44-tora-angrepp-annu%2F",
+    "id": "dn-45-tora-angrepp-annu%2F",
     "title": "FRA: Inga tecken på stora angrepp ännu",
     "link": "https://www.dn.se/sverige/fra-inga-tecken-pa-stora-angrepp-annu/",
     "pubDate": "2026-10-22T15:53:29.000Z",
@@ -4601,7 +4662,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-45-ig-for-stora-skor%2F",
+    "id": "dn-46-ig-for-stora-skor%2F",
     "title": "Ekonomisk kris i innebandyn: ”Tar på sig för stora skor”",
     "link": "https://www.dn.se/sport/ekonomisk-kris-i-innebandyn-tar-pa-sig-for-stora-skor/",
     "pubDate": "2026-10-22T15:49:09.000Z",
@@ -4651,7 +4712,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "dn-46-sien-under-attack%2F",
+    "id": "dn-47-sien-under-attack%2F",
     "title": "Expert: Säker flygkorridor till Asien under attack",
     "link": "https://www.dn.se/varlden/expert-saker-flygkorridor-till-asien-under-attack/",
     "pubDate": "2026-10-22T15:39:52.000Z",
@@ -4762,7 +4823,7 @@
     "category": "Russian Invasion of Ukrai"
   },
   {
-    "id": "dn-47-gstips-2026-10-22%2F",
+    "id": "dn-48-gstips-2026-10-22%2F",
     "title": "Nicholas Wennö: Här är veckans bästa strömningstips",
     "link": "https://www.dn.se/kultur/nicholas-wenno-har-ar-veckans-basta-stromningstips-2026-10-22/",
     "pubDate": "2026-10-22T15:16:40.000Z",
@@ -4787,7 +4848,7 @@
     "category": "Trump administration"
   },
   {
-    "id": "dn-48-straffskarpningar%2F",
+    "id": "dn-49-straffskarpningar%2F",
     "title": "Rödgröna röstar ned snabbare straffskärpningar",
     "link": "https://www.dn.se/sverige/rodgrona-rostar-ned-snabbare-straffskarpningar/",
     "pubDate": "2026-10-22T15:14:11.000Z",
@@ -4862,7 +4923,7 @@
     "category": "France"
   },
   {
-    "id": "dn-49-mel-kan-vara-lost%2F",
+    "id": "dn-50-mel-kan-vara-lost%2F",
     "title": "Mysteriet bakom van Goghs stjärnhimmel kan vara löst",
     "link": "https://www.dn.se/kultur/mysteriet-bakom-van-goghs-stjarnhimmel-kan-vara-lost/",
     "pubDate": "2026-10-22T15:00:38.000Z",
@@ -4887,7 +4948,7 @@
     "category": "Canada"
   },
   {
-    "id": "etc-8-e%3Futm_source%3Drss",
+    "id": "etc-11-e%3Futm_source%3Drss",
     "title": "”Ben-Gvir är vår största fiende”",
     "link": "https://www.etc.se/story/ben-gvir-aer-vaar-stoersta-fiende?utm_source=rss",
     "pubDate": "2026-10-22T15:00:00.000Z",
@@ -4948,7 +5009,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-7-l%3Futm_source%3Drss",
+    "id": "etc-10-l%3Futm_source%3Drss",
     "title": "Första valet i Israel sedan 7 oktober – det här står på spel",
     "link": "https://www.etc.se/analys/foersta-valet-i-israel-sedan-7-oktober-det-haer-staar-paa-spel?utm_source=rss",
     "pubDate": "2026-10-22T14:50:00.000Z",
@@ -4986,7 +5047,7 @@
     "category": "Vox Press Room"
   },
   {
-    "id": "dn-50--den-21-oktober-4%2F",
+    "id": "dn-51--den-21-oktober-4%2F",
     "title": "Insändare. Noterat av DN:s läsare den 22 oktober",
     "link": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-21-oktober-4/",
     "pubDate": "2026-10-22T14:36:11.000Z",
@@ -5023,7 +5084,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-51-tt-radda-klimatet%2F",
+    "id": "dn-52-tt-radda-klimatet%2F",
     "title": "Insändare. Använd Norges oljefond för att rädda klimatet",
     "link": "https://www.dn.se/insandare/anvand-norges-oljefond-for-att-radda-klimatet/",
     "pubDate": "2026-10-22T14:22:58.000Z",
@@ -5035,7 +5096,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-52-ens-ljusa-krafter%2F",
+    "id": "dn-53-ens-ljusa-krafter%2F",
     "title": "Kulturdebatt. Oskar Månsson: Nu slår gängkriminaliteten även mot fotbollens ljusa krafter",
     "link": "https://www.dn.se/kultur/oskar-mansson-nu-slar-gangkriminaliteten-aven-mot-fotbollens-ljusa-krafter/",
     "pubDate": "2026-10-22T14:16:26.000Z",
@@ -5172,7 +5233,7 @@
     "category": "Ideas"
   },
   {
-    "id": "dn-53-l-smetig-barnsaga%2F",
+    "id": "dn-54-l-smetig-barnsaga%2F",
     "title": "Sötade ”Klara och solen” förvandlar Nobelprislitteratur till smetig barnsaga",
     "link": "https://www.dn.se/kultur/sotade-klara-och-solen-forvandlar-nobelprislitteratur-till-smetig-barnsaga/",
     "pubDate": "2026-10-22T13:47:45.000Z",
@@ -5210,7 +5271,7 @@
     "category": "Champions League"
   },
   {
-    "id": "etc-17-m%3Futm_source%3Drss",
+    "id": "etc-20-m%3Futm_source%3Drss",
     "title": "Köpenhamn förbjuder fossilreklam",
     "link": "https://www.etc.se/klimat-miljo/koepenhamn-foerbjuder-fossilreklam?utm_source=rss",
     "pubDate": "2026-10-22T13:40:00.000Z",
@@ -5246,7 +5307,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-10-n%3Futm_source%3Drss",
+    "id": "etc-13-n%3Futm_source%3Drss",
     "title": "PODD: 20. Henrik Jönsson hade fel i Skavlan",
     "link": "https://www.etc.se/play/podd/podd-20-henrik-joensson-hade-fel-i-skavlan?utm_source=rss",
     "pubDate": "2026-10-22T13:32:35.000Z",
@@ -5258,7 +5319,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-54--en-stokig-vinter%2F",
+    "id": "dn-55--en-stokig-vinter%2F",
     "title": "Busch om elpriserna: ”Kan bli en stökig vinter”",
     "link": "https://www.dn.se/sverige/busch-om-elpriserna-kan-bli-en-stokig-vinter/",
     "pubDate": "2026-10-22T13:30:17.000Z",
@@ -5282,7 +5343,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-55-ps-i-sigtunamalet%2F",
+    "id": "dn-56-ps-i-sigtunamalet%2F",
     "title": "Advokat kräver att 17-åring släpps i Sigtunamålet",
     "link": "https://www.dn.se/sverige/advokat-kraver-att-17-aring-slapps-i-sigtunamalet/",
     "pubDate": "2026-10-22T13:15:36.000Z",
@@ -5294,7 +5355,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-12-m%3Futm_source%3Drss",
+    "id": "etc-15-m%3Futm_source%3Drss",
     "title": "V-toppen: ”Rasism”",
     "link": "https://www.etc.se/inrikes/v-toppen-rasism?utm_source=rss",
     "pubDate": "2026-10-22T13:10:00.000Z",
@@ -5306,7 +5367,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-56-en-otroligt-tungt%2F",
+    "id": "dn-57-en-otroligt-tungt%2F",
     "title": "Man död efter fall på stålverksbygget i Boden: ”Otroligt tungt”",
     "link": "https://www.dn.se/sverige/man-dod-efter-fall-pa-stalverksbygget-i-boden-otroligt-tungt/",
     "pubDate": "2026-10-22T13:07:35.000Z",
@@ -5331,7 +5392,7 @@
     "category": "Saudi Arabia"
   },
   {
-    "id": "dn-57-randras-motsatser%2F",
+    "id": "dn-58-randras-motsatser%2F",
     "title": "Insändare. Globen och Strawberry arena är varandras motsatser",
     "link": "https://www.dn.se/insandare/globen-och-strawberry-arena-ar-varandras-motsatser/",
     "pubDate": "2026-10-22T13:02:03.000Z",
@@ -5343,7 +5404,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-13-r%3Futm_source%3Drss",
+    "id": "etc-16-r%3Futm_source%3Drss",
     "title": "LO-sprickan: Bråk om arbetstiden – förbund protesterar",
     "link": "https://www.etc.se/inrikes/braaket-i-lo-om-kortare-arbetstid-tunga-foerbund-protesterar?utm_source=rss",
     "pubDate": "2026-10-22T13:00:00.000Z",
@@ -5355,7 +5416,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-16-e%3Futm_source%3Drss",
+    "id": "etc-19-e%3Futm_source%3Drss",
     "title": "Israeliska vapenjätten växer i Sverige",
     "link": "https://www.etc.se/inrikes/israeliska-vapenjaetten-vaexer-i-sverige?utm_source=rss",
     "pubDate": "2026-10-22T13:00:00.000Z",
@@ -5392,7 +5453,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-58-arit-en-dalig-ton%2F",
+    "id": "dn-59-arit-en-dalig-ton%2F",
     "title": "Svenska kraftnäts generaldirektör om kritiken: ”Har aldrig varit en dålig ton”",
     "link": "https://www.dn.se/sverige/svenska-kraftnats-generaldirektor-om-kritiken-har-aldrig-varit-en-dalig-ton/",
     "pubDate": "2026-10-22T12:56:07.000Z",
@@ -5466,7 +5527,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-59-diska-grannlander%2F",
+    "id": "dn-60-diska-grannlander%2F",
     "title": "Insändare. Bryt blockgränsen som i våra nordiska grannländer",
     "link": "https://www.dn.se/insandare/bryt-blockgransen-som-i-vara-nordiska-grannlander/",
     "pubDate": "2026-10-22T12:49:16.000Z",
@@ -5527,7 +5588,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-60-r-en-halv-miljard%2F",
+    "id": "dn-61-r-en-halv-miljard%2F",
     "title": "Mina Asp Romefors: Därför bär Kylie Jenner en bh för en halv miljard",
     "link": "https://www.dn.se/kultur/mina-asp-romefors-darfor-bar-kylie-jenner-en-bh-for-en-halv-miljard/",
     "pubDate": "2026-10-22T12:30:48.000Z",
@@ -5563,7 +5624,7 @@
     "country": "INT"
   },
   {
-    "id": "dn-61-t-far-demonstrera%2F",
+    "id": "dn-62-t-far-demonstrera%2F",
     "title": "Beskedet efter upploppen – bara facket får demonstrera",
     "link": "https://www.dn.se/varlden/beskedet-efter-upploppen-bara-facket-far-demonstrera/",
     "pubDate": "2026-10-22T12:20:05.000Z",
@@ -5613,7 +5674,7 @@
     "category": "Världen"
   },
   {
-    "id": "dn-62-a-attackerat-iran%2F",
+    "id": "dn-63-a-attackerat-iran%2F",
     "title": "Palantirgrundaren: Trump borde inte ha attackerat Iran",
     "link": "https://www.dn.se/varlden/palantirgrundaren-trump-borde-inte-ha-attackerat-iran/",
     "pubDate": "2026-10-22T12:11:46.000Z",
@@ -5638,7 +5699,7 @@
     "category": "Australian politics"
   },
   {
-    "id": "dn-63-funktionshindrade%2F",
+    "id": "dn-64-funktionshindrade%2F",
     "title": "Insändare. Svar: Närvarokrav för betyg skulle drabba funktionshindrade",
     "link": "https://www.dn.se/insandare/svar-narvarokrav-for-betyg-skulle-drabba-funktionshindrade/",
     "pubDate": "2026-10-22T12:03:43.000Z",
@@ -5646,18 +5707,6 @@
     "sourceName": "Dagens Nyheter",
     "sourceShort": "DN",
     "badgeColor": "#0a3875",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "etc-23-n%3Futm_source%3Drss",
-    "title": "Så kan kärnkraften bli ett hinder för välfärden",
-    "link": "https://www.etc.se/klimat-miljo/saa-kan-kaernkraften-bli-ett-hinder-foer-vaelfaerden?utm_source=rss",
-    "pubDate": "2026-10-22T12:00:00.000Z",
-    "sourceId": "etc",
-    "sourceName": "Dagens ETC",
-    "sourceShort": "ETC",
-    "badgeColor": "#e50020",
     "textColor": "#ffffff",
     "country": "SE"
   },
@@ -5700,6 +5749,18 @@
     "country": "INT"
   },
   {
+    "id": "etc-23-n%3Futm_source%3Drss",
+    "title": "Så kan kärnkraften bli ett hinder för välfärden",
+    "link": "https://www.etc.se/klimat-miljo/saa-kan-kaernkraften-bli-ett-hinder-foer-vaelfaerden?utm_source=rss",
+    "pubDate": "2026-10-22T12:00:00.000Z",
+    "sourceId": "etc",
+    "sourceName": "Dagens ETC",
+    "sourceShort": "ETC",
+    "badgeColor": "#e50020",
+    "textColor": "#ffffff",
+    "country": "SE"
+  },
+  {
     "id": "dw-12-en-all-1573-xml-mrss",
     "title": "Iran's Balochistan border region sees growing unrest",
     "link": "https://www.dw.com/en/iran-s-balochistan-border-region-sees-growing-unrest/a-79716399?maca=en-rss-en-all-1573-xml-mrss",
@@ -5713,7 +5774,7 @@
     "category": "TOP STORIES"
   },
   {
-    "id": "dw-20-en-all-1573-xml-mrss",
+    "id": "dw-21-en-all-1573-xml-mrss",
     "title": "Ukraine: Life near the front line in Sloviansk",
     "link": "https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T11:44:00.000Z",
@@ -5739,7 +5800,7 @@
     "category": "News"
   },
   {
-    "id": "etc-18-n%3Futm_source%3Drss",
+    "id": "etc-21-n%3Futm_source%3Drss",
     "title": "Mohamed Ali bryter tystnaden – beskedet om skulderna",
     "link": "https://www.etc.se/inrikes/mohamed-ali-foersoeka-goera-det-baesta-jag-kan?utm_source=rss",
     "pubDate": "2026-10-22T11:40:00.000Z",
@@ -5776,7 +5837,7 @@
     "category": "Technology"
   },
   {
-    "id": "dn-64-harvan-i-borlange%2F",
+    "id": "dn-65-harvan-i-borlange%2F",
     "title": "Tre misstänks i valfuskhärvan i Borlänge",
     "link": "https://www.dn.se/sverige/tre-misstanks-i-valfuskharvan-i-borlange/",
     "pubDate": "2026-10-22T11:28:41.000Z",
@@ -5813,7 +5874,7 @@
     "category": "Oil"
   },
   {
-    "id": "dn-65-g-nattklubbsopera%2F",
+    "id": "dn-66-g-nattklubbsopera%2F",
     "title": "Matilda Tjäder tonsätter shoppingbegär och väcker suget efter en rökig nattklubbsopera",
     "link": "https://www.dn.se/kultur/matilda-tjader-tonsatter-shoppingbegar-och-vacker-suget-efter-en-rokig-nattklubbsopera/",
     "pubDate": "2026-10-22T11:11:51.000Z",
@@ -5890,7 +5951,7 @@
     "category": "Magazine"
   },
   {
-    "id": "etc-20-s%3Futm_source%3Drss",
+    "id": "etc-23-s%3Futm_source%3Drss",
     "title": "Rödgröna eniga om hur tonårsutvisningar ska stoppas",
     "link": "https://www.etc.se/inrikes/roedgroena-eniga-om-hur-tonaarsutvisningar-ska-stoppas?utm_source=rss",
     "pubDate": "2026-10-22T10:50:00.000Z",
@@ -5914,7 +5975,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-21-r%3Futm_source%3Drss",
+    "id": "etc-24-r%3Futm_source%3Drss",
     "title": "Trumps hatobjekt får pris för mänskliga rättigheter",
     "link": "https://www.etc.se/utrikes/trumps-hatobjekt-faar-pris-foer-maenskliga-raettigheter?utm_source=rss",
     "pubDate": "2026-10-22T10:40:00.000Z",
@@ -5988,7 +6049,7 @@
     "category": "Good Medicine"
   },
   {
-    "id": "dn-66-ta-folcker-lamnar%2F",
+    "id": "dn-67-ta-folcker-lamnar%2F",
     "title": "Aftonbladets chefredaktör Lotta Folcker lämnar",
     "link": "https://www.dn.se/kultur/aftonbladets-chefredaktor-lotta-folcker-lamnar/",
     "pubDate": "2026-10-22T10:05:40.000Z",
@@ -6026,18 +6087,6 @@
     "category": "CNN"
   },
   {
-    "id": "etc-22-d%3Futm_source%3Drss",
-    "title": "Vackert om barndom i en obegriplig vuxenvärld",
-    "link": "https://www.etc.se/recension/vackert-om-barndom-i-en-obegriplig-vuxenvaerld?utm_source=rss",
-    "pubDate": "2026-10-22T10:00:00.000Z",
-    "sourceId": "etc",
-    "sourceName": "Dagens ETC",
-    "sourceShort": "ETC",
-    "badgeColor": "#e50020",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
     "id": "expressen-3--fa-kora-i-130-km%2F",
     "title": "DEBATT: Bilar borde få köra i 130 km",
     "link": "https://www.expressen.se/debatt/debatt-bilar-borde-fa-kora-i-130-km/",
@@ -6051,7 +6100,19 @@
     "category": "Debatt"
   },
   {
-    "id": "dn-67-m-jong-un-sa-ofta%2F",
+    "id": "etc-22-d%3Futm_source%3Drss",
+    "title": "Vackert om barndom i en obegriplig vuxenvärld",
+    "link": "https://www.etc.se/recension/vackert-om-barndom-i-en-obegriplig-vuxenvaerld?utm_source=rss",
+    "pubDate": "2026-10-22T10:00:00.000Z",
+    "sourceId": "etc",
+    "sourceName": "Dagens ETC",
+    "sourceShort": "ETC",
+    "badgeColor": "#e50020",
+    "textColor": "#ffffff",
+    "country": "SE"
+  },
+  {
+    "id": "dn-68-m-jong-un-sa-ofta%2F",
     "title": "Marianne Björklund: Därför ”dör” Nordkoreas ledare Kim Jong-Un så ofta",
     "link": "https://www.dn.se/varlden/marianne-bjorklund-darfor-dor-nordkoreas-ledare-kim-jong-un-sa-ofta/",
     "pubDate": "2026-10-22T09:51:24.000Z",
@@ -6063,7 +6124,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-68-om-stor-knarksajt%2F",
+    "id": "dn-69-om-stor-knarksajt%2F",
     "title": "Fängelse för svenskar bakom stor knarksajt",
     "link": "https://www.dn.se/sverige/fangelse-for-svenskar-bakom-stor-knarksajt/",
     "pubDate": "2026-10-22T09:48:59.000Z",
@@ -6087,7 +6148,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-69-tshalet-ska-lagas%2F",
+    "id": "dn-70-tshalet-ska-lagas%2F",
     "title": "Kamp mot klockan när säkerhetshålet ska lagas",
     "link": "https://www.dn.se/sverige/kamp-mot-klockan-nar-sakerhetshalet-ska-lagas/",
     "pubDate": "2026-10-22T09:37:09.000Z",
@@ -6099,7 +6160,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-70-anaren-smekningar%2F",
+    "id": "dn-71-anaren-smekningar%2F",
     "title": "Norska stjärnan anklagar tränaren: ”Smekningar”",
     "link": "https://www.dn.se/sport/norska-stjarnan-anklagar-tranaren-smekningar/",
     "pubDate": "2026-10-22T09:36:16.000Z",
@@ -6111,7 +6172,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-21-en-all-1573-xml-mrss",
+    "id": "dw-22-en-all-1573-xml-mrss",
     "title": "Can Germany overhaul its economy before AfD grows stronger?",
     "link": "https://www.dw.com/en/can-germany-overhaul-its-economy-before-afd-grows-stronger/a-79696102?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T09:10:00.000Z",
@@ -6308,7 +6369,7 @@
     "category": "Världen"
   },
   {
-    "id": "dw-22-en-all-1573-xml-mrss",
+    "id": "dw-23-en-all-1573-xml-mrss",
     "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
     "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T08:33:00.000Z",
@@ -6321,7 +6382,7 @@
     "category": "Sports"
   },
   {
-    "id": "dw-23-en-all-1573-xml-mrss",
+    "id": "dw-24-en-all-1573-xml-mrss",
     "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
     "link": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T08:31:00.000Z",
@@ -6358,7 +6419,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-71-nare-mot-ryssland%2F",
+    "id": "dn-72-nare-mot-ryssland%2F",
     "title": "Nya anfall: Över 800 drönare mot Ryssland",
     "link": "https://www.dn.se/varlden/nya-anfall-over-800-dronare-mot-ryssland/",
     "pubDate": "2026-10-22T08:20:24.000Z",
@@ -6383,7 +6444,7 @@
     "category": "News"
   },
   {
-    "id": "dw-24-en-all-1573-xml-mrss",
+    "id": "dw-25-en-all-1573-xml-mrss",
     "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
     "link": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-22T08:07:00.000Z",
@@ -6409,7 +6470,7 @@
     "category": "Israeli election (2026)"
   },
   {
-    "id": "dn-72-t-stoppa-hackarna%2F",
+    "id": "dn-73-t-stoppa-hackarna%2F",
     "title": "Simon Campanello: Nu rusar halva internet för att stoppa hackarna",
     "link": "https://www.dn.se/varlden/simon-campanello-nu-rusar-halva-internet-for-att-stoppa-hackarna/",
     "pubDate": "2026-10-22T07:53:16.000Z",
@@ -6482,7 +6543,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-73-ciala-skyddsnatet%2F",
+    "id": "dn-74-ciala-skyddsnatet%2F",
     "title": "Forskare varnar för hål i det sociala skyddsnätet",
     "link": "https://www.dn.se/ekonomi/forskare-varnar-for-hal-i-det-sociala-skyddsnatet/",
     "pubDate": "2026-10-22T07:11:22.000Z",
@@ -6494,7 +6555,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-74-scistisk-thriller%2F",
+    "id": "dn-75-scistisk-thriller%2F",
     "title": "Skogsmullar döljer nazisympatier i ekofascistisk thriller",
     "link": "https://www.dn.se/kultur/skogsmullar-doljer-nazisympatier-i-ekofascistisk-thriller/",
     "pubDate": "2026-10-22T07:09:07.000Z",
@@ -6506,7 +6567,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-75-iga-amazoncheckar%2F",
+    "id": "dn-76-iga-amazoncheckar%2F",
     "title": "Trump sätter sitt namn på statliga Amazoncheckar",
     "link": "https://www.dn.se/varlden/trump-satter-sitt-namn-pa-statliga-amazoncheckar/",
     "pubDate": "2026-10-22T06:57:07.000Z",
@@ -6530,7 +6591,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-76-ansvar-for-ekocid%2F",
+    "id": "dn-77-ansvar-for-ekocid%2F",
     "title": "Jonas Ebbesson: Sverige bör driva på för globalt straffansvar för ekocid",
     "link": "https://www.dn.se/kultur/sverige-bor-driva-pa-for-globalt-straffansvar-for-ekocid/",
     "pubDate": "2026-10-22T06:32:54.000Z",
@@ -6542,7 +6603,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-77-gnal-till-ukraina%2F",
+    "id": "dn-78-gnal-till-ukraina%2F",
     "title": "Nu skeppas första ryska dieseln: ”Signal till Ukraina”",
     "link": "https://www.dn.se/varlden/nu-skeppas-forsta-ryska-dieseln-signal-till-ukraina/",
     "pubDate": "2026-10-22T06:19:55.000Z",
@@ -6578,7 +6639,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-78-ta-skiva-hittills%2F",
+    "id": "dn-79-ta-skiva-hittills%2F",
     "title": "”Ögonblick” är Maxida Märaks bästa skiva hittills",
     "link": "https://www.dn.se/kultur/ogonblick-ar-maxida-maraks-basta-skiva-hittills/",
     "pubDate": "2026-10-22T05:30:08.000Z",
@@ -6590,7 +6651,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-79-tuna-forvanar-mig%2F",
+    "id": "dn-80-tuna-forvanar-mig%2F",
     "title": "Helmerson: Kamratuppfostran på internat? Det hade vi inte en aaaning om!",
     "link": "https://www.dn.se/kultur/helmerson-er-forvaning-om-sigtuna-forvanar-mig/",
     "pubDate": "2026-10-22T05:30:00.000Z",
@@ -6602,7 +6663,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-80-a-varldens-godhet%2F",
+    "id": "dn-81-a-varldens-godhet%2F",
     "title": "Hammarbykaptenen om skjutningen i Älvsjö: ”Får en att tveka på världens godhet”",
     "link": "https://www.dn.se/sport/hammarbykaptenen-om-skjutningen-i-alvsjo-far-en-att-tveka-pa-varldens-godhet/",
     "pubDate": "2026-10-22T05:13:56.000Z",
@@ -6627,7 +6688,7 @@
     "category": "Världen"
   },
   {
-    "id": "dn-81--svenska-kraftnat%2F",
+    "id": "dn-82--svenska-kraftnat%2F",
     "title": "Ytterligare två tunga avhopp på Svenska kraftnät",
     "link": "https://www.dn.se/sverige/ytterligare-tva-tunga-avhopp-pa-svenska-kraftnat/",
     "pubDate": "2026-10-22T05:02:37.000Z",
@@ -6704,7 +6765,7 @@
     "category": "War and Armed Conflicts"
   },
   {
-    "id": "dn-82-erfekta-poptjejen%2F",
+    "id": "dn-83-erfekta-poptjejen%2F",
     "title": "Miss Li: ”Jag kommer aldrig att bli den där perfekta poptjejen”",
     "link": "https://www.dn.se/kultur/miss-li-jag-kommer-aldrig-att-bli-den-dar-perfekta-poptjejen/",
     "pubDate": "2026-10-22T04:08:47.000Z",
@@ -6716,7 +6777,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-83-osta-som-familjen%2F",
+    "id": "dn-84-osta-som-familjen%2F",
     "title": "Var fjärde i utsatta områden känner tryck att rösta som familjen",
     "link": "https://www.dn.se/sverige/var-fjarde-i-utsatta-omraden-kanner-tryck-att-rosta-som-familjen/",
     "pubDate": "2026-10-22T04:06:23.000Z",
@@ -6728,7 +6789,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-84-oktobers-basta-ol%2F",
+    "id": "dn-85-oktobers-basta-ol%2F",
     "title": "Experten tipsar: Här är oktobers bästa öl",
     "link": "https://www.dn.se/mat-dryck/experten-tipsar-har-ar-oktobers-basta-ol/",
     "pubDate": "2026-10-22T04:00:00.000Z",
@@ -6753,7 +6814,7 @@
     "category": "Debatt"
   },
   {
-    "id": "dn-85-h-vinintresserade%2F",
+    "id": "dn-86-h-vinintresserade%2F",
     "title": "Tre evenemang i Stockholm för öl-, cider- och vinintresserade",
     "link": "https://www.dn.se/mat-dryck/tre-evenemang-i-stockholm-for-ol-cider-och-vinintresserade/",
     "pubDate": "2026-10-22T03:58:00.000Z",
@@ -6863,7 +6924,7 @@
     "category": "War and Armed Conflicts"
   },
   {
-    "id": "dn-86--av-sangen-ar-tom%2F",
+    "id": "dn-87--av-sangen-ar-tom%2F",
     "title": "Emma Bouvin: Jag trevar efter min älskade – men hans sida av sängen är tom",
     "link": "https://www.dn.se/sverige/emma-bouvin-jag-trevar-efter-min-alskade-men-hans-sida-av-sangen-ar-tom/",
     "pubDate": "2026-10-22T03:12:16.000Z",
@@ -6875,7 +6936,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-87-radda-strommingen%2F",
+    "id": "dn-88-radda-strommingen%2F",
     "title": "Insändare. Enas över blockgränsen för att rädda strömmingen",
     "link": "https://www.dn.se/insandare/enas-over-blockgransen-for-att-radda-strommingen/",
     "pubDate": "2026-10-22T03:00:00.000Z",
@@ -6887,7 +6948,7 @@
     "country": "SE"
   },
   {
-    "id": "etc-15-l%3Futm_source%3Drss",
+    "id": "etc-18-l%3Futm_source%3Drss",
     "title": "Killar vill inte erkänna att de runkat till tjejer som utsatts för människohandel",
     "link": "https://www.etc.se/ledare/maen-vill-inte-erkaenna-att-de-runkat-till-tjejer-som-utsatts-foer-maenniskohandel?utm_source=rss",
     "pubDate": "2026-10-22T01:00:00.000Z",
@@ -6950,7 +7011,7 @@
     "category": "Newsletters"
   },
   {
-    "id": "dn-88--den-21-oktober-3%2F",
+    "id": "dn-89--den-21-oktober-3%2F",
     "title": "Insändare. Noterat av DN:s läsare den 21 oktober",
     "link": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-21-oktober-3/",
     "pubDate": "2026-10-21T22:46:25.000Z",
@@ -6988,7 +7049,7 @@
     "category": "Donald Trump"
   },
   {
-    "id": "dn-89--ali-ur-riksdagen%2F",
+    "id": "dn-90--ali-ur-riksdagen%2F",
     "title": "Insändare. Ge oss möjlighet att kasta ut Mohamed Ali ur riksdagen",
     "link": "https://www.dn.se/insandare/ge-oss-mojlighet-att-kasta-ut-mohamed-ali-ur-riksdagen/",
     "pubDate": "2026-10-21T21:51:40.000Z",
@@ -7026,7 +7087,7 @@
     "category": "Climate"
   },
   {
-    "id": "dn-90-er-i-saudiarabien%2F",
+    "id": "dn-91-er-i-saudiarabien%2F",
     "title": "Uppgifter: USA skickar hem diplomater i Saudiarabien",
     "link": "https://www.dn.se/varlden/uppgifter-usa-skickar-hem-diplomater-i-saudiarabien/",
     "pubDate": "2026-10-21T21:31:04.000Z",
@@ -7051,7 +7112,7 @@
     "category": "Europe"
   },
   {
-    "id": "dn-91-om-arsenals-poang%2F",
+    "id": "dn-92-om-arsenals-poang%2F",
     "title": "Inhopparen Gyökeres låg bakom Arsenals poäng",
     "link": "https://www.dn.se/sport/inhopparen-gyokeres-lag-bakom-arsenals-poang/",
     "pubDate": "2026-10-21T21:02:38.000Z",
@@ -7101,7 +7162,7 @@
     "category": "Sharks"
   },
   {
-    "id": "dn-92--gigantisk-fusion%2F",
+    "id": "dn-93--gigantisk-fusion%2F",
     "title": "Teslas vinst rasar – Musk planerar gigantisk fusion",
     "link": "https://www.dn.se/ekonomi/teslas-vinst-rasar-musk-planerar-gigantisk-fusion/",
     "pubDate": "2026-10-21T20:28:30.000Z",
@@ -7113,7 +7174,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-93-minster-abby-lost%2F",
+    "id": "dn-94-minster-abby-lost%2F",
     "title": "Expert: Mysteriet om romersk sarkofag i Westminster Abbey löst",
     "link": "https://www.dn.se/varlden/expert-mysteriet-om-romersk-sarkofag-i-westminster-abby-lost/",
     "pubDate": "2026-10-21T20:11:33.000Z",
@@ -7125,7 +7186,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-25-en-all-1573-xml-mrss",
+    "id": "dw-26-en-all-1573-xml-mrss",
     "title": "Germany news: AfD's Weidel calls for major EU reforms",
     "link": "https://www.dw.com/en/germany-news-afd-s-weidel-calls-for-major-eu-reforms/live-79719483?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-21T19:44:00.000Z",
@@ -7151,7 +7212,7 @@
     "category": "Explainers"
   },
   {
-    "id": "dw-26-en-all-1573-xml-mrss",
+    "id": "dw-27-en-all-1573-xml-mrss",
     "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
     "link": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-21T19:32:00.000Z",
@@ -7190,7 +7251,7 @@
     "category": "Demonstrations, Protests "
   },
   {
-    "id": "dn-94-ondongrads-hamnar%2F",
+    "id": "dn-95-ondongrads-hamnar%2F",
     "title": "De ryska lyxyachterna samlar damm i ”Londongrads” hamnar",
     "link": "https://www.dn.se/varlden/de-ryska-lyxyachterna-samlar-damm-i-londongrads-hamnar/",
     "pubDate": "2026-10-21T19:04:58.000Z",
@@ -7215,7 +7276,7 @@
     "category": "Artificial Intelligence"
   },
   {
-    "id": "dn-95-da-i-svarta-lador%2F",
+    "id": "dn-96-da-i-svarta-lador%2F",
     "title": "Linus Larsson: Algoritmerna Lula kritiserar är gömda i svarta lådor",
     "link": "https://www.dn.se/varlden/linus-larsson-algoritmerna-lula-kritiserar-ar-gomda-i-svarta-lador/",
     "pubDate": "2026-10-21T19:04:16.000Z",
@@ -7240,7 +7301,7 @@
     "category": "Artificial Intelligence"
   },
   {
-    "id": "dn-96-te-dagens-nyheter%2F",
+    "id": "dn-97-te-dagens-nyheter%2F",
     "title": "21 oktober: Missa inte dagens nyheter",
     "link": "https://www.dn.se/varlden/21-oktober-missa-inte-dagens-nyheter/",
     "pubDate": "2026-10-21T19:00:02.000Z",
@@ -7265,7 +7326,7 @@
     "category": "Demonstrations, Protests "
   },
   {
-    "id": "dn-97-dda-sig-mot-putin%2F",
+    "id": "dn-98-dda-sig-mot-putin%2F",
     "title": "Insändare. Ge Ukraina missiler för att kunna skydda sig mot Putin",
     "link": "https://www.dn.se/insandare/ge-ukraina-missiler-for-att-kunna-skydda-sig-mot-putin/",
     "pubDate": "2026-10-21T18:56:09.000Z",
@@ -7277,7 +7338,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-98-nga-manskligt-liv%2F",
+    "id": "dn-99-nga-manskligt-liv%2F",
     "title": "Forskare studerar ”odödlig manet” – vill förlänga mänskligt liv",
     "link": "https://www.dn.se/varlden/forskare-studerar-ododlig-manet-vill-forlanga-manskligt-liv/",
     "pubDate": "2026-10-21T18:46:19.000Z",
@@ -7301,7 +7362,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-99-thomas-mann-i-dag%2F",
+    "id": "dn-100-thomas-mann-i-dag%2F",
     "title": "Anna-Lena Laurén: Ryssland skulle behöva en Thomas Mann i dag",
     "link": "https://www.dn.se/kultur/anna-lena-lauren-ryssland-skulle-behova-en-thomas-mann-i-dag/",
     "pubDate": "2026-10-21T18:24:24.000Z",
@@ -7326,7 +7387,7 @@
     "category": "Newsletters"
   },
   {
-    "id": "dn-100-aler-om-nya-moten%2F",
+    "id": "dn-101-aler-om-nya-moten%2F",
     "title": "Witkoff i Europa: Smicker och signaler om nya möten",
     "link": "https://www.dn.se/varlden/witkoff-i-europa-smicker-och-signaler-om-nya-moten/",
     "pubDate": "2026-10-21T18:12:44.000Z",
@@ -7338,7 +7399,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-101-gora-pa-hostlovet%2F",
+    "id": "dn-102-gora-pa-hostlovet%2F",
     "title": "DN:s guide: Bästa tipsen vad du kan göra på höstlovet",
     "link": "https://www.dn.se/kultur/dns-guide-basta-tipsen-vad-du-kan-gora-pa-hostlovet/",
     "pubDate": "2026-10-21T18:07:30.000Z",
@@ -7350,7 +7411,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-102-varldscupsasongen%2F",
+    "id": "dn-103-varldscupsasongen%2F",
     "title": "Shiffrins oväntade besked öppnar för 22-åring från Sundsvall – allt om alpina världscupsäsongen",
     "link": "https://www.dn.se/sport/shiffrins-ovantade-besked-oppnar-for-22-aring-fran-sundsvall-allt-om-alpina-varldscupsasongen/",
     "pubDate": "2026-10-21T18:03:55.000Z",
@@ -7362,7 +7423,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-103-tnad-att-begransa%2F",
+    "id": "dn-104-tnad-att-begransa%2F",
     "title": "DN Debatt. ”I svensk välfärd är du och jag ofta bara en kostnad att begränsa”",
     "link": "https://www.dn.se/debatt/i-svensk-valfard-ar-du-och-jag-bara-en-kostnad-att-begransa/",
     "pubDate": "2026-10-21T18:00:00.000Z",
@@ -7400,7 +7461,7 @@
     "category": "US midterm elections 2026"
   },
   {
-    "id": "dn-104-er-veckor-av-kaos%2F",
+    "id": "dn-105-er-veckor-av-kaos%2F",
     "title": "Nya regionstyret klart efter veckor av kaos",
     "link": "https://www.dn.se/sverige/nya-regionstyret-klart-efter-veckor-av-kaos/",
     "pubDate": "2026-10-21T17:42:46.000Z",
@@ -7451,7 +7512,7 @@
     "category": "Russian Invasion of Ukrai"
   },
   {
-    "id": "dn-105-betalt-for-brodet%2F",
+    "id": "dn-106-betalt-for-brodet%2F",
     "title": "Elin Peters svarar: Varför tar krogen plötsligt betalt för brödet?",
     "link": "https://www.dn.se/mat-dryck/elin-peters-svarar-varfor-tar-krogen-plotsligt-betalt-for-brodet/",
     "pubDate": "2026-10-21T17:07:14.000Z",
@@ -7476,7 +7537,7 @@
     "category": "Carney, Mark J"
   },
   {
-    "id": "dn-106-ingen-en-fin-sjal%2F",
+    "id": "dn-107-ingen-en-fin-sjal%2F",
     "title": "Här hedras mördade 24-åringen: ”En fin själ”",
     "link": "https://www.dn.se/sverige/har-hedras-mordade-24-aringen-en-fin-sjal/",
     "pubDate": "2026-10-21T17:01:55.000Z",
@@ -7527,7 +7588,7 @@
     "category": "France"
   },
   {
-    "id": "dw-27-en-all-1573-xml-mrss",
+    "id": "dw-28-en-all-1573-xml-mrss",
     "title": "Raids at far-right group's offices at European Parliament",
     "link": "https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-21T16:14:00.000Z",
@@ -7540,7 +7601,7 @@
     "category": "News"
   },
   {
-    "id": "dn-107-hemma-an-nagonsin%2F",
+    "id": "dn-108-hemma-an-nagonsin%2F",
     "title": "Nicole Sabouné: ”I Libanon kände jag mig mer hemma än någonsin”",
     "link": "https://www.dn.se/kultur/nicole-saboune-i-libanon-kande-jag-mig-mer-hemma-an-nagonsin/",
     "pubDate": "2026-10-21T16:13:58.000Z",
@@ -7578,7 +7639,7 @@
     "category": "Ideas"
   },
   {
-    "id": "dn-108-andring-i-atta-ar%2F",
+    "id": "dn-109-andring-i-atta-ar%2F",
     "title": "S-skräcken för extraval: ”Ökenvandring i åtta år”",
     "link": "https://www.dn.se/sverige/s-skracken-for-extraval-okenvandring-i-atta-ar/",
     "pubDate": "2026-10-21T16:03:46.000Z",
@@ -7590,7 +7651,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-109-ran-oslos-baksida%2F",
+    "id": "dn-110-ran-oslos-baksida%2F",
     "title": "Han har skrivit en brutal och ärlig skildring från Oslos baksida",
     "link": "https://www.dn.se/kultur/han-har-skrivit-en-brutal-och-arlig-skildring-fran-oslos-baksida/",
     "pubDate": "2026-10-21T16:00:00.000Z",
@@ -7602,7 +7663,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-110-hand-om-handelsen%2F",
+    "id": "dn-111-hand-om-handelsen%2F",
     "title": "”Medarbetare har jobbat dygnet runt för att ta hand om händelsen”",
     "link": "https://www.dn.se/sport/medarbetare-har-jobbat-dygnet-runt-for-att-ta-hand-om-handelsen/",
     "pubDate": "2026-10-21T15:54:55.000Z",
@@ -7614,7 +7675,7 @@
     "country": "SE"
   },
   {
-    "id": "dn-111--dumma-uttalanden%2F",
+    "id": "dn-112--dumma-uttalanden%2F",
     "title": "Macron varnar för utländsk påverkan och kritiserar Trump för ”dumma” uttalanden",
     "link": "https://www.dn.se/varlden/macron-varnar-for-utlandsk-paverkan-och-kritiserar-trump-for-dumma-uttalanden/",
     "pubDate": "2026-10-21T15:52:10.000Z",
@@ -7882,7 +7943,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-28-en-all-1573-xml-mrss",
+    "id": "dw-29-en-all-1573-xml-mrss",
     "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
     "link": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-21T14:17:00.000Z",
@@ -7907,7 +7968,7 @@
     "country": "INT"
   },
   {
-    "id": "dw-29-en-all-1573-xml-mrss",
+    "id": "dw-30-en-all-1573-xml-mrss",
     "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
     "link": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-21T13:56:00.000Z",
@@ -8374,7 +8435,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-30-en-all-1573-xml-mrss",
+    "id": "dw-31-en-all-1573-xml-mrss",
     "title": "US sanctions target Iran's rail sector as Tehran shifts cargo from sea routes to overland corridors",
     "link": "https://www.dw.com/en/us-sanctions-target-iran-s-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-21T08:30:00.000Z",
@@ -8495,7 +8556,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-31-en-all-1573-xml-mrss",
+    "id": "dw-32-en-all-1573-xml-mrss",
     "title": "Football: German coach Hürzeler flying high in Premier League",
     "link": "https://www.dw.com/en/football-german-coach-hürzeler-flying-high-in-premier-league/a-79714763?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-21T06:52:00.000Z",
@@ -8544,7 +8605,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-32-en-all-1573-xml-mrss",
+    "id": "dw-33-en-all-1573-xml-mrss",
     "title": "Rising emissions and temperatures: The cost of Trump's climate retreat is now clear",
     "link": "https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-21T05:00:00.000Z",
@@ -8874,7 +8935,7 @@
     "category": "Canada"
   },
   {
-    "id": "dw-33-en-all-1573-xml-mrss",
+    "id": "dw-34-en-all-1573-xml-mrss",
     "title": "New EU plan for Arctic warily eyes influence of Russia, US",
     "link": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-20T16:44:00.000Z",
@@ -8950,7 +9011,7 @@
     "category": "Brazil"
   },
   {
-    "id": "dw-34-en-all-1573-xml-mrss",
+    "id": "dw-35-en-all-1573-xml-mrss",
     "title": "Germany news: Hackers release AfD party emails",
     "link": "https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-20T15:41:00.000Z",
@@ -9085,7 +9146,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-35-en-all-1573-xml-mrss",
+    "id": "dw-36-en-all-1573-xml-mrss",
     "title": "Wagner brothers begin new NBA chapter on different paths",
     "link": "https://www.dw.com/en/wagner-brothers-begin-new-nba-chapter-on-different-paths/a-79712668?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-20T12:31:00.000Z",
@@ -9282,7 +9343,7 @@
     "category": "Debatt"
   },
   {
-    "id": "dw-36-en-all-1573-xml-mrss",
+    "id": "dw-37-en-all-1573-xml-mrss",
     "title": "Why US investors are snapping up Germany's famed Mittelstand",
     "link": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-20T09:06:00.000Z",
@@ -9295,7 +9356,7 @@
     "category": "Business"
   },
   {
-    "id": "dw-37-en-all-1573-xml-mrss",
+    "id": "dw-38-en-all-1573-xml-mrss",
     "title": "Brutal, revolutionary empire builder: Genghis Khan's legacy",
     "link": "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-20T08:57:00.000Z",
@@ -9659,7 +9720,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-38-en-all-1573-xml-mrss",
+    "id": "dw-39-en-all-1573-xml-mrss",
     "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
     "link": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-19T18:45:00.000Z",
@@ -9684,7 +9745,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-39-en-all-1573-xml-mrss",
+    "id": "dw-40-en-all-1573-xml-mrss",
     "title": "Germany news: Emergency at Leipzig airport sparked by novice driver",
     "link": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-19T17:26:00.000Z",
@@ -9844,7 +9905,7 @@
     "category": "Business"
   },
   {
-    "id": "dw-40-en-all-1573-xml-mrss",
+    "id": "dw-41-en-all-1573-xml-mrss",
     "title": "The homeless man living in front of a London mega-mansion",
     "link": "https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-19T10:38:00.000Z",
@@ -9896,7 +9957,7 @@
     "category": "Japan"
   },
   {
-    "id": "dw-41-en-all-1573-xml-mrss",
+    "id": "dw-42-en-all-1573-xml-mrss",
     "title": "What Earth's sixth mass extinction event means for humans",
     "link": "https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-19T05:48:00.000Z",
@@ -9935,7 +9996,7 @@
     "category": "Debatt"
   },
   {
-    "id": "dw-42-en-all-1573-xml-mrss",
+    "id": "dw-43-en-all-1573-xml-mrss",
     "title": "France: Young voters blase about Glucksmann's Socialists",
     "link": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-18T13:31:00.000Z",
@@ -9974,7 +10035,7 @@
     "category": "US small business"
   },
   {
-    "id": "dw-43-en-all-1573-xml-mrss",
+    "id": "dw-44-en-all-1573-xml-mrss",
     "title": "Is Germany's eight-hour workday under threat?",
     "link": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-18T10:28:00.000Z",
@@ -10000,7 +10061,7 @@
     "category": "Debatt"
   },
   {
-    "id": "dw-44-en-all-1573-xml-mrss",
+    "id": "dw-45-en-all-1573-xml-mrss",
     "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
     "link": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-18T08:58:00.000Z",
@@ -10013,7 +10074,7 @@
     "category": "World"
   },
   {
-    "id": "dw-45-en-all-1573-xml-mrss",
+    "id": "dw-46-en-all-1573-xml-mrss",
     "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
     "link": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-18T07:03:00.000Z",
@@ -10039,7 +10100,7 @@
     "category": "Debatt"
   },
   {
-    "id": "dw-46-en-all-1573-xml-mrss",
+    "id": "dw-47-en-all-1573-xml-mrss",
     "title": "How big is Russia's threat against Germany?",
     "link": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-17T15:23:00.000Z",
@@ -10052,7 +10113,7 @@
     "category": "Germany"
   },
   {
-    "id": "dw-47-en-all-1573-xml-mrss",
+    "id": "dw-48-en-all-1573-xml-mrss",
     "title": "China's influence in the gaming industry is growing",
     "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-17T14:49:00.000Z",
@@ -10065,7 +10126,7 @@
     "category": "World"
   },
   {
-    "id": "dw-48-en-all-1573-xml-mrss",
+    "id": "dw-49-en-all-1573-xml-mrss",
     "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
     "link": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-17T11:34:00.000Z",
@@ -10078,7 +10139,7 @@
     "category": "News"
   },
   {
-    "id": "dw-49-en-all-1573-xml-mrss",
+    "id": "dw-50-en-all-1573-xml-mrss",
     "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
     "link": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-17T08:02:00.000Z",
@@ -10117,7 +10178,7 @@
     "category": "Debatt"
   },
   {
-    "id": "dw-50-en-all-1573-xml-mrss",
+    "id": "dw-51-en-all-1573-xml-mrss",
     "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
     "link": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-16T19:42:00.000Z",
@@ -10130,7 +10191,7 @@
     "category": "World"
   },
   {
-    "id": "dw-51-en-all-1573-xml-mrss",
+    "id": "dw-52-en-all-1573-xml-mrss",
     "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
     "link": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-16T17:46:00.000Z",
@@ -10156,7 +10217,7 @@
     "category": "Debatt"
   },
   {
-    "id": "dw-52-en-all-1573-xml-mrss",
+    "id": "dw-53-en-all-1573-xml-mrss",
     "title": "The Bundestag has debated the genocide Germany carried out in Namibia a century ago. But will it spur progress on addressing colonial crimes?",
     "link": "https://www.dw.com/en/the-bundestag-has-debated-the-genocide-germany-carried-out-in-namibia-a-century-ago-but-will-it-spur-progress-on-addressing-colonial-crimes/a-79682388?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-16T14:42:00.000Z",
@@ -10169,7 +10230,7 @@
     "category": "Germany"
   },
   {
-    "id": "dw-53-en-all-1573-xml-mrss",
+    "id": "dw-54-en-all-1573-xml-mrss",
     "title": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
     "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-16T14:23:00.000Z",
@@ -10182,7 +10243,7 @@
     "category": "World"
   },
   {
-    "id": "dw-54-en-all-1573-xml-mrss",
+    "id": "dw-55-en-all-1573-xml-mrss",
     "title": "The EU wants an AI revolution. But on whose terms?",
     "link": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-16T13:12:00.000Z",
@@ -10243,7 +10304,7 @@
     "country": "INT"
   },
   {
-    "id": "dw-55-en-all-1573-xml-mrss",
+    "id": "dw-56-en-all-1573-xml-mrss",
     "title": "Italy cuts air traffic in half amid data transmission issue",
     "link": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-16T10:37:00.000Z",
@@ -10269,7 +10330,7 @@
     "category": "Debatt"
   },
   {
-    "id": "dw-56-en-all-1573-xml-mrss",
+    "id": "dw-57-en-all-1573-xml-mrss",
     "title": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
     "link": "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-16T09:16:00.000Z",
@@ -10282,7 +10343,7 @@
     "category": "Culture"
   },
   {
-    "id": "dw-57-en-all-1573-xml-mrss",
+    "id": "dw-58-en-all-1573-xml-mrss",
     "title": "EU promotes sovereign, trusted AI as it struggles to catch US and China",
     "link": "https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-16T09:07:00.000Z",
@@ -10295,7 +10356,7 @@
     "category": "Business"
   },
   {
-    "id": "dw-58-en-all-1573-xml-mrss",
+    "id": "dw-59-en-all-1573-xml-mrss",
     "title": "Formula One in Rwanda: Sportswashing claims vs. hopes for African legacy",
     "link": "https://www.dw.com/en/formula-one-in-rwanda-sportswashing-claims-vs-hopes-for-african-legacy/a-79650744?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-16T08:37:00.000Z",
@@ -10333,7 +10394,7 @@
     "category": "Debatt"
   },
   {
-    "id": "dw-59-en-all-1573-xml-mrss",
+    "id": "dw-60-en-all-1573-xml-mrss",
     "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
     "link": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-15T16:48:00.000Z",

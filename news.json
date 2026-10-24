@@ -1,9 +1,59 @@
 [
   {
+    "id": "guardian-15-om-parliament-ntwnfb",
+    "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
+    "pubDate": "2026-10-24T00:52:33.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Australian Greens"
+  },
+  {
+    "id": "nyt-6-t-bank-melanoma.html",
+    "title": "The Evening: D.O.J. Moves to Block Alaska Result if G.O.P. Loses",
+    "link": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
+    "pubDate": "2026-10-24T00:44:32.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "guardian-16-lleged-attack-ntwnfb",
+    "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
+    "pubDate": "2026-10-24T00:41:29.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Helen Haines"
+  },
+  {
+    "id": "npr-0-weather-four-corners",
+    "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+    "pubDate": "2026-10-24T00:40:42.000Z",
+    "sourceId": "npr",
+    "sourceName": "NPR",
+    "sourceShort": "NPR",
+    "badgeColor": "#d62027",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
     "id": "guardian-40-swamy-latest-updates",
     "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-    "pubDate": "2026-10-24T00:22:36.000Z",
+    "pubDate": "2026-10-24T00:32:29.000Z",
     "sourceId": "guardian",
     "sourceName": "The Guardian",
     "sourceShort": "GUARDIAN",
@@ -13,10 +63,23 @@
     "category": "US midterm elections 2026"
   },
   {
+    "id": "guardian-5-rco-rubio-cuba-trump",
+    "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+    "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+    "pubDate": "2026-10-24T00:30:02.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Marco Rubio"
+  },
+  {
     "id": "nyt-4-project-emerges.html",
     "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-    "pubDate": "2026-10-23T23:59:31.000Z",
+    "pubDate": "2026-10-24T00:27:29.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
@@ -51,7 +114,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-15-or-much-of-australia",
+    "id": "guardian-17-or-much-of-australia",
     "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
     "link": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
     "pubDate": "2026-10-23T23:26:05.000Z",
@@ -142,7 +205,7 @@
     "category": "BBC"
   },
   {
-    "id": "guardian-2-g-data-key-takeaways",
+    "id": "guardian-3-g-data-key-takeaways",
     "title": "Surging turnout, with Democrats voting more: key takeaways from early voting data",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/early-voting-data-key-takeaways",
     "pubDate": "2026-10-23T22:57:52.000Z",
@@ -180,7 +243,7 @@
     "category": "Children"
   },
   {
-    "id": "guardian-16-t-allegations-ntwnfb",
+    "id": "guardian-18-t-allegations-ntwnfb",
     "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
     "link": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
     "pubDate": "2026-10-23T22:41:46.000Z",
@@ -256,18 +319,6 @@
     "textColor": "#ffffff",
     "country": "SE",
     "category": "Nyheter"
-  },
-  {
-    "id": "nyt-6-t-bank-melanoma.html",
-    "title": "The Evening: D.O.J. Moves to Block Alaska Result if G.O.P. Loses",
-    "link": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
-    "pubDate": "2026-10-23T22:12:12.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT"
   },
   {
     "id": "guardian-23--us-grand-prix-texas",
@@ -360,7 +411,7 @@
     "category": "Artificial Intelligence"
   },
   {
-    "id": "guardian-5-nancy-clayton-echard",
+    "id": "guardian-6-nancy-clayton-echard",
     "title": "Woman who faked pregnancies, including with Bachelor star, sentenced to 30 days",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/laura-owens-sentenced-fake-pregnancy-clayton-echard",
     "pubDate": "2026-10-23T21:47:34.000Z",
@@ -781,7 +832,7 @@
     "country": "SE"
   },
   {
-    "id": "npr-0-tment-of-defense-war",
+    "id": "npr-1-tment-of-defense-war",
     "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
     "pubDate": "2026-10-23T19:31:15.000Z",
@@ -1008,7 +1059,7 @@
     "category": "Sverige"
   },
   {
-    "id": "guardian-7--board-epstein-links",
+    "id": "guardian-8--board-epstein-links",
     "title": "Why did an Epstein-linked billionaire step down from one of America’s most famous hospitals?",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/billionaire-glenn-dubin-mount-sinai-board-epstein-links",
     "pubDate": "2026-10-23T18:42:41.000Z",
@@ -1060,7 +1111,7 @@
     "category": "Demonstrations, Protests "
   },
   {
-    "id": "npr-1-lection-rural-voters",
+    "id": "npr-2-lection-rural-voters",
     "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
     "pubDate": "2026-10-23T18:30:00.000Z",
@@ -1360,7 +1411,7 @@
     "category": "Freedom of Speech and Exp"
   },
   {
-    "id": "npr-2-ump-golf-hains-point",
+    "id": "npr-3-ump-golf-hains-point",
     "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
     "pubDate": "2026-10-23T17:35:14.000Z",
@@ -2045,7 +2096,7 @@
     "country": "SE"
   },
   {
-    "id": "npr-3--hunter-biden-laptop",
+    "id": "npr-4--hunter-biden-laptop",
     "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
     "link": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
     "pubDate": "2026-10-23T15:51:04.000Z",
@@ -2595,7 +2646,7 @@
     "country": "SE"
   },
   {
-    "id": "npr-4-germs-virus-outbreak",
+    "id": "npr-5-germs-virus-outbreak",
     "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
     "pubDate": "2026-10-23T14:16:10.000Z",
@@ -3182,7 +3233,7 @@
     "category": "World"
   },
   {
-    "id": "npr-5-frica-ebola-outbreak",
+    "id": "npr-6-frica-ebola-outbreak",
     "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
     "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
     "pubDate": "2026-10-23T12:41:39.000Z",
@@ -3754,7 +3805,7 @@
     "category": "Florida"
   },
   {
-    "id": "npr-6-erm-voting-trump-bbc",
+    "id": "npr-7-erm-voting-trump-bbc",
     "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
     "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
     "pubDate": "2026-10-23T11:22:25.000Z",
@@ -3991,7 +4042,7 @@
     "country": "SE"
   },
   {
-    "id": "npr-7-post-more-hyperlinks",
+    "id": "npr-8-post-more-hyperlinks",
     "title": "Why Meta is charging to post more hyperlinks",
     "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
     "pubDate": "2026-10-23T11:00:00.000Z",
@@ -4490,7 +4541,7 @@
     "category": "Metropolitan police"
   },
   {
-    "id": "npr-8-hu-closure-west-bank",
+    "id": "npr-9-hu-closure-west-bank",
     "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
     "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
     "pubDate": "2026-10-23T09:40:32.000Z",
@@ -5869,7 +5920,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-17-flation-unemployment",
+    "id": "guardian-19-flation-unemployment",
     "title": "Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse",
     "link": "https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment",
     "pubDate": "2026-10-23T04:54:47.000Z",
@@ -6379,7 +6430,7 @@
     "category": "News"
   },
   {
-    "id": "guardian-5-e-for-amazon-podcast",
+    "id": "guardian-6-e-for-amazon-podcast",
     "title": "Brazil’s election and the battle for the Amazon – podcast",
     "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
     "pubDate": "2026-10-23T02:00:56.000Z",
@@ -8454,7 +8505,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-6-erta-migrant-workers",
+    "id": "guardian-7-erta-migrant-workers",
     "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
     "link": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
     "pubDate": "2026-10-22T15:00:29.000Z",
@@ -12444,56 +12495,5 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "US midterm elections 2026"
-  },
-  {
-    "id": "nyt-17-cal-right-smear.html",
-    "title": "I Have Never Seen the Online Right So Happy",
-    "link": "https://www.nytimes.com/2026/10/19/opinion/cornell-rape-political-right-smear.html",
-    "pubDate": "2026-10-20T18:08:02.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Right-Wing Extremism and "
-  },
-  {
-    "id": "guardian-21-against-donald-trump",
-    "title": "The Guardian view on Alberta’s referendum: Canada holds together – against Donald Trump | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/oct/20/the-guardian-view-on-albertas-referendum-canada-holds-together-against-donald-trump",
-    "pubDate": "2026-10-20T17:43:18.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Canada"
-  },
-  {
-    "id": "dw-36-en-all-1573-xml-mrss",
-    "title": "New EU plan for Arctic warily eyes influence of Russia, US",
-    "link": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-xml-mrss",
-    "pubDate": "2026-10-20T16:44:00.000Z",
-    "sourceId": "dw",
-    "sourceName": "Deutsche Welle",
-    "sourceShort": "DW",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "DE",
-    "category": "News"
-  },
-  {
-    "id": "svt-82-sa-anmaldes-till-ivo",
-    "title": "Läckta uppgifter om tomtens hälsa anmäldes till Ivo",
-    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lackta-uppgifter-om-tomtens-halsa-anmaldes-till-ivo",
-    "pubDate": "2026-10-20T16:30:09.000Z",
-    "sourceId": "svt",
-    "sourceName": "SVT Nyheter",
-    "sourceShort": "SVT",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "SE"
   }
 ]

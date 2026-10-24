@@ -1,5 +1,94 @@
 [
   {
+    "id": "expressen-4-norr-om-karlsborg%2F",
+    "title": "Kvinna försvunnen – stor sökinsats norr om Karlsborg",
+    "link": "https://www.expressen.se/nyheter/sverige/kvinna-forsvunnen-stor-sokinsats-norr-om-karlsborg/",
+    "pubDate": "2026-10-24T17:26:39.000Z",
+    "sourceId": "expressen",
+    "sourceName": "Expressen",
+    "sourceShort": "EXPRESSEN",
+    "badgeColor": "#e30613",
+    "textColor": "#ffffff",
+    "country": "SE",
+    "category": "Sverige"
+  },
+  {
+    "id": "expressen-0-ig-in-i-colosseum%2F",
+    "title": "Demonstranter tog sig in i Colosseum",
+    "link": "https://www.expressen.se/nyheter/varlden/demonstranter-tog-sig-in-i-colosseum/",
+    "pubDate": "2026-10-24T17:18:09.000Z",
+    "sourceId": "expressen",
+    "sourceName": "Expressen",
+    "sourceShort": "EXPRESSEN",
+    "badgeColor": "#e30613",
+    "textColor": "#ffffff",
+    "country": "SE",
+    "category": "Världen"
+  },
+  {
+    "id": "nyt-0-rance-protests-riots",
+    "title": "Live Updates: Hundreds of Thousands March in France Amid Heavy Security",
+    "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
+    "pubDate": "2026-10-24T17:17:48.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "nyt-17-s%2Fheres-the-latest",
+    "title": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
+    "pubDate": "2026-10-24T17:09:05.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "France"
+  },
+  {
+    "id": "expressen-1-ar-stormas-colosseum",
+    "title": "Här stormas Colosseum",
+    "link": "https://www.expressen.se/tv/nyheter/varlden/har-stormas-colosseum",
+    "pubDate": "2026-10-24T17:06:33.000Z",
+    "sourceId": "expressen",
+    "sourceName": "Expressen",
+    "sourceShort": "EXPRESSEN",
+    "badgeColor": "#e30613",
+    "textColor": "#ffffff",
+    "country": "SE"
+  },
+  {
+    "id": "guardian-20-a-europe-latest-news",
+    "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+    "pubDate": "2026-10-24T17:04:34.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Europe"
+  },
+  {
+    "id": "nyt-6-tions-blue-wave.html",
+    "title": "Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls",
+    "link": "https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html",
+    "pubDate": "2026-10-24T17:00:54.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "United States Politics an"
+  },
+  {
     "id": "aftonbladet-0-l%3Futm_medium%3Drss",
     "title": "Netanyahu hånade rivalen – nu kan han förlora",
     "link": "https://www.aftonbladet.se/nyheter/a/kv9Vr9/netayahus-motstandare-kan-vinna-valet-i-israel?utm_medium=rss",
@@ -24,32 +113,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-0-rance-protests-riots",
-    "title": "Live Updates: Protesters March in France Amid Heavy Security",
-    "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
-    "pubDate": "2026-10-24T16:57:10.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
-    "id": "guardian-20-a-europe-latest-news",
-    "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-    "pubDate": "2026-10-24T16:48:16.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Europe"
-  },
-  {
-    "id": "expressen-0-strandat-i-stockholm",
+    "id": "expressen-2-strandat-i-stockholm",
     "title": "Ovädret stoppar krigsfartyg",
     "link": "https://www.expressen.se/tv/nyheter/sverige/franskt-krigsfartyg-strandat-i-stockholm",
     "pubDate": "2026-10-24T16:47:10.000Z",
@@ -109,7 +173,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-1-e6-b454-f4aaabface84",
+    "id": "expressen-3-e6-b454-f4aaabface84",
     "title": "Demonstranter har tagit sig in i Colosseum",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a2566213-e331-44e6-b454-f4aaabface84",
     "pubDate": "2026-10-24T16:24:35.000Z",
@@ -122,7 +186,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "expressen-4--vag-fran-england%2F",
+    "id": "expressen-6--vag-fran-england%2F",
     "title": "Höststormen Boelo på väg från England",
     "link": "https://www.expressen.se/nyheter/vader/hoststormen--boleo-pa-vag-fran-england/",
     "pubDate": "2026-10-24T16:23:16.000Z",
@@ -147,19 +211,6 @@
     "country": "SE"
   },
   {
-    "id": "expressen-2-norr-om-karlsborg%2F",
-    "title": "Kvinna försvunnen – stor sökinsats norr om Karlsborg",
-    "link": "https://www.expressen.se/nyheter/sverige/kvinna-forsvunnen-stor-sokinsats-norr-om-karlsborg/",
-    "pubDate": "2026-10-24T16:13:40.000Z",
-    "sourceId": "expressen",
-    "sourceName": "Expressen",
-    "sourceShort": "EXPRESSEN",
-    "badgeColor": "#e30613",
-    "textColor": "#ffffff",
-    "country": "SE",
-    "category": "Sverige"
-  },
-  {
     "id": "nyt-6-eld-drone-speed.html",
     "title": "Drones on Starshield Network Are Back to Normal Speeds, Ukraine Says",
     "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
@@ -173,7 +224,7 @@
     "category": "Russian Invasion of Ukrai"
   },
   {
-    "id": "expressen-3-dad-utanfor-paris%2F",
+    "id": "expressen-5-dad-utanfor-paris%2F",
     "title": "Fyra gripna efter misstänkt terrordåd utanför Paris",
     "link": "https://www.expressen.se/nyheter/varlden/fyra-gripna-efter-misstankt--terrordad-utanfor-paris/",
     "pubDate": "2026-10-24T16:09:31.000Z",
@@ -326,7 +377,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-5-r-runtom-i-europa%2F",
+    "id": "expressen-7-r-runtom-i-europa%2F",
     "title": "Många protester runtom i Europa",
     "link": "https://www.expressen.se/nyheter/varlden/manga-protester-runtom-i-europa/",
     "pubDate": "2026-10-24T15:31:44.000Z",
@@ -364,20 +415,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-17-s%2Fheres-the-latest",
-    "title": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
-    "pubDate": "2026-10-24T15:16:51.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "France"
-  },
-  {
-    "id": "expressen-6-alen-och-underbar%2F",
+    "id": "expressen-8-alen-och-underbar%2F",
     "title": "Cancersjuka Charlize, 20, har avlidit: ”Galen och underbar”",
     "link": "https://www.expressen.se/nyheter/sverige/cancersjuka-charlize-20-har--avlidit-galen-och-underbar/",
     "pubDate": "2026-10-24T15:07:15.000Z",
@@ -477,7 +515,7 @@
     "category": "Defense and Military Forc"
   },
   {
-    "id": "expressen-7--poliser-pa-plats%2F",
+    "id": "expressen-9--poliser-pa-plats%2F",
     "title": "Protesterna i Paris urartar – tårgas i luften",
     "link": "https://www.expressen.se/nyheter/varlden/frankrike-rustar-70-000-poliser-pa-plats/",
     "pubDate": "2026-10-24T14:51:28.000Z",
@@ -576,7 +614,7 @@
     "category": "Germany"
   },
   {
-    "id": "expressen-10-50-8f6c-1eba5b0e0ccf",
+    "id": "expressen-12-50-8f6c-1eba5b0e0ccf",
     "title": "Kvinna försvunnen – stor sökinsats",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5a1f4219-9943-4b50-8f6c-1eba5b0e0ccf",
     "pubDate": "2026-10-24T14:24:19.000Z",
@@ -653,7 +691,7 @@
     "category": "National"
   },
   {
-    "id": "expressen-8-b0-86bf-10e351285942",
+    "id": "expressen-10-b0-86bf-10e351285942",
     "title": "\"Varning för livsfara\" i Storbritannien",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=3cf08f7c-6ce6-42b0-86bf-10e351285942",
     "pubDate": "2026-10-24T14:04:14.000Z",
@@ -703,7 +741,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-9-putins-hjarntvatt%2F",
+    "id": "expressen-11-putins-hjarntvatt%2F",
     "title": "Alex, 22, lyckades fly – varnar för Putins hjärntvätt",
     "link": "https://www.expressen.se/nyheter/varlden/alex-22-lyckades-fly-varnar-for-putins-hjarntvatt/",
     "pubDate": "2026-10-24T13:55:19.000Z",
@@ -739,6 +777,19 @@
     "badgeColor": "#002f6c",
     "textColor": "#ffffff",
     "country": "SE"
+  },
+  {
+    "id": "nyt-14-youngstown-ohio.html",
+    "title": "She Was Punched After Heckling Trump. No One Has Been Charged.",
+    "link": "https://www.nytimes.com/2026/10/24/us/trump-protester-punched-youngstown-ohio.html",
+    "pubDate": "2026-10-24T13:48:56.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Social Media"
   },
   {
     "id": "aftonbladet-7-a%3Futm_medium%3Drss",
@@ -1153,7 +1204,7 @@
     "category": "audio-neutral-informative"
   },
   {
-    "id": "expressen-11-20-90d5-36a1c68b68c5",
+    "id": "expressen-13-20-90d5-36a1c68b68c5",
     "title": "Fyra gripna efter misstänkt terrordåd",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2196e9b2-cc43-4220-90d5-36a1c68b68c5",
     "pubDate": "2026-10-24T11:45:56.000Z",
@@ -1331,7 +1382,7 @@
     "category": "Debatt"
   },
   {
-    "id": "expressen-12-a-en-felskjutning%2F",
+    "id": "expressen-14-a-en-felskjutning%2F",
     "title": "Uppgifter: Mordet i Bagarmossen kan vara en felskjutning",
     "link": "https://www.expressen.se/nyheter/krim/uppgifter-mordet-i-bagarmossen-kan-vara-en-felskjutning/",
     "pubDate": "2026-10-24T10:53:07.000Z",
@@ -1356,7 +1407,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-16-c1-bccc-621d93f48bea",
+    "id": "expressen-18-c1-bccc-621d93f48bea",
     "title": "Varnar – tåg ställs in",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=298dd5eb-39d5-46c1-bccc-621d93f48bea",
     "pubDate": "2026-10-24T10:45:43.000Z",
@@ -1369,7 +1420,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "expressen-13--valdsamma-helgen%2F",
+    "id": "expressen-15--valdsamma-helgen%2F",
     "title": "70 000 poliser i Paris – efter våldsamma helgen",
     "link": "https://www.expressen.se/nyheter/varlden/70-000-poliser-i-paris-efter-valdsamma-helgen/",
     "pubDate": "2026-10-24T10:45:31.000Z",
@@ -1419,7 +1470,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-14-vit-det-har-sjalv%2F",
+    "id": "expressen-16-vit-det-har-sjalv%2F",
     "title": "Emma Engdahl: ”Jag har skrivit det här själv”",
     "link": "https://www.expressen.se/nyheter/sverige/emma-engdahl-jag-har-skrivit-det-har-sjalv/",
     "pubDate": "2026-10-24T10:15:55.000Z",
@@ -1456,7 +1507,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-15-branden-tragiskt-%2F",
+    "id": "expressen-17-branden-tragiskt-%2F",
     "title": "Boende i Fristad efter garagebranden: ”Tragiskt”",
     "link": "https://www.expressen.se/nyheter/sverige/boende-i-fristad-efter-garagebranden-tragiskt-/",
     "pubDate": "2026-10-24T10:10:31.000Z",
@@ -1743,7 +1794,7 @@
     "category": "Demonstrations, Protests "
   },
   {
-    "id": "nyt-6--ohio-amy-acton.html",
+    "id": "nyt-5--ohio-amy-acton.html",
     "title": "How Vivek Ramaswamy’s Ruthless Ad in Ohio Divided Republicans",
     "link": "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html",
     "pubDate": "2026-10-24T09:03:21.000Z",
@@ -2031,7 +2082,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-7-kraftigt-regn-vantas",
+    "id": "expressen-9-kraftigt-regn-vantas",
     "title": "På väg hit – här piskar storm brittiska kusten",
     "link": "https://www.expressen.se/tv/nyheter/varlden/dubbelstorm-pa-vag-kraftigt-regn-vantas",
     "pubDate": "2026-10-24T08:14:09.000Z",
@@ -2103,7 +2154,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-17-s-koar-till-kicks%2F",
+    "id": "expressen-19-s-koar-till-kicks%2F",
     "title": "Kökaos i Mall of Scandinavia – hundratals köar till Kicks",
     "link": "https://www.expressen.se/nyheter/sverige/kokaos-i-mall-of-scandinavia-hundratals-koar-till-kicks/",
     "pubDate": "2026-10-24T07:37:39.000Z",
@@ -2342,6 +2393,19 @@
   },
   {
     "id": "dw-6-en-all-1573-xml-mrss",
+    "title": "France: Clashes break out as protests go nationwide",
+    "link": "https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
+    "pubDate": "2026-10-24T06:34:00.000Z",
+    "sourceId": "dw",
+    "sourceName": "Deutsche Welle",
+    "sourceShort": "DW",
+    "badgeColor": "#002f6c",
+    "textColor": "#ffffff",
+    "country": "DE",
+    "category": "News"
+  },
+  {
+    "id": "dw-6-en-all-1573-xml-mrss",
     "title": "Live: Protests grow in France amid heightened security",
     "link": "https://www.dw.com/en/live-protests-grow-in-france-amid-heightened-security/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T06:34:00.000Z",
@@ -2381,7 +2445,7 @@
   },
   {
     "id": "aftonbladet-30-r%3Futm_medium%3Drss",
-    "title": "Många protester runt om i Europa",
+    "title": "Demonstrationsvåg sveper över Europa",
     "link": "https://www.aftonbladet.se/nyheter/a/Vg7qL3/italien-pa-helspann-infor-nya-protester?utm_medium=rss",
     "pubDate": "2026-10-24T06:27:14.000Z",
     "sourceId": "aftonbladet",
@@ -2567,7 +2631,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-12--bunker-ornnastet%2F",
+    "id": "expressen-14--bunker-ornnastet%2F",
     "title": "Storbrand i Hitlers Örnnästet",
     "link": "https://www.expressen.se/nyheter/varlden/storbrand-i-hitlers--bunker-ornnastet/",
     "pubDate": "2026-10-24T05:31:43.000Z",
@@ -2678,7 +2742,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-8-ster-i-frankrike-%2F",
+    "id": "expressen-10-ster-i-frankrike-%2F",
     "title": "70 000 poliser redo för nya protester i Frankrike",
     "link": "https://www.expressen.se/nyheter/varlden/70000-poliser-redo-for-nya-protester-i-frankrike-/",
     "pubDate": "2026-10-24T05:08:18.000Z",
@@ -3274,7 +3338,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "expressen-9-s-samsta-jag-sett%2F",
+    "id": "expressen-11-s-samsta-jag-sett%2F",
     "title": "Trumps nya stämning sågas: ”Sämsta jag sett”",
     "link": "https://www.expressen.se/nyheter/varlden/trumps-nya-stamning-sagas-samsta-jag-sett/",
     "pubDate": "2026-10-24T02:39:15.000Z",
@@ -3464,7 +3528,7 @@
     "category": "Marco Rubio"
   },
   {
-    "id": "expressen-10-lmen-smart-kvinna%2F",
+    "id": "expressen-12-lmen-smart-kvinna%2F",
     "title": "Donald Trump hyllar ”vidriga” reklamfilmen: Smart kvinna",
     "link": "https://www.expressen.se/nyheter/varlden/donald-trump-hyllar-vidriga-reklamfilmen-smart-kvinna/",
     "pubDate": "2026-10-23T23:41:04.000Z",
@@ -3670,7 +3734,7 @@
     "category": "Extreme weather"
   },
   {
-    "id": "expressen-11-06-8a70-557672340dba",
+    "id": "expressen-13-06-8a70-557672340dba",
     "title": "Klart med vapenvila",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=21a205a2-d033-4106-8a70-557672340dba",
     "pubDate": "2026-10-23T22:12:37.000Z",
@@ -3922,7 +3986,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-13-bb-9bb8-cf7dfcaadaea",
+    "id": "expressen-15-bb-9bb8-cf7dfcaadaea",
     "title": "Örnnästet i lågor",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0c6cff13-434f-44bb-9bb8-cf7dfcaadaea",
     "pubDate": "2026-10-23T21:15:32.000Z",
@@ -4078,7 +4142,7 @@
     "category": "Sverige"
   },
   {
-    "id": "expressen-14--ettaring-av-misstag",
+    "id": "expressen-16--ettaring-av-misstag",
     "title": "Polisens reaktion – dödade ettåring",
     "link": "https://www.expressen.se/tv/nyheter/varlden/polisens-reaktion-dodade-ettaring-av-misstag",
     "pubDate": "2026-10-23T20:09:32.000Z",
@@ -4167,7 +4231,7 @@
     "category": "World news"
   },
   {
-    "id": "expressen-15-nas-nya-guldgruva%2F",
+    "id": "expressen-17-nas-nya-guldgruva%2F",
     "title": "”Ozempic face” – skönhetsjättarnas nya guldgruva",
     "link": "https://www.expressen.se/nyheter/varlden/ozempic-face-skonhetsjattarnas-nya-guldgruva/",
     "pubDate": "2026-10-23T19:49:43.000Z",
@@ -4242,7 +4306,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-16-ken-traffad-i-attack",
+    "id": "expressen-18-ken-traffad-i-attack",
     "title": "Viktig rysk fabrik träffad",
     "link": "https://www.expressen.se/tv/nyheter/varlden/viktiga-ryska-fabriken-traffad-i-attack",
     "pubDate": "2026-10-23T19:30:42.000Z",
@@ -4735,7 +4799,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "expressen-17--kushner-anklagelser",
+    "id": "expressen-19--kushner-anklagelser",
     "title": "Trump försvarar Kushner efter anklagelserna",
     "link": "https://www.expressen.se/tv/nyheter/varlden/trump-nekar-till-kushner-anklagelser",
     "pubDate": "2026-10-23T17:39:18.000Z",
@@ -12466,65 +12530,5 @@
     "badgeColor": "#ffe500",
     "textColor": "#121212",
     "country": "SE"
-  },
-  {
-    "id": "democracynow-4-2F22%2Farundhati_roy",
-    "title": "\"A Spark from the Cockroaches\": Arundhati Roy on India's Youth Protests & Modi's Crackdown",
-    "link": "http://www.democracynow.org/2026/10/22/arundhati_roy",
-    "pubDate": "2026-10-22T12:42:21.000Z",
-    "sourceId": "democracynow",
-    "sourceName": "Democracy Now!",
-    "sourceShort": "DEMOCRACY NOW",
-    "badgeColor": "#005f73",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
-    "id": "svt-66-yckelpigor-i-uppsala",
-    "title": "Därför är det så många nyckelpigor i Uppsala",
-    "link": "https://www.svt.se/nyheter/lokalt/uppsala/darfor-ar-det-sa-manga-nyckelpigor-i-uppsala",
-    "pubDate": "2026-10-22T12:40:04.000Z",
-    "sourceId": "svt",
-    "sourceName": "SVT Nyheter",
-    "sourceShort": "SVT",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "dn-112-r-en-halv-miljard%2F",
-    "title": "Mina Asp Romefors: Därför bär Kylie Jenner en bh för en halv miljard",
-    "link": "https://www.dn.se/kultur/mina-asp-romefors-darfor-bar-kylie-jenner-en-bh-for-en-halv-miljard/",
-    "pubDate": "2026-10-22T12:30:48.000Z",
-    "sourceId": "dn",
-    "sourceName": "Dagens Nyheter",
-    "sourceShort": "DN",
-    "badgeColor": "#0a3875",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "aftonbladet-38-m%3Futm_medium%3Drss",
-    "title": "Kvinna död i trafikolycka i södra Stockholm",
-    "link": "https://www.aftonbladet.se/nyheter/a/ElM4Aa/kvinna-dod-i-trafikolycka-i-sodra-stockholm?utm_medium=rss",
-    "pubDate": "2026-10-22T12:30:18.000Z",
-    "sourceId": "aftonbladet",
-    "sourceName": "Aftonbladet",
-    "sourceShort": "AFTONBLADET",
-    "badgeColor": "#ffe500",
-    "textColor": "#121212",
-    "country": "SE"
-  },
-  {
-    "id": "democracynow-5-0%2F22%2Fzeteo_aipac",
-    "title": "Should AIPAC Register as a Foreign Agent? Zeteo Examines Pro-Israel Lobby's Influence on Elections",
-    "link": "http://www.democracynow.org/2026/10/22/zeteo_aipac",
-    "pubDate": "2026-10-22T12:25:49.000Z",
-    "sourceId": "democracynow",
-    "sourceName": "Democracy Now!",
-    "sourceShort": "DEMOCRACY NOW",
-    "badgeColor": "#005f73",
-    "textColor": "#ffffff",
-    "country": "INT"
   }
 ]

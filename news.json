@@ -1,5 +1,18 @@
 [
   {
+    "id": "nyt-4-project-emerges.html",
+    "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+    "pubDate": "2026-10-24T01:39:28.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Natural Gas"
+  },
+  {
     "id": "aftonbladet-0-d%3Futm_medium%3Drss",
     "title": "AFP: Två explosioner hörda i Riyad",
     "link": "https://www.aftonbladet.se/nyheter/a/BMP9xv/afp-tva-explosioner-horda-i-riyad?utm_medium=rss",
@@ -23,19 +36,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "US news"
-  },
-  {
-    "id": "nyt-4-project-emerges.html",
-    "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-    "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-    "pubDate": "2026-10-24T01:15:19.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Natural Gas"
   },
   {
     "id": "guardian-41-swamy-latest-updates",
@@ -256,7 +256,7 @@
     "category": "BBC"
   },
   {
-    "id": "guardian-3-g-data-key-takeaways",
+    "id": "guardian-4-g-data-key-takeaways",
     "title": "Surging turnout, with Democrats voting more: key takeaways from early voting data",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/early-voting-data-key-takeaways",
     "pubDate": "2026-10-23T22:57:52.000Z",
@@ -462,7 +462,7 @@
     "category": "Artificial Intelligence"
   },
   {
-    "id": "guardian-6-nancy-clayton-echard",
+    "id": "guardian-7-nancy-clayton-echard",
     "title": "Woman who faked pregnancies, including with Bachelor star, sentenced to 30 days",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/laura-owens-sentenced-fake-pregnancy-clayton-echard",
     "pubDate": "2026-10-23T21:47:34.000Z",
@@ -704,7 +704,7 @@
     "category": "France"
   },
   {
-    "id": "guardian-7-ce-arrest-flock-wife",
+    "id": "guardian-8-ce-arrest-flock-wife",
     "title": "Indiana police officer arrested for using Flock cameras to search wife’s details",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
     "pubDate": "2026-10-23T20:19:56.000Z",

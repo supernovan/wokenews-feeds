@@ -1,6 +1,32 @@
 [
   {
-    "id": "nyt-14-milan-youth-protests",
+    "id": "nyt-5-dterms-campaign.html",
+    "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+    "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
+    "pubDate": "2026-10-25T01:56:18.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Midterm Elections (2026)"
+  },
+  {
+    "id": "guardian-15--four-injured-ntwnfb",
+    "title": "‘Horrific’: woman, 19, shot in head in drive-by shooting outside boxing event near Brisbane",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
+    "pubDate": "2026-10-25T01:41:37.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Queensland"
+  },
+  {
+    "id": "nyt-2-milan-youth-protests",
     "title": "Italy’s Young Protesters Return to the Streets",
     "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
     "pubDate": "2026-10-25T01:26:08.000Z",
@@ -25,7 +51,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-10-m-jong-un-china.html",
+    "id": "nyt-12-m-jong-un-china.html",
     "title": "Kim Jong-un Makes First Visit to China in Over a Year",
     "link": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
     "pubDate": "2026-10-25T01:14:38.000Z",
@@ -49,19 +75,6 @@
     "textColor": "#ffffff",
     "country": "INT",
     "category": "Hazardous and Toxic Subst"
-  },
-  {
-    "id": "nyt-5-dterms-campaign.html",
-    "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
-    "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
-    "pubDate": "2026-10-25T01:12:14.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Midterm Elections (2026)"
   },
   {
     "id": "nyt-0-ew-phase-of-war.html",
@@ -90,7 +103,7 @@
     "category": "Världen"
   },
   {
-    "id": "nyt-15-of-attack-looms.html",
+    "id": "nyt-1-of-attack-looms.html",
     "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
     "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
     "pubDate": "2026-10-25T00:51:45.000Z",
@@ -142,7 +155,7 @@
     "category": "Russian Invasion of Ukrai"
   },
   {
-    "id": "nyt-4-iers-haiti-dead.html",
+    "id": "nyt-6-iers-haiti-dead.html",
     "title": "Remains Found in Haiti Could Be Those of Missing Salvadoran Soldiers",
     "link": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
     "pubDate": "2026-10-25T00:06:30.000Z",
@@ -191,19 +204,6 @@
     "badgeColor": "#ffe500",
     "textColor": "#121212",
     "country": "SE"
-  },
-  {
-    "id": "guardian-15--four-injured-ntwnfb",
-    "title": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
-    "pubDate": "2026-10-24T23:13:32.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Queensland"
   },
   {
     "id": "guardian-20--of-movement-with-eu",
@@ -282,7 +282,7 @@
     "category": "UK weather"
   },
   {
-    "id": "nyt-15--see-everything.html",
+    "id": "nyt-16--see-everything.html",
     "title": "The Eyes of Elizabeth Holmes",
     "link": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
     "pubDate": "2026-10-24T22:36:41.000Z",
@@ -369,7 +369,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-7-ts-what-to-know.html",
+    "id": "nyt-9-ts-what-to-know.html",
     "title": "Violent Protests Resurface in Albania: What to Know",
     "link": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
     "pubDate": "2026-10-24T21:54:36.000Z",
@@ -432,7 +432,7 @@
     "category": "Ukraine"
   },
   {
-    "id": "nyt-1--clashes-police.html",
+    "id": "nyt-3--clashes-police.html",
     "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
     "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
     "pubDate": "2026-10-24T21:23:15.000Z",
@@ -658,7 +658,7 @@
     "category": "Vader"
   },
   {
-    "id": "nyt-2-re-nazi-germany.html",
+    "id": "nyt-4-re-nazi-germany.html",
     "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
     "link": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
     "pubDate": "2026-10-24T19:53:56.000Z",
@@ -833,7 +833,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-19-s%2Fheres-the-latest",
+    "id": "nyt-17-s%2Fheres-the-latest",
     "title": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
     "pubDate": "2026-10-24T18:35:47.000Z",
@@ -897,7 +897,7 @@
     "category": "UK news"
   },
   {
-    "id": "nyt-17-youngstown-ohio.html",
+    "id": "nyt-18-youngstown-ohio.html",
     "title": "She Planned to Protest Trump. She Didn’t Plan on Getting Punched.",
     "link": "https://www.nytimes.com/2026/10/24/us/trump-protester-punched-youngstown-ohio.html",
     "pubDate": "2026-10-24T18:08:58.000Z",
@@ -972,7 +972,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "nyt-8-hink-its-enough.html",
+    "id": "nyt-10-hink-its-enough.html",
     "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
     "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
     "pubDate": "2026-10-24T17:45:16.000Z",
@@ -1184,7 +1184,7 @@
     "category": "US and Israeli Attack on "
   },
   {
-    "id": "nyt-6-ce-carney-trump.html",
+    "id": "nyt-8-ce-carney-trump.html",
     "title": "Why Is the U.S. Accusing Canada of Election Interference?",
     "link": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
     "pubDate": "2026-10-24T16:02:21.000Z",
@@ -1197,7 +1197,7 @@
     "category": "Canada"
   },
   {
-    "id": "nyt-16-s-riots-tourism.html",
+    "id": "nyt-14-s-riots-tourism.html",
     "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
     "link": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
     "pubDate": "2026-10-24T16:00:32.000Z",
@@ -1410,7 +1410,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-3-ebron-west-bank.html",
+    "id": "nyt-5-ebron-west-bank.html",
     "title": "Israel Cracks Down in West Bank City After Deadly Attack",
     "link": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
     "pubDate": "2026-10-24T14:52:05.000Z",
@@ -1811,7 +1811,7 @@
     "category": "India"
   },
   {
-    "id": "nyt-14-ojosa-interview.html",
+    "id": "nyt-15-ojosa-interview.html",
     "title": "What This Democrat’s Surge in Texas Says About the Midterms",
     "link": "https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html",
     "pubDate": "2026-10-24T12:51:26.000Z",
@@ -2198,7 +2198,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-16-ction-netanyahu.html",
+    "id": "nyt-17-ction-netanyahu.html",
     "title": "What the Israeli Election Won’t Change",
     "link": "https://www.nytimes.com/2026/10/24/opinion/israel-election-netanyahu.html",
     "pubDate": "2026-10-24T11:00:03.000Z",
@@ -2451,7 +2451,7 @@
     "category": "Minnesota"
   },
   {
-    "id": "nyt-17-eparation-smith.html",
+    "id": "nyt-15-eparation-smith.html",
     "title": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future",
     "link": "https://www.nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html",
     "pubDate": "2026-10-24T10:00:03.000Z",
@@ -2512,7 +2512,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-18-otests-timeline.html",
+    "id": "nyt-16-otests-timeline.html",
     "title": "How a Small Student Protest Spread Across France",
     "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
     "pubDate": "2026-10-24T09:46:50.000Z",
@@ -2623,7 +2623,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-9-radis-marseille.html",
+    "id": "nyt-11-radis-marseille.html",
     "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
     "link": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
     "pubDate": "2026-10-24T09:04:28.000Z",
@@ -2649,7 +2649,7 @@
     "category": "Ohio"
   },
   {
-    "id": "nyt-5-2Fukraine-trump.html",
+    "id": "nyt-7-2Fukraine-trump.html",
     "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
     "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
     "pubDate": "2026-10-24T09:03:20.000Z",
@@ -2662,7 +2662,7 @@
     "category": "Russian Invasion of Ukrai"
   },
   {
-    "id": "nyt-13-ction-president.html",
+    "id": "nyt-18-ction-president.html",
     "title": "The Other Bolsonaro Who Could Become Brazil’s Next President",
     "link": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
     "pubDate": "2026-10-24T09:03:13.000Z",
@@ -2675,7 +2675,7 @@
     "category": "Elections"
   },
   {
-    "id": "nyt-11-ecurity-cartels.html",
+    "id": "nyt-13-ecurity-cartels.html",
     "title": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
     "link": "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html",
     "pubDate": "2026-10-24T09:03:03.000Z",
@@ -2701,7 +2701,7 @@
     "category": "Presidential Election of "
   },
   {
-    "id": "nyt-12-ction-president.html",
+    "id": "nyt-19-ction-president.html",
     "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
     "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
     "pubDate": "2026-10-24T09:02:26.000Z",

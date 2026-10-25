@@ -1,9 +1,22 @@
 [
   {
-    "id": "guardian-40-ul-el-sayed-michigan",
-    "title": "Barack Obama rallies Michigan crowd for El-Sayed, saying he’s ‘fighting for real change’",
+    "id": "guardian-40-trump-administration",
+    "title": "California leaders rebuke Trump administration’s push over alleged noncitizen voting",
+    "link": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
+    "pubDate": "2026-10-25T00:16:17.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "California"
+  },
+  {
+    "id": "guardian-41-ul-el-sayed-michigan",
+    "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
-    "pubDate": "2026-10-24T23:50:30.000Z",
+    "pubDate": "2026-10-25T00:14:30.000Z",
     "sourceId": "guardian",
     "sourceName": "The Guardian",
     "sourceShort": "GUARDIAN",
@@ -11,6 +24,45 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "Michigan"
+  },
+  {
+    "id": "nyt-0-eld-drone-speed.html",
+    "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+    "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+    "pubDate": "2026-10-25T00:10:07.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Russian Invasion of Ukrai"
+  },
+  {
+    "id": "nyt-4-iers-haiti-dead.html",
+    "title": "Remains Found in Haiti Could Be Those of Missing Salvadoran Soldiers",
+    "link": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
+    "pubDate": "2026-10-25T00:06:30.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Haiti"
+  },
+  {
+    "id": "guardian-1-ichigan-live-updates",
+    "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
+    "pubDate": "2026-10-24T23:53:19.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "US midterm elections 2026"
   },
   {
     "id": "dw-0-en-all-1573-xml-mrss",
@@ -26,19 +78,6 @@
     "category": "News"
   },
   {
-    "id": "guardian-0-ichigan-live-updates",
-    "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
-    "pubDate": "2026-10-24T23:46:45.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "US midterm elections 2026"
-  },
-  {
     "id": "nyt-3-dterms-campaign.html",
     "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
     "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
@@ -50,19 +89,6 @@
     "textColor": "#ffffff",
     "country": "INT",
     "category": "Midterm Elections (2026)"
-  },
-  {
-    "id": "nyt-4-iers-haiti-dead.html",
-    "title": "Remains Found in Haiti Could Be Those of Missing Salvadoran Soldiers",
-    "link": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
-    "pubDate": "2026-10-24T23:38:34.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Haiti"
   },
   {
     "id": "aftonbladet-0-r%3Futm_medium%3Drss",
@@ -166,19 +192,6 @@
     "category": "UK weather"
   },
   {
-    "id": "nyt-0-eld-drone-speed.html",
-    "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-    "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-    "pubDate": "2026-10-24T22:37:56.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Russian Invasion of Ukrai"
-  },
-  {
     "id": "nyt-17--see-everything.html",
     "title": "The Eyes of Elizabeth Holmes",
     "link": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
@@ -241,7 +254,7 @@
     "category": "Midterm Elections (2026)"
   },
   {
-    "id": "guardian-1-georgia-ice-man-dies",
+    "id": "guardian-2-georgia-ice-man-dies",
     "title": "Man detained at Georgia immigration detention center dies as hunger strike continues",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/georgia-ice-man-dies",
     "pubDate": "2026-10-24T22:06:15.000Z",
@@ -568,7 +581,7 @@
     "category": "Fires and Firefighters"
   },
   {
-    "id": "guardian-41-lercoaster-seatbelts",
+    "id": "guardian-42-lercoaster-seatbelts",
     "title": "Six Flags to reopen Goliath rollercoaster – but now with seatbelts after recent rider death",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/six-flags-goliath-rollercoaster-seatbelts",
     "pubDate": "2026-10-24T19:44:36.000Z",
@@ -1881,7 +1894,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-42-s-outbreak-reporting",
+    "id": "guardian-43-s-outbreak-reporting",
     "title": "Additional 178 cases of measles reported by US health authorities amid outbreak",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
     "pubDate": "2026-10-24T12:00:33.000Z",
@@ -1894,7 +1907,7 @@
     "category": "US healthcare"
   },
   {
-    "id": "guardian-43-stein-files-midterms",
+    "id": "guardian-44-stein-files-midterms",
     "title": "Epstein files take back seat in midterms but experts say issue has not gone away",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
     "pubDate": "2026-10-24T12:00:32.000Z",
@@ -1995,7 +2008,7 @@
     "category": "NRS-Import"
   },
   {
-    "id": "guardian-44-o-rubio-us-sanctions",
+    "id": "guardian-10-o-rubio-us-sanctions",
     "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
     "link": "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions",
     "pubDate": "2026-10-24T11:35:22.000Z",
@@ -2057,7 +2070,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-5-ka-bear-hunting-bait",
+    "id": "guardian-6-ka-bear-hunting-bait",
     "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
     "pubDate": "2026-10-24T11:00:32.000Z",
@@ -2096,7 +2109,7 @@
     "category": "Budget 2026"
   },
   {
-    "id": "guardian-6-tion-medical-experts",
+    "id": "guardian-7-tion-medical-experts",
     "title": "Medical experts shocked by Tennessee team’s ‘malpractice’ in Christa Pike’s failed execution",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/christa-pike-execution-medical-experts",
     "pubDate": "2026-10-24T11:00:30.000Z",
@@ -2322,7 +2335,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-7-california-coastline",
+    "id": "guardian-8-california-coastline",
     "title": "‘It was so magical’: the 33-year-old who made history swimming the length of California",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/catherine-breed-interview-swim-california-coastline",
     "pubDate": "2026-10-24T10:00:31.000Z",
@@ -12528,18 +12541,5 @@
     "badgeColor": "#ffe500",
     "textColor": "#121212",
     "country": "SE"
-  },
-  {
-    "id": "expressen-12-ron-duguay-ar-dod%2F",
-    "title": "Sarah Palins sorg – kärleken Ron Duguay är död",
-    "link": "https://www.expressen.se/sport/hockey/sarah-palins-sorg-karleken--ron-duguay-ar-dod/",
-    "pubDate": "2026-10-22T15:27:21.000Z",
-    "sourceId": "expressen",
-    "sourceName": "Expressen",
-    "sourceShort": "EXPRESSEN",
-    "badgeColor": "#e30613",
-    "textColor": "#ffffff",
-    "country": "SE",
-    "category": "Sport"
   }
 ]

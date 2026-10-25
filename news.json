@@ -1,6 +1,148 @@
 [
   {
-    "id": "expressen-0--mord-2-i-huvudet%2F",
+    "id": "guardian-20-t-to-protest-at-risk",
+    "title": "Macron’s ‘vandals pay’ bill puts right to protest at risk",
+    "link": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
+    "pubDate": "2026-10-25T19:57:40.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "France"
+  },
+  {
+    "id": "guardian-35-free-movement-brexit",
+    "title": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU",
+    "link": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+    "pubDate": "2026-10-25T19:57:13.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Labour"
+  },
+  {
+    "id": "guardian-5-announces-her-return",
+    "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+    "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+    "pubDate": "2026-10-25T19:56:56.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Venezuela"
+  },
+  {
+    "id": "expressen-0-valet-i-brasilien%2F",
+    "title": "Lula da Silva vill förlänga valet i Brasilien",
+    "link": "https://www.expressen.se/nyheter/varlden/lula-da-silva-vill-forlanga-valet-i-brasilien/",
+    "pubDate": "2026-10-25T19:54:45.000Z",
+    "sourceId": "expressen",
+    "sourceName": "Expressen",
+    "sourceShort": "EXPRESSEN",
+    "badgeColor": "#e30613",
+    "textColor": "#ffffff",
+    "country": "SE",
+    "category": "Världen"
+  },
+  {
+    "id": "guardian-21--latest-news-updates",
+    "title": "Polls close in Serbia as strongman Vučić faces challenge to 12-year rule – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+    "pubDate": "2026-10-25T19:54:07.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Serbia"
+  },
+  {
+    "id": "nyt-1-ro-what-to-know.html",
+    "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
+    "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
+    "pubDate": "2026-10-25T19:53:55.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "United States Internation"
+  },
+  {
+    "id": "guardian-22-ngs-v-colts-and-more",
+    "title": "NFL week seven: 49ers v Falcons, Colts v Vikings, Bengals v Ravens and more – updates",
+    "link": "https://www.theguardian.com/sport/live/2026/oct/25/nfl-week-seven-jets-v-dolphins-vikings-v-colts-and-more",
+    "pubDate": "2026-10-25T19:50:09.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "NFL"
+  },
+  {
+    "id": "guardian-23-am-sunday-25-october",
+    "title": "NFL today: How to watch Chiefs v Seahawks, TV channels & live stream Sunday 25 October",
+    "link": "https://www.theguardian.com/sport/2026/oct/25/nfl-today-how-to-watch-chiefs-v-seahawks-tv-channels-live-stream-sunday-25-october",
+    "pubDate": "2026-10-25T19:45:10.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Seattle Seahawks"
+  },
+  {
+    "id": "nyt-13-aken-up-the-election",
+    "title": "A corruption scandal involving a Brazilian Supreme Court justice has shaken up the election.",
+    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/a-corruption-scandal-involving-a-brazilian-supreme-court-justice-has-shaken-up-the-election",
+    "pubDate": "2026-10-25T19:43:01.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "expressen-1-helt-fruktansvart%2F",
+    "title": "Jägarens hund Ylla sköts ihjäl: ”Helt fruktansvärt”",
+    "link": "https://www.expressen.se/nyheter/sverige/jagarens-hund-ylla-skots-ihjal-helt-fruktansvart/",
+    "pubDate": "2026-10-25T19:42:24.000Z",
+    "sourceId": "expressen",
+    "sourceName": "Expressen",
+    "sourceShort": "EXPRESSEN",
+    "badgeColor": "#e30613",
+    "textColor": "#ffffff",
+    "country": "SE",
+    "category": "Sverige"
+  },
+  {
+    "id": "nyt-20-s-riots-tourism.html",
+    "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
+    "link": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
+    "pubDate": "2026-10-25T19:41:40.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Paris (France)"
+  },
+  {
+    "id": "expressen-2--mord-2-i-huvudet%2F",
     "title": "Kuslig manual för mord: ”2 i huvudet”",
     "link": "https://www.expressen.se/nyheter/krim/kuslig-manual-for-mord-2-i-huvudet/",
     "pubDate": "2026-10-25T19:40:08.000Z",
@@ -25,7 +167,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-14-n%2Fheres-the-latest",
+    "id": "nyt-15-n%2Fheres-the-latest",
     "title": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
     "pubDate": "2026-10-25T19:38:40.000Z",
@@ -37,17 +179,30 @@
     "country": "INT"
   },
   {
-    "id": "guardian-22-ngs-v-colts-and-more",
-    "title": "NFL week seven: 49ers v Falcons, Colts v Vikings, Bengals v Ravens and more – updates",
-    "link": "https://www.theguardian.com/sport/live/2026/oct/25/nfl-week-seven-jets-v-dolphins-vikings-v-colts-and-more",
-    "pubDate": "2026-10-25T19:34:20.000Z",
+    "id": "guardian-6-second-round-results",
+    "title": "Brazil election 2026: Live second round results",
+    "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+    "pubDate": "2026-10-25T19:37:49.000Z",
     "sourceId": "guardian",
     "sourceName": "The Guardian",
     "sourceShort": "GUARDIAN",
     "badgeColor": "#052962",
     "textColor": "#ffe500",
     "country": "INT",
-    "category": "NFL"
+    "category": "Brazil"
+  },
+  {
+    "id": "guardian-36-ellor-budget-secrecy",
+    "title": "Has Healey’s military-style budget secrecy really played out so differently to past budgets?",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
+    "pubDate": "2026-10-25T19:35:17.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Budget 2026"
   },
   {
     "id": "aftonbladet-0-n%3Futm_medium%3Drss",
@@ -62,7 +217,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-1-33-be5f-8535df648230",
+    "id": "expressen-3-33-be5f-8535df648230",
     "title": "Lula da Silva vädjar om förlängd rösttid",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4502da77-7361-4933-be5f-8535df648230",
     "pubDate": "2026-10-25T19:27:39.000Z",
@@ -87,7 +242,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-35-t-london-tower-block",
+    "id": "guardian-37-t-london-tower-block",
     "title": "Four-year-old girl dies after falling from east London tower block",
     "link": "https://www.theguardian.com/uk-news/2026/oct/25/four-year-old-girl-dies-after-falling-from-east-london-tower-block",
     "pubDate": "2026-10-25T19:25:47.000Z",
@@ -98,19 +253,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "London"
-  },
-  {
-    "id": "guardian-20--latest-news-updates",
-    "title": "Polls close in Serbia as strongman Vučić faces challenge to 12-year rule – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-    "pubDate": "2026-10-25T19:18:49.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Serbia"
   },
   {
     "id": "guardian-40-een-missouri-highway",
@@ -162,7 +304,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-2-e4-978b-3736f4f0a4e5",
+    "id": "expressen-4-e4-978b-3736f4f0a4e5",
     "title": "Man i rullstol rånad i Hässleholm",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a41fd76f-fe9e-46e4-978b-3736f4f0a4e5",
     "pubDate": "2026-10-25T19:05:52.000Z",
@@ -238,7 +380,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-3-m-storm-av-kritik%2F",
+    "id": "expressen-5-m-storm-av-kritik%2F",
     "title": "Pastorn om Malexandermördarens besök: ”Extrem storm av kritik”",
     "link": "https://www.expressen.se/nyheter/sverige/pastorn-om-malexandermordarens--besok-extrem-storm-av-kritik/",
     "pubDate": "2026-10-25T18:58:13.000Z",
@@ -276,7 +418,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-13-azils-elections.html",
+    "id": "nyt-14-azils-elections.html",
     "title": "What’s at Stake in Brazil’s Elections?",
     "link": "https://www.nytimes.com/2026/10/25/world/americas/whats-at-stake-in-brazils-elections.html",
     "pubDate": "2026-10-25T18:49:38.000Z",
@@ -302,7 +444,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "guardian-36-ngland-high-winds-uk",
+    "id": "guardian-38-ngland-high-winds-uk",
     "title": "One dead and 82,000 properties without power as Storm Boelo batters UK",
     "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
     "pubDate": "2026-10-25T18:38:44.000Z",
@@ -376,7 +518,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-6-8b-88de-8b6966e7c263",
+    "id": "expressen-8-8b-88de-8b6966e7c263",
     "title": "Man död efter fallande träd i Skottland",
     "link": "https://www.expressen.se/nyheter/vader/direktrapport-stormen-boelo-drar-in-over-sverige/?post=ac8b9264-7bf7-438b-88de-8b6966e7c263",
     "pubDate": "2026-10-25T18:16:54.000Z",
@@ -401,7 +543,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-4-ycka-andrade-allt%2F",
+    "id": "expressen-6-ycka-andrade-allt%2F",
     "title": "Jonna, 23, skulle på drömresa – olycka ändrade allt",
     "link": "https://www.expressen.se/nyheter/sverige/jonna-23-skulle-pa--dromresa-olycka-andrade-allt/",
     "pubDate": "2026-10-25T17:57:06.000Z",
@@ -487,19 +629,6 @@
     "country": "SE"
   },
   {
-    "id": "guardian-5-announces-her-return",
-    "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
-    "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-    "pubDate": "2026-10-25T17:18:28.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Venezuela"
-  },
-  {
     "id": "nyt-15-face-box-office.html",
     "title": "‘You Can See Everything’ Gives ‘Clayface’ a Run for Its Money at the Box Office",
     "link": "https://www.nytimes.com/2026/10/25/business/media/elizabeth-holmes-clayface-box-office.html",
@@ -549,7 +678,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-5-forbannade-kunder%2F",
+    "id": "expressen-7-forbannade-kunder%2F",
     "title": "Chockpriser på Ikea – stäms av förbannade kunder",
     "link": "https://www.expressen.se/nyheter/sverige/chockpriser-pa-ikea-stams-av-forbannade-kunder/",
     "pubDate": "2026-10-25T17:00:00.000Z",
@@ -599,7 +728,7 @@
     "category": "US midterm elections 2026"
   },
   {
-    "id": "expressen-7-t-ger-sig-ut-pa-bron",
+    "id": "expressen-9-t-ger-sig-ut-pa-bron",
     "title": "De trotsar kaoset – ger sig ut på bron",
     "link": "https://www.expressen.se/tv/nyheter/sverige/trotsar-stormkaoset-ger-sig-ut-pa-bron",
     "pubDate": "2026-10-25T16:41:12.000Z",
@@ -611,7 +740,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-8-2f-9e97-ec9a4d80c24b",
+    "id": "expressen-10-2f-9e97-ec9a4d80c24b",
     "title": "SMHI utfärdar ny gul vindvarning – tilltar under natten",
     "link": "https://www.expressen.se/nyheter/vader/direktrapport-stormen-boelo-drar-in-over-sverige/?post=19611a02-509d-482f-9e97-ec9a4d80c24b",
     "pubDate": "2026-10-25T16:30:55.000Z",
@@ -624,7 +753,7 @@
     "category": "Vader"
   },
   {
-    "id": "expressen-11-ot-fabrik-i-ryssland",
+    "id": "expressen-13-ot-fabrik-i-ryssland",
     "title": "Rysk fabrik träffad i ukrainsk attack",
     "link": "https://www.expressen.se/tv/nyheter/varlden/ukraina-slar-till-mot-fabrik-i-ryssland",
     "pubDate": "2026-10-25T16:29:22.000Z",
@@ -648,7 +777,7 @@
     "country": "INT"
   },
   {
-    "id": "expressen-9-22-958f-05583a7a5d31",
+    "id": "expressen-11-22-958f-05583a7a5d31",
     "title": "Räddningstjänstinsats i Karlsborg avslutas",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4a1c69d1-85aa-4c22-958f-05583a7a5d31",
     "pubDate": "2026-10-25T16:18:07.000Z",
@@ -686,7 +815,7 @@
     "category": "Film"
   },
   {
-    "id": "expressen-10-den-till-ett-land%2F",
+    "id": "expressen-12-den-till-ett-land%2F",
     "title": "Dick Harrison: Gör Norden till ett land",
     "link": "https://www.expressen.se/nyheter/sverige/dick-harrison-gor-norden-till-ett-land/",
     "pubDate": "2026-10-25T16:12:48.000Z",
@@ -838,7 +967,7 @@
     "id": "nyt-9-milan-youth-protests",
     "title": "Italy’s Young Protesters Return to the Streets",
     "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
-    "pubDate": "2026-10-25T15:41:09.000Z",
+    "pubDate": "2026-10-25T15:41:10.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
@@ -860,7 +989,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-21-ousing-protest-camps",
+    "id": "guardian-22-ousing-protest-camps",
     "title": "Portuguese police with dogs and batons dismantle housing protest camps",
     "link": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
     "pubDate": "2026-10-25T15:32:20.000Z",
@@ -922,7 +1051,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-6-residential-election",
+    "id": "guardian-7-residential-election",
     "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
     "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
     "pubDate": "2026-10-25T14:41:17.000Z",
@@ -960,7 +1089,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-42-ary-haiti-gangs.html",
+    "id": "nyt-43-ary-haiti-gangs.html",
     "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
     "link": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
     "pubDate": "2026-10-25T14:37:53.000Z",
@@ -986,7 +1115,7 @@
     "category": "US midterm elections 2026"
   },
   {
-    "id": "expressen-12-50-b7a7-cc64260dafd6",
+    "id": "expressen-14-50-b7a7-cc64260dafd6",
     "title": "Tonårsflicka häktas efter mordet i Älvsjö",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f580109a-898a-4550-b7a7-cc64260dafd6",
     "pubDate": "2026-10-25T14:30:32.000Z",
@@ -999,7 +1128,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "expressen-13-83-a629-5c365b283287",
+    "id": "expressen-15-83-a629-5c365b283287",
     "title": "Bil ramlade av från bärgare – orsakade bilolycka",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=02880546-d83d-4e83-a629-5c365b283287",
     "pubDate": "2026-10-25T14:29:52.000Z",
@@ -1049,19 +1178,6 @@
     "category": "News"
   },
   {
-    "id": "nyt-1-ro-what-to-know.html",
-    "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
-    "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-    "pubDate": "2026-10-25T14:08:52.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "United States Internation"
-  },
-  {
     "id": "guardian-15-centives-for-doctors",
     "title": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
     "link": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
@@ -1075,7 +1191,7 @@
     "category": "Health"
   },
   {
-    "id": "guardian-37-rs-rail-staff-videos",
+    "id": "guardian-39-rs-rail-staff-videos",
     "title": "All aboard the TrainTok trend: spotters and staff boost rail content online",
     "link": "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
     "pubDate": "2026-10-25T14:00:05.000Z",
@@ -1150,7 +1266,7 @@
     "category": "Krim"
   },
   {
-    "id": "guardian-22-ite-job-cuts-at-home",
+    "id": "guardian-23-ite-job-cuts-at-home",
     "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
     "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
     "pubDate": "2026-10-25T13:43:19.000Z",
@@ -1163,10 +1279,10 @@
     "category": "Volkswagen (VW)"
   },
   {
-    "id": "nyt-27-ction-president.html",
+    "id": "nyt-28-ction-president.html",
     "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
     "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
-    "pubDate": "2026-10-25T13:42:54.000Z",
+    "pubDate": "2026-10-25T13:42:55.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
@@ -1202,7 +1318,7 @@
     "category": "US and Israeli Attack on "
   },
   {
-    "id": "expressen-17-ist-om-psalmcitat%2F",
+    "id": "expressen-19-ist-om-psalmcitat%2F",
     "title": "Möbeljätten Mio stoppar kudde – tvist om psalmcitat",
     "link": "https://www.expressen.se/nyheter/sverige/mobeljatte-stoppar-kudde-tvist-om-psalmcitat/",
     "pubDate": "2026-10-25T13:34:06.000Z",
@@ -1213,19 +1329,6 @@
     "textColor": "#ffffff",
     "country": "SE",
     "category": "Sverige"
-  },
-  {
-    "id": "guardian-38-free-movement-brexit",
-    "title": "Rayner backs Burnham call for debate on return to free movement with EU",
-    "link": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
-    "pubDate": "2026-10-25T13:31:05.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Labour"
   },
   {
     "id": "guardian-39--screening-disparity",
@@ -1241,7 +1344,7 @@
     "category": "Breast cancer"
   },
   {
-    "id": "expressen-14-for-var-demokrati%2F",
+    "id": "expressen-16-for-var-demokrati%2F",
     "title": "Så viktigt är valdeltagandet: ”Grunden för vår demokrati”",
     "link": "https://www.expressen.se/nyheter/sverige/sa-viktigt-ar-valdeltagandet-grunden-for-var-demokrati/",
     "pubDate": "2026-10-25T13:24:42.000Z",
@@ -1254,7 +1357,7 @@
     "category": "Sverige"
   },
   {
-    "id": "expressen-15-sta-valdeltagande%2F",
+    "id": "expressen-17-sta-valdeltagande%2F",
     "title": "Fyra av tio röstar inte – Haparanda har landets sämsta valdeltagande",
     "link": "https://www.expressen.se/nyheter/politik/fyra-av-tio-rostar-inte-haparanda--har-landets-samsta-valdeltagande/",
     "pubDate": "2026-10-25T13:24:39.000Z",
@@ -1409,7 +1512,7 @@
     "category": "News"
   },
   {
-    "id": "guardian-23--of-the-maga-machine",
+    "id": "guardian-24--of-the-maga-machine",
     "title": "The WNBA finals are a basketball wonderland – unless you’re part of the Maga machine",
     "link": "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine",
     "pubDate": "2026-10-25T12:48:44.000Z",
@@ -1434,7 +1537,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-16-pobaby-kritiseras%2F",
+    "id": "expressen-18-pobaby-kritiseras%2F",
     "title": "Amanda Sokolnicki kallar Alice Landerholm för nepobaby – kritiseras",
     "link": "https://www.expressen.se/nyheter/politik/amanda-sokolnicki-kallar-alice-landerholm-for-nepobaby-kritiseras/",
     "pubDate": "2026-10-25T12:47:07.000Z",
@@ -1507,7 +1610,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-23-schools-and-policing",
+    "id": "guardian-24-schools-and-policing",
     "title": "Hundreds of thousands march across France in protests over schools and policing",
     "link": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
     "pubDate": "2026-10-25T12:07:05.000Z",
@@ -1649,7 +1752,7 @@
     "category": "Meghan, the Duchess of Su"
   },
   {
-    "id": "guardian-24-own-to-beat-pelicans",
+    "id": "guardian-25-own-to-beat-pelicans",
     "title": "Jokić says booing fans ‘not welcome’ after Nuggets rally from 23 points down to beat Pelicans",
     "link": "https://www.theguardian.com/sport/2026/oct/25/jokic-says-booing-fans-not-welcome-after-nuggets-rally-from-23-points-down-to-beat-pelicans",
     "pubDate": "2026-10-25T11:48:49.000Z",
@@ -1886,7 +1989,7 @@
     "category": "Trump administration"
   },
   {
-    "id": "guardian-7-sh-man-death-grenada",
+    "id": "guardian-8-sh-man-death-grenada",
     "title": "Demand for UK government action 10 months after British man’s death in Grenada",
     "link": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
     "pubDate": "2026-10-25T11:00:01.000Z",
@@ -2037,7 +2140,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-4--kandidaten-bitch%2F",
+    "id": "expressen-5--kandidaten-bitch%2F",
     "title": "Fräna utbrotten skakar om succé-kandidaten: ”Bitch”",
     "link": "https://www.expressen.se/nyheter/varlden/frana-utbrotten-skakar-om-succe-kandidaten-bitch/",
     "pubDate": "2026-10-25T10:22:48.000Z",
@@ -2289,7 +2392,7 @@
     "category": "World"
   },
   {
-    "id": "nyt-15-israel-election.html",
+    "id": "nyt-16-israel-election.html",
     "title": "The Expat Voters Hoping to Swing Israel’s Election",
     "link": "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html",
     "pubDate": "2026-10-25T09:01:42.000Z",
@@ -2575,7 +2678,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-9-attack-mot-rysk-stad",
+    "id": "expressen-10-attack-mot-rysk-stad",
     "title": "Ryskt köpcenter i lågor",
     "link": "https://www.expressen.se/tv/nyheter/varlden/massiv-dronarattack-mot-rysk-stad",
     "pubDate": "2026-10-25T08:07:14.000Z",
@@ -2713,7 +2816,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-5-istorien-med-dronare",
+    "id": "expressen-6-istorien-med-dronare",
     "title": "Första räddningen i världshistorien – med drönare",
     "link": "https://www.expressen.se/tv/nyheter/varlden/forsta-raddningen-i-varldshistorien-med-dronare",
     "pubDate": "2026-10-25T07:08:59.000Z",
@@ -2737,7 +2840,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-6-18-8a29-b061c6364a83",
+    "id": "expressen-7-18-8a29-b061c6364a83",
     "title": "Oljeplattform har sjunkit",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7323ddb5-e85e-4c18-8a29-b061c6364a83",
     "pubDate": "2026-10-25T07:07:07.000Z",
@@ -2924,7 +3027,7 @@
     "category": "West Bank"
   },
   {
-    "id": "expressen-8-fd-84e7-4b81819e495f",
+    "id": "expressen-9-fd-84e7-4b81819e495f",
     "title": "Tolv skadade i skjutning",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=376e4a58-638d-47fd-84e7-4b81819e495f",
     "pubDate": "2026-10-25T06:24:42.000Z",
@@ -2949,7 +3052,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-7-ntade-ord-om-sverige",
+    "id": "expressen-8-ntade-ord-om-sverige",
     "title": "Trumps oväntade ord om Sverige",
     "link": "https://www.expressen.se/tv/nyheter/trumps-ovantade-ord-om-sverige",
     "pubDate": "2026-10-25T06:15:40.000Z",
@@ -3173,7 +3276,7 @@
     "id": "nyt-8-of-attack-looms.html",
     "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
     "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
-    "pubDate": "2026-10-25T05:14:43.000Z",
+    "pubDate": "2026-10-25T05:14:44.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
@@ -3195,7 +3298,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-10-valet-i-brasilien%2F",
+    "id": "expressen-11-valet-i-brasilien%2F",
     "title": "Ovanligt jämnt inför ödesvalet i Brasilien",
     "link": "https://www.expressen.se/nyheter/varlden/ovanligt-jamnt-infor-odesvalet-i-brasilien/",
     "pubDate": "2026-10-25T05:12:23.000Z",
@@ -3245,7 +3348,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-11-brot-mot-reglerna%2F",
+    "id": "expressen-12-brot-mot-reglerna%2F",
     "title": "Elon Musks förklaring: Ukraina bröt mot reglerna",
     "link": "https://www.expressen.se/nyheter/varlden/elon-musks-forklaring-ukraina-brot-mot-reglerna/",
     "pubDate": "2026-10-25T04:55:54.000Z",
@@ -3493,7 +3596,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-24-radis-marseille.html",
+    "id": "nyt-25-radis-marseille.html",
     "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
     "link": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
     "pubDate": "2026-10-25T02:49:00.000Z",
@@ -3506,7 +3609,7 @@
     "category": "Demonstrations, Protests "
   },
   {
-    "id": "nyt-46-ro-minas-gerais.html",
+    "id": "nyt-47-ro-minas-gerais.html",
     "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
     "link": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
     "pubDate": "2026-10-25T02:46:39.000Z",
@@ -3532,7 +3635,7 @@
     "category": "News"
   },
   {
-    "id": "nyt-16-iers-haiti-dead.html",
+    "id": "nyt-17-iers-haiti-dead.html",
     "title": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
     "link": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
     "pubDate": "2026-10-25T02:01:16.000Z",
@@ -3583,7 +3686,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-29-m-jong-un-china.html",
+    "id": "nyt-30-m-jong-un-china.html",
     "title": "Kim Jong-un Makes First Visit to China in Over a Year",
     "link": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
     "pubDate": "2026-10-25T01:14:39.000Z",
@@ -3609,7 +3712,7 @@
     "category": "Hazardous and Toxic Subst"
   },
   {
-    "id": "expressen-12-mligt-obegripligt%2F",
+    "id": "expressen-13-mligt-obegripligt%2F",
     "title": "Raseriet mot Witkoffs ord: ”Fullkomligt obegripligt”",
     "link": "https://www.expressen.se/nyheter/varlden/raseriet-mot-witkoffs-ord-fullkomligt-obegripligt/",
     "pubDate": "2026-10-25T00:54:35.000Z",
@@ -3699,7 +3802,7 @@
     "category": "Andy Burnham"
   },
   {
-    "id": "expressen-13-l-overgreppsoffer%2F",
+    "id": "expressen-14-l-overgreppsoffer%2F",
     "title": "Katolska kyrkan betalar 800 miljoner dollar till övergreppsoffer",
     "link": "https://www.expressen.se/nyheter/varlden/katolska-kyrkan-betalar-800-miljoner-dollar-till-overgreppsoffer/",
     "pubDate": "2026-10-24T23:01:00.000Z",
@@ -3712,7 +3815,7 @@
     "category": "Världen"
   },
   {
-    "id": "expressen-14-ll-bygga-upp-igen%2F",
+    "id": "expressen-15-ll-bygga-upp-igen%2F",
     "title": "Efter branden i Hitlers örnnäste – minister vill bygga upp igen",
     "link": "https://www.expressen.se/nyheter/varlden/efter-branden-i-hitlers-ornnaste-minister-vill-bygga-upp-igen/",
     "pubDate": "2026-10-24T22:54:22.000Z",
@@ -3799,7 +3902,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-16-50-mil-in-i-ryssland",
+    "id": "expressen-17-50-mil-in-i-ryssland",
     "title": "Attackerar – 250 mil från gränsen",
     "link": "https://www.expressen.se/tv/nyheter/varlden/ukrainas-attack-250-mil-in-i-ryssland",
     "pubDate": "2026-10-24T22:09:15.000Z",
@@ -3900,7 +4003,7 @@
     "category": "Ukraine"
   },
   {
-    "id": "nyt-17--clashes-police.html",
+    "id": "nyt-18--clashes-police.html",
     "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
     "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
     "pubDate": "2026-10-24T21:23:15.000Z",
@@ -3910,7 +4013,7 @@
     "badgeColor": "#121212",
     "textColor": "#ffffff",
     "country": "INT",
-    "category": "Demonstrations, Protests "
+    "category": "France"
   },
   {
     "id": "expressen-18-05-bc74-cc5e00734dfc",
@@ -3950,7 +4053,7 @@
     "country": "INT"
   },
   {
-    "id": "guardian-8-ion-runoff-bolsonaro",
+    "id": "guardian-9-ion-runoff-bolsonaro",
     "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
     "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
     "pubDate": "2026-10-24T21:10:23.000Z",
@@ -3976,7 +4079,7 @@
     "category": "Nashville SC"
   },
   {
-    "id": "expressen-15-or-mellanarsvalet%2F",
+    "id": "expressen-16-or-mellanarsvalet%2F",
     "title": "Varningen till demokraterna inför mellanårsvalet",
     "link": "https://www.expressen.se/nyheter/varlden/varningen-till-demokraterna-infor-mellanarsvalet/",
     "pubDate": "2026-10-24T20:57:32.000Z",
@@ -4165,7 +4268,7 @@
     "category": "News"
   },
   {
-    "id": "nyt-35-tinians-harvest.html",
+    "id": "nyt-36-tinians-harvest.html",
     "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
     "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
     "pubDate": "2026-10-24T19:31:56.000Z",
@@ -4251,7 +4354,7 @@
     "country": "SE"
   },
   {
-    "id": "expressen-17-fe-a8ca-85e0ab6e59e1",
+    "id": "expressen-18-fe-a8ca-85e0ab6e59e1",
     "title": "Krock med träd – en till sjukhus",
     "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8c58305-affb-47fe-a8ca-85e0ab6e59e1",
     "pubDate": "2026-10-24T18:47:49.000Z",
@@ -4264,7 +4367,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "expressen-18-drink-under-match%2F",
+    "id": "expressen-19-drink-under-match%2F",
     "title": "Trumps rådgivare sparkad – kastade drink under match",
     "link": "https://www.expressen.se/nyheter/varlden/trumps-radgivare-sparkad-kastade-drink-under-match/",
     "pubDate": "2026-10-24T18:37:10.000Z",
@@ -4289,7 +4392,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-23-s%2Fheres-the-latest",
+    "id": "nyt-24-s%2Fheres-the-latest",
     "title": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
     "pubDate": "2026-10-24T18:35:47.000Z",
@@ -4416,7 +4519,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "nyt-31-hink-its-enough.html",
+    "id": "nyt-33-hink-its-enough.html",
     "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
     "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
     "pubDate": "2026-10-24T17:45:17.000Z",
@@ -4426,7 +4529,7 @@
     "badgeColor": "#121212",
     "textColor": "#ffffff",
     "country": "INT",
-    "category": "Netanyahu, Benjamin"
+    "category": "Israel"
   },
   {
     "id": "dn-52-h-farjor-paverkas%2F",
@@ -4615,7 +4718,7 @@
     "category": "Världen"
   },
   {
-    "id": "nyt-33-gs-iran-threats.html",
+    "id": "nyt-34-gs-iran-threats.html",
     "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
     "pubDate": "2026-10-24T16:09:15.000Z",
@@ -4628,7 +4731,7 @@
     "category": "US and Israeli Attack on "
   },
   {
-    "id": "nyt-18-ce-carney-trump.html",
+    "id": "nyt-19-ce-carney-trump.html",
     "title": "Why Is the U.S. Accusing Canada of Election Interference?",
     "link": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
     "pubDate": "2026-10-24T16:02:21.000Z",
@@ -4639,19 +4742,6 @@
     "textColor": "#ffffff",
     "country": "INT",
     "category": "Canada"
-  },
-  {
-    "id": "nyt-19-s-riots-tourism.html",
-    "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
-    "link": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
-    "pubDate": "2026-10-24T16:00:32.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Demonstrations, Protests "
   },
   {
     "id": "atlantic-5-%3Futm_source%3Dfeed",
@@ -4854,7 +4944,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-20-ebron-west-bank.html",
+    "id": "nyt-21-ebron-west-bank.html",
     "title": "Israel Cracks Down in West Bank City After Deadly Attack",
     "link": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
     "pubDate": "2026-10-24T14:52:06.000Z",
@@ -4940,7 +5030,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-28-e-down-to-crime.html",
+    "id": "nyt-29-e-down-to-crime.html",
     "title": "Why Brazil’s Election Could Come Down to Crime",
     "link": "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html",
     "pubDate": "2026-10-24T14:32:25.000Z",
@@ -5882,7 +5972,7 @@
     "category": "Minnesota"
   },
   {
-    "id": "nyt-21-eparation-smith.html",
+    "id": "nyt-22-eparation-smith.html",
     "title": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future",
     "link": "https://www.nytimes.com/2026/10/24/world/canada/alberta-referendum-separation-smith.html",
     "pubDate": "2026-10-24T10:00:03.000Z",
@@ -5943,7 +6033,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-22-otests-timeline.html",
+    "id": "nyt-23-otests-timeline.html",
     "title": "How a Small Student Protest Spread Across France",
     "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
     "pubDate": "2026-10-24T09:46:50.000Z",
@@ -6080,7 +6170,7 @@
     "category": "Ohio"
   },
   {
-    "id": "nyt-25-ction-president.html",
+    "id": "nyt-26-ction-president.html",
     "title": "The Other Bolsonaro Who Could Become Brazil’s Next President",
     "link": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
     "pubDate": "2026-10-24T09:03:13.000Z",
@@ -6090,10 +6180,10 @@
     "badgeColor": "#121212",
     "textColor": "#ffffff",
     "country": "INT",
-    "category": "Elections"
+    "category": "Brazil"
   },
   {
-    "id": "nyt-26-ecurity-cartels.html",
+    "id": "nyt-27-ecurity-cartels.html",
     "title": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
     "link": "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html",
     "pubDate": "2026-10-24T09:03:03.000Z",
@@ -6145,7 +6235,7 @@
     "category": "Society"
   },
   {
-    "id": "nyt-30-20-hike-corsica.html",
+    "id": "nyt-31-20-hike-corsica.html",
     "title": "Corsica’s GR20: A Visual Diary of the Hike",
     "link": "https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html",
     "pubDate": "2026-10-24T09:00:28.000Z",
@@ -7205,7 +7295,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-43-shooting-israel.html",
+    "id": "nyt-44-shooting-israel.html",
     "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
     "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
     "pubDate": "2026-10-24T04:42:18.000Z",
@@ -7904,7 +7994,7 @@
     "category": "US news"
   },
   {
-    "id": "nyt-41-church-shooting.html",
+    "id": "nyt-42-church-shooting.html",
     "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
     "link": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
     "pubDate": "2026-10-23T23:07:34.000Z",
@@ -8376,7 +8466,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "nyt-40-france-shooting.html",
+    "id": "nyt-41-france-shooting.html",
     "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
     "link": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
     "pubDate": "2026-10-23T20:24:27.000Z",
@@ -8630,7 +8720,7 @@
     "category": "Donald Trump"
   },
   {
-    "id": "nyt-45--election-shift.html",
+    "id": "nyt-46--election-shift.html",
     "title": "Where Brazil’s Left Is Losing Voters",
     "link": "https://www.nytimes.com/video/world/americas/100000011230998/brazil-nanuque-election-shift.html",
     "pubDate": "2026-10-23T19:26:21.000Z",
@@ -8668,7 +8758,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-38-ld-sexual-abuse.html",
+    "id": "nyt-39-ld-sexual-abuse.html",
     "title": "Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images",
     "link": "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html",
     "pubDate": "2026-10-23T19:18:00.000Z",
@@ -8860,7 +8950,7 @@
     "category": "West Coast"
   },
   {
-    "id": "nyt-39-police-protests.html",
+    "id": "nyt-40-police-protests.html",
     "title": "France Plans to Bolster Police Presence, Expecting New Protests",
     "link": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
     "pubDate": "2026-10-23T18:31:40.000Z",
@@ -9160,7 +9250,7 @@
     "category": "Politik"
   },
   {
-    "id": "nyt-36--helm-palestine.html",
+    "id": "nyt-37--helm-palestine.html",
     "title": "How a U.K. Official’s Wife Set Off a Debate Over Free Speech and Palestinians",
     "link": "https://www.nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html",
     "pubDate": "2026-10-23T17:35:25.000Z",
@@ -9274,7 +9364,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-34-rubio-elections.html",
+    "id": "nyt-35-rubio-elections.html",
     "title": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
     "link": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
     "pubDate": "2026-10-23T17:15:02.000Z",
@@ -9552,7 +9642,7 @@
     "category": "Mississippi"
   },
   {
-    "id": "nyt-37-estream-slow-tv.html",
+    "id": "nyt-38-estream-slow-tv.html",
     "title": "Finland’s Puppy Livestream Provides Comfort in Troubled Times",
     "link": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
     "pubDate": "2026-10-23T16:38:45.000Z",
@@ -10717,7 +10807,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-47-vador-president.html",
+    "id": "nyt-48-vador-president.html",
     "title": "The Bukeleization of Latin America Has Arrived",
     "link": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
     "pubDate": "2026-10-23T13:05:25.000Z",
@@ -11127,7 +11217,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-48-paganda-epstein.html",
+    "id": "nyt-49-paganda-epstein.html",
     "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
     "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
     "pubDate": "2026-10-23T12:18:37.000Z",
@@ -12275,7 +12365,7 @@
     "category": "Midterm Elections (2026)"
   },
   {
-    "id": "nyt-44--public-opinion.html",
+    "id": "nyt-45--public-opinion.html",
     "title": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
     "link": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
     "pubDate": "2026-10-23T09:30:47.000Z",
@@ -12444,94 +12534,5 @@
     "textColor": "#ffffff",
     "country": "DE",
     "category": "News"
-  },
-  {
-    "id": "aftonbladet-38-n%3Futm_medium%3Drss",
-    "title": "Så gör du virala tacotricket: ”Som en skänk från ovan”",
-    "link": "https://tv.aftonbladet.se/video/409197/sa-goer-du-virala-tacotricket-som-en-skaenk-fran-ovan?utm_medium=rss",
-    "pubDate": "2026-10-23T09:03:56.000Z",
-    "sourceId": "aftonbladet",
-    "sourceName": "Aftonbladet",
-    "sourceShort": "AFTONBLADET",
-    "badgeColor": "#ffe500",
-    "textColor": "#121212",
-    "country": "SE"
-  },
-  {
-    "id": "nyt-3-ampaign-finance.html",
-    "title": "In Final Surge of Vast Midterm Spending, Parties Make Last-Ditch Appeals",
-    "link": "https://www.nytimes.com/2026/10/23/us/midterm-campaign-finance.html",
-    "pubDate": "2026-10-23T09:03:16.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Campaign Finance"
-  },
-  {
-    "id": "nyt-9-hington-history.html",
-    "title": "Does Congress Need to Approve the Arch? Trump Says It Did 100 Years Ago.",
-    "link": "https://www.nytimes.com/2026/10/23/upshot/arch-trump-washington-history.html",
-    "pubDate": "2026-10-23T09:02:30.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "United States Triumphal A"
-  },
-  {
-    "id": "nyt-15--melanoma-study.html",
-    "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
-    "link": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
-    "pubDate": "2026-10-23T09:00:39.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Drugs (Pharmaceuticals)"
-  },
-  {
-    "id": "nyt-15-cancer-patients.html",
-    "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
-    "link": "https://www.nytimes.com/2026/10/23/well/first-of-its-kind-vaccine-ushers-in-new-hope-for-cancer-patients.html",
-    "pubDate": "2026-10-23T09:00:38.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Drugs (Pharmaceuticals)"
-  },
-  {
-    "id": "guardian-20-Ftrump-moral-squalor",
-    "title": "America must reverse Trump’s moral squalor | Robert Reich",
-    "link": "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor",
-    "pubDate": "2026-10-23T09:00:05.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Donald Trump"
-  },
-  {
-    "id": "npr-9-lan-a-say-no-retreat",
-    "title": "Why going on a 'say no' retreat is a gift to your future self",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
-    "pubDate": "2026-10-23T09:00:00.000Z",
-    "sourceId": "npr",
-    "sourceName": "NPR",
-    "sourceShort": "NPR",
-    "badgeColor": "#d62027",
-    "textColor": "#ffffff",
-    "country": "INT"
   }
 ]

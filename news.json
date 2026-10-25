@@ -1,5 +1,82 @@
 [
   {
+    "id": "guardian-40-ul-el-sayed-michigan",
+    "title": "Barack Obama rallies Michigan crowd for El-Sayed, saying he’s ‘fighting for real change’",
+    "link": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+    "pubDate": "2026-10-24T23:50:30.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Michigan"
+  },
+  {
+    "id": "dw-0-en-all-1573-xml-mrss",
+    "title": "Nigeria: Tinubu launches reelection bid amid economic woes",
+    "link": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-xml-mrss",
+    "pubDate": "2026-10-24T23:49:00.000Z",
+    "sourceId": "dw",
+    "sourceName": "Deutsche Welle",
+    "sourceShort": "DW",
+    "badgeColor": "#002f6c",
+    "textColor": "#ffffff",
+    "country": "DE",
+    "category": "News"
+  },
+  {
+    "id": "guardian-0-ichigan-live-updates",
+    "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
+    "pubDate": "2026-10-24T23:46:45.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "US midterm elections 2026"
+  },
+  {
+    "id": "nyt-3-dterms-campaign.html",
+    "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+    "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
+    "pubDate": "2026-10-24T23:39:51.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Midterm Elections (2026)"
+  },
+  {
+    "id": "nyt-4-iers-haiti-dead.html",
+    "title": "Remains Found in Haiti Could Be Those of Missing Salvadoran Soldiers",
+    "link": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
+    "pubDate": "2026-10-24T23:38:34.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Haiti"
+  },
+  {
+    "id": "aftonbladet-0-r%3Futm_medium%3Drss",
+    "title": "Musk: Ukraina bröt mot Starlinks regler",
+    "link": "https://www.aftonbladet.se/nyheter/a/gdm20q/musk-ukraina-brot-mot-starlinks-regler?utm_medium=rss",
+    "pubDate": "2026-10-24T23:38:23.000Z",
+    "sourceId": "aftonbladet",
+    "sourceName": "Aftonbladet",
+    "sourceShort": "AFTONBLADET",
+    "badgeColor": "#ffe500",
+    "textColor": "#121212",
+    "country": "SE"
+  },
+  {
     "id": "guardian-15--four-injured-ntwnfb",
     "title": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
     "link": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
@@ -11,19 +88,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "Queensland"
-  },
-  {
-    "id": "guardian-0-ichigan-live-updates",
-    "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
-    "pubDate": "2026-10-24T23:12:26.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "US midterm elections 2026"
   },
   {
     "id": "guardian-20--of-movement-with-eu",
@@ -77,7 +141,7 @@
     "country": "INT"
   },
   {
-    "id": "aftonbladet-0-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-1-r%3Futm_medium%3Drss",
     "title": "Mali: Över 50 döda i attacker",
     "link": "https://www.aftonbladet.se/nyheter/a/8GddnQ/mali-over-50-doda-i-attacker?utm_medium=rss",
     "pubDate": "2026-10-24T22:41:46.000Z",
@@ -128,19 +192,6 @@
     "category": "Documentary Films and Pro"
   },
   {
-    "id": "nyt-4-iers-haiti-dead.html",
-    "title": "4 Bodies Found in Haiti Are Thought to Be Those of Missing Salvadoran Soldiers",
-    "link": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
-    "pubDate": "2026-10-24T22:33:56.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Haiti"
-  },
-  {
     "id": "dn-0-ett-kallt-sverige%2F",
     "title": "Ison & Fille sprider hopp i ett kallt Sverige",
     "link": "https://www.dn.se/kultur/ison-fille-sprider-hopp-i-ett-kallt-sverige/",
@@ -153,7 +204,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-1-p%3Futm_medium%3Drss",
+    "id": "aftonbladet-2-p%3Futm_medium%3Drss",
     "title": "Kyrka betalar offer för sexövergrepp",
     "link": "https://www.aftonbladet.se/nyheter/a/8Gdd41/kyrka-betalar-offer-for-sexovergrepp?utm_medium=rss",
     "pubDate": "2026-10-24T22:20:42.000Z",
@@ -163,19 +214,6 @@
     "badgeColor": "#ffe500",
     "textColor": "#121212",
     "country": "SE"
-  },
-  {
-    "id": "nyt-3-dterms-campaign.html",
-    "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
-    "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
-    "pubDate": "2026-10-24T22:18:42.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Midterm Elections (2026)"
   },
   {
     "id": "expressen-6-50-mil-in-i-ryssland",
@@ -216,7 +254,7 @@
     "category": "Georgia"
   },
   {
-    "id": "aftonbladet-2-o%3Futm_medium%3Drss",
+    "id": "aftonbladet-3-o%3Futm_medium%3Drss",
     "title": "Flera varningar för ovädret Boelo",
     "link": "https://www.aftonbladet.se/nyheter/a/KrxgdM/flera-varningar-for-ovadret-boelo?utm_medium=rss",
     "pubDate": "2026-10-24T22:03:10.000Z",
@@ -253,7 +291,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-3-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-4-n%3Futm_medium%3Drss",
     "title": "Chockas av nya uppgifterna: Så överlevde hon",
     "link": "https://www.aftonbladet.se/nyheter/a/qyllPO/chockas-av-nya-uppgifterna-sa-overlevde-hon?utm_medium=rss",
     "pubDate": "2026-10-24T21:31:45.000Z",
@@ -404,7 +442,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-4-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-5-a%3Futm_medium%3Drss",
     "title": "Trump har förtidsröstat i Florida",
     "link": "https://www.aftonbladet.se/nyheter/a/qyll3m/trump-har-fortidsrostat-i-florida?utm_medium=rss",
     "pubDate": "2026-10-24T20:37:47.000Z",
@@ -416,7 +454,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-5-g%3Futm_medium%3Drss",
+    "id": "aftonbladet-6-g%3Futm_medium%3Drss",
     "title": "Charlotta, 56, hade nära döden-upplevelse: ”Skicka tillbaka mig”",
     "link": "https://www.aftonbladet.se/nyheter/a/xlbeRB/charlotta-56-om-sin-doden-upplevelse-skicka-tillbaka-mig?utm_medium=rss",
     "pubDate": "2026-10-24T20:35:19.000Z",
@@ -428,7 +466,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-6-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-7-t%3Futm_medium%3Drss",
     "title": "Amandas granne sköts ihjäl: ”Måste man hitta en tryggare plats?”",
     "link": "https://www.aftonbladet.se/nyheter/a/ElPr3A/bagarmossen-sofia-hedberg-granne-skots-ihjal-fruktansvart?utm_medium=rss",
     "pubDate": "2026-10-24T20:29:33.000Z",
@@ -530,7 +568,7 @@
     "category": "Fires and Firefighters"
   },
   {
-    "id": "guardian-40-lercoaster-seatbelts",
+    "id": "guardian-41-lercoaster-seatbelts",
     "title": "Six Flags to reopen Goliath rollercoaster – but now with seatbelts after recent rider death",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/six-flags-goliath-rollercoaster-seatbelts",
     "pubDate": "2026-10-24T19:44:36.000Z",
@@ -543,7 +581,7 @@
     "category": "Georgia"
   },
   {
-    "id": "dw-0-en-all-1573-xml-mrss",
+    "id": "dw-1-en-all-1573-xml-mrss",
     "title": "Ukraine: Starlink satellite speeds restored to normal",
     "link": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T19:33:00.000Z",
@@ -582,7 +620,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "aftonbladet-7-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-8-n%3Futm_medium%3Drss",
     "title": "Raseri mot kyrka inför gudstjänst med Tony Olsson",
     "link": "https://www.aftonbladet.se/nyheter/a/77kv8V/raseri-mot-kyrka-infor-gudstjanst-med-tony-olsson?utm_medium=rss",
     "pubDate": "2026-10-24T19:18:24.000Z",
@@ -606,7 +644,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-8-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-9-r%3Futm_medium%3Drss",
     "title": "NÄTVERKEN: SVERIGE",
     "link": "https://www.aftonbladet.se/nyheter/a/kwzn8X/sveriges-100-storsta-kommuner-sa-aktiva-ar-gangen-dar-du-bor?utm_medium=rss",
     "pubDate": "2026-10-24T19:06:31.000Z",
@@ -630,7 +668,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-9-l%3Futm_medium%3Drss",
+    "id": "aftonbladet-10-l%3Futm_medium%3Drss",
     "title": "Tusentals demonstrerar inför ödesval i Israel",
     "link": "https://www.aftonbladet.se/nyheter/a/MAelO5/tusentals-demonstrerar-infor-odesval-i-israel?utm_medium=rss",
     "pubDate": "2026-10-24T18:51:48.000Z",
@@ -705,7 +743,7 @@
     "category": "France"
   },
   {
-    "id": "aftonbladet-10-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-11-r%3Futm_medium%3Drss",
     "title": "Tio år efter clownpaniken: ”Jag är livrädd för mörka platser”",
     "link": "https://www.aftonbladet.se/nyheter/a/2VAA4l/tio-ar-efter-clownpaniken-livradd-for-morka-platser?utm_medium=rss",
     "pubDate": "2026-10-24T18:26:50.000Z",
@@ -769,7 +807,7 @@
     "category": "Social Media"
   },
   {
-    "id": "aftonbladet-11-l%3Futm_medium%3Drss",
+    "id": "aftonbladet-12-l%3Futm_medium%3Drss",
     "title": "Ambulanserna räckte inte till – brandmän körde skadad ungdom",
     "link": "https://www.aftonbladet.se/nyheter/a/qylM6w/garagebranden-i-fristad-ambulanserna-rackte-inte-till?utm_medium=rss",
     "pubDate": "2026-10-24T18:07:57.000Z",
@@ -932,7 +970,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "aftonbladet-12-l%3Futm_medium%3Drss",
+    "id": "aftonbladet-13-l%3Futm_medium%3Drss",
     "title": "Netanyahu hånade rivalen – nu kan han förlora",
     "link": "https://www.aftonbladet.se/nyheter/a/kv9Vr9/netayahus-motstandare-kan-vinna-valet-i-israel?utm_medium=rss",
     "pubDate": "2026-10-24T17:00:29.000Z",
@@ -956,7 +994,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-13-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-14-n%3Futm_medium%3Drss",
     "title": "Storm och regn väntas – tåg ställs in",
     "link": "https://www.aftonbladet.se/nyheter/a/mKblKq/storm-och-regn-vantas-tag-stalls-in?utm_medium=rss",
     "pubDate": "2026-10-24T16:42:08.000Z",
@@ -980,7 +1018,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-14-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-15-r%3Futm_medium%3Drss",
     "title": "Charlize, 20, är död – kämpade mot aggressiv cancer",
     "link": "https://www.aftonbladet.se/nyheter/a/Krx2QG/charlize-20-ar-dod-kampade-mot-aggressiv-cancer?utm_medium=rss",
     "pubDate": "2026-10-24T16:27:42.000Z",
@@ -1082,7 +1120,7 @@
     "category": "Books"
   },
   {
-    "id": "dw-1-en-all-1573-xml-mrss",
+    "id": "dw-2-en-all-1573-xml-mrss",
     "title": "German national facing trial for alleged attempt to join IS",
     "link": "https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T15:55:00.000Z",
@@ -1132,7 +1170,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-15-m%3Futm_medium%3Drss",
+    "id": "aftonbladet-16-m%3Futm_medium%3Drss",
     "title": "Finländsk valp-tv tar världen med storm",
     "link": "https://www.aftonbladet.se/nyheter/a/jvy25e/finlandsk-valp-tv-tar-varlden-med-storm?utm_medium=rss",
     "pubDate": "2026-10-24T15:34:18.000Z",
@@ -1407,7 +1445,7 @@
     "category": "Jordan"
   },
   {
-    "id": "aftonbladet-16-k%3Futm_medium%3Drss",
+    "id": "aftonbladet-17-k%3Futm_medium%3Drss",
     "title": "Oro i EU efter Starlink-kaoset",
     "link": "https://www.aftonbladet.se/nyheter/a/lK2BVA/oro-i-eu-efter-begransningarna-i-starlink?utm_medium=rss",
     "pubDate": "2026-10-24T14:16:37.000Z",
@@ -1419,7 +1457,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-2-en-all-1573-xml-mrss",
+    "id": "dw-3-en-all-1573-xml-mrss",
     "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
     "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T14:09:00.000Z",
@@ -1471,7 +1509,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "aftonbladet-17-5%3Futm_medium%3Drss",
+    "id": "aftonbladet-18-5%3Futm_medium%3Drss",
     "title": "Reportern räddar livet på mannen",
     "link": "https://tv.aftonbladet.se/video/409255?utm_medium=rss",
     "pubDate": "2026-10-24T14:00:31.000Z",
@@ -1533,7 +1571,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-18-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-19-a%3Futm_medium%3Drss",
     "title": "Han kan tippa senaten: ”Inte sett sedan Obama”",
     "link": "https://www.aftonbladet.se/nyheter/a/Vg7344/han-kan-tippa-senaten-inte-sett-sedan-obama?utm_medium=rss",
     "pubDate": "2026-10-24T13:46:45.000Z",
@@ -1721,7 +1759,7 @@
     "category": "Regulation and Deregulati"
   },
   {
-    "id": "aftonbladet-19-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-20-r%3Futm_medium%3Drss",
     "title": "Tusen personer gripna i Frankrike – förbjuder demonstrationer",
     "link": "https://www.aftonbladet.se/nyheter/a/ElPkl2/135-gripna-i-dagens-protester?utm_medium=rss",
     "pubDate": "2026-10-24T12:33:31.000Z",
@@ -1782,7 +1820,7 @@
     "category": "Regulation and Deregulati"
   },
   {
-    "id": "aftonbladet-20-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-21-a%3Futm_medium%3Drss",
     "title": "Här är bilderna som förklarar studentprotesterna",
     "link": "https://tv.aftonbladet.se/video/409280/haer-aer-bilderna-som-foerklarar-studentprotesterna?utm_medium=rss",
     "pubDate": "2026-10-24T12:28:21.000Z",
@@ -1794,7 +1832,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-21-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-22-n%3Futm_medium%3Drss",
     "title": "Nya dödliga attacker i Jemen",
     "link": "https://www.aftonbladet.se/nyheter/a/n9elVQ/dodliga-saudiska-flyganfall-mot-jemen?utm_medium=rss",
     "pubDate": "2026-10-24T12:17:37.000Z",
@@ -1806,7 +1844,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-22-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-23-a%3Futm_medium%3Drss",
     "title": "Mystiska lyxfartyg utanför Kim Jong-uns villa",
     "link": "https://www.aftonbladet.se/nyheter/a/d7QJ0J/nordkorea-mystiska-lyxfartyg-utanfor-kim-jong-uns-villa?utm_medium=rss",
     "pubDate": "2026-10-24T12:10:59.000Z",
@@ -1843,7 +1881,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-41-s-outbreak-reporting",
+    "id": "guardian-42-s-outbreak-reporting",
     "title": "Additional 178 cases of measles reported by US health authorities amid outbreak",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
     "pubDate": "2026-10-24T12:00:33.000Z",
@@ -1856,7 +1894,7 @@
     "category": "US healthcare"
   },
   {
-    "id": "guardian-42-stein-files-midterms",
+    "id": "guardian-43-stein-files-midterms",
     "title": "Epstein files take back seat in midterms but experts say issue has not gone away",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
     "pubDate": "2026-10-24T12:00:32.000Z",
@@ -1944,7 +1982,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "dw-3-en-all-1573-xml-mrss",
+    "id": "dw-4-en-all-1573-xml-mrss",
     "title": "Will Guinea-Bissau remain trapped in political chaos?",
     "link": "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T11:36:00.000Z",
@@ -1957,7 +1995,7 @@
     "category": "NRS-Import"
   },
   {
-    "id": "guardian-43-o-rubio-us-sanctions",
+    "id": "guardian-44-o-rubio-us-sanctions",
     "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
     "link": "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions",
     "pubDate": "2026-10-24T11:35:22.000Z",
@@ -2007,7 +2045,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-23-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-24-a%3Futm_medium%3Drss",
     "title": "Kim Jong-Un på överraskande besök i Kina",
     "link": "https://www.aftonbladet.se/nyheter/a/mKby34/kim-jong-un-pa-overraskande-besok-i-kina?utm_medium=rss",
     "pubDate": "2026-10-24T11:04:38.000Z",
@@ -2019,7 +2057,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-44-ka-bear-hunting-bait",
+    "id": "guardian-5-ka-bear-hunting-bait",
     "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
     "link": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
     "pubDate": "2026-10-24T11:00:32.000Z",
@@ -2071,7 +2109,7 @@
     "category": "Christa Pike"
   },
   {
-    "id": "aftonbladet-24-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-25-r%3Futm_medium%3Drss",
     "title": "Trots domarna – Think Pinks dolda sopberg ligger kvar",
     "link": "https://www.aftonbladet.se/nyheter/a/w3B08P/trots-domarna-think-pinks-dolda-sopberg-ligger-kvar?utm_medium=rss",
     "pubDate": "2026-10-24T11:00:18.000Z",
@@ -2147,7 +2185,7 @@
     "category": "Världen"
   },
   {
-    "id": "dw-4-en-all-1573-xml-mrss",
+    "id": "dw-5-en-all-1573-xml-mrss",
     "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
     "link": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T10:33:00.000Z",
@@ -2209,7 +2247,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-25-d%3Futm_medium%3Drss",
+    "id": "aftonbladet-26-d%3Futm_medium%3Drss",
     "title": "39-åring sköt mot lekplats – en död i misstänkt terrordåd",
     "link": "https://www.aftonbladet.se/nyheter/a/4O4zeq/39-aring-skot-mot-lekplats-en-dod-i-misstankt-terrordad?utm_medium=rss",
     "pubDate": "2026-10-24T10:12:36.000Z",
@@ -2234,7 +2272,7 @@
     "category": "Sverige"
   },
   {
-    "id": "dw-5-en-all-1573-xml-mrss",
+    "id": "dw-6-en-all-1573-xml-mrss",
     "title": "Germany news: Merz calls for unity at CSU party conference",
     "link": "https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T10:10:00.000Z",
@@ -2272,7 +2310,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-26-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-27-n%3Futm_medium%3Drss",
     "title": "Furstens nej väcker abortstrid i Liechtenstein",
     "link": "https://www.aftonbladet.se/nyheter/a/4O4WyE/furstens-nej-vacker-abortstrid-i-liechtenstein?utm_medium=rss",
     "pubDate": "2026-10-24T10:02:00.000Z",
@@ -2372,7 +2410,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-27-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-28-r%3Futm_medium%3Drss",
     "title": "Uppgifter: Mördad man var inte måltavla",
     "link": "https://www.aftonbladet.se/nyheter/a/vlBg25/bagarmossen-man-skots-ihjal-var-inte-maltavla-enligt-uppgifter?utm_medium=rss",
     "pubDate": "2026-10-24T09:52:10.000Z",
@@ -2410,7 +2448,7 @@
     "category": "Bahamas"
   },
   {
-    "id": "aftonbladet-28-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-29-n%3Futm_medium%3Drss",
     "title": "Vattenkanoner och tårgas i flera franska städer",
     "link": "https://www.aftonbladet.se/nyheter/a/X9kWLb/frankrike-targas-mot-demonstranter-i-lyon?utm_medium=rss",
     "pubDate": "2026-10-24T09:40:56.000Z",
@@ -2434,7 +2472,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-29-e%3Futm_medium%3Drss",
+    "id": "aftonbladet-30-e%3Futm_medium%3Drss",
     "title": "Krim mörklagt efter attacker – hundratals drönare",
     "link": "https://www.aftonbladet.se/nyheter/a/Og5WaE/krim-morklagt-efter-attacker-hundratals-dronare?utm_medium=rss",
     "pubDate": "2026-10-24T09:36:00.000Z",
@@ -2458,7 +2496,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-30-d%3Futm_medium%3Drss",
+    "id": "aftonbladet-31-d%3Futm_medium%3Drss",
     "title": "Dags att ställa om – och övergå till vintertid",
     "link": "https://www.aftonbladet.se/nyheter/a/GrEwyl/dags-att-stalla-om-och-overga-till-vintertid?utm_medium=rss",
     "pubDate": "2026-10-24T09:30:10.000Z",
@@ -2688,7 +2726,7 @@
     "category": "Folk music"
   },
   {
-    "id": "aftonbladet-31-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-32-n%3Futm_medium%3Drss",
     "title": "Ukraina har ”stabil” Starlink-uppkoppling igen",
     "link": "https://www.aftonbladet.se/nyheter/a/zlBM75/ukraina-har-stabil-starlink-uppkoppling-igen?utm_medium=rss",
     "pubDate": "2026-10-24T08:37:27.000Z",
@@ -2724,7 +2762,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-32-s%3Futm_medium%3Drss",
+    "id": "aftonbladet-33-s%3Futm_medium%3Drss",
     "title": "Köade i kaoset: ”Några svimmade”",
     "link": "https://tv.aftonbladet.se/video/409395/kaos-pa-mos-koear-foer-goodie-bag-kicks?utm_medium=rss",
     "pubDate": "2026-10-24T08:33:43.000Z",
@@ -2749,7 +2787,7 @@
     "category": "BBC"
   },
   {
-    "id": "aftonbladet-33-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-34-n%3Futm_medium%3Drss",
     "title": "Israelisk insats på Västbanken – familjer körs bort",
     "link": "https://www.aftonbladet.se/nyheter/a/9kJBoq/israel-inleder-utlovad-offensiv-pa-vastbanken?utm_medium=rss",
     "pubDate": "2026-10-24T08:24:12.000Z",
@@ -2761,7 +2799,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-34-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-35-n%3Futm_medium%3Drss",
     "title": "Ann Linde skriver om överfallet i ny bok: ”Pistol mellan brösten”",
     "link": "https://www.aftonbladet.se/nyheter/a/kvVA6j/ann-linde-skriver-om-overfallet-i-ny-bok-pistol-mellan-brosten?utm_medium=rss",
     "pubDate": "2026-10-24T08:22:52.000Z",
@@ -2785,7 +2823,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-35-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-36-t%3Futm_medium%3Drss",
     "title": "Kritisk mot taximiljardärens planer: ”Anmärkningsvärt”",
     "link": "https://www.aftonbladet.se/nyheter/a/eGgB1R/kritisk-mot-taximiljardarens-planer-anmarkningsvart?utm_medium=rss",
     "pubDate": "2026-10-24T08:14:37.000Z",
@@ -2821,7 +2859,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-36-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-37-t%3Futm_medium%3Drss",
     "title": "Ung svenska i protesternas Paris: Surrealistiskt",
     "link": "https://www.aftonbladet.se/nyheter/a/4O4Or9/ung-svenska-i-protesternas-paris-surrealistiskt?utm_medium=rss",
     "pubDate": "2026-10-24T08:06:35.000Z",
@@ -2857,7 +2895,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-37-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-38-a%3Futm_medium%3Drss",
     "title": "Putin tar emot Irans president i Moskva",
     "link": "https://www.aftonbladet.se/nyheter/a/eGn7KO/putin-tar-emot-irans-president-i-moskva?utm_medium=rss",
     "pubDate": "2026-10-24T07:42:23.000Z",
@@ -2894,7 +2932,7 @@
     "category": "Sverige"
   },
   {
-    "id": "dw-6-en-all-1573-xml-mrss",
+    "id": "dw-7-en-all-1573-xml-mrss",
     "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
     "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T07:29:00.000Z",
@@ -3119,7 +3157,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-7-en-all-1573-xml-mrss",
+    "id": "dw-8-en-all-1573-xml-mrss",
     "title": "France: Clashes break out as protests go nationwide",
     "link": "https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T06:34:00.000Z",
@@ -3383,7 +3421,7 @@
     "country": "SE"
   },
   {
-    "id": "dw-8-en-all-1573-xml-mrss",
+    "id": "dw-9-en-all-1573-xml-mrss",
     "title": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
     "link": "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T05:29:00.000Z",
@@ -3409,7 +3447,7 @@
     "category": "World"
   },
   {
-    "id": "dw-9-en-all-1573-xml-mrss",
+    "id": "dw-10-en-all-1573-xml-mrss",
     "title": "Taiwan: Typhoon Champi leaves 1 dead, over 500 injured",
     "link": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T05:26:00.000Z",
@@ -3622,7 +3660,7 @@
     "category": "Debatt"
   },
   {
-    "id": "dw-10-en-all-1573-xml-mrss",
+    "id": "dw-11-en-all-1573-xml-mrss",
     "title": "India news: Neha Bora refuses to sign peace bond, cites right to democratic dissent",
     "link": "https://www.dw.com/en/india-news-neha-bora-refuses-to-sign-peace-bond-cites-right-to-democratic-dissent/live-79748098?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T04:56:00.000Z",
@@ -4052,7 +4090,7 @@
     "category": "US midterm elections 2026"
   },
   {
-    "id": "dw-11-en-all-1573-xml-mrss",
+    "id": "dw-12-en-all-1573-xml-mrss",
     "title": "Hitler's Eagle's Nest retreat catches fire, police say",
     "link": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-24T02:40:00.000Z",
@@ -4539,7 +4577,7 @@
     "category": "US politics"
   },
   {
-    "id": "dw-12-en-all-1573-xml-mrss",
+    "id": "dw-13-en-all-1573-xml-mrss",
     "title": "France to deploy 70,000 police officers ahead of protests",
     "link": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T22:01:00.000Z",
@@ -4752,7 +4790,7 @@
     "category": "Presidential Election of "
   },
   {
-    "id": "dw-13-en-all-1573-xml-mrss",
+    "id": "dw-14-en-all-1573-xml-mrss",
     "title": "Ebola: Kenya announces second death",
     "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T21:09:00.000Z",
@@ -4791,7 +4829,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "dw-14-en-all-1573-xml-mrss",
+    "id": "dw-15-en-all-1573-xml-mrss",
     "title": "Trump eases Canada tariffs ahead of US midterms",
     "link": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T20:49:00.000Z",
@@ -5135,7 +5173,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "dw-15-en-all-1573-xml-mrss",
+    "id": "dw-16-en-all-1573-xml-mrss",
     "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
     "link": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T19:08:00.000Z",
@@ -5262,7 +5300,7 @@
     "category": "Jeffrey Epstein"
   },
   {
-    "id": "dw-16-en-all-1573-xml-mrss",
+    "id": "dw-17-en-all-1573-xml-mrss",
     "title": "Jordan: Karak church shooting leaves 7 dead, dozens injured",
     "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T18:33:00.000Z",
@@ -5402,7 +5440,7 @@
     "category": "United States Politics an"
   },
   {
-    "id": "dw-17-en-all-1573-xml-mrss",
+    "id": "dw-18-en-all-1573-xml-mrss",
     "title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
     "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T18:17:00.000Z",
@@ -6483,7 +6521,7 @@
     "category": "News"
   },
   {
-    "id": "dw-18-en-all-1573-xml-mrss",
+    "id": "dw-19-en-all-1573-xml-mrss",
     "title": "Afghan women could lose one of their last paths to a higher education",
     "link": "https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-all-1573-xml-mrss",
     "pubDate": "2026-10-23T14:54:00.000Z",
@@ -12503,43 +12541,5 @@
     "textColor": "#ffffff",
     "country": "SE",
     "category": "Sport"
-  },
-  {
-    "id": "nyt-51-ump-ukraine-war.html",
-    "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-    "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-    "pubDate": "2026-10-22T15:22:53.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Russian Invasion of Ukrai"
-  },
-  {
-    "id": "dn-110-gstips-2026-10-22%2F",
-    "title": "Nicholas Wennö: Här är veckans bästa strömningstips",
-    "link": "https://www.dn.se/kultur/nicholas-wenno-har-ar-veckans-basta-stromningstips-2026-10-22/",
-    "pubDate": "2026-10-22T15:16:40.000Z",
-    "sourceId": "dn",
-    "sourceName": "Dagens Nyheter",
-    "sourceShort": "DN",
-    "badgeColor": "#0a3875",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "guardian-12-ted-money-laundering",
-    "title": "Virginia Democrat indicted on federal drug and money-laundering charges",
-    "link": "https://www.theguardian.com/us-news/2026/oct/22/l-louise-lucas-virginia-indicted-money-laundering",
-    "pubDate": "2026-10-22T15:15:58.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Trump administration"
   }
 ]

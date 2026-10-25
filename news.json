@@ -1,5 +1,44 @@
 [
   {
+    "id": "nyt-11-radis-marseille.html",
+    "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
+    "link": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
+    "pubDate": "2026-10-25T02:49:00.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Demonstrations, Protests "
+  },
+  {
+    "id": "nyt-36-ro-minas-gerais.html",
+    "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
+    "link": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
+    "pubDate": "2026-10-25T02:46:38.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Politics and Government"
+  },
+  {
+    "id": "nyt-5-dterms-campaign.html",
+    "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+    "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
+    "pubDate": "2026-10-25T02:39:57.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT",
+    "category": "Midterm Elections (2026)"
+  },
+  {
     "id": "dw-0-en-all-1573-xml-mrss",
     "title": "New York Archdiocese to pay $800 million to sex abuse survivors",
     "link": "https://www.dw.com/en/new-york-archdiocese-to-pay-800-million-to-sex-abuse-survivors/a-79753347?maca=en-rss-en-all-1573-xml-mrss",
@@ -37,19 +76,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "Myanmar"
-  },
-  {
-    "id": "nyt-5-dterms-campaign.html",
-    "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
-    "link": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
-    "pubDate": "2026-10-25T01:56:18.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Midterm Elections (2026)"
   },
   {
     "id": "guardian-15--four-injured-ntwnfb",
@@ -93,7 +119,7 @@
     "id": "nyt-12-m-jong-un-china.html",
     "title": "Kim Jong-un Makes First Visit to China in Over a Year",
     "link": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
-    "pubDate": "2026-10-25T01:14:38.000Z",
+    "pubDate": "2026-10-25T01:14:39.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
@@ -1001,7 +1027,7 @@
     "id": "nyt-10-hink-its-enough.html",
     "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
     "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
-    "pubDate": "2026-10-24T17:45:16.000Z",
+    "pubDate": "2026-10-24T17:45:17.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
@@ -1439,7 +1465,7 @@
     "id": "nyt-5-ebron-west-bank.html",
     "title": "Israel Cracks Down in West Bank City After Deadly Attack",
     "link": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
-    "pubDate": "2026-10-24T14:52:05.000Z",
+    "pubDate": "2026-10-24T14:52:06.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
@@ -2649,17 +2675,17 @@
     "country": "SE"
   },
   {
-    "id": "nyt-11-radis-marseille.html",
-    "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
-    "link": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
-    "pubDate": "2026-10-24T09:04:28.000Z",
+    "id": "nyt-7-2Fukraine-trump.html",
+    "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
+    "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
+    "pubDate": "2026-10-24T09:03:21.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
     "badgeColor": "#121212",
     "textColor": "#ffffff",
     "country": "INT",
-    "category": "Demonstrations, Protests "
+    "category": "Russian Invasion of Ukrai"
   },
   {
     "id": "nyt-5--ohio-amy-acton.html",
@@ -2673,19 +2699,6 @@
     "textColor": "#ffffff",
     "country": "INT",
     "category": "Ohio"
-  },
-  {
-    "id": "nyt-7-2Fukraine-trump.html",
-    "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
-    "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
-    "pubDate": "2026-10-24T09:03:20.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Russian Invasion of Ukrai"
   },
   {
     "id": "nyt-18-ction-president.html",
@@ -7967,19 +7980,6 @@
     "badgeColor": "#0a3875",
     "textColor": "#ffffff",
     "country": "SE"
-  },
-  {
-    "id": "nyt-36-ro-minas-gerais.html",
-    "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
-    "link": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
-    "pubDate": "2026-10-23T11:38:12.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Politics and Government"
   },
   {
     "id": "dn-92-tra-problematiskt%2F",

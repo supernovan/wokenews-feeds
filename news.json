@@ -1,9 +1,47 @@
 [
   {
+    "id": "guardian-15-ate-estimates-ntwnfb",
+    "title": "Australia politics live: Haines’s first words after waking were of concern for staff and bystanders; restrained start to question time",
+    "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+    "pubDate": "2026-10-26T03:27:52.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Australian politics"
+  },
+  {
+    "id": "nyt-0-ld%2Fbrazil-election",
+    "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
+    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+    "pubDate": "2026-10-26T03:27:00.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "guardian-16-ayed-to-court-ntwnfb",
+    "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+    "pubDate": "2026-10-26T03:26:57.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "New South Wales"
+  },
+  {
     "id": "guardian-5-lavio-bolsonaro-lula",
     "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
     "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-    "pubDate": "2026-10-26T02:59:14.000Z",
+    "pubDate": "2026-10-26T03:22:17.000Z",
     "sourceId": "guardian",
     "sourceName": "The Guardian",
     "sourceShort": "GUARDIAN",
@@ -11,6 +49,19 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "Brazil"
+  },
+  {
+    "id": "guardian-22-thunder-clippers-nba",
+    "title": "‘We’re not doing great’: Gilgeous-Alexander in tears after Williams suffers gruesome leg injury",
+    "link": "https://www.theguardian.com/sport/2026/oct/25/jalen-williams-injury-thunder-clippers-nba",
+    "pubDate": "2026-10-26T03:06:12.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Oklahoma City Thunder"
   },
   {
     "id": "dw-0-en-all-1573-xml-mrss",
@@ -26,7 +77,7 @@
     "category": "News"
   },
   {
-    "id": "guardian-15-et-on-car-rat-ntwnfb",
+    "id": "guardian-17-et-on-car-rat-ntwnfb",
     "title": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
     "link": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
     "pubDate": "2026-10-26T02:38:37.000Z",
@@ -51,19 +102,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-0-ld%2Fbrazil-election",
-    "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
-    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
-    "pubDate": "2026-10-26T02:35:37.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
-    "id": "guardian-16-ner-australia-ntwnfb",
+    "id": "guardian-18-ner-australia-ntwnfb",
     "title": "There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned",
     "link": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
     "pubDate": "2026-10-26T02:34:11.000Z",
@@ -74,19 +113,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "Prisons"
-  },
-  {
-    "id": "guardian-17-ate-estimates-ntwnfb",
-    "title": "Australia politics live: Haines’s first words after waking were of concern for staff and bystanders; parliament hears emotional tributes to MP",
-    "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-    "pubDate": "2026-10-26T02:26:46.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Australian politics"
   },
   {
     "id": "nyt-3-el-sayed-rogers.html",
@@ -114,7 +140,7 @@
     "country": "INT"
   },
   {
-    "id": "guardian-18-iament-pauses-ntwnfb",
+    "id": "guardian-19-iament-pauses-ntwnfb",
     "title": "Helen Haines’s first words after alleged attack were about safety of staff and gratitude to bystanders, MP reveals",
     "link": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
     "pubDate": "2026-10-26T02:05:23.000Z",
@@ -433,7 +459,7 @@
   },
   {
     "id": "aftonbladet-3-n%3Futm_medium%3Drss",
-    "title": "Lula omvald i Brasiliens presidentval",
+    "title": "Lula omvald i Brasilien – ifrågasätts av Bolsonaro",
     "link": "https://www.aftonbladet.se/nyheter/a/OgK4Gl/rostrakning-aterstartar-i-brasilien?utm_medium=rss",
     "pubDate": "2026-10-25T23:00:42.000Z",
     "sourceId": "aftonbladet",
@@ -732,7 +758,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-22-nday-football-scores",
+    "id": "guardian-23-nday-football-scores",
     "title": "NFL roundup: Falcons spoil Niners’ undefeated start; Steelers win in Paris",
     "link": "https://www.theguardian.com/sport/2026/oct/25/nfl-roundup-sunday-football-scores",
     "pubDate": "2026-10-25T20:48:11.000Z",
@@ -835,7 +861,7 @@
     "category": "Alaska"
   },
   {
-    "id": "guardian-23-ngs-v-colts-and-more",
+    "id": "guardian-24-ngs-v-colts-and-more",
     "title": "NFL week seven: Falcons stun 49ers, Vikings stay perfect and Bengals beat Ravens – as it happened",
     "link": "https://www.theguardian.com/sport/live/2026/oct/25/nfl-week-seven-jets-v-dolphins-vikings-v-colts-and-more",
     "pubDate": "2026-10-25T20:22:41.000Z",
@@ -949,7 +975,7 @@
     "category": "United States Internation"
   },
   {
-    "id": "guardian-24-am-sunday-25-october",
+    "id": "guardian-25-am-sunday-25-october",
     "title": "NFL today: How to watch Chiefs v Seahawks, TV channels & live stream Sunday 25 October",
     "link": "https://www.theguardian.com/sport/2026/oct/25/nfl-today-how-to-watch-chiefs-v-seahawks-tv-channels-live-stream-sunday-25-october",
     "pubDate": "2026-10-25T19:45:10.000Z",
@@ -12520,30 +12546,5 @@
     "textColor": "#ffffff",
     "country": "SE",
     "category": "Nyheter"
-  },
-  {
-    "id": "guardian-8-rump-afd-maga-allies",
-    "title": "Leaked trove reveals extent of far-right AfD’s efforts to court Trump and Maga allies",
-    "link": "https://www.theguardian.com/us-news/2026/oct/23/trump-afd-maga-allies",
-    "pubDate": "2026-10-23T11:07:00.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "US politics"
-  },
-  {
-    "id": "aftonbladet-36-g%3Futm_medium%3Drss",
-    "title": "Ali (V) kontrollerades genom ”en enkel googling”",
-    "link": "https://www.aftonbladet.se/nyheter/a/58KKob/ali-v-kontrollerades-genom-en-enkel-googling?utm_medium=rss",
-    "pubDate": "2026-10-23T11:06:35.000Z",
-    "sourceId": "aftonbladet",
-    "sourceName": "Aftonbladet",
-    "sourceShort": "AFTONBLADET",
-    "badgeColor": "#ffe500",
-    "textColor": "#121212",
-    "country": "SE"
   }
 ]

@@ -1,5 +1,120 @@
 [
   {
+    "id": "guardian-15-ate-estimates-ntwnfb",
+    "title": "Australia politics live: ‘Helen Haines is a fighter’: parliament hears emotional tributes to Indi MP; NSW to begin gun buyback",
+    "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+    "pubDate": "2026-10-26T00:29:20.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Australian politics"
+  },
+  {
+    "id": "nyt-0-ld%2Fbrazil-election",
+    "title": "Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son",
+    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+    "pubDate": "2026-10-26T00:23:45.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "guardian-5-lavio-bolsonaro-lula",
+    "title": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
+    "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+    "pubDate": "2026-10-26T00:22:09.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Brazil"
+  },
+  {
+    "id": "expressen-8-valet-i-brasilien%2F",
+    "title": "Valdramatik i Brasilien – röstningstiden förlängs",
+    "link": "https://www.expressen.se/nyheter/varlden/lula-da-silva-vill-forlanga-valet-i-brasilien/",
+    "pubDate": "2026-10-26T00:20:56.000Z",
+    "sourceId": "expressen",
+    "sourceName": "Expressen",
+    "sourceShort": "EXPRESSEN",
+    "badgeColor": "#e30613",
+    "textColor": "#ffffff",
+    "country": "SE",
+    "category": "Världen"
+  },
+  {
+    "id": "nyt-21-n%2Fheres-the-latest",
+    "title": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
+    "pubDate": "2026-10-26T00:20:25.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "dw-0-en-all-1573-xml-mrss",
+    "title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+    "link": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
+    "pubDate": "2026-10-26T00:20:00.000Z",
+    "sourceId": "dw",
+    "sourceName": "Deutsche Welle",
+    "sourceShort": "DW",
+    "badgeColor": "#002f6c",
+    "textColor": "#ffffff",
+    "country": "DE",
+    "category": "News"
+  },
+  {
+    "id": "guardian-6-wins-brazil-election",
+    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+    "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+    "pubDate": "2026-10-26T00:19:05.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Luiz Inácio Lula da Silva"
+  },
+  {
+    "id": "guardian-7-second-round-results",
+    "title": "Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro",
+    "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+    "pubDate": "2026-10-26T00:15:36.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Brazil"
+  },
+  {
+    "id": "guardian-16-et-on-car-rat-ntwnfb",
+    "title": "Bullet left on Victorian Labor minister’s car with ‘RAT’ etched on to it",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
+    "pubDate": "2026-10-26T00:11:11.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Victorian politics"
+  },
+  {
     "id": "expressen-0-bad-trump-om-stod%2F",
     "title": "Uppgifter: Netanyahu bad Trump om stöd",
     "link": "https://www.expressen.se/nyheter/varlden/uppgifter-netanyahu-bad-trump-om-stod/",
@@ -38,45 +153,6 @@
     "country": "SE"
   },
   {
-    "id": "expressen-8-valet-i-brasilien%2F",
-    "title": "Valdramatik i Brasilien – röstningstiden förlängs",
-    "link": "https://www.expressen.se/nyheter/varlden/lula-da-silva-vill-forlanga-valet-i-brasilien/",
-    "pubDate": "2026-10-25T23:56:56.000Z",
-    "sourceId": "expressen",
-    "sourceName": "Expressen",
-    "sourceShort": "EXPRESSEN",
-    "badgeColor": "#e30613",
-    "textColor": "#ffffff",
-    "country": "SE",
-    "category": "Världen"
-  },
-  {
-    "id": "guardian-15-ate-estimates-ntwnfb",
-    "title": "Australia politics live: Albanese leads emotional tributes to Haines in parliament; access to contraception and UTI treatment to become cheaper and easier",
-    "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-    "pubDate": "2026-10-25T23:53:49.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Australian politics"
-  },
-  {
-    "id": "guardian-5-lavio-bolsonaro-lula",
-    "title": "Brazil runoff live updates: ballot count resumes after two-hour voting extension",
-    "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-    "pubDate": "2026-10-25T23:51:51.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Brazil"
-  },
-  {
     "id": "dw-0-en-all-1573-xml-mrss",
     "title": "Brazil elections: Votes being tallied after polls close",
     "link": "https://www.dw.com/en/brazil-elections-votes-being-tallied-after-polls-close/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
@@ -101,18 +177,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "Serbia"
-  },
-  {
-    "id": "nyt-0-ld%2Fbrazil-election",
-    "title": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
-    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
-    "pubDate": "2026-10-25T23:41:52.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT"
   },
   {
     "id": "nyt-13-power-as-a-kingmaker",
@@ -178,20 +242,8 @@
     "category": "Vucic, Aleksandar"
   },
   {
-    "id": "nyt-21-n%2Fheres-the-latest",
-    "title": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
-    "pubDate": "2026-10-25T23:03:37.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
     "id": "aftonbladet-0-n%3Futm_medium%3Drss",
-    "title": "Rösträkning i gång: Jämnt mellan Lula och Bolsonaro",
+    "title": "Lula omvald i Brasiliens presidentval",
     "link": "https://www.aftonbladet.se/nyheter/a/OgK4Gl/rostrakning-aterstartar-i-brasilien?utm_medium=rss",
     "pubDate": "2026-10-25T23:00:42.000Z",
     "sourceId": "aftonbladet",
@@ -203,7 +255,7 @@
   },
   {
     "id": "aftonbladet-1-n%3Futm_medium%3Drss",
-    "title": "Rysaren i natt – Lula mot seger",
+    "title": "Slår fast i natt – Lula vinner valet",
     "link": "https://www.aftonbladet.se/nyheter/a/4OaMyo/rysaren-i-natt-flavio-knappar-in?utm_medium=rss",
     "pubDate": "2026-10-25T22:55:41.000Z",
     "sourceId": "aftonbladet",
@@ -325,19 +377,6 @@
     "badgeColor": "#121212",
     "textColor": "#ffffff",
     "country": "INT"
-  },
-  {
-    "id": "guardian-6-second-round-results",
-    "title": "Brazil election 2026: Live second round results",
-    "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
-    "pubDate": "2026-10-25T22:11:16.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Brazil"
   },
   {
     "id": "expressen-2-ederlag-i-serbien%2F",
@@ -707,7 +746,7 @@
     "category": "Labour"
   },
   {
-    "id": "guardian-7-announces-her-return",
+    "id": "guardian-8-announces-her-return",
     "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
     "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
     "pubDate": "2026-10-25T19:56:56.000Z",
@@ -1321,7 +1360,7 @@
   },
   {
     "id": "dn-17-e-val-i-brasilien%2F",
-    "title": "Rysare i Brasilien – Lula da Silva i ledning",
+    "title": "Lula da Silva fortsätter som president i Brasilien",
     "link": "https://www.dn.se/varlden/lula-och-bolsonaro-gor-upp-i-avgorande-val-i-brasilien/",
     "pubDate": "2026-10-25T16:52:16.000Z",
     "sourceId": "dn",
@@ -1642,7 +1681,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-8-residential-election",
+    "id": "guardian-9-residential-election",
     "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
     "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
     "pubDate": "2026-10-25T14:41:17.000Z",
@@ -1769,7 +1808,7 @@
     "category": "News"
   },
   {
-    "id": "guardian-16--260m-discrepancy-ai",
+    "id": "guardian-17--260m-discrepancy-ai",
     "title": "‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report",
     "link": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
     "pubDate": "2026-10-25T14:00:06.000Z",
@@ -1782,7 +1821,7 @@
     "category": "Western Australian politi"
   },
   {
-    "id": "guardian-17-centives-for-doctors",
+    "id": "guardian-18-centives-for-doctors",
     "title": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
     "link": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
     "pubDate": "2026-10-25T14:00:06.000Z",
@@ -3852,7 +3891,7 @@
     "category": "News"
   },
   {
-    "id": "guardian-18--for-australias-east",
+    "id": "guardian-19--for-australias-east",
     "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
     "link": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east",
     "pubDate": "2026-10-25T05:30:30.000Z",
@@ -12508,41 +12547,5 @@
     "textColor": "#ffffff",
     "country": "SE",
     "category": "Nyheter"
-  },
-  {
-    "id": "etc-21-t%3Futm_source%3Drss",
-    "title": "Hyllar Hitler och bygger vapenarsenal – åklagaren: ”Historiskt intresse för andra världskriget”",
-    "link": "https://www.etc.se/story/hyllar-hitler-och-bygger-vapenarsenal-aaklagaren-historiskt-intresse-foer-andra-vaerldskriget?utm_source=rss",
-    "pubDate": "2026-10-23T10:50:00.000Z",
-    "sourceId": "etc",
-    "sourceName": "Dagens ETC",
-    "sourceShort": "ETC",
-    "badgeColor": "#e50020",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "svt-60-alla-sjukdomsorsaken",
-    "title": "Expertgranskning: SSAB kan inte fastställa sjukdomsorsaken",
-    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/expertgranskning-ssab-kan-inte-faststalla-sjukdomsorsaken",
-    "pubDate": "2026-10-23T10:45:42.000Z",
-    "sourceId": "svt",
-    "sourceName": "SVT Nyheter",
-    "sourceShort": "SVT",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "svt-61-utanfor-paris-en-dod",
-    "title": "Skjutning utanför Paris: ”Rasistiskt terrordåd”",
-    "link": "https://www.svt.se/nyheter/utrikes/skjutning-utanfor-paris-en-dod",
-    "pubDate": "2026-10-23T10:45:15.000Z",
-    "sourceId": "svt",
-    "sourceName": "SVT Nyheter",
-    "sourceShort": "SVT",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "SE"
   }
 ]

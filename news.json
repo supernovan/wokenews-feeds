@@ -1,9 +1,47 @@
 [
   {
+    "id": "guardian-15-ate-estimates-ntwnfb",
+    "title": "Australia politics live: Haines’s first words after waking were of concern for staff and bystanders; parliament hears emotional tributes to MP",
+    "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+    "pubDate": "2026-10-26T02:26:46.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Australian politics"
+  },
+  {
+    "id": "nyt-0-ld%2Fbrazil-election",
+    "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
+    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+    "pubDate": "2026-10-26T02:26:39.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "dw-0-en-all-1573-xml-mrss",
+    "title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+    "link": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
+    "pubDate": "2026-10-26T02:22:00.000Z",
+    "sourceId": "dw",
+    "sourceName": "Deutsche Welle",
+    "sourceShort": "DW",
+    "badgeColor": "#002f6c",
+    "textColor": "#ffffff",
+    "country": "DE",
+    "category": "News"
+  },
+  {
     "id": "guardian-5-lavio-bolsonaro-lula",
-    "title": "Brazil runoff live updates: Flávio Bolsonaro calls for election results to be ‘annulled’ after historic loss to Lula",
+    "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
     "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-    "pubDate": "2026-10-26T01:59:13.000Z",
+    "pubDate": "2026-10-26T02:21:03.000Z",
     "sourceId": "guardian",
     "sourceName": "The Guardian",
     "sourceShort": "GUARDIAN",
@@ -13,10 +51,10 @@
     "category": "Brazil"
   },
   {
-    "id": "nyt-0-ld%2Fbrazil-election",
-    "title": "Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son",
-    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
-    "pubDate": "2026-10-26T01:55:56.000Z",
+    "id": "nyt-21-n%2Fheres-the-latest",
+    "title": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
+    "pubDate": "2026-10-26T02:06:21.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
@@ -25,16 +63,30 @@
     "country": "INT"
   },
   {
-    "id": "nyt-21-n%2Fheres-the-latest",
-    "title": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
-    "pubDate": "2026-10-26T01:55:54.000Z",
+    "id": "guardian-16-iament-pauses-ntwnfb",
+    "title": "Helen Haines’s first words after alleged attack were about safety of staff and gratitude to bystanders, MP reveals",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
+    "pubDate": "2026-10-26T02:05:23.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Helen Haines"
+  },
+  {
+    "id": "nyt-2-election-defeat.html",
+    "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+    "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+    "pubDate": "2026-10-26T01:57:24.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
     "badgeColor": "#121212",
     "textColor": "#ffffff",
-    "country": "INT"
+    "country": "INT",
+    "category": "Vucic, Aleksandar"
   },
   {
     "id": "aftonbladet-0-t%3Futm_medium%3Drss",
@@ -60,32 +112,6 @@
     "textColor": "#ffffff",
     "country": "SE",
     "category": "Kungligt"
-  },
-  {
-    "id": "guardian-15-ate-estimates-ntwnfb",
-    "title": "Australia politics live: Haines’s first words after waking were of concern for staff and bystanders; parliament hears emotional tributes to MP",
-    "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-    "pubDate": "2026-10-26T01:44:38.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Australian politics"
-  },
-  {
-    "id": "dw-0-en-all-1573-xml-mrss",
-    "title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
-    "link": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
-    "pubDate": "2026-10-26T01:22:00.000Z",
-    "sourceId": "dw",
-    "sourceName": "Deutsche Welle",
-    "sourceShort": "DW",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "DE",
-    "category": "News"
   },
   {
     "id": "aftonbladet-1-r%3Futm_medium%3Drss",
@@ -125,7 +151,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-16-aged-care-assessment",
+    "id": "guardian-17-aged-care-assessment",
     "title": "Unreasonable and unfair: damning investigation criticises Labor’s algorithm-based tool for aged care",
     "link": "https://www.theguardian.com/australia-news/2026/oct/26/damning-investigation-labor-algorithm-tool-aged-care-assessment",
     "pubDate": "2026-10-26T01:00:58.000Z",
@@ -149,19 +175,6 @@
     "textColor": "#ffe500",
     "country": "INT",
     "category": "China"
-  },
-  {
-    "id": "guardian-17-iament-pauses-ntwnfb",
-    "title": "‘Like a stone in our hearts’: PM leads Helen Haines tributes as parliament pauses to praise ‘fighter’",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
-    "pubDate": "2026-10-26T00:48:07.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Helen Haines"
   },
   {
     "id": "expressen-1--firar-pa-gatorna%2F",
@@ -379,19 +392,6 @@
     "badgeColor": "#121212",
     "textColor": "#ffffff",
     "country": "INT"
-  },
-  {
-    "id": "nyt-2-election-defeat.html",
-    "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-    "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
-    "pubDate": "2026-10-25T23:10:41.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "Vucic, Aleksandar"
   },
   {
     "id": "aftonbladet-2-n%3Futm_medium%3Drss",

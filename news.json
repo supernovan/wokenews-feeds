@@ -1,5 +1,17 @@
 [
   {
+    "id": "aftonbladet-0-r%3Futm_medium%3Drss",
+    "title": "Vänstervåg i USA: ”Söker nya typer av politiker”",
+    "link": "https://www.aftonbladet.se/nyheter/a/Aba435/vanstervag-i-usa-soker-nya-typer-av-politiker?utm_medium=rss",
+    "pubDate": "2026-10-26T10:26:09.000Z",
+    "sourceId": "aftonbladet",
+    "sourceName": "Aftonbladet",
+    "sourceShort": "AFTONBLADET",
+    "badgeColor": "#ffe500",
+    "textColor": "#121212",
+    "country": "SE"
+  },
+  {
     "id": "dn-0-og-17-arig-flicka%2F",
     "title": "Fängelse för familjehemspappa som våldtog 17-årig flicka",
     "link": "https://www.dn.se/sverige/fangelse-for-familjehemspappa-som-valdtog-17-arig-flicka/",
@@ -12,7 +24,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-0-e%3Futm_medium%3Drss",
+    "id": "aftonbladet-1-e%3Futm_medium%3Drss",
     "title": "Misshandlade sina barn – döms till fängelse",
     "link": "https://www.aftonbladet.se/nyheter/a/WgP9qg/misshandlade-sina-barn-doms-till-fangelse?utm_medium=rss",
     "pubDate": "2026-10-26T10:25:22.000Z",
@@ -24,7 +36,45 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-1-l%3Futm_medium%3Drss",
+    "id": "guardian-20--latest-news-updates",
+    "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
+    "pubDate": "2026-10-26T10:25:18.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Serbia"
+  },
+  {
+    "id": "guardian-35-england-november-bma",
+    "title": "NHS consultants to go on two-day strike in England in November, says BMA",
+    "link": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
+    "pubDate": "2026-10-26T10:24:51.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "NHS"
+  },
+  {
+    "id": "aftonbladet-2-g%3Futm_medium%3Drss",
+    "title": "”Ingen majoritet för mittenregering”",
+    "link": "https://tv.aftonbladet.se/video/409488/ingen-majoritet-foer-mittenregering?utm_medium=rss",
+    "pubDate": "2026-10-26T10:23:24.000Z",
+    "sourceId": "aftonbladet",
+    "sourceName": "Aftonbladet",
+    "sourceShort": "AFTONBLADET",
+    "badgeColor": "#ffe500",
+    "textColor": "#121212",
+    "country": "SE"
+  },
+  {
+    "id": "aftonbladet-3-l%3Futm_medium%3Drss",
     "title": "USA: Dubbelt så många mässlingsfall som i fjol",
     "link": "https://www.aftonbladet.se/nyheter/a/X9mx8W/usa-dubbelt-sa-manga-masslingsfall-som-i-fjol?utm_medium=rss",
     "pubDate": "2026-10-26T10:22:33.000Z",
@@ -39,7 +89,7 @@
     "id": "guardian-5-lavio-bolsonaro-lula",
     "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
     "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-    "pubDate": "2026-10-26T10:13:05.000Z",
+    "pubDate": "2026-10-26T10:15:11.000Z",
     "sourceId": "guardian",
     "sourceName": "The Guardian",
     "sourceShort": "GUARDIAN",
@@ -75,7 +125,7 @@
     "category": "Politik"
   },
   {
-    "id": "guardian-35--latest-news-updates",
+    "id": "guardian-36--latest-news-updates",
     "title": "I would like to rejoin EU, says Burnham, but ‘British public are the bosses’ – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
     "pubDate": "2026-10-26T10:10:01.000Z",
@@ -125,7 +175,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-2-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-4-a%3Futm_medium%3Drss",
     "title": "Fängelse för man som våldtog placerad flicka",
     "link": "https://www.aftonbladet.se/nyheter/a/PgQkWe/man-doms-for-valdtakter-pa-placerad-flicka?utm_medium=rss",
     "pubDate": "2026-10-26T10:07:44.000Z",
@@ -137,7 +187,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-3-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-5-n%3Futm_medium%3Drss",
     "title": "Nova, 17, spelade in familjehemspappan – nu döms han till fängelse",
     "link": "https://www.aftonbladet.se/nyheter/a/Gr7o6Q/nova-spelade-in-familjehemspappan-nu-kommer-domen?utm_medium=rss",
     "pubDate": "2026-10-26T10:04:15.000Z",
@@ -149,7 +199,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-4-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-6-n%3Futm_medium%3Drss",
     "title": "Tjecker i protest vill bevara tv-avgiften",
     "link": "https://www.aftonbladet.se/nyheter/a/eGpbb4/tjecker-i-protest-vill-bevara-tv-avgiften?utm_medium=rss",
     "pubDate": "2026-10-26T10:04:04.000Z",
@@ -186,7 +236,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-3-hed-russia-iran.html",
+    "id": "nyt-4-hed-russia-iran.html",
     "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
     "link": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
     "pubDate": "2026-10-26T10:00:51.000Z",
@@ -276,7 +326,7 @@
     "category": "Sudan"
   },
   {
-    "id": "aftonbladet-5-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-7-t%3Futm_medium%3Drss",
     "title": "Efter garagebrand: Barn inte längre livshotande skadat",
     "link": "https://www.aftonbladet.se/nyheter/a/2VaLQl/efter-garagebrand-barn-inte-langre-livshotande-skadat?utm_medium=rss",
     "pubDate": "2026-10-26T09:58:46.000Z",
@@ -339,7 +389,7 @@
     "category": "China"
   },
   {
-    "id": "aftonbladet-6-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-8-n%3Futm_medium%3Drss",
     "title": "Ytterligare misstänkt i Älvsjöutredningen",
     "link": "https://www.aftonbladet.se/nyheter/a/lKopoG/ytterligare-misstankt-i-alvsjoutredningen?utm_medium=rss",
     "pubDate": "2026-10-26T09:45:14.000Z",
@@ -364,7 +414,7 @@
     "category": "Världen"
   },
   {
-    "id": "guardian-36-our-mps-tell-burnham",
+    "id": "guardian-37-our-mps-tell-burnham",
     "title": "Drive reindustrialisation from No 10 North or risk failure, MPs tell Burnham",
     "link": "https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham",
     "pubDate": "2026-10-26T09:42:48.000Z",
@@ -389,7 +439,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-20--enough-andy-burnham",
+    "id": "guardian-21--enough-andy-burnham",
     "title": "Brexit deal is not good enough for British public, says Andy Burnham",
     "link": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
     "pubDate": "2026-10-26T09:30:10.000Z",
@@ -402,7 +452,7 @@
     "category": "Brexit"
   },
   {
-    "id": "aftonbladet-7-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-9-n%3Futm_medium%3Drss",
     "title": "Trafikverket rustar järnvägen inför vintern",
     "link": "https://www.aftonbladet.se/nyheter/a/w3o7j1/trafikverket-rustar-jarnvagen-infor-vintern?utm_medium=rss",
     "pubDate": "2026-10-26T09:29:29.000Z",
@@ -443,7 +493,7 @@
     "id": "expressen-6-overvakningsbehov%2F",
     "title": "Utlåtandet om Liam Nebel: ”Övervakningsbehov”",
     "link": "https://www.expressen.se/nyheter/sverige/utlatandet-om-liam-nebel-overvakningsbehov/",
-    "pubDate": "2026-10-26T09:23:45.000Z",
+    "pubDate": "2026-10-26T09:23:44.000Z",
     "sourceId": "expressen",
     "sourceName": "Expressen",
     "sourceShort": "EXPRESSEN",
@@ -463,19 +513,6 @@
     "badgeColor": "#d62027",
     "textColor": "#ffffff",
     "country": "INT"
-  },
-  {
-    "id": "guardian-21--latest-news-updates",
-    "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
-    "pubDate": "2026-10-26T09:21:46.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Serbia"
   },
   {
     "id": "etc-1-t%3Futm_source%3Drss",
@@ -514,7 +551,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-8-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-10-n%3Futm_medium%3Drss",
     "title": "Trumps lista – här avslöjas strategin",
     "link": "https://www.aftonbladet.se/nyheter/a/0Ba52E/trumps-lista-har-avslojas-strategin?utm_medium=rss",
     "pubDate": "2026-10-26T09:08:57.000Z",
@@ -552,7 +589,7 @@
     "category": "Ekonomi"
   },
   {
-    "id": "aftonbladet-9-b%3Futm_medium%3Drss",
+    "id": "aftonbladet-11-b%3Futm_medium%3Drss",
     "title": "Thand Ringqvist: ”Ingen majoritet för en mittenregering”",
     "link": "https://www.aftonbladet.se/nyheter/a/31aW7P/thand-ringqvist-mycket-jobb?utm_medium=rss",
     "pubDate": "2026-10-26T09:04:50.000Z",
@@ -668,7 +705,7 @@
     "category": "Neanderthal Man"
   },
   {
-    "id": "guardian-37-compensation-strikes",
+    "id": "guardian-38-compensation-strikes",
     "title": "Goldsmiths fine art students call for compensation over record tutor strike",
     "link": "https://www.theguardian.com/education/2026/oct/26/goldsmiths-university-fine-arts-students-call-for-compensation-strikes",
     "pubDate": "2026-10-26T09:00:28.000Z",
@@ -754,7 +791,7 @@
     "country": "INT"
   },
   {
-    "id": "aftonbladet-10-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-12-n%3Futm_medium%3Drss",
     "title": "C-ledaren: Ingen majoritet för mittenregering",
     "link": "https://www.aftonbladet.se/nyheter/a/KrJOqX/c-ledaren-hos-talmannen?utm_medium=rss",
     "pubDate": "2026-10-26T08:59:08.000Z",
@@ -790,7 +827,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-11-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-13-a%3Futm_medium%3Drss",
     "title": "Flera dödade i nytt anfall mot Gaza",
     "link": "https://www.aftonbladet.se/nyheter/a/1oa1xW/flera-dodade-i-nytt-anfall-mot-gaza?utm_medium=rss",
     "pubDate": "2026-10-26T08:49:31.000Z",
@@ -840,7 +877,7 @@
     "category": "France"
   },
   {
-    "id": "aftonbladet-12-s%3Futm_medium%3Drss",
+    "id": "aftonbladet-14-s%3Futm_medium%3Drss",
     "title": "Fagerstadådet: Psykisk ohälsa bör utredas",
     "link": "https://www.aftonbladet.se/nyheter/a/gd2gL0/fagerstadadet-psykisk-halsa-bor-utredas?utm_medium=rss",
     "pubDate": "2026-10-26T08:34:43.000Z",
@@ -889,7 +926,7 @@
     "category": "Aaron Rodgers"
   },
   {
-    "id": "aftonbladet-13-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-15-r%3Futm_medium%3Drss",
     "title": "Frankrike: Hundratals skadade vid protester",
     "link": "https://www.aftonbladet.se/nyheter/a/w3o7A1/frankrike-hundratals-skadade-vid-protester?utm_medium=rss",
     "pubDate": "2026-10-26T08:18:00.000Z",
@@ -939,7 +976,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-14-l%3Futm_medium%3Drss",
+    "id": "aftonbladet-16-l%3Futm_medium%3Drss",
     "title": "Phuket översvämmat efter skyfall",
     "link": "https://www.aftonbladet.se/nyheter/klimat/a/64amzz/phuket-oversvammat-efter-skyfall?utm_medium=rss",
     "pubDate": "2026-10-26T08:06:26.000Z",
@@ -976,7 +1013,7 @@
     "category": "Queensland"
   },
   {
-    "id": "aftonbladet-15-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-17-t%3Futm_medium%3Drss",
     "title": "Mansfeministernas drag: Tar in Metoo-expert",
     "link": "https://www.aftonbladet.se/nyheter/a/zlw8Kv/mansfeministernas-drag-tar-in-metoo-expert?utm_medium=rss",
     "pubDate": "2026-10-26T07:27:59.000Z",
@@ -988,7 +1025,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-16-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-18-n%3Futm_medium%3Drss",
     "title": "Glädjeyra efter historisk valseger i Brasilien",
     "link": "https://www.aftonbladet.se/nyheter/a/1oamLW/gladjeyra-efter-historisk-valseger-i-brasilien?utm_medium=rss",
     "pubDate": "2026-10-26T07:27:08.000Z",
@@ -1088,7 +1125,7 @@
     "category": "United States Internation"
   },
   {
-    "id": "aftonbladet-17-d%3Futm_medium%3Drss",
+    "id": "aftonbladet-19-d%3Futm_medium%3Drss",
     "title": "Ryssland: Dödligt drönarregn mot större stad",
     "link": "https://www.aftonbladet.se/nyheter/a/8Gae8W/ryssland-dodligt-dronarregn-mot-storre-stad?utm_medium=rss",
     "pubDate": "2026-10-26T07:06:07.000Z",
@@ -1100,7 +1137,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-18-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-20-n%3Futm_medium%3Drss",
     "title": "Uppsalahem inför maxinkomst: ”Bryta segregationen”",
     "link": "https://www.aftonbladet.se/nyheter/a/BMaoXl/uppsalahem-infor-maxinkomst-bryta-segregationen?utm_medium=rss",
     "pubDate": "2026-10-26T07:00:31.000Z",
@@ -1188,7 +1225,7 @@
     "category": "Brazil"
   },
   {
-    "id": "aftonbladet-19-5%3Futm_medium%3Drss",
+    "id": "aftonbladet-21-5%3Futm_medium%3Drss",
     "title": "Historiskt skifte i Serbien",
     "link": "https://tv.aftonbladet.se/video/409475?utm_medium=rss",
     "pubDate": "2026-10-26T06:41:39.000Z",
@@ -1385,7 +1422,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-38-uth-jobs-crisis-neet",
+    "id": "guardian-39-uth-jobs-crisis-neet",
     "title": "Higher training costs for older workers risks plan to tackle youth jobs crisis, employers say",
     "link": "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet",
     "pubDate": "2026-10-26T06:00:24.000Z",
@@ -1525,7 +1562,7 @@
     "category": "Machado, Maria Corina"
   },
   {
-    "id": "aftonbladet-20-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-22-r%3Futm_medium%3Drss",
     "title": "Så fick Hansakliniken landets nöjdaste patienter",
     "link": "https://www.aftonbladet.se/nyheter/a/n97MXa/vardcentralen-med-sveriges-nojdaste-patienter?utm_medium=rss",
     "pubDate": "2026-10-26T05:15:49.000Z",
@@ -1537,7 +1574,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-21-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-23-t%3Futm_medium%3Drss",
     "title": "Sök själv: Sveriges bästa och sämsta vårdcentraler",
     "link": "https://www.aftonbladet.se/nyheter/a/kvmjVa/vardcentraler-sok-sjalv-och-se-vilken-som-ar-bast?utm_medium=rss",
     "pubDate": "2026-10-26T05:15:31.000Z",
@@ -1549,7 +1586,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-22-v%3Futm_medium%3Drss",
+    "id": "aftonbladet-24-v%3Futm_medium%3Drss",
     "title": "Årets polishund har räddat liv",
     "link": "https://www.aftonbladet.se/nyheter/a/BMaoz9/arets-polishund-har-raddat-liv?utm_medium=rss",
     "pubDate": "2026-10-26T05:15:10.000Z",
@@ -1648,7 +1685,7 @@
     "category": "Brazil"
   },
   {
-    "id": "aftonbladet-23-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-25-t%3Futm_medium%3Drss",
     "title": "Fler barn än väntat kopplas till grova brott",
     "link": "https://www.aftonbladet.se/nyheter/a/zlov6K/fler-barn-an-vantat-kopplas-till-grova-brott?utm_medium=rss",
     "pubDate": "2026-10-26T04:31:52.000Z",
@@ -1660,7 +1697,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-24-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-26-a%3Futm_medium%3Drss",
     "title": "Ödesval i Israel – oväntad grupp kan avgöra",
     "link": "https://www.aftonbladet.se/nyheter/a/4OayRR/odesval-i-israel-ovantad-grupp-kan-avgora?utm_medium=rss",
     "pubDate": "2026-10-26T04:30:10.000Z",
@@ -1747,7 +1784,7 @@
     "category": "Soccer"
   },
   {
-    "id": "aftonbladet-25-k%3Futm_medium%3Drss",
+    "id": "aftonbladet-27-k%3Futm_medium%3Drss",
     "title": "Ytterligare 27 000 kalkoner ska avlivas i Danmark",
     "link": "https://www.aftonbladet.se/nyheter/a/2VaEmB/ytterligare-27000-kalkoner-ska-avlivas-i-danmark?utm_medium=rss",
     "pubDate": "2026-10-26T04:00:09.000Z",
@@ -1759,7 +1796,7 @@
     "country": "SE"
   },
   {
-    "id": "nyt-4-i-forever-purge.html",
+    "id": "nyt-3-i-forever-purge.html",
     "title": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
     "link": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
     "pubDate": "2026-10-26T04:00:07.000Z",
@@ -1811,7 +1848,7 @@
     "category": "News"
   },
   {
-    "id": "aftonbladet-26-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-28-a%3Futm_medium%3Drss",
     "title": "Jordanien: Tre gripna efter attack mot kyrka",
     "link": "https://www.aftonbladet.se/nyheter/a/kvo2pB/jordanien-tre-gripna-efter-attack-mot-kyrka?utm_medium=rss",
     "pubDate": "2026-10-26T03:36:06.000Z",
@@ -1862,7 +1899,7 @@
     "category": "Victorian politics"
   },
   {
-    "id": "aftonbladet-27-o%3Futm_medium%3Drss",
+    "id": "aftonbladet-29-o%3Futm_medium%3Drss",
     "title": "Före detta chefsåklagare inför rätta i Mexiko",
     "link": "https://www.aftonbladet.se/nyheter/a/vlo0kw/fore-detta-chefsaklagare-infor-ratta-i-mexiko?utm_medium=rss",
     "pubDate": "2026-10-26T02:37:30.000Z",
@@ -1913,7 +1950,7 @@
     "category": "Helen Haines"
   },
   {
-    "id": "aftonbladet-28-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-30-t%3Futm_medium%3Drss",
     "title": "Saudiska motanfall efter flygplatsattacker",
     "link": "https://www.aftonbladet.se/nyheter/a/rMakr8/saudiarabien-skjutit-ned-robot?utm_medium=rss",
     "pubDate": "2026-10-26T01:52:32.000Z",
@@ -1938,7 +1975,7 @@
     "category": "Kungligt"
   },
   {
-    "id": "aftonbladet-29-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-31-r%3Futm_medium%3Drss",
     "title": "Trump: Norge suger",
     "link": "https://www.aftonbladet.se/nyheter/a/JrdkQ4/trump-norge-suger?utm_medium=rss",
     "pubDate": "2026-10-26T01:16:30.000Z",
@@ -2154,7 +2191,7 @@
     "country": "INT"
   },
   {
-    "id": "aftonbladet-30-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-32-n%3Futm_medium%3Drss",
     "title": "Lula omvald i Brasilien – ”otrolig insats”",
     "link": "https://www.aftonbladet.se/nyheter/a/OgK4Gl/rostrakning-aterstartar-i-brasilien?utm_medium=rss",
     "pubDate": "2026-10-25T23:00:42.000Z",
@@ -2166,7 +2203,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-31-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-33-n%3Futm_medium%3Drss",
     "title": "Slår fast i natt – Lula vinner valet",
     "link": "https://www.aftonbladet.se/nyheter/a/4OaMyo/rysaren-i-natt-flavio-knappar-in?utm_medium=rss",
     "pubDate": "2026-10-25T22:55:41.000Z",
@@ -2229,7 +2266,7 @@
     "category": "UK weather"
   },
   {
-    "id": "aftonbladet-32-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-34-n%3Futm_medium%3Drss",
     "title": "Galna firandet efter supersegern i Serbien",
     "link": "https://www.aftonbladet.se/nyheter/a/MA0OQo/galna-firandet-efter-supersegern-i-serbien?utm_medium=rss",
     "pubDate": "2026-10-25T22:16:40.000Z",
@@ -2356,7 +2393,7 @@
     "category": "News"
   },
   {
-    "id": "aftonbladet-33-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-35-n%3Futm_medium%3Drss",
     "title": "Döttrarna om kritiserade gudstjänsten: Förringar ett nationellt trauma",
     "link": "https://www.aftonbladet.se/nyheter/a/L3z2dQ/dottrarna-om-kritiserade-gudstjansten-med-tony-olsson?utm_medium=rss",
     "pubDate": "2026-10-25T21:21:52.000Z",
@@ -2418,7 +2455,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-34-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-36-n%3Futm_medium%3Drss",
     "title": "Linnéa, 24, köpte julkalender – upptäckte bisarra missen",
     "link": "https://www.aftonbladet.se/nyheter/a/lK2xL3/linnea-24-kopte-julkalender-upptackte-bisarra-missen?utm_medium=rss",
     "pubDate": "2026-10-25T20:57:04.000Z",
@@ -2430,7 +2467,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-35-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-37-n%3Futm_medium%3Drss",
     "title": "”Jag hör mitt samtal till 112 i huvudet – hela tiden”",
     "link": "https://www.aftonbladet.se/nyheter/a/rMy2L0/saga-20-mordades-familjen-om-sorgen-och-saknaden?utm_medium=rss",
     "pubDate": "2026-10-25T20:51:57.000Z",
@@ -2557,7 +2594,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-36-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-38-t%3Futm_medium%3Drss",
     "title": "Israelisk offensiv på Västbanken – dagar före valet",
     "link": "https://www.aftonbladet.se/nyheter/a/X9mXn7/israelisk-offensiv-pa-vastbanken-dagar-fore-valet?utm_medium=rss",
     "pubDate": "2026-10-25T20:20:01.000Z",
@@ -12503,43 +12540,6 @@
     "title": "Brasiliens valdomstol ingriper mot techjättar – misstänks gynna Bolsonaro",
     "link": "https://www.dn.se/varlden/brasiliens-valdomstol-ingriper-mot-techjattar-misstanks-gynna-bolsonaro/",
     "pubDate": "2026-10-23T15:11:06.000Z",
-    "sourceId": "dn",
-    "sourceName": "Dagens Nyheter",
-    "sourceShort": "DN",
-    "badgeColor": "#0a3875",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "dn-113-d-publiken-gillar%2F",
-    "title": "Insändare. Svar: Inloggning behövs för att förstå vad publiken gillar",
-    "link": "https://www.dn.se/insandare/svar-inloggning-behovs-for-att-forsta-vad-publiken-gillar/",
-    "pubDate": "2026-10-23T15:10:49.000Z",
-    "sourceId": "dn",
-    "sourceName": "Dagens Nyheter",
-    "sourceShort": "DN",
-    "badgeColor": "#0a3875",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "nyt-22-laims-questions.html",
-    "title": "Share Your Experiences With Medicaid Claims for Repayment",
-    "link": "https://www.nytimes.com/2026/10/23/us/medicaid-repayment-claims-questions.html",
-    "pubDate": "2026-10-23T15:08:21.000Z",
-    "sourceId": "nyt",
-    "sourceName": "The New York Times",
-    "sourceShort": "NY TIMES",
-    "badgeColor": "#121212",
-    "textColor": "#ffffff",
-    "country": "INT",
-    "category": "internal-open-access"
-  },
-  {
-    "id": "dn-106-xtra-styrelsemote%2F",
-    "title": "Efter avhoppen och kritiken – Svenska kraftnät kallar till extra styrelsemöte",
-    "link": "https://www.dn.se/sverige/efter-avhoppen-och-kritiken-svenska-kraftnat-kallar-till-extra-styrelsemote/",
-    "pubDate": "2026-10-23T15:08:06.000Z",
     "sourceId": "dn",
     "sourceName": "Dagens Nyheter",
     "sourceShort": "DN",

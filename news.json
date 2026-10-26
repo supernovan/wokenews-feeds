@@ -1,6 +1,82 @@
 [
   {
-    "id": "guardian-15-ate-estimates-ntwnfb",
+    "id": "guardian-5-lavio-bolsonaro-lula",
+    "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+    "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+    "pubDate": "2026-10-26T02:59:14.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Brazil"
+  },
+  {
+    "id": "dw-0-en-all-1573-xml-mrss",
+    "title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+    "link": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
+    "pubDate": "2026-10-26T02:46:00.000Z",
+    "sourceId": "dw",
+    "sourceName": "Deutsche Welle",
+    "sourceShort": "DW",
+    "badgeColor": "#002f6c",
+    "textColor": "#ffffff",
+    "country": "DE",
+    "category": "News"
+  },
+  {
+    "id": "guardian-15-et-on-car-rat-ntwnfb",
+    "title": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
+    "pubDate": "2026-10-26T02:38:37.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Victorian politics"
+  },
+  {
+    "id": "aftonbladet-0-o%3Futm_medium%3Drss",
+    "title": "Före detta chefsåklagare inför rätta i Mexiko",
+    "link": "https://www.aftonbladet.se/nyheter/a/vlo0kw/fore-detta-chefsaklagare-infor-ratta-i-mexiko?utm_medium=rss",
+    "pubDate": "2026-10-26T02:37:30.000Z",
+    "sourceId": "aftonbladet",
+    "sourceName": "Aftonbladet",
+    "sourceShort": "AFTONBLADET",
+    "badgeColor": "#ffe500",
+    "textColor": "#121212",
+    "country": "SE"
+  },
+  {
+    "id": "nyt-0-ld%2Fbrazil-election",
+    "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
+    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+    "pubDate": "2026-10-26T02:35:37.000Z",
+    "sourceId": "nyt",
+    "sourceName": "The New York Times",
+    "sourceShort": "NY TIMES",
+    "badgeColor": "#121212",
+    "textColor": "#ffffff",
+    "country": "INT"
+  },
+  {
+    "id": "guardian-16-ner-australia-ntwnfb",
+    "title": "There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
+    "pubDate": "2026-10-26T02:34:11.000Z",
+    "sourceId": "guardian",
+    "sourceName": "The Guardian",
+    "sourceShort": "GUARDIAN",
+    "badgeColor": "#052962",
+    "textColor": "#ffe500",
+    "country": "INT",
+    "category": "Prisons"
+  },
+  {
+    "id": "guardian-17-ate-estimates-ntwnfb",
     "title": "Australia politics live: Haines’s first words after waking were of concern for staff and bystanders; parliament hears emotional tributes to MP",
     "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
     "pubDate": "2026-10-26T02:26:46.000Z",
@@ -13,42 +89,17 @@
     "category": "Australian politics"
   },
   {
-    "id": "nyt-0-ld%2Fbrazil-election",
-    "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
-    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
-    "pubDate": "2026-10-26T02:26:39.000Z",
+    "id": "nyt-3-el-sayed-rogers.html",
+    "title": "In Islamophobic Rant, Trump Seeks to Stir Republican Base in Michigan",
+    "link": "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html",
+    "pubDate": "2026-10-26T02:26:14.000Z",
     "sourceId": "nyt",
     "sourceName": "The New York Times",
     "sourceShort": "NY TIMES",
     "badgeColor": "#121212",
     "textColor": "#ffffff",
-    "country": "INT"
-  },
-  {
-    "id": "dw-0-en-all-1573-xml-mrss",
-    "title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
-    "link": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
-    "pubDate": "2026-10-26T02:22:00.000Z",
-    "sourceId": "dw",
-    "sourceName": "Deutsche Welle",
-    "sourceShort": "DW",
-    "badgeColor": "#002f6c",
-    "textColor": "#ffffff",
-    "country": "DE",
-    "category": "News"
-  },
-  {
-    "id": "guardian-5-lavio-bolsonaro-lula",
-    "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
-    "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-    "pubDate": "2026-10-26T02:21:03.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
     "country": "INT",
-    "category": "Brazil"
+    "category": "United States Politics an"
   },
   {
     "id": "nyt-21-n%2Fheres-the-latest",
@@ -63,7 +114,7 @@
     "country": "INT"
   },
   {
-    "id": "guardian-16-iament-pauses-ntwnfb",
+    "id": "guardian-18-iament-pauses-ntwnfb",
     "title": "Helen Haines’s first words after alleged attack were about safety of staff and gratitude to bystanders, MP reveals",
     "link": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
     "pubDate": "2026-10-26T02:05:23.000Z",
@@ -89,7 +140,7 @@
     "category": "Vucic, Aleksandar"
   },
   {
-    "id": "aftonbladet-0-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-1-t%3Futm_medium%3Drss",
     "title": "Saudiarabien: Skjutit ned robot",
     "link": "https://www.aftonbladet.se/nyheter/a/rMakr8/saudiarabien-skjutit-ned-robot?utm_medium=rss",
     "pubDate": "2026-10-26T01:52:32.000Z",
@@ -114,7 +165,7 @@
     "category": "Kungligt"
   },
   {
-    "id": "aftonbladet-1-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-2-r%3Futm_medium%3Drss",
     "title": "Trump: Norge suger",
     "link": "https://www.aftonbladet.se/nyheter/a/JrdkQ4/trump-norge-suger?utm_medium=rss",
     "pubDate": "2026-10-26T01:16:30.000Z",
@@ -151,7 +202,7 @@
     "country": "SE"
   },
   {
-    "id": "guardian-17-aged-care-assessment",
+    "id": "guardian-19-aged-care-assessment",
     "title": "Unreasonable and unfair: damning investigation criticises Labor’s algorithm-based tool for aged care",
     "link": "https://www.theguardian.com/australia-news/2026/oct/26/damning-investigation-labor-algorithm-tool-aged-care-assessment",
     "pubDate": "2026-10-26T01:00:58.000Z",
@@ -279,19 +330,6 @@
     "category": "Brazil"
   },
   {
-    "id": "guardian-18-et-on-car-rat-ntwnfb",
-    "title": "Bullet left on Victorian Labor minister’s car with ‘RAT’ etched on to it",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
-    "pubDate": "2026-10-26T00:11:11.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Victorian politics"
-  },
-  {
     "id": "expressen-2-bad-trump-om-stod%2F",
     "title": "Uppgifter: Netanyahu bad Trump om stöd",
     "link": "https://www.expressen.se/nyheter/varlden/uppgifter-netanyahu-bad-trump-om-stod/",
@@ -369,7 +407,7 @@
     "category": "Serbia"
   },
   {
-    "id": "nyt-3-allies-midterms.html",
+    "id": "nyt-4-allies-midterms.html",
     "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
     "link": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
     "pubDate": "2026-10-25T23:35:31.000Z",
@@ -394,7 +432,7 @@
     "country": "INT"
   },
   {
-    "id": "aftonbladet-2-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-3-n%3Futm_medium%3Drss",
     "title": "Lula omvald i Brasiliens presidentval",
     "link": "https://www.aftonbladet.se/nyheter/a/OgK4Gl/rostrakning-aterstartar-i-brasilien?utm_medium=rss",
     "pubDate": "2026-10-25T23:00:42.000Z",
@@ -406,7 +444,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-3-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-4-n%3Futm_medium%3Drss",
     "title": "Slår fast i natt – Lula vinner valet",
     "link": "https://www.aftonbladet.se/nyheter/a/4OaMyo/rysaren-i-natt-flavio-knappar-in?utm_medium=rss",
     "pubDate": "2026-10-25T22:55:41.000Z",
@@ -418,7 +456,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-4-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-5-n%3Futm_medium%3Drss",
     "title": "Trumps lista – här avslöjas strategin",
     "link": "https://www.aftonbladet.se/nyheter/a/0Ba52E/trumps-lista-har-avslojas-strategin?utm_medium=rss",
     "pubDate": "2026-10-25T22:55:00.000Z",
@@ -481,7 +519,7 @@
     "category": "UK weather"
   },
   {
-    "id": "aftonbladet-5-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-6-n%3Futm_medium%3Drss",
     "title": "Galna firandet efter supersegern i Serbien",
     "link": "https://www.aftonbladet.se/nyheter/a/MA0OQo/galna-firandet-efter-supersegern-i-serbien?utm_medium=rss",
     "pubDate": "2026-10-25T22:16:40.000Z",
@@ -608,7 +646,7 @@
     "category": "News"
   },
   {
-    "id": "aftonbladet-6-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-7-n%3Futm_medium%3Drss",
     "title": "Döttrarna om kritiserade gudstjänsten: Förringar ett nationellt trauma",
     "link": "https://www.aftonbladet.se/nyheter/a/L3z2dQ/dottrarna-om-kritiserade-gudstjansten-med-tony-olsson?utm_medium=rss",
     "pubDate": "2026-10-25T21:21:52.000Z",
@@ -670,7 +708,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-7-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-8-n%3Futm_medium%3Drss",
     "title": "Linnéa, 24, köpte julkalender – upptäckte bisarra missen",
     "link": "https://www.aftonbladet.se/nyheter/a/lK2xL3/linnea-24-kopte-julkalender-upptackte-bisarra-missen?utm_medium=rss",
     "pubDate": "2026-10-25T20:57:04.000Z",
@@ -682,7 +720,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-8-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-9-n%3Futm_medium%3Drss",
     "title": "”Jag hör mitt samtal till 112 i huvudet – hela tiden”",
     "link": "https://www.aftonbladet.se/nyheter/a/rMy2L0/saga-20-mordades-familjen-om-sorgen-och-saknaden?utm_medium=rss",
     "pubDate": "2026-10-25T20:51:57.000Z",
@@ -822,7 +860,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-9-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-10-t%3Futm_medium%3Drss",
     "title": "Israelisk offensiv på Västbanken – dagar före valet",
     "link": "https://www.aftonbladet.se/nyheter/a/X9mXn7/israelisk-offensiv-pa-vastbanken-dagar-fore-valet?utm_medium=rss",
     "pubDate": "2026-10-25T20:20:01.000Z",
@@ -924,7 +962,7 @@
     "category": "Seattle Seahawks"
   },
   {
-    "id": "aftonbladet-10-9%3Futm_medium%3Drss",
+    "id": "aftonbladet-11-9%3Futm_medium%3Drss",
     "title": "Stormvindar stoppade inte Klas, 79",
     "link": "https://tv.aftonbladet.se/video/409449/stormvindar-stoppade-inte-klas-79?utm_medium=rss",
     "pubDate": "2026-10-25T19:43:34.000Z",
@@ -1000,7 +1038,7 @@
     "category": "Budget 2026"
   },
   {
-    "id": "aftonbladet-11-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-12-n%3Futm_medium%3Drss",
     "title": "Chockas av nya uppgifterna: Så överlevde hon",
     "link": "https://www.aftonbladet.se/nyheter/a/qyllPO/chockas-av-nya-uppgifterna-sa-overlevde-hon?utm_medium=rss",
     "pubDate": "2026-10-25T19:27:58.000Z",
@@ -1063,7 +1101,7 @@
     "category": "Missouri"
   },
   {
-    "id": "aftonbladet-12-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-13-a%3Futm_medium%3Drss",
     "title": "En död och flera skadade i oväder i Europa",
     "link": "https://www.aftonbladet.se/nyheter/a/L3z2G1/en-dod-och-flera-skadade-i-ovader-i-europa?utm_medium=rss",
     "pubDate": "2026-10-25T19:09:20.000Z",
@@ -1087,7 +1125,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-13-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-14-n%3Futm_medium%3Drss",
     "title": "Jordskredsseger i Serbien: Presidenten erkänner sig besegrad",
     "link": "https://www.aftonbladet.se/nyheter/a/rMaoOR/odesval-i-serbien-studentparti-vill-avsatta-presidenten?utm_medium=rss",
     "pubDate": "2026-10-25T19:08:24.000Z",
@@ -1163,7 +1201,7 @@
     "category": "Debatt"
   },
   {
-    "id": "aftonbladet-14-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-15-a%3Futm_medium%3Drss",
     "title": "Demokraten Mary Peltola skadad i bilolycka",
     "link": "https://www.aftonbladet.se/nyheter/a/lKo6k3/demokraten-mary-peltola-skadad-i-bilolycka?utm_medium=rss",
     "pubDate": "2026-10-25T18:59:03.000Z",
@@ -1188,7 +1226,7 @@
     "category": "Sverige"
   },
   {
-    "id": "aftonbladet-15-o%3Futm_medium%3Drss",
+    "id": "aftonbladet-16-o%3Futm_medium%3Drss",
     "title": "Valrysaren i Brasilien: Stänger vallokalerna",
     "link": "https://www.aftonbladet.se/nyheter/a/lKoqpM/rysarval-i-brasilien-50-50-mellan-lula-och-bolsonaro?utm_medium=rss",
     "pubDate": "2026-10-25T18:50:10.000Z",
@@ -1398,7 +1436,7 @@
     "category": "Movies"
   },
   {
-    "id": "aftonbladet-16-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-17-n%3Futm_medium%3Drss",
     "title": "Ministern höll hemliga möten med skogsindustrin",
     "link": "https://www.aftonbladet.se/nyheter/klimat/a/kvv3Kk/peter-kullgren-holl-moten-med-skogsindustrin?utm_medium=rss",
     "pubDate": "2026-10-25T17:09:23.000Z",
@@ -1460,7 +1498,7 @@
     "category": "Sverige"
   },
   {
-    "id": "aftonbladet-17-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-18-a%3Futm_medium%3Drss",
     "title": "Beväpnade män dödade ett 50-tal i Nigeria",
     "link": "https://www.aftonbladet.se/nyheter/a/R5Mk4x/bevapnade-man-dodade-ett-50-tal-i-nigeria?utm_medium=rss",
     "pubDate": "2026-10-25T16:58:16.000Z",
@@ -1634,7 +1672,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-18-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-19-a%3Futm_medium%3Drss",
     "title": "Oppositionsledaren har återvänt till Venezuela",
     "link": "https://www.aftonbladet.se/nyheter/a/kvolMA/machado-har-atervant-till-venezuela?utm_medium=rss",
     "pubDate": "2026-10-25T16:02:36.000Z",
@@ -1695,7 +1733,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-19-e%3Futm_medium%3Drss",
+    "id": "aftonbladet-20-e%3Futm_medium%3Drss",
     "title": "Fyra tonåringar misstänks för dödsskjutning: ”Många unga utförare”",
     "link": "https://www.aftonbladet.se/nyheter/a/jv51AA/fyra-tonaringar-misstanks-for-dodsskjutningen-i-alvsjo-inte-extremt-langre?utm_medium=rss",
     "pubDate": "2026-10-25T15:43:38.000Z",
@@ -1973,7 +2011,7 @@
     "category": "California"
   },
   {
-    "id": "aftonbladet-20-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-21-n%3Futm_medium%3Drss",
     "title": "Klockkaos när kyrkan bytte till vintertid",
     "link": "https://tv.aftonbladet.se/video/409448/storkyrkans-ur-byter-till-vintertid-strul-med-klockringningen?utm_medium=rss",
     "pubDate": "2026-10-25T13:59:25.000Z",
@@ -1997,7 +2035,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-21-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-22-a%3Futm_medium%3Drss",
     "title": "Tre döda i israelisk attack mot universitet i Gaza",
     "link": "https://www.aftonbladet.se/nyheter/a/rMaaAa/tre-doda-i-israelisk-attack-mot-universitet-i-gaza?utm_medium=rss",
     "pubDate": "2026-10-25T13:58:47.000Z",
@@ -2306,7 +2344,7 @@
     "category": "Politik"
   },
   {
-    "id": "aftonbladet-22-o%3Futm_medium%3Drss",
+    "id": "aftonbladet-23-o%3Futm_medium%3Drss",
     "title": "Vallokalernas öppettider i Brasilien förlängs",
     "link": "https://www.aftonbladet.se/nyheter/a/gd2eBA/vallokaler-oppna-i-brasilien-lula-mot-bolsonaro?utm_medium=rss",
     "pubDate": "2026-10-25T12:37:24.000Z",
@@ -2318,7 +2356,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-23-0%3Futm_medium%3Drss",
+    "id": "aftonbladet-24-0%3Futm_medium%3Drss",
     "title": "Fräcka metoden fick Birgitta, 85, att köpa hudvård för 35 000",
     "link": "https://www.aftonbladet.se/nyheter/a/Ogq9EV/overtalades-att-kopa-hudvard-for-35-000?utm_medium=rss",
     "pubDate": "2026-10-25T12:28:36.000Z",
@@ -2330,7 +2368,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-24-v%3Futm_medium%3Drss",
+    "id": "aftonbladet-25-v%3Futm_medium%3Drss",
     "title": "Netanyahu delar AI-bild: Atombomb över Tel Aviv",
     "link": "https://www.aftonbladet.se/nyheter/a/Jrdyjb/netanyahu-delar-ai-bild-atombomb-over-tel-aviv?utm_medium=rss",
     "pubDate": "2026-10-25T12:27:03.000Z",
@@ -2392,7 +2430,7 @@
     "category": "News"
   },
   {
-    "id": "aftonbladet-25-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-26-a%3Futm_medium%3Drss",
     "title": "Ny dinosaurieart upptäckt – efter 100 år i låda",
     "link": "https://www.aftonbladet.se/nyheter/a/8GaKE1/ny-dinosaurieart-upptackt-efter-100-ar-i-lada?utm_medium=rss",
     "pubDate": "2026-10-25T12:00:11.000Z",
@@ -2521,7 +2559,7 @@
     "category": "NBA"
   },
   {
-    "id": "aftonbladet-26-r%3Futm_medium%3Drss",
+    "id": "aftonbladet-27-r%3Futm_medium%3Drss",
     "title": "Regeringspartiet erkänner nederlag i Serbien",
     "link": "https://www.aftonbladet.se/nyheter/a/lKokky/odesval-i-serbien-efter-tva-ars-protester?utm_medium=rss",
     "pubDate": "2026-10-25T11:47:52.000Z",
@@ -2559,7 +2597,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "aftonbladet-27-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-28-a%3Futm_medium%3Drss",
     "title": "En man anhållen efter stor polisinsats i Uppsala",
     "link": "https://www.aftonbladet.se/nyheter/a/L3zBQJ/misstankt-grovt-brott-i-uppsala-sex-gripna?utm_medium=rss",
     "pubDate": "2026-10-25T11:26:31.000Z",
@@ -2632,7 +2670,7 @@
     "category": "News"
   },
   {
-    "id": "aftonbladet-28-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-29-a%3Futm_medium%3Drss",
     "title": "Uppgifter: Misstänkt könsstympning – åtta gripna",
     "link": "https://www.aftonbladet.se/nyheter/a/Aba5oq/misstankt-grovt-brott-sex-personer-gripna?utm_medium=rss",
     "pubDate": "2026-10-25T11:14:50.000Z",
@@ -2657,7 +2695,7 @@
     "category": "Personal Finances"
   },
   {
-    "id": "aftonbladet-29-g%3Futm_medium%3Drss",
+    "id": "aftonbladet-30-g%3Futm_medium%3Drss",
     "title": "Emelies sambo tog sitt liv: ”Mitt liv kraschade”",
     "link": "https://tv.aftonbladet.se/video/408991/emelies-sambo-tog-livet-av-sig?utm_medium=rss",
     "pubDate": "2026-10-25T11:09:39.000Z",
@@ -2681,7 +2719,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-30-e%3Futm_medium%3Drss",
+    "id": "aftonbladet-31-e%3Futm_medium%3Drss",
     "title": "Trump upprepar: Vill ha svenska invandrare",
     "link": "https://www.aftonbladet.se/nyheter/a/w3okwP/trump-upprepar-vill-ha-svenska-invandrare?utm_medium=rss",
     "pubDate": "2026-10-25T11:00:26.000Z",
@@ -2796,7 +2834,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "aftonbladet-31-e%3Futm_medium%3Drss",
+    "id": "aftonbladet-32-e%3Futm_medium%3Drss",
     "title": "Över 1 300 gripna i Frankrike – poliser skadade",
     "link": "https://www.aftonbladet.se/nyheter/a/yloJba/over-1300-gripna-i-frankrike-poliser-skadade?utm_medium=rss",
     "pubDate": "2026-10-25T10:53:32.000Z",
@@ -2884,7 +2922,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "aftonbladet-32-o%3Futm_medium%3Drss",
+    "id": "aftonbladet-33-o%3Futm_medium%3Drss",
     "title": "Tonårsflicka häktas efter mordet i Älvsjö",
     "link": "https://www.aftonbladet.se/nyheter/a/rMaXQe/tonarsflicka-begars-haktad-efter-mordet-i-alvsjo?utm_medium=rss",
     "pubDate": "2026-10-25T10:31:29.000Z",
@@ -2909,7 +2947,7 @@
     "category": "Världen"
   },
   {
-    "id": "aftonbladet-33-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-34-a%3Futm_medium%3Drss",
     "title": "Tofan söker träd att lyfta i stormen: ”Vill hjälpa”",
     "link": "https://www.aftonbladet.se/nyheter/a/0BagK6/tofan-soker-trad-att-lyfta-i-stormen-vill-hjalpa?utm_medium=rss",
     "pubDate": "2026-10-25T10:22:42.000Z",
@@ -2970,7 +3008,7 @@
     "country": "INT"
   },
   {
-    "id": "aftonbladet-34-m%3Futm_medium%3Drss",
+    "id": "aftonbladet-35-m%3Futm_medium%3Drss",
     "title": "Kasey bor granne med 230 datacenter: ”En mardröm”",
     "link": "https://www.aftonbladet.se/nyheter/a/vllOxB/kasey-34-bor-granne-med-230-datacenter-en-mardrom?utm_medium=rss",
     "pubDate": "2026-10-25T09:53:45.000Z",
@@ -3007,7 +3045,7 @@
     "category": "Sport"
   },
   {
-    "id": "aftonbladet-35-a%3Futm_medium%3Drss",
+    "id": "aftonbladet-36-a%3Futm_medium%3Drss",
     "title": "Minst 24 döda i busskrasch i Kenya",
     "link": "https://www.aftonbladet.se/nyheter/a/QgvExP/over-20-doda-i-busskrasch-i-kenya?utm_medium=rss",
     "pubDate": "2026-10-25T09:33:37.000Z",
@@ -3019,7 +3057,7 @@
     "country": "SE"
   },
   {
-    "id": "aftonbladet-36-t%3Futm_medium%3Drss",
+    "id": "aftonbladet-37-t%3Futm_medium%3Drss",
     "title": "Jotova ser ut att ta första omgången i Bulgarien",
     "link": "https://www.aftonbladet.se/nyheter/a/zlokgO/kriget-skuggar-nar-bulgarien-valjer-president?utm_medium=rss",
     "pubDate": "2026-10-25T09:32:29.000Z",
@@ -3300,7 +3338,7 @@
     "category": "Nyheter"
   },
   {
-    "id": "aftonbladet-37-n%3Futm_medium%3Drss",
+    "id": "aftonbladet-38-n%3Futm_medium%3Drss",
     "title": "Försökte mörda sin pappa – nya uppgifter i utredningen",
     "link": "https://www.aftonbladet.se/nyheter/a/PgzRgz/domda-for-att-ha-forsokt-morda-sin-pappa-nya-uppgifter-i-utredningen?utm_medium=rss",
     "pubDate": "2026-10-25T08:43:56.000Z",
@@ -12507,43 +12545,5 @@
     "badgeColor": "#ffe500",
     "textColor": "#121212",
     "country": "SE"
-  },
-  {
-    "id": "expressen-18-pgorelse-i-saffle%2F",
-    "title": "Morddom efter dödlig uppgörelse i Säffle",
-    "link": "https://www.expressen.se/nyheter/krim/morddom-efter-dodlig-uppgorelse-i-saffle/",
-    "pubDate": "2026-10-23T11:03:38.000Z",
-    "sourceId": "expressen",
-    "sourceName": "Expressen",
-    "sourceShort": "EXPRESSEN",
-    "badgeColor": "#e30613",
-    "textColor": "#ffffff",
-    "country": "SE",
-    "category": "Krim"
-  },
-  {
-    "id": "dn-109--fram-kristersson%2F",
-    "title": "Ebba Busch: S bör överväga att släppa fram Kristersson",
-    "link": "https://www.dn.se/sverige/ebba-busch-s-bor-overvaga-att-slappa-fram-kristersson/",
-    "pubDate": "2026-10-23T11:02:03.000Z",
-    "sourceId": "dn",
-    "sourceName": "Dagens Nyheter",
-    "sourceShort": "DN",
-    "badgeColor": "#0a3875",
-    "textColor": "#ffffff",
-    "country": "SE"
-  },
-  {
-    "id": "guardian-8--rallies-male-bodies",
-    "title": "What’s up with Trump’s unhinged fixation on male candidates’ bodies?",
-    "link": "https://www.theguardian.com/us-news/2026/oct/23/trump-midterm-rallies-male-bodies",
-    "pubDate": "2026-10-23T11:00:32.000Z",
-    "sourceId": "guardian",
-    "sourceName": "The Guardian",
-    "sourceShort": "GUARDIAN",
-    "badgeColor": "#052962",
-    "textColor": "#ffe500",
-    "country": "INT",
-    "category": "Donald Trump"
   }
 ]
